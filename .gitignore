@@ -243,3 +243,4 @@ ipython_config.py
 # End of https://mrkandreev.name/snippets/gitignore-generator/#Linux,Python,PyCharm+all,JupyterNotebooks,uv
 .idea
 datasets
+data/generations_deanonymized
