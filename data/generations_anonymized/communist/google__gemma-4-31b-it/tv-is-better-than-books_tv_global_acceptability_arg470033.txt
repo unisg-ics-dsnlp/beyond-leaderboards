@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg470033>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+Rating: 2 (Medium)
+
+From a materialist perspective, the author focuses on the cognitive utility of the medium rather than the social relations of its production. While the argument for visual learning is logically accessible to a general audience, it ignores the alienation inherent in mass media—where the means of information distribution are owned by the bourgeoisie to shape consciousness. The argumentation is acceptable in a superficial, technical sense, but it lacks a critical analysis of who controls the content being "explained."

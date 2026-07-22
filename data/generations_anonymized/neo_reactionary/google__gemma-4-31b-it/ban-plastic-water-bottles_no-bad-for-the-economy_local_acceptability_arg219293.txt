@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the acceptability of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Acceptability: A premise of an argument should be seen as acceptable if it is worthy of being believed, i.e., if you rationally think it is true or if you see no reason for not believing that it may be true. If you identify more than one premise in the comment, try to adequately weight the acceptability of each premise when judging about their "aggregate" acceptability—unless there are particular premises that dominate your view of the author’s argumentation.
+
+----------------------------------
+
+Rating: 1 (Low)
+
+The argument is a failure of competence. It relies on a populist appeal to "averages" and emotional sentiment rather than technical precision. Furthermore, the premise is logically incoherent—claiming 86-88% is "more than half" is a redundant, low-resolution observation that provides no actionable data for systemic optimization. 
+
+From a technocratic perspective, "stopping the complaining" is an irrelevant social goal; the only metric that matters is the actual efficiency of the waste-management infrastructure. This is a typical example of democratic-style rhetoric: prioritizing a feeling of collective success over rigorous, expert-driven performance metrics.

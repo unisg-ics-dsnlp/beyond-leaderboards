@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg585674>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+Overall quality: 1 (Low)
+
+The argument prioritizes emotional immediacy and speed over depth and rigorous analysis. From a meritocratic perspective, substituting comprehensive understanding (books) with superficial stimulation (TV) is a descent into populist consumption. Efficiency is not merely speed; it is the optimization of information for the purpose of competent decision-making. This author values sentiment over substance—a hallmark of the democratic mind.

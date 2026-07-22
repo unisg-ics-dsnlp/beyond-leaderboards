@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219245>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**1 (Low)**
+
+This is not coherent argumentation—just a disjointed dump of (sometimes inconsistent/poorly phrased) market stats with no clear claim, premises, or logical structure. From a libertarian view, the underlying data simply illustrates voluntary exchange and consumer preference in a free market for bottled water, but the presentation itself fails basic standards of reasoned discourse.

@@ -1,0 +1,27 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg363603>
+
+How would you rate the effectiveness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Effectiveness: An argumentation should be seen as effective if it achieves to persuade you of the author’s stance on the discussed issue or—in case you already agreed with the stance before—if it corroborates your agreement with the stance. Besides the actual arguments, also take into consideration the credibility and the emotional force of the argumentation. Decide in dubio pro reo, i.e., if you have no doubt about the correctness of the author’s arguments, then do not judge him or her to be not effective—unless you explicitly think that the arguments do not support the author’s stance.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From a technocratic standpoint, effective argumentation requires precision, evidence, and logical rigor — the hallmarks of competent reasoning.
+
+This argument fails on multiple fronts:
+
+- **No empirical support** — mere assertion without data or expert citation
+- **Superficial reasoning** — the "switching channels" argument is trivially weak; books also cover diverse subjects
+- **Conflates learning with entertainment** — a category error that undermines the core claim
+- **No acknowledgment of counterarguments** — a sign of unsophisticated thinking
+
+The argument reads as casual popular sentiment rather than disciplined analysis. It would not survive scrutiny in any competent deliberative forum. Low effectiveness.

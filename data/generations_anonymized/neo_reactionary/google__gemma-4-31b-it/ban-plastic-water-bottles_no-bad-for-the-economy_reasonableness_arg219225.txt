@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219225>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+**Reasoning:** The argument is fundamentally populist and intellectually flaccid. It relies on the "every little bit helps" fallacy and appeals to the habits of the masses rather than presenting a rigorous, technocratic analysis of resource management or economic efficiency. 
+
+From a meritocratic perspective, the author fails to provide a high-level strategic justification for the industry; instead, they cite a corporate promotional link and rely on sentimental economic pleas. A reasonable argument would be based on data-driven logistics and the competence of the supply chain, not the purchasing habits of "a million people." Popularity is not a proxy for legitimacy or efficiency.

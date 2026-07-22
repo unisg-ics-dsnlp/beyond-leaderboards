@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399270>
+
+How would you rate the clarity of the style of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Clarity: The style of an argumentation should be seen as clear if it uses gramatically correct and widely unambiguous language as well as if it avoids unnecessary complexity and deviation from the discussed issue. The used language should make it easy for you to understand without doubts what the author argues for and how.
+
+----------------------------------
+
+Rating: 2 (Medium)
+
+The language is simple and unambiguous, but the argumentation is fragmented and lacks a cohesive logical structure. It presents a series of disjointed justifications for the existence of television—ranging from employment to information dissemination—without a central thesis. While the meaning is clear, the lack of rigorous development reflects a superficial understanding of the material conditions and the role of mass media as a tool for bourgeois hegemony.

@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the global sufficiency of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Sufficiency: An argumentation should be seen as globally sufficient if it adequately rebuts those counter-arguments to its conclusion that can be anticipated. Notice that it is not generally clear which and how many counter-arguments can be anticipated. There may be cases where it is infeasible to rebut all such objections. Please judge about global sufficiency according to whether all main objections of an argumentation that you see are rebutted.
+
+----------------------------------
+
+**Global Sufficiency: 1 (Low)**
+
+This bourgeois apologetics fails to rebut the main objections: individual recycling rates (even if inflated or cherry-picked for bottles) do nothing to abolish private ownership of the means of production, which drives endless surplus-value extraction, planned obsolescence, and waste for profit. It ignores class struggle—workers produce the bottles under alienation while capital externalizes ecological costs—and offers no answer to the need for collective ownership and planned production "from each according to ability." Mere percentages cannot substitute for systemic reorganization; the argument leaves the core counters untouched.

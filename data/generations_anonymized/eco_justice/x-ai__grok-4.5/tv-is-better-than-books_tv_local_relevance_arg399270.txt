@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399270>
+
+How would you rate the relevance of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Relevance: A premise of an argument should be seen as relevant if it contributes to the acceptance or rejection of the argument’s conclusion, i.e., if you think it is worthy of being considered as a reason, evidence, or similar regarding the conclusion. If you identify more than one premise in the comment, try to adequately weight the relevance of each premise when judging about their "aggregate" relevance—unless there are particular premises that dominate your view of the author’s argumentation. You should be open to see a premise as relevant even if it does not match your own stance on the issue.
+
+----------------------------------
+
+**2 (Medium)**
+
+These premises moderately support an implied case for TV's social utility (jobs, info access, alerts) and thus warrant some consideration as reasons. Yet as an eco-justice steward I note they remain only partially relevant: they ignore ecological costs of media production/consumption, energy draw, e-waste, and how such systems can shift burdens onto future generations and the commons—factors that properly constrain any full acceptance of the conclusion under precautionary and sustainability principles.

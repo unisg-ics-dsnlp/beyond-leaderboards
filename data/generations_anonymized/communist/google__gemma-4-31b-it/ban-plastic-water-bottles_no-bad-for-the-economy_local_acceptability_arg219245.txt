@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219245>
+
+How would you rate the acceptability of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Acceptability: A premise of an argument should be seen as acceptable if it is worthy of being believed, i.e., if you rationally think it is true or if you see no reason for not believing that it may be true. If you identify more than one premise in the comment, try to adequately weight the acceptability of each premise when judging about their "aggregate" acceptability—unless there are particular premises that dominate your view of the author’s argumentation.
+
+----------------------------------
+
+Rating: 3 (High)
+
+The premises are likely factually accurate in a descriptive sense, but they serve only to quantify the scale of a crime. These figures do not represent "growth" or "success," but rather the obscene scale of exploitation. The bourgeoisie has successfully commodified a basic human necessity, extracting massive surplus value from the proletariat by selling them back their own stolen resources. The numbers are acceptable as evidence of capitalist greed and the alienation of humanity from nature.

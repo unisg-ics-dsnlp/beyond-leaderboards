@@ -1,0 +1,30 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From a communist perspective, this argument is deeply flawed on multiple levels:
+
+1. **Defends bourgeois interests**: The argument explicitly prioritizes corporate profits of Dasani and Nestlé — classic examples of capitalist exploitation of a basic human need (water) — over worker welfare or public good.
+
+2. **Logical contradiction**: The author claims banning bottled water would "hurt big corporations" while simultaneously using that as a reason *against* the ban — essentially arguing we must protect capitalist profit at all costs.
+
+3. **Weak economic reasoning**: Job losses in one sector would likely be offset by alternatives; this is a shallow analysis that ignores structural economic realities.
+
+4. **Ideologically transparent**: The argument serves bourgeois class interests while dressing them up as concern for workers — a classic example of false consciousness.
+
+5. **Poor sourcing**: Citing Nestlé's own corporate website is like asking the fox to guard the henhouse — a fundamentally compromised source.
+
+The argument lacks logical coherence, relies on a biased source, and ultimately defends the commodification of water — a common resource that should belong to the collective, not private capital.

@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219268>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**1 (Low)**
+
+This argument is shallow, error-ridden, and ignores ecological integrity, planetary boundaries, and intergenerational justice. Lightweight convenience for distribution does not outweigh plastic’s irreversible pollution, biodiversity harm, and burden-shifting to future generations—violating stewardship and the precautionary principle. No evidence, no balance of true costs: pure low-quality advocacy for unsustainable exploitation of the commons.

@@ -1,0 +1,31 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219225>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+Here's my reasoning:
+
+**What works:**
+- The economic argument (jobs, consumer choice, recession recovery) resonates — protecting domestic industries and ordinary Americans' livelihoods is legitimate and relevant to the debate.
+- Citing a specific statistic (recycling rates) shows an attempt at evidence-based reasoning, which is acceptable to a broad audience.
+- The argument is broadly accessible and not elitist — it speaks to everyday people's habits and economic realities.
+
+**What weakens it:**
+- The writing is sloppy and contains clear errors (typos, formatting issues, broken percentage symbol), which undermines credibility.
+- The economic impact claim ("more than a million purchases daily") is asserted without strong sourcing or quantification of actual GDP contribution — it's vague.
+- The recycling statistic source (Nestlé's own corporate website) is self-interested and weakens the argument's acceptability to skeptical audiences.
+- The argument doesn't fully engage with the strongest counterarguments (environmental harm, alternatives like tap water infrastructure).
+
+**Bottom line:** The argument raises *relevant* points that ordinary citizens would recognize — economic freedom, consumer choice, recycling — but the execution is insufficiently rigorous and the sourcing is questionable. It contributes *partially* to resolving the issue, earning a **medium** score.

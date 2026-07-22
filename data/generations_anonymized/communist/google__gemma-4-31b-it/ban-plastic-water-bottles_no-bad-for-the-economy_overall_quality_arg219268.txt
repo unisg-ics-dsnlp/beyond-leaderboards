@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219268>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+Overall quality: 1 (Low)
+
+The argument is intellectually bankrupt. It focuses solely on the "efficiency" of distribution—a metric of the bourgeoisie to maximize profit and circulation—while ignoring the material cost of plastic production. It overlooks the alienation of the worker in the chemical industry and the ecological devastation inflicted upon the global proletariat by capitalist overproduction. It is a superficial observation, not an argument.

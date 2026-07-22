@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219259>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The argument makes reasonable practical points about logistics and contamination risk that align with the principle of **preferential protection of the vulnerable** — ensuring safe water reaches those in need is a genuine common good concern.
+
+However, the opening claim that bottled water is *less likely* found in developing countries is questionable and somewhat undermines the argument's foundation. The subsequent points about distribution ease and contamination risk are sensible and broadly acceptable, but the argument lacks sufficient depth to fully resolve the issue. It touches on relevant considerations without robustly establishing its case.

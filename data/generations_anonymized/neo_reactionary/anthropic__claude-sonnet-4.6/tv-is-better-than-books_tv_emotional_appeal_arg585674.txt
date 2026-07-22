@@ -1,0 +1,22 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg585674>
+
+How would you rate the success of the author’s argumentation in making an emotional appeal?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Emotional Appeal: An argumentation should be seen as successful in making an emotional appeal if it conveys arguments and other information in a way that creates emotions, which make the target audience more open to the author’s arguments. It should be seen as not successful if rather the opposite holds. Notice that you should not judge about the persuasive effect of the author’s argumentation, but you should decide whether the argumentation makes the target audience willing/unwilling to be persuaded by the author (or to agree/disagree with the author) in principle—or neither.
+
+----------------------------------
+
+**Rating: 3 (High)**
+
+The argument deploys emotional appeal effectively. By invoking real disasters — Japan, Alabama, Missouri — and specifically mentioning **survivor interviews**, it anchors the abstract comparison (TV vs. books) in visceral human suffering. The reader is prompted to *imagine* witnessing devastation firsthand, which creates an immediate emotional pull toward the author's position.
+
+The phrase "much more powerful and immediate" reinforces this emotional framing rather than relying solely on logic. The argument successfully primes the audience to *feel* the superiority of television before any analytical case is even made.
+
+From my perspective, this mirrors how effective elite communicators operate — they understand that even technically superior arguments require emotional scaffolding to move audiences. The author demonstrates competence in persuasive craft.

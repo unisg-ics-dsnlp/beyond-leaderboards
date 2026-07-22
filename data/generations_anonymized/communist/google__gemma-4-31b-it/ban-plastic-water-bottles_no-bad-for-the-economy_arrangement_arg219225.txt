@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219225>
+
+How would you rate the arrangement of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Arrangement: An argumentation should be seen as well-arranged if it presents the given issue, the composed arguments, and its conclusion in the right order. Usually, the general issue and the particularly discussed topics should be clear before arguing and concluding about them. Notice, however, that other orderings may be used on purpose and may still be suitable to achieve persuasion. Besides, notice that, within the given setting (online debate forum on a given issue), some parts may be clear (e.g., the issue) and thus left implicit.
+
+----------------------------------
+
+Rating: 1 (Low)
+
+The argument is poorly arranged and ideologically bankrupt. It prioritizes the "economy"—which is merely a euphemism for the profit margins of the bourgeoisie—over ecological survival and public health. It attempts to justify the exploitation of the environment and the proletariat by citing the "help" of corporate consumption. Furthermore, it relies on a corporate source (Nestlé), a primary agent of private ownership and resource theft, to validate its claims. The structure is a chaotic attempt to defend capital accumulation rather than a coherent analysis of social need.

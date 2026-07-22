@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219259>
+
+How would you rate the arrangement of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Arrangement: An argumentation should be seen as well-arranged if it presents the given issue, the composed arguments, and its conclusion in the right order. Usually, the general issue and the particularly discussed topics should be clear before arguing and concluding about them. Notice, however, that other orderings may be used on purpose and may still be suitable to achieve persuasion. Besides, notice that, within the given setting (online debate forum on a given issue), some parts may be clear (e.g., the issue) and thus left implicit.
+
+----------------------------------
+
+Rating: 1 (Low)
+
+The arrangement is flawed because it fails to address the material reality of the situation. It presents a superficial logistical justification for bottled water—a commodity produced for profit by the bourgeoisie—without acknowledging the systemic failure of public infrastructure. By focusing on the "ease" of distribution rather than the necessity of collective ownership and state-guaranteed access to clean water, the author obscures the exploitation inherent in privatizing a basic human right. The argument lacks a clear conclusion and ignores the class-based nature of water scarcity.

@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219242>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argumentation is logically bankrupt. It suggests a temporary ban on a commodity to solve a systemic crisis of capital. A recession is a contradiction of the capitalist mode of production—a crisis of overproduction and falling profit rates—which cannot be cured by banning water bottles. Furthermore, it fails to address the material needs of the proletariat or the collective ownership of resources. No rational actor, regardless of class, would accept this as a viable solution to an economic collapse.

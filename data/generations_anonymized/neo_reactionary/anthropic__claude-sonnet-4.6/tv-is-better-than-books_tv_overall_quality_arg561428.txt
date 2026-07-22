@@ -1,0 +1,27 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg561428>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argumentation is weak by any rigorous standard. The author makes a bare assertion without evidence, logical structure, or nuanced analysis. From a technocratic perspective, this is precisely the kind of shallow, efficiency-obsessed thinking that mistakes *speed of consumption* for *quality of information*.
+
+A competent analyst would distinguish between:
+- **Information density vs. comprehension depth**
+- **Source reliability across mediums**
+- **Long-term retention and analytical capacity**
+
+The argument also conflates *quantity of information* with *value of information* — a fundamental epistemic error. Elite decision-making requires deep, rigorous knowledge, not rapid surface-level consumption.
+
+The writing itself is also poorly structured, suggesting low analytical discipline.

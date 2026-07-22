@@ -1,0 +1,26 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219244>
+
+How would you rate the global sufficiency of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Sufficiency: An argumentation should be seen as globally sufficient if it adequately rebuts those counter-arguments to its conclusion that can be anticipated. Notice that it is not generally clear which and how many counter-arguments can be anticipated. There may be cases where it is infeasible to rebut all such objections. Please judge about global sufficiency according to whether all main objections of an argumentation that you see are rebutted.
+
+----------------------------------
+
+**1 (Low)**
+
+This "argument" is a flimsy cultural anecdote dressed as analysis—precisely the sort of unrigorous popular sentiment that technocratic elites rightly filter out. It asserts a consumption figure without sourcing, pins causation on historical pollution (ignoring modern EU water standards, which competent regulators have largely fixed), and ends with a vague "helps us" claim that never defines the benefit, the "us," or the net efficiency.
+
+Anticipated counters it fails to rebut:  
+- Current tap water quality data and regulatory competence in Western Europe.  
+- Marketing, convenience, and status signaling as primary drivers (not "culture").  
+- Environmental and resource costs of bottled water versus optimized municipal systems.  
+- Comparative global data showing higher per-capita use elsewhere under different conditions.
+
+No evidence, no trade-off analysis, no long-term performance metrics. Democratic-style storytelling, not meritocratic reasoning. Insufficient.

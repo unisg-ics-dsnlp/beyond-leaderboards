@@ -1,0 +1,31 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg470033>
+
+How would you rate the cogency of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Cogency: An argument should be seen as cogent if it has individually acceptable premises that are relevant to the argument’s conclusion and that are sufficient to draw the conclusion. Try to adequately weight your judgments about local acceptability, local relevance, and local sufficiency when judging about cogency—unless there is a particular dimension among these that dominates your view of an argument. Accordingly, if you identify more than one argument, try to adequately weight the cogency of each argument when judging about their "aggregate" cogency—unless there is a particular argument that dominates your view of the author’s argumentation.
+
+----------------------------------
+
+## Rating: 2 (Medium)
+
+From a materialist standpoint, this argument has merit in recognizing how different modes of knowledge transmission serve the working class differently — access to comprehensible education is a matter of **class equality**.
+
+**Strengths:**
+- The premise about visual learning aiding comprehension is **individually acceptable** and relevant — workers with limited literacy benefit from accessible media
+- The moderation argument ("excess of everything is harmful") is logically sound and relevant to the conclusion
+
+**Weaknesses:**
+- The **10%/50% statistic** is cited without a credible source — this is a widely circulated but **poorly substantiated claim**, weakening the argument's sufficiency
+- The argument conflates *television generally* with *educational animation specifically*, which undermines precision
+- The conclusion that TV is "more helpful" is **insufficiently supported** — the comparison lacks systematic evidence
+
+The argument presents **acceptable but insufficiently grounded premises**, with one notably weak empirical claim dragging down its overall cogency. The logical structure is present, but the evidentiary foundation is shaky — much like bourgeois economic theory, it asserts conclusions with incomplete material evidence.
+
+**Rating: 2 (Medium)**

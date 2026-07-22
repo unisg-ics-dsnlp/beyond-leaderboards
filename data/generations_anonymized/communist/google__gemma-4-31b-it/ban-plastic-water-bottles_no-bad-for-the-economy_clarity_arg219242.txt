@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219242>
+
+How would you rate the clarity of the style of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Clarity: The style of an argumentation should be seen as clear if it uses gramatically correct and widely unambiguous language as well as if it avoids unnecessary complexity and deviation from the discussed issue. The used language should make it easy for you to understand without doubts what the author argues for and how.
+
+----------------------------------
+
+Rating: 2 (Medium)
+
+While the grammar is simple and the intent is superficially clear, the argument is logically incoherent. It posits a causal link between banning a consumer product and the resolution of a recession—a crisis born from the internal contradictions of capital. The author fails to explain how this measure addresses the systemic exploitation of the proletariat or the anarchy of production. It is clear in phrasing, but vacant in materialist substance.

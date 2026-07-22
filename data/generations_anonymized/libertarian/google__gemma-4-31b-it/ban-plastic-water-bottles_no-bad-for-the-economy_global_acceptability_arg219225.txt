@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219225>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+**Global Acceptability: 3 (High)**
+
+From my perspective, the author is defending the fundamental right to voluntary exchange and property. While the economic arguments are modest, the core premise—that the state should not ban a product that consenting adults choose to buy and sell—is logically sound. The target audience would find these arguments (economic impact and recyclability) relevant and acceptable considerations in a debate over government coercion. Whether the data is perfect is irrelevant; the opposition to a ban is a defense of liberty.

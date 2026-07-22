@@ -1,0 +1,22 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg363603>
+
+How would you rate the success of the author’s argumentation in creating credibility?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Credibility: An argumentation should be seen as successful in creating credibility if it conveys arguments and other information in a way that makes the author worthy of credence, e.g., by indicating the honesty of the author or by revealing the author’s knowledge or expertise regarding the discussed issue. It should be seen as not successful if rather the opposite holds. Decide in dubio pro reo, i.e., if you have no doubt about the author’s credibility, then do not judge him or her to be not credible.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argument demonstrates little credibility. The author makes a broad comparative claim (TV is better than books) but offers no evidence, expertise, or substantive reasoning to support it. The argument relies purely on personal convenience and preference — the ability to "switch channels" — without engaging with any deeper analysis of learning, information retention, or the actual merits of either medium.
+
+From a materialist perspective, this also reflects a passive, consumer-oriented relationship with knowledge — a product of capitalist media culture that packages information as entertainment rather than fostering critical, collective consciousness. The author shows no awareness of *how* or *why* information is produced and distributed, which further undermines credibility.
+
+The reasoning is shallow and anecdotal, giving the reader little reason to trust the author as a knowledgeable or rigorous thinker on this subject.

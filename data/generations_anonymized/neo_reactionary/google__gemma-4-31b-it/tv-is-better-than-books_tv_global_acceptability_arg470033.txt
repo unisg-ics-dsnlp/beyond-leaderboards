@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg470033>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+Rating: 1 (Low)
+
+The argumentation is intellectually flaccid. It relies on anecdotal observations and vague "surveys" rather than rigorous, data-driven evidence. From a technocratic perspective, the author appeals to the lowest common denominator—those who "can't even imagine"—rather than advocating for the cognitive optimization of an elite. The logic is imprecise and lacks the structural rigor required for a competent analysis. It is a populist appeal to convenience, not a meritocratic argument for efficiency.

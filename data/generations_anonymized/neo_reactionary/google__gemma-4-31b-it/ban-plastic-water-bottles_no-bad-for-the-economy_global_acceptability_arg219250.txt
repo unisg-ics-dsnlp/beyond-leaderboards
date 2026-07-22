@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219250>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+Rating: 1 (Low)
+
+The argument is a textbook example of populist, low-competence reasoning. It attempts to solve a systemic inefficiency with a naive, individualistic gesture. From a technocratic perspective, "reusing bottles" is a negligible variable that fails to address the industrial scale of the problem. Such an argument lacks the rigor and data-driven analysis required for a serious discussion on resource management. It is an emotional plea, not a technical solution, and would be dismissed by any competent authority.

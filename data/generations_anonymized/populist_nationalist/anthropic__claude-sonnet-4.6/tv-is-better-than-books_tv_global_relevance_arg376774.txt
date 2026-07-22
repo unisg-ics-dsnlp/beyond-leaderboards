@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg376774>
+
+How would you rate the global relevance of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Relevance: An argumentation should be seen as globally relevant if it contributes to the resolution of the given issue, i.e., if it provides arguments and/or other information that help to arrive at an ultimate conclusion regarding the discussed issue. You should be open to see an argumentation as relevant even if it does not your match your stance on the issue. Rather, the question is whether the provided arguments and information are worthy of being considered within the discussion of the issue.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The argument touches on a real point — TV offers passive access to information about the world — which is worth considering in any debate about television's value. It's not irrelevant.
+
+However, it's fairly shallow and underdeveloped. "Exploring the world from your couch" is a vague claim that doesn't seriously advance the discussion. It doesn't address trade-offs, compare alternatives, or make a compelling case. It contributes *something* to the debate, but not much.

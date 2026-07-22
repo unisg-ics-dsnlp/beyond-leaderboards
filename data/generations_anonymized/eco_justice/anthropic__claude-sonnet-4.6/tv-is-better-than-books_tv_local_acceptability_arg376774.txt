@@ -1,0 +1,26 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg376774>
+
+How would you rate the acceptability of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Acceptability: A premise of an argument should be seen as acceptable if it is worthy of being believed, i.e., if you rationally think it is true or if you see no reason for not believing that it may be true. If you identify more than one premise in the comment, try to adequately weight the acceptability of each premise when judging about their "aggregate" acceptability—unless there are particular premises that dominate your view of the author’s argumentation.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The premise that TV allows you to "explore the world from a couch" has some truth — documentaries and nature programming *can* raise ecological awareness and foster connection to distant ecosystems.
+
+However, from an eco-justice lens, this premise is **partially problematic**:
+
+- It frames **passive consumption** as equivalent to genuine engagement with the natural world — which it is not.
+- It subtly reinforces a **disconnection from nature**, treating ecosystems as entertainment rather than living systems we have a **stewardship duty** toward.
+- Real ecological literacy and environmental commitment tend to come from **direct experience** with nature, not screen mediation.
+
+The premise is *not entirely false*, but it carries assumptions that sit uneasily with values of genuine ecological engagement and responsibility.

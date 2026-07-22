@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219206>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+Overall quality: 2 (Medium)
+
+The argument correctly emphasizes the importance of economic stability and the role of private enterprise, which aligns with the principle of subsidiarity and the protection of livelihoods. However, it lacks a moral framework regarding the stewardship of creation—a duty to protect the environment as a sacred gift. While the practical points on safety and economy are sound, the argumentation is purely utilitarian and fails to address the broader common good.

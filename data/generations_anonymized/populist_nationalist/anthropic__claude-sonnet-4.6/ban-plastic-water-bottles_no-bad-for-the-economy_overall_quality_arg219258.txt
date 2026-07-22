@@ -1,0 +1,30 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+Here's why this argument falls short, even from my perspective:
+
+- **Internal contradiction**: The author claims banning bottled water would "hurt big corporations" — but then uses *protecting* those same big corporations as the economic justification. That's self-defeating logic. We don't typically champion Nestle and Dasani as pillars of American workers' interests.
+
+- **Weak economic reasoning**: "Hundreds of jobs" is vague and unsubstantiated. A serious economic argument would quantify impacts, consider alternative employment, and weigh costs vs. benefits.
+
+- **Source problem**: Citing **Nestle's own corporate website** as evidence is a glaring credibility issue — that's like asking the fox to guard the henhouse. Even I'd call that out.
+
+- **No real argument structure**: There's no clear claim → evidence → warrant chain. It's mostly assertion-stacking.
+
+The only thing I'd partially credit is the instinct to protect American workers and domestic industry — that aligns with **economic nationalism**. But the execution is poor and the framing actually *defends globalist corporations* rather than ordinary American workers.
+
+**Bottom line: Good instinct, terrible execution.**

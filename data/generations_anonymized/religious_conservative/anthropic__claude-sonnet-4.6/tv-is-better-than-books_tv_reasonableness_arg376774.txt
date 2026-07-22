@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg376774>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argument is superficial and lacks substantive reasoning. Merely asserting that TV allows one to "explore the world from a couch" offers no meaningful contribution to resolving why TV is *better* than alternatives — better than what is not even specified.
+
+From my perspective, this framing also subtly promotes **passive consumption** over active engagement with one's community, family, and duties — which runs contrary to the virtues of industriousness and communal responsibility. An argument that celebrates sedentary escapism as a virtue is neither sufficiently reasoned nor broadly acceptable as a serious contribution to debate.

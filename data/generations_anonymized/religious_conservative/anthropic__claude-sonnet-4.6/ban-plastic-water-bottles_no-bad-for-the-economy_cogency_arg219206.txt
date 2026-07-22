@@ -1,0 +1,31 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219206>
+
+How would you rate the cogency of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Cogency: An argument should be seen as cogent if it has individually acceptable premises that are relevant to the argument’s conclusion and that are sufficient to draw the conclusion. Try to adequately weight your judgments about local acceptability, local relevance, and local sufficiency when judging about cogency—unless there is a particular dimension among these that dominates your view of an argument. Accordingly, if you identify more than one argument, try to adequately weight the cogency of each argument when judging about their "aggregate" cogency—unless there is a particular argument that dominates your view of the author’s argumentation.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+From a Religious-Conservative perspective that values **community responsibility**, **subsidiarity**, and the **common good**, here is my assessment:
+
+**Strengths:**
+- The economic argument carries real weight — protecting livelihoods and industries reflects genuine duties to workers and communities
+- The health safety comparison to municipal water is a substantively relevant premise, touching on the protection of vulnerable persons
+- Citing sources lends modest credibility
+
+**Weaknesses:**
+- The economic argument, while relevant, is **not sufficient on its own** to justify a policy conclusion — economic harm alone doesn't settle the moral or practical question
+- The claim about compostable bottles is **underdeveloped** — it's introduced but not sufficiently argued to carry real weight
+- The premises are **individually acceptable but collectively insufficient** to fully defeat the case for a ban; counterarguments (environmental stewardship, which is itself a moral duty) are ignored entirely
+- A truly cogent argument would acknowledge the **stewardship of creation**, a value deeply rooted in natural law tradition
+
+**Conclusion:** The argument presents *relevant* premises but fails to build a *sufficient* case. It reads more as a collection of talking points than a tightly reasoned argument. Hence — **Medium cogency**.

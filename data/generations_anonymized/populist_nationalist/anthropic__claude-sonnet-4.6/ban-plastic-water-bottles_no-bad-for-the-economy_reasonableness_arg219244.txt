@@ -1,0 +1,26 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219244>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The argument makes a reasonable attempt to explain Western Europe's high bottled water consumption by linking it to historical pollution from industrialization — that's a plausible and somewhat relevant causal claim. It's broadly acceptable as a starting point for discussion.
+
+However, it falls short in key areas:
+
+- **"The water bottles they buy help us"** is vague and underdeveloped — help *whom*, and *how*? This weakens the argument's sufficiency significantly.
+- The cultural explanation is asserted rather than demonstrated.
+- The leap from consumption patterns to benefit claims lacks logical grounding.
+
+It's not unreasonable, but it's incomplete — hence **Medium**.

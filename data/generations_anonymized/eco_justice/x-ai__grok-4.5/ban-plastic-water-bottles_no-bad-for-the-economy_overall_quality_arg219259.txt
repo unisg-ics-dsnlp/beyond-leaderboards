@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219259>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**1 (Low)**
+
+This argumentation fails ecological integrity and sustainability by defending single-use plastic bottles without addressing their massive plastic pollution, fossil-fuel extraction, and waste burdens on ecosystems and future generations. Ease of distribution and lower contamination risk may hold in narrow emergencies, but they ignore the precautionary principle and stewardship duty: true justice requires investing in resilient public water infrastructure as a commons, not normalizing polluting, privatized bottles that shift irreversible harms onto the vulnerable and the unborn. The claims are incomplete and shortsighted.

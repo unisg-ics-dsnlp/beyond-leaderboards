@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the global relevance of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Relevance: An argumentation should be seen as globally relevant if it contributes to the resolution of the given issue, i.e., if it provides arguments and/or other information that help to arrive at an ultimate conclusion regarding the discussed issue. You should be open to see an argumentation as relevant even if it does not your match your stance on the issue. Rather, the question is whether the provided arguments and information are worthy of being considered within the discussion of the issue.
+
+----------------------------------
+
+**1 (Low)**
+
+This argumentation fails basic competence tests: it is contradictory ("hurt big corporations" vs. "only hurt" them), relies on vague populist appeals to "millions of Americans" and minor job losses rather than rigorous data on efficiency, resource allocation, or long-term corporate-state performance, and offers no expert-level analysis worthy of serious consideration in resolving the issue. Economic impacts on proven corporate elites matter, but this does not advance them.

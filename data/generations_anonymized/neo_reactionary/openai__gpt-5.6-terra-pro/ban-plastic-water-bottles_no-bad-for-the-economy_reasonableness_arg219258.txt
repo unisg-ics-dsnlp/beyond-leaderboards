@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+**1 (Low)**
+
+The economic concern is relevant, but the argument is weakly supported and overstated. It provides no credible employment or economic-loss data, relies on a corporate source with an obvious interest, and ignores substitution effects—workers and capital could shift to public water infrastructure, reusable containers, or other industries. Claiming a ban would “severely” hurt the economy is not established. A competent policy argument requires comparative cost-benefit evidence, not merely appeals to corporate losses.

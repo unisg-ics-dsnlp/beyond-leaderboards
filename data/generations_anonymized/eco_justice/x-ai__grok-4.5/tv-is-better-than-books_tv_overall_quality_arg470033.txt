@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg470033>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**1 (Low)**
+
+This argument fails ecological integrity and stewardship by promoting TV without addressing its real harms: energy-intensive production, rare-earth mining that destroys habitats and biodiversity, e-waste burdens on future generations, and climate impacts that breach planetary boundaries. Claiming "excess of everything is harmful" while ignoring these systemic risks is incomplete and reckless; true quality requires applying the precautionary principle and polluter-pays to media choices that sustain rather than degrade the commons.

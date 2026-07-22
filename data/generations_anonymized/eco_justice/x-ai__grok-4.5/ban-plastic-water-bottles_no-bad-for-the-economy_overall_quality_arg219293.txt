@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**1 (Low)**
+
+This argument fails basic standards of evidence and logic while undermining ecological integrity. Actual US plastic bottle recycling rates hover far lower (~20-30%, not 86-88%), the cited Treehugger piece does not support the claim, and "more than half" is a trivial threshold that ignores planetary boundaries, pollution externalities, and duties to future generations. Recycling alone cannot justify continued single-use extraction; true stewardship demands reduction and systemic change under the precautionary principle.

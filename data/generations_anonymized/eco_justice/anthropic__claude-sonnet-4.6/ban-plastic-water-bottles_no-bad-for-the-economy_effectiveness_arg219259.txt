@@ -1,0 +1,27 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219259>
+
+How would you rate the effectiveness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Effectiveness: An argumentation should be seen as effective if it achieves to persuade you of the author’s stance on the discussed issue or—in case you already agreed with the stance before—if it corroborates your agreement with the stance. Besides the actual arguments, also take into consideration the credibility and the emotional force of the argumentation. Decide in dubio pro reo, i.e., if you have no doubt about the correctness of the author’s arguments, then do not judge him or her to be not effective—unless you explicitly think that the arguments do not support the author’s stance.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The argument makes some practically valid points — ease of distribution and contamination risk from bulk storage are legitimate logistical considerations, especially in emergency contexts. These are real-world constraints that deserve acknowledgment.
+
+However, from an eco-justice perspective, the argumentation is only partially persuasive because:
+
+- The **first claim is factually weak** — bottled water is actually *widely* present in developing countries, often displacing investment in public infrastructure.
+- The argument **ignores the systemic harm** of single-use plastic proliferation, which disproportionately burdens the same vulnerable communities it claims to help.
+- It treats bottled water as a **long-term solution** rather than an emergency stopgap, which conflicts with sustainability and stewardship values.
+- It **sidesteps the commons issue** — privatizing water access undermines collective governance of a shared resource.
+
+The logistical points give it some persuasive weight, preventing a "Low" rating, but the argument fails to grapple with the deeper ecological and justice dimensions that make bottled water a problematic default answer.

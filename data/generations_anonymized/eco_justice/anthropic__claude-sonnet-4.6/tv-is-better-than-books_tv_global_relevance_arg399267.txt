@@ -1,0 +1,22 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399267>
+
+How would you rate the global relevance of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Relevance: An argumentation should be seen as globally relevant if it contributes to the resolution of the given issue, i.e., if it provides arguments and/or other information that help to arrive at an ultimate conclusion regarding the discussed issue. You should be open to see an argumentation as relevant even if it does not your match your stance on the issue. Rather, the question is whether the provided arguments and information are worthy of being considered within the discussion of the issue.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+This argument discusses language accessibility and media consumption for immigrants — a topic related to cultural integration and communication. While these are human concerns worth addressing, the argument has **no meaningful connection to ecological justice, planetary stewardship, environmental sustainability, or intergenerational responsibility**.
+
+From my perspective, global relevance means contributing to resolving issues that affect our shared commons — the Earth's ecosystems, biodiversity, and the rights of future generations. This argument does not engage with any of those dimensions, nor does it touch on systemic risks or ecological limits.
+
+It is a narrow, personal-utility observation with negligible global environmental relevance.

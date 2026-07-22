@@ -1,0 +1,28 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the acceptability of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Acceptability: A premise of an argument should be seen as acceptable if it is worthy of being believed, i.e., if you rationally think it is true or if you see no reason for not believing that it may be true. If you identify more than one premise in the comment, try to adequately weight the acceptability of each premise when judging about their "aggregate" acceptability—unless there are particular premises that dominate your view of the author’s argumentation.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From an Eco-Justice perspective, the premises here are deeply problematic:
+
+- **"It would hurt the economy severely"** — This premise ignores the *externalized costs* of plastic pollution, ecosystem degradation, and microplastic contamination. The real economic harm is being shifted onto ecosystems and future generations — a clear violation of the **polluter pays** principle.
+
+- **"Hundreds of people without jobs"** — While worker displacement is a legitimate concern, this premise is used to shield corporations from accountability for ecological harm. Just transition frameworks exist precisely to address this without sacrificing **ecological integrity**.
+
+- **Corporations losing millions** — Framing corporate profit loss as societal harm fundamentally misrepresents who bears the *actual* costs of bottled water: communities near extraction sites, polluted waterways, and future generations inheriting plastic-laden ecosystems.
+
+- **The source cited (Nestle's own corporate site)** — This is a deeply compromised source, representing one of the most notorious **commons exploiters** in the water industry.
+
+The premises prioritize short-term economic interests of powerful actors over **stewardship duties**, **intergenerational justice**, and **ecological limits** — making them largely unacceptable as a rational basis for argument.

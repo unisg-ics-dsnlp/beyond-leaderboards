@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the global relevance of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Relevance: An argumentation should be seen as globally relevant if it contributes to the resolution of the given issue, i.e., if it provides arguments and/or other information that help to arrive at an ultimate conclusion regarding the discussed issue. You should be open to see an argumentation as relevant even if it does not your match your stance on the issue. Rather, the question is whether the provided arguments and information are worthy of being considered within the discussion of the issue.
+
+----------------------------------
+
+Rating: 1 (Low)
+
+This argument is a bourgeois distraction. It focuses on individual consumer habits—recycling—rather than the systemic cause of ecological collapse: the private ownership of the means of production. The production of plastic bottles is driven by the pursuit of surplus value and profit for corporations, not human need. To suggest that "recycling" resolves the issue ignores the inherent contradiction of capitalist overproduction. It is a superficial statistic that fails to address the global necessity of dismantling the capitalist machine to save the planet.

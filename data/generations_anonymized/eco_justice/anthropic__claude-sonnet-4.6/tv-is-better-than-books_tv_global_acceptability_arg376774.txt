@@ -1,0 +1,22 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg376774>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The argument has a broadly relatable appeal — most people understand the convenience of passive, couch-based entertainment. In that sense, it's widely comprehensible and not offensive in framing.
+
+However, from my perspective, the casual glorification of sedentary, screen-based "exploration" as a substitute for genuine engagement with the natural world raises concerns. It normalizes disconnection from ecosystems — and that disconnection is precisely what erodes the stewardship ethic we desperately need.
+
+Still, as a *globally acceptable* argument in a general audience context, it's neither deeply controversial nor universally compelling — hence **medium**.

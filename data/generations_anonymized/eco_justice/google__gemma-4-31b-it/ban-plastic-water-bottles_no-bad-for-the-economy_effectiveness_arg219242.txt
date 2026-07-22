@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219242>
+
+How would you rate the effectiveness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Effectiveness: An argumentation should be seen as effective if it achieves to persuade you of the author’s stance on the discussed issue or—in case you already agreed with the stance before—if it corroborates your agreement with the stance. Besides the actual arguments, also take into consideration the credibility and the emotional force of the argumentation. Decide in dubio pro reo, i.e., if you have no doubt about the correctness of the author’s arguments, then do not judge him or her to be not effective—unless you explicitly think that the arguments do not support the author’s stance.
+
+----------------------------------
+
+Effectiveness: 1 (Low)
+
+This argument is fundamentally flawed. By framing the ban on plastic water bottles as something to be delayed until a recession ends, the author treats ecological integrity as a luxury rather than a necessity. This violates the precautionary principle and shifts the burden of pollution onto future generations for the sake of short-term economic convenience. Stewardship cannot be paused for a fiscal cycle.

@@ -1,0 +1,26 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the global relevance of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Relevance: An argumentation should be seen as globally relevant if it contributes to the resolution of the given issue, i.e., if it provides arguments and/or other information that help to arrive at an ultimate conclusion regarding the discussed issue. You should be open to see an argumentation as relevant even if it does not your match your stance on the issue. Rather, the question is whether the provided arguments and information are worthy of being considered within the discussion of the issue.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The argument raises a legitimate economic concern — job losses and corporate revenue impacts — which are genuinely relevant considerations in any policy debate about banning a product. From a libertarian standpoint, the economic freedom and voluntary market activity arguments resonate strongly.
+
+However, the argument's **global relevance is only medium** because:
+
+- It focuses narrowly on economic harm to corporations and workers, without meaningfully engaging with the *core policy question* of *why* a ban might be proposed (environmental concerns, plastic waste, etc.)
+- The contradiction is glaring: it simultaneously argues the ban would hurt "big corporations" AND "millions of Americans," then oddly concludes it would "only hurt big corporations" — undermining its own coherence
+- It doesn't advance the broader discussion toward a resolution; it merely asserts economic harm without substantive depth
+
+It contributes *something* to the debate but falls short of being a fully developed, resolution-advancing argument.

@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399267>
+
+How would you rate the global relevance of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Relevance: An argumentation should be seen as globally relevant if it contributes to the resolution of the given issue, i.e., if it provides arguments and/or other information that help to arrive at an ultimate conclusion regarding the discussed issue. You should be open to see an argumentation as relevant even if it does not your match your stance on the issue. Rather, the question is whether the provided arguments and information are worthy of being considered within the discussion of the issue.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The argument makes a practical, real-world observation about language accessibility — that television offers multilingual content and pronunciation guidance in ways printed books may not for immigrants. This is a genuinely useful point in a discussion about media utility.
+
+However, it is fairly **narrow and situational**, addressing only one specific use-case (immigrants learning a new language) rather than contributing broadly to a wider resolution of the overarching issue. It touches on a legitimate concern but does not substantially advance a comprehensive conclusion.

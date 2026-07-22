@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219250>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**Overall quality: 1 (Low)**
+
+This argument concedes the waste of bottled water yet weakly pivots to reuse as if it erases the harm. From an eco-justice view, it fails stewardship and ecological integrity: plastic production still breaches planetary boundaries, extracts commons, generates microplastics and emissions that burden future generations, and reuse is partial at best—not a systemic fix under the precautionary principle or polluter-pays. Superficial mitigation does not redeem reckless exploitation.

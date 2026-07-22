@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219206>
+
+How would you rate the acceptability of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Acceptability: A premise of an argument should be seen as acceptable if it is worthy of being believed, i.e., if you rationally think it is true or if you see no reason for not believing that it may be true. If you identify more than one premise in the comment, try to adequately weight the acceptability of each premise when judging about their "aggregate" acceptability—unless there are particular premises that dominate your view of the author’s argumentation.
+
+----------------------------------
+
+**2 (Medium)**
+
+Several premises are plausible: bottled water is a large industry, a ban would impose economic costs, and compostable packaging may reduce plastic waste. But claims that bottled water has a *cleaner safety record* than municipal water and is easier to trace are contestable; municipal water is generally heavily regulated and publicly monitored. The economic claim is also overstated without evidence that a ban would “greatly” harm the overall economy.

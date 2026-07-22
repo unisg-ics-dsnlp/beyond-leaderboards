@@ -1,0 +1,22 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399267>
+
+How would you rate the global relevance of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Relevance: An argumentation should be seen as globally relevant if it contributes to the resolution of the given issue, i.e., if it provides arguments and/or other information that help to arrive at an ultimate conclusion regarding the discussed issue. You should be open to see an argumentation as relevant even if it does not your match your stance on the issue. Rather, the question is whether the provided arguments and information are worthy of being considered within the discussion of the issue.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The argument makes a practical point about language accessibility — that television offers multilingual content and pronunciation guidance, which books in a new country may not provide. This is a functionally relevant observation about media accessibility for migrants and linguistic minorities.
+
+However, from a materialist perspective, the argument remains **narrow in scope** — it addresses a practical convenience rather than contributing substantively to any broader issue of cultural access, class, or media ownership. It touches on a real concern (accessibility for working-class migrants who may lack resources to acquire materials in their native language), but does not develop this into a meaningful contribution to resolving a larger debate.
+
+It is **not irrelevant**, but its contribution to any ultimate conclusion on a broader issue is limited.

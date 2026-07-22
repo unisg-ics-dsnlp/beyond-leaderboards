@@ -1,0 +1,22 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219259>
+
+How would you rate the global relevance of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Relevance: An argumentation should be seen as globally relevant if it contributes to the resolution of the given issue, i.e., if it provides arguments and/or other information that help to arrive at an ultimate conclusion regarding the discussed issue. You should be open to see an argumentation as relevant even if it does not your match your stance on the issue. Rather, the question is whether the provided arguments and information are worthy of being considered within the discussion of the issue.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+While the argument touches on real material conditions affecting working-class and poor populations in developing countries — which is relevant from a class analysis perspective — its global relevance is only moderate. It raises valid practical points about water distribution logistics and contamination risks, which are worthy of consideration in any serious discussion.
+
+However, the argument is **narrow in scope**: it focuses on distribution mechanics rather than addressing the broader structural question at stake — namely, whether bottled water as a commodity system serves humanity's needs. It also contains a **factually questionable premise** (bottled water being *less* available in developing countries), which weakens its contribution to resolving the core issue.
+
+The argument provides *some* useful information but falls short of substantially advancing the discussion toward a meaningful conclusion.

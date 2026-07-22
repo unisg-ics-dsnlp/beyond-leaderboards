@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219225>
+
+How would you rate the clarity of the style of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Clarity: The style of an argumentation should be seen as clear if it uses gramatically correct and widely unambiguous language as well as if it avoids unnecessary complexity and deviation from the discussed issue. The used language should make it easy for you to understand without doubts what the author argues for and how.
+
+----------------------------------
+
+Rating: 1 (Low)
+
+The writing is sloppy, riddled with typos ("com out," "every kid of help"), and lacks professional polish. While the pro-industry, pro-economy stance is the right direction, the execution is amateur. It reads like it was written by someone who didn't bother to proofread, which undermines the strength of the argument.

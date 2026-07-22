@@ -1,0 +1,26 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219225>
+
+How would you rate the effectiveness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Effectiveness: An argumentation should be seen as effective if it achieves to persuade you of the author’s stance on the discussed issue or—in case you already agreed with the stance before—if it corroborates your agreement with the stance. Besides the actual arguments, also take into consideration the credibility and the emotional force of the argumentation. Decide in dubio pro reo, i.e., if you have no doubt about the correctness of the author’s arguments, then do not judge him or her to be not effective—unless you explicitly think that the arguments do not support the author’s stance.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The argument makes some decent points that resonate — protecting jobs, supporting the economy during tough times, and pushing back against overreaching bans all align with putting **citizens' interests first**. That's solid ground.
+
+However, the argumentation is **weakened by**:
+- Sloppy presentation (typos, formatting issues undermine credibility)
+- The economic claim ("a million purchases daily") is asserted without strong sourcing
+- The source cited is a **Nestlé corporate website** — that's an elite corporate interest, not exactly a grassroots voice of the people
+- The recycling statistic is interesting but poorly cited
+
+It **partially persuades** — the anti-ban instinct is right, government shouldn't restrict consumer choice — but the execution is too rough to be fully convincing.

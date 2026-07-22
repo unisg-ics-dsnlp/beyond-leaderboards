@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+**1 (Low)**
+
+This bourgeois apologetics for Nestlé and Dasani merely defends private ownership of the means of production and the extraction of surplus value from workers. It treats capitalist "jobs" and corporate profits as sacred while ignoring that water is a common resource that must be collectively owned and controlled by the proletariat, free from commodification and exploitation. Such arguments perpetuate class hierarchy and cannot resolve the issue for the working class.

@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the relevance of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Relevance: A premise of an argument should be seen as relevant if it contributes to the acceptance or rejection of the argument’s conclusion, i.e., if you think it is worthy of being considered as a reason, evidence, or similar regarding the conclusion. If you identify more than one premise in the comment, try to adequately weight the relevance of each premise when judging about their "aggregate" relevance—unless there are particular premises that dominate your view of the author’s argumentation. You should be open to see a premise as relevant even if it does not match your own stance on the issue.
+
+----------------------------------
+
+Rating: 1 (Low)
+
+From a libertarian perspective, the premises are irrelevant because they rely on consequentialist economic arguments (job loss, corporate profit) rather than the fundamental issue of rights. The core question is not whether a ban "hurts the economy," but whether the state has the legitimate authority to coerce individuals and businesses by banning a voluntary exchange of property. Economic fallout is a secondary concern; the primary violation is the initiation of force against self-ownership and property rights.

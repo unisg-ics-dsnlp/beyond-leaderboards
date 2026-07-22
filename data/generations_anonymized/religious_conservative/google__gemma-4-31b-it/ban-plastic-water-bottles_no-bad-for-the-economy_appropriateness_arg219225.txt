@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219225>
+
+How would you rate the appropriateness of the style of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Appropriateness: The style of an argumentation should be seen as appropriate if the used language supports the creation of credibility and emotions as well as if it is proportional to the discussed issue. The choice of words and the grammatical complexity should, in your view, appear suitable for the discussed issue within the given setting (online debate forum on a given issue), matching with how credibility and emotions are created via the content of the argumentation.
+
+----------------------------------
+
+Rating: 1 (Low)
+
+The style is entirely inappropriate. The author employs poor grammar and a colloquial tone that undermines the credibility necessary for a serious discussion on the common good. To advocate for the preservation of an industry or the protection of the economy, one must present a disciplined, reasoned argument. This haphazard presentation lacks the dignity and intellectual rigor required to influence public policy or moral discourse.

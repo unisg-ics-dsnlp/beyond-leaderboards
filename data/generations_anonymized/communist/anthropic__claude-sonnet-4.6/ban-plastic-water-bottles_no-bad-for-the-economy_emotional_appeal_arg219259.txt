@@ -1,0 +1,22 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219259>
+
+How would you rate the success of the author’s argumentation in making an emotional appeal?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Emotional Appeal: An argumentation should be seen as successful in making an emotional appeal if it conveys arguments and other information in a way that creates emotions, which make the target audience more open to the author’s arguments. It should be seen as not successful if rather the opposite holds. Notice that you should not judge about the persuasive effect of the author’s argumentation, but you should decide whether the argumentation makes the target audience willing/unwilling to be persuaded by the author (or to agree/disagree with the author) in principle—or neither.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argument is largely technical and logistical in nature — discussing distribution logistics, container sizes, and contamination risks. It presents these points in a dry, factual manner without invoking emotional language, vivid imagery, or appeals to human suffering that might stir the reader's feelings.
+
+While the mention of **developing countries** and **unsafe public water** carries *potential* emotional weight, the author does not develop this angle emotionally — there is no appeal to solidarity with vulnerable populations, no humanizing narrative, no urgency conveyed. From a communist perspective, this is a missed opportunity to highlight the **class dimensions** of water access inequality, which could have generated genuine emotional resonance.
+
+The argument remains coldly pragmatic rather than emotionally engaging.

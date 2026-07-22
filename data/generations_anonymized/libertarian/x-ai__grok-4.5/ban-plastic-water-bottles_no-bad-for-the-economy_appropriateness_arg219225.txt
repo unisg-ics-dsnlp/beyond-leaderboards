@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219225>
+
+How would you rate the appropriateness of the style of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Appropriateness: The style of an argumentation should be seen as appropriate if the used language supports the creation of credibility and emotions as well as if it is proportional to the discussed issue. The choice of words and the grammatical complexity should, in your view, appear suitable for the discussed issue within the given setting (online debate forum on a given issue), matching with how credibility and emotions are created via the content of the argumentation.
+
+----------------------------------
+
+**1 (Low)**
+
+The style fails to build credibility: rampant typos ("com out", "kid of help", "less then 1&#xof;", "are no the most"), broken grammar, and a corporate-sourced link undercut any serious claim. Emotional appeals ("huge mistake", "every kind of help counts") are present but crude and disproportionate for a policy debate on coercion vs. voluntary exchange. Informal online-forum tone is fine in principle, yet the execution is too sloppy to match the issue's stakes—property rights and free markets deserve clearer language.

@@ -1,0 +1,28 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219206>
+
+How would you rate the relevance of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Relevance: A premise of an argument should be seen as relevant if it contributes to the acceptance or rejection of the argument’s conclusion, i.e., if you think it is worthy of being considered as a reason, evidence, or similar regarding the conclusion. If you identify more than one premise in the comment, try to adequately weight the relevance of each premise when judging about their "aggregate" relevance—unless there are particular premises that dominate your view of the author’s argumentation. You should be open to see a premise as relevant even if it does not match your own stance on the issue.
+
+----------------------------------
+
+**Rating: 3 (High)**
+
+The premises here are **highly relevant** to the conclusion that bottled water sales should not be banned.
+
+Here's why they hold up well:
+
+- **Economic impact** — Jobs, plastics industry, advertising revenue. These directly bear on whether a ban is wise. Protecting American workers and domestic industry is something I care deeply about.
+- **Emerging alternatives** — Compostable bottles address the environmental objection head-on. That's a direct counter to the main reason someone would push a ban.
+- **Public health/safety record** — Cleaner safety record and better traceability than municipal water is a concrete, relevant reason to *keep* bottled water available to citizens.
+
+Each premise genuinely contributes to evaluating whether a ban is justified. Even if you disagree with the conclusion, you can't dismiss these as off-topic — they speak directly to economic harm, environmental concerns, and public safety.
+
+**Bottom line:** The author stays on point. These are real, substantive reasons that deserve consideration. That earns a **3**.

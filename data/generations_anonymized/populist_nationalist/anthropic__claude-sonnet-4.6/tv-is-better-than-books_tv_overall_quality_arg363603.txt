@@ -1,0 +1,27 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg363603>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+This argument is weak across the board. The author makes a casual, surface-level claim without real structure or evidence. A few problems:
+
+- **No real comparison** — Books offer depth, focus, and retention that channel-surfing simply doesn't match.
+- **Logical gap** — The ability to *switch channels* isn't a strong argument for TV's superiority; it's just describing a remote control.
+- **No acknowledgment of counterarguments** — A solid argument engages opposing views.
+- **Informal and underdeveloped** — Reads more like a passing thought than a reasoned position.
+
+From my perspective, I'd also add that books — especially American history, founding documents, and patriotic literature — build the kind of deep civic knowledge that passive TV consumption never will. The elites in media control what documentaries get made and what narratives get pushed. Books give citizens more independent access to truth.
+
+**Overall: Low quality argumentation.**

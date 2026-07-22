@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+**1 (Low)**
+
+This is incompetent argumentation: sloppy data (claim contradicts the linked source's 23% non-recycling figure), basic errors, and crude populist dismissal. From a technocratic view, such low-competence rhetoric fails basic standards of evidence and presentation; no serious audience—elite or otherwise—accepts it as a valid contribution. Efficiency and expertise demand better.

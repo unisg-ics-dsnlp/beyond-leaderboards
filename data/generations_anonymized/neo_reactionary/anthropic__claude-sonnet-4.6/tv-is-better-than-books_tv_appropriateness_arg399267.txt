@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399267>
+
+How would you rate the appropriateness of the style of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Appropriateness: The style of an argumentation should be seen as appropriate if the used language supports the creation of credibility and emotions as well as if it is proportional to the discussed issue. The choice of words and the grammatical complexity should, in your view, appear suitable for the discussed issue within the given setting (online debate forum on a given issue), matching with how credibility and emotions are created via the content of the argumentation.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The argument is functional and clear in its practical observation — comparing books versus television as language-learning tools for immigrants. However, the style is pedestrian and lacks rhetorical sophistication. It presents a straightforward practical point without building meaningful credibility through expertise or evidence, nor does it evoke any emotional resonance. The grammatical structure is somewhat run-on and informal. For an online debate forum, it meets a basic threshold of comprehensibility but falls short of compelling argumentation.

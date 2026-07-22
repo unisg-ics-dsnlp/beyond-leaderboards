@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219245>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+**Global Acceptability: 2 (Medium)**
+
+These market-scale facts are relevant to consider when exposing bottled water’s commodification of the commons and its ecological footprint (plastic waste, energy, water extraction). Everyone in a serious discussion of sustainability can accept their inclusion as evidence of industry explosion. However, the sloppy phrasing, incomplete claims (“U.S. alone grew”), and redundant numbers lower the quality of how they are stated, preventing a high rating.

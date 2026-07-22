@@ -1,0 +1,28 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219225>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argumentation is weak on several grounds:
+
+- **Economic reasoning is superficial** — claiming bottled water "helps the economy" during recession is vague and unsupported with meaningful data.
+- **Statistical errors** — "less than 1% of world's wastes" contains a formatting error and lacks a credible citation.
+- **Source credibility is compromised** — citing Nestlé Waters' own corporate website is a clear conflict of interest; this is industry self-promotion, not neutral evidence.
+- **The recycling claim is muddled** — the PET statistic is garbled and unclear in its actual point.
+- **No engagement with opposing concerns** — environmental, health, or community stewardship arguments are entirely ignored.
+
+From my perspective, a sound argument should reflect careful reasoning ordered toward the **common good** — including stewardship of God's creation and responsibility to future generations. This argument prioritizes short-term economic convenience over those deeper duties, and does so poorly even on its own terms.
+
+**Overall: Low quality.**

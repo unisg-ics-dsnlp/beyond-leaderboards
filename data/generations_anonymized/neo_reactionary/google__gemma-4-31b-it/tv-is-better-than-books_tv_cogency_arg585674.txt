@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg585674>
+
+How would you rate the cogency of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Cogency: An argument should be seen as cogent if it has individually acceptable premises that are relevant to the argument’s conclusion and that are sufficient to draw the conclusion. Try to adequately weight your judgments about local acceptability, local relevance, and local sufficiency when judging about cogency—unless there is a particular dimension among these that dominates your view of an argument. Accordingly, if you identify more than one argument, try to adequately weight the cogency of each argument when judging about their "aggregate" cogency—unless there is a particular argument that dominates your view of the author’s argumentation.
+
+----------------------------------
+
+**Cogency: 1 (Low)**
+
+The argument prioritizes emotional immediacy and speed over depth and synthesis. From a meritocratic perspective, "power" and "immediacy" are populist metrics, not indicators of competence or truth. 
+
+TV provides a curated, superficial stream of data that appeals to the lowest common denominator. Books, while time-consuming, allow for the rigorous analysis and long-term thinking required by a true elite. Efficiency is not merely speed; it is the optimization of outcome. Replacing deep understanding with visual stimulation is a degradation of intellectual competence.

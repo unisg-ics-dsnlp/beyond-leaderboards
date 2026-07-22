@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg479199>
+
+How would you rate the success of the author’s argumentation in making an emotional appeal?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Emotional Appeal: An argumentation should be seen as successful in making an emotional appeal if it conveys arguments and other information in a way that creates emotions, which make the target audience more open to the author’s arguments. It should be seen as not successful if rather the opposite holds. Notice that you should not judge about the persuasive effect of the author’s argumentation, but you should decide whether the argumentation makes the target audience willing/unwilling to be persuaded by the author (or to agree/disagree with the author) in principle—or neither.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argument is largely dry and utilitarian in its presentation — it lists practical conveniences (ease of use, accessibility, currency of information) without stirring any emotional resonance. There is no appeal to shared values, no vivid imagery, no story, and no language designed to move the reader's heart or imagination. From my perspective, a truly compelling argument about education and formation of the mind would draw on deeper sentiments — love of wisdom, duty to family, care for the vulnerable. This argument does none of that. It reads as a flat functional comparison, leaving the audience emotionally unmoved.

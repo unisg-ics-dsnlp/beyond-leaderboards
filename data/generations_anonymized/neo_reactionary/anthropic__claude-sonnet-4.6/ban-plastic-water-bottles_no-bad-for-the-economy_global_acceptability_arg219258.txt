@@ -1,0 +1,27 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argumentation is poorly constructed and would not be broadly acceptable even to its intended audience. Key flaws:
+
+- **Internal contradiction**: The argument simultaneously claims the ban would "hurt big corporations" while also framing corporate losses as the primary economic harm — these undermine each other rhetorically.
+- **Weak economic reasoning**: Job losses of "hundreds" is a trivially small figure in macroeconomic terms; no serious analyst would accept this as a severe economic threat.
+- **No substantive evidence**: The cited URL appears to be a corporate source with no actual data presented from it.
+- **Logical slippage**: The conclusion ("banning them would only hurt big corporations") contradicts the earlier claim that it would hurt the broader economy.
+
+From my perspective, this argument also fails on competence grounds — it reflects exactly the kind of shallow, populist economic reasoning that emerges when technical analysis is replaced by emotional appeals. A technocratically sound argument would require rigorous economic modeling, not anecdotal corporate sympathy.
+
+The argument lacks the analytical rigor to be acceptable across any serious audience.

@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219259>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+Rating: 2 (Medium)
+
+The logic is practical, but the focus is wrong. While the logistics of bottled water make sense for short-term relief, this argument smells like a "globalist" band-aid. We shouldn't be talking about how to efficiently ship plastic bottles to other countries; we should be talking about national sovereignty and the responsibility of those nations to build their own infrastructure. I'll give it a 2 for basic common sense, but it lacks a vision of self-reliance.

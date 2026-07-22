@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+**Global Acceptability: 1 (Low)**
+
+From my perspective, the argumentation is logically flawed and factually suspect. The author claims a recycling rate of 86-88%, yet the linked source suggests a much lower figure (implying only a fraction of Americans recycle). 
+
+More importantly, the "more than half" justification is a logical non-sequitur. Whether a majority or minority recycles is irrelevant to the core issue of property rights and externalities. If plastic bottles are disposed of on someone else's land without consent, it is a violation of property rights regardless of the average. The argument fails both on factual consistency and logical coherence, making it unacceptable to any rational audience.

@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg470033>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+Overall quality: 1 (Low)
+
+The argument is anecdotal and lacks rigorous evidence. While the author correctly identifies that individuals should manage their own consumption (avoiding paternalism), the "surveys" are cited without sources, and the logic is simplistic. From my perspective, the most important point is the implicit right of the individual to choose their own method of learning, but as a piece of formal argumentation, it is weak.

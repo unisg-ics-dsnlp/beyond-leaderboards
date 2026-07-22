@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg376774>
+
+How would you rate the clarity of the style of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Clarity: The style of an argumentation should be seen as clear if it uses gramatically correct and widely unambiguous language as well as if it avoids unnecessary complexity and deviation from the discussed issue. The used language should make it easy for you to understand without doubts what the author argues for and how.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The argument is grammatically simple and broadly understandable — the author clearly prefers TV for its passive, sedentary access to the world. However, the phrase "explore the world" is notably **ambiguous**: does it mean watching nature documentaries, travel shows, or something else? "Explore" implies active engagement, which sitting on a couch fundamentally contradicts, creating a slight internal tension that muddies the message.
+
+The argument is short and readable, but lacks enough precision to score as fully clear.

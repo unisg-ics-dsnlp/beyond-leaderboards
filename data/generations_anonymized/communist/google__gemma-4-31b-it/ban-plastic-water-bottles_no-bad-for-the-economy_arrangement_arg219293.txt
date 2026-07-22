@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the arrangement of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Arrangement: An argumentation should be seen as well-arranged if it presents the given issue, the composed arguments, and its conclusion in the right order. Usually, the general issue and the particularly discussed topics should be clear before arguing and concluding about them. Notice, however, that other orderings may be used on purpose and may still be suitable to achieve persuasion. Besides, notice that, within the given setting (online debate forum on a given issue), some parts may be clear (e.g., the issue) and thus left implicit.
+
+----------------------------------
+
+Rating: 1 (Low)
+
+The arrangement is logically flawed and intellectually dishonest. Beyond the poor structure, the argument serves as a bourgeois distraction. It focuses on individual consumer habits—recycling—to mask the systemic crisis of overproduction and the ecological devastation caused by private corporations owning the means of production. By framing the issue around a percentage of "recycling" rather than the abolition of the profit motive that necessitates plastic waste, the author obscures the material reality of capitalist exploitation of the planet.

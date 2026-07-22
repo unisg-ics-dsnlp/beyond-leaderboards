@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg585674>
+
+How would you rate the appropriateness of the style of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Appropriateness: The style of an argumentation should be seen as appropriate if the used language supports the creation of credibility and emotions as well as if it is proportional to the discussed issue. The choice of words and the grammatical complexity should, in your view, appear suitable for the discussed issue within the given setting (online debate forum on a given issue), matching with how credibility and emotions are created via the content of the argumentation.
+
+----------------------------------
+
+**2 (Medium)**
+
+The style uses simple, emotional language and vivid disaster imagery (Japan, Alabama, Missouri) that effectively stirs feelings of immediacy and human impact—aligning with stewardship concerns over ecological harm and survivor suffering. In an online debate forum, this casual tone and clichés create accessible emotion without overcomplicating. However, it lacks depth for credibility on serious planetary issues (e.g., climate-linked extremes or nuclear risks), dismissing books as "too much time" in a way that undercuts intergenerational justice and thoughtful ecological integrity. Proportional enough for the setting, but not fully suitable for fostering precautionary, sustainable reflection.

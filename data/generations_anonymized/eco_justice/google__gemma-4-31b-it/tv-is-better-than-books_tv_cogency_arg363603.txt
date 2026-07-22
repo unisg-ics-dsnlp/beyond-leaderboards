@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg363603>
+
+How would you rate the cogency of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Cogency: An argument should be seen as cogent if it has individually acceptable premises that are relevant to the argument’s conclusion and that are sufficient to draw the conclusion. Try to adequately weight your judgments about local acceptability, local relevance, and local sufficiency when judging about cogency—unless there is a particular dimension among these that dominates your view of an argument. Accordingly, if you identify more than one argument, try to adequately weight the cogency of each argument when judging about their "aggregate" cogency—unless there is a particular argument that dominates your view of the author’s argumentation.
+
+----------------------------------
+
+Rating: 1 (Low)
+
+The argument is not cogent. It relies on subjective convenience and entertainment value, which are irrelevant to the actual quality of information or the ecological cost of the medium. From a stewardship perspective, the author ignores the systemic energy demands and electronic waste associated with TV compared to the sustainability of books. The premises are insufficient to prove "better," as they prioritize instant gratification over deep learning and planetary boundaries.

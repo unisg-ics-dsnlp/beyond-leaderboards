@@ -1,0 +1,16 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219206>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**2 (Medium).** The argument gives several relevant considerations—jobs, consumer safety, traceability, and alternatives to plastic—but it largely asserts rather than demonstrates its central claims. It also treats economic benefit as decisive without seriously weighing environmental stewardship, public health, and the common good. The cited sources may support some factual points, but the reasoning needs more balanced evidence and clearer engagement with the costs of bottled-water consumption.

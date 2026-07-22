@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219225>
+
+How would you rate the effectiveness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Effectiveness: An argumentation should be seen as effective if it achieves to persuade you of the author’s stance on the discussed issue or—in case you already agreed with the stance before—if it corroborates your agreement with the stance. Besides the actual arguments, also take into consideration the credibility and the emotional force of the argumentation. Decide in dubio pro reo, i.e., if you have no doubt about the correctness of the author’s arguments, then do not judge him or her to be not effective—unless you explicitly think that the arguments do not support the author’s stance.
+
+----------------------------------
+
+Effectiveness: 2 (Medium)
+
+From my perspective, the author's conclusion—that banning bottled water is a mistake—is absolutely correct because a ban is an act of state coercion that violates property rights and the principle of voluntary exchange. 
+
+However, the author's *argumentation* is weak. Relying on "helping the economy" is a collectivist justification; the real argument is that the state has no legitimate authority to forbid a peaceful transaction between consenting adults. While the data on recycling addresses externalities, the primary moral weight lies in the Non-Aggression Principle. The author reaches the right conclusion but for the wrong reasons.

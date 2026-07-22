@@ -1,0 +1,16 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**1 (Low)** — The argument appears to misstate or oversimplify the cited statistic, offers only “more than half” as a defense without addressing whether the remaining non-recycling rate is significant, and treats recycling criticism as all-or-nothing. A competent assessment would distinguish participation rates from actual recycling outcomes and waste volumes.

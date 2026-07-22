@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg585674>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+**Global Acceptability: 2 (Medium)**
+
+The stated points (immediacy of images, speed of TV) are common-sense considerations most audiences would allow into a media discussion without offense. Yet from a Religious-Conservative view they remain only partially acceptable: they treat information as mere sensation rather than ordered truth, slight the slower, contemplative wisdom of books that form conscience and virtue, and risk elevating spectacle over the sanctity of deeper reflection and family formation. The manner is plain enough, but the framing undervalues tradition and moral depth.

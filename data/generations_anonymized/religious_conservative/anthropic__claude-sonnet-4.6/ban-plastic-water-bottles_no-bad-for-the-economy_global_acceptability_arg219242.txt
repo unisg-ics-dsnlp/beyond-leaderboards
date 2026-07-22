@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219242>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argument is poorly constructed and lacks logical coherence. The connection between banning water bottles and economic recession is never established or explained. A sound argument — by any reasonable standard — must provide clear reasoning linking the premise to the conclusion.
+
+From my perspective, good argumentation reflects the natural law principle that reason should guide our discourse. This statement fails even that basic threshold. It would not be broadly acceptable to any thoughtful audience, regardless of ideological persuasion.

@@ -1,0 +1,28 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the global sufficiency of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Sufficiency: An argumentation should be seen as globally sufficient if it adequately rebuts those counter-arguments to its conclusion that can be anticipated. Notice that it is not generally clear which and how many counter-arguments can be anticipated. There may be cases where it is infeasible to rebut all such objections. Please judge about global sufficiency according to whether all main objections of an argumentation that you see are rebutted.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From an Eco-Justice perspective, this argument is deeply insufficient. It fails to rebut the most obvious and critical counter-arguments:
+
+- **No engagement with ecological harm**: It completely ignores the massive plastic pollution crisis, microplastics in ecosystems, and the burden shifted onto future generations — core concerns any serious debate must address.
+
+- **No response to the commons argument**: Corporations like Nestlé extracting and commodifying public water resources at the expense of communities and ecosystems is a glaring counter-argument left entirely unaddressed.
+
+- **Economic framing is narrow and self-serving**: Citing corporate profit losses as the primary harm inverts the polluter-pays principle — those causing ecological damage shouldn't be shielded from accountability by economic arguments.
+
+- **No precautionary reasoning**: The argument makes no attempt to weigh irreversible environmental risks against economic disruption, which is a fundamental omission.
+
+The argument essentially defends reckless exploitation of the commons while ignoring the stewardship duties and intergenerational justice concerns that any globally sufficient rebuttal would need to confront. It reads more as corporate interest advocacy than a substantive argument.

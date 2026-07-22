@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219245>
+
+How would you rate the appropriateness of the style of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Appropriateness: The style of an argumentation should be seen as appropriate if the used language supports the creation of credibility and emotions as well as if it is proportional to the discussed issue. The choice of words and the grammatical complexity should, in your view, appear suitable for the discussed issue within the given setting (online debate forum on a given issue), matching with how credibility and emotions are created via the content of the argumentation.
+
+----------------------------------
+
+Rating: 2 (Medium)
+
+The author relies heavily on raw data and statistics to establish credibility, which is a prudent approach to factual claims. However, the style is purely clinical and lacks a moral or teleological framework. While the numbers are clear, the argumentation fails to connect these facts to the common good or the stewardship of natural resources, leaving the reader without a sense of the issue's actual significance or moral weight.

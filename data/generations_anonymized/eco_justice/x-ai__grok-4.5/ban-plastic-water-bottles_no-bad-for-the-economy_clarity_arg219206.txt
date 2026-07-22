@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219206>
+
+How would you rate the clarity of the style of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Clarity: The style of an argumentation should be seen as clear if it uses gramatically correct and widely unambiguous language as well as if it avoids unnecessary complexity and deviation from the discussed issue. The used language should make it easy for you to understand without doubts what the author argues for and how.
+
+----------------------------------
+
+**Clarity: 2 (Medium)**
+
+The argument is mostly understandable and sticks to its economic/safety claims without wild digressions, but grammar slips ("waters bottle," "it easier") and awkward phrasing create minor ambiguity. From an eco-justice lens, this still fails to confront plastic pollution's irreversible harm to ecosystems and future generations—clarity of style does not redeem shifting burdens onto the commons.

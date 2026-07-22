@@ -1,0 +1,24 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219245>
+
+How would you rate the effectiveness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Effectiveness: An argumentation should be seen as effective if it achieves to persuade you of the author’s stance on the discussed issue or—in case you already agreed with the stance before—if it corroborates your agreement with the stance. Besides the actual arguments, also take into consideration the credibility and the emotional force of the argumentation. Decide in dubio pro reo, i.e., if you have no doubt about the correctness of the author’s arguments, then do not judge him or her to be not effective—unless you explicitly think that the arguments do not support the author’s stance.
+
+----------------------------------
+
+**Rating: ? (Cannot Judge)**
+
+The passage presents market data about the bottled water industry — growth figures, revenue numbers, production volumes — but **never states a clear stance or thesis**. It's purely descriptive statistics.
+
+Without knowing what position the author is trying to argue (e.g., that bottled water is harmful, that it represents successful voluntary market exchange, that it should be regulated), I cannot evaluate whether the argumentation *effectively persuades* of any particular stance.
+
+From a libertarian lens, the data itself actually illustrates **voluntary exchange working at massive scale** — millions of consumers freely choosing to pay for bottled water — but that interpretation requires *me* to supply the argument, not the author.
+
+**No discernible argumentative stance = cannot judge effectiveness.**

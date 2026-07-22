@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219245>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+**Reasoning:** The author presents mere statistics of capital accumulation without addressing the underlying exploitation. To celebrate the "explosion" of a $35 billion industry is to celebrate the commodification of a basic human necessity. This is a textbook example of the bourgeoisie extracting surplus value from the proletariat by privatizing the means of survival. The argument is unreasonable because it views the growth of private profit as a success, ignoring the alienation of the masses from their own natural resources.

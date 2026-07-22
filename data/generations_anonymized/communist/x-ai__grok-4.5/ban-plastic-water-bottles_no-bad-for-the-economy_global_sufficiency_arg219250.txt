@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219250>
+
+How would you rate the global sufficiency of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Sufficiency: An argumentation should be seen as globally sufficient if it adequately rebuts those counter-arguments to its conclusion that can be anticipated. Notice that it is not generally clear which and how many counter-arguments can be anticipated. There may be cases where it is infeasible to rebut all such objections. Please judge about global sufficiency according to whether all main objections of an argumentation that you see are rebutted.
+
+----------------------------------
+
+**Global Sufficiency: 1 (Low)**
+
+This bourgeois apology for commodified water fails utterly. Conceding waste while waving "reuse" does not rebut the core counters: plastic production still extracts surplus value and pollutes under private ownership of the means; most bottles are never reused at scale; and it leaves untouched the class reality that bottled water privatizes a common need, alienating workers from free access while the bourgeoisie profits. No systemic rebuttal of exploitation or call for collective control of water resources—mere reformist distraction.

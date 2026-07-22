@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg479199>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+**1 (Low)**
+
+This argumentation prioritizes mass convenience, passive accessibility, and ephemeral "updates" over rigorous competence, deep expertise, and hierarchical knowledge transmission. Books demand and cultivate elite cognitive effort; TV caters to the lowest common denominator and short-term popular sentiment. The claims are shallow, factually weak (TV accuracy is often lower due to media incentives; books update via editions/expertise), and reject technocratic standards of quality. Such populist framing is not globally acceptable to any audience valuing results over ease.

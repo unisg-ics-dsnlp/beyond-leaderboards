@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219225>
+
+How would you rate the sufficiency of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Sufficiency: The premises of an argument should be seen as sufficient if, together, they provide enough support to make it rational to draw the argument’s conclusion. If you identify more than one conclusion in the comment, try to adequately weight the sufficiency of the premises for each conclusion when judging about their "aggregate" sufficiency—unless there are particular premises or conclusions that dominate your view of the author’s argumentation. Notice that you may see premises as sufficient even though you do not personally accept all of them, i.e., sufficiency does not presuppose acceptability.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The premises are insufficient because they prioritize the "economy"—which is merely a veil for the profitability of the bourgeoisie—over the material needs of the people and the planet. To argue that the extraction of surplus value by corporations like Nestlé "helps" the economy is to confuse the enrichment of capital owners with the well-being of the proletariat. Furthermore, relying on "recycling" is a bourgeois distraction that fails to address the systemic exploitation of nature and the alienation of the worker. The argument serves the interests of private property, not the collective good.

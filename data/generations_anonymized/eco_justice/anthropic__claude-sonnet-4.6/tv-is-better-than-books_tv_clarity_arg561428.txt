@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg561428>
+
+How would you rate the clarity of the style of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Clarity: The style of an argumentation should be seen as clear if it uses gramatically correct and widely unambiguous language as well as if it avoids unnecessary complexity and deviation from the discussed issue. The used language should make it easy for you to understand without doubts what the author argues for and how.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The writing is grammatically poor, uses informal punctuation (,,!!) inappropriately, and lacks coherent sentence structure. The argument is difficult to parse with confidence — it's unclear whether the author is advocating *for* TV, *against* books, or simply making a neutral comparison. The language does not meet basic standards of clarity or precision.

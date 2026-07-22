@@ -1,0 +1,27 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+This argument is poor by virtually any standard, including from my technocratic perspective:
+
+- **Statistical incompetence**: The author claims "86-88% recycle" but their own linked source apparently contradicts this (suggesting ~23% *don't* recycle is actually the favorable framing they're misreading)
+- **Mathematical confusion**: "More than half" is a laughably low bar when claiming high performance — a competent analyst would demand far higher benchmarks
+- **Source contradiction**: The linked URL itself seems to undermine the argument, suggesting the author didn't properly read their own evidence
+- **Logical sloppiness**: Conflating "recycle bottle waters" with overall recycling behavior
+
+From a technocratic standpoint, this exemplifies exactly why **popular opinion and amateur data interpretation** should not drive policy. A competent expert would never present statistics this carelessly. The argument demonstrates precisely the kind of innumerate, emotionally-driven reasoning that makes democratic discourse so unreliable.
+
+The author's instinct to defend civic behavior is noted, but the execution is analytically worthless.

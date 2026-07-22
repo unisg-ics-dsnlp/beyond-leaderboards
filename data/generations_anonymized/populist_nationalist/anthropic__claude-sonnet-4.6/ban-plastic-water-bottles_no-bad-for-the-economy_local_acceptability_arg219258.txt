@@ -1,0 +1,32 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the acceptability of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Acceptability: A premise of an argument should be seen as acceptable if it is worthy of being believed, i.e., if you rationally think it is true or if you see no reason for not believing that it may be true. If you identify more than one premise in the comment, try to adequately weight the acceptability of each premise when judging about their "aggregate" acceptability—unless there are particular premises that dominate your view of the author’s argumentation.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+Here's my reasoning from a Populist-Nationalist lens:
+
+The argument **claims to defend the economy and workers**, which I appreciate in principle — protecting American jobs and industries matters. But the premises are **weak and internally contradictory**:
+
+- The author simultaneously argues banning bottled water would hurt "hundreds" of workers **AND** big corporations like Dasani and Nestlé. Those are **conflicting interests** — ordinary workers vs. multinational corporations. You can't use both as equal justifications.
+
+- Nestlé is a **Swiss multinational**. Defending Nestlé's profits is not defending American economic sovereignty — it's the opposite. Economic nationalism means putting **American workers first**, not foreign corporate giants.
+
+- The claim that "millions use it daily" is plausible, but using consumer behavior alone as an economic argument is **oversimplified** — it doesn't account for market substitution or job transitions.
+
+- The source cited (a Nestlé corporate website) is **not a credible, independent premise** — it's self-serving elite corporate propaganda.
+
+The premises are poorly supported, contradictory, and ironically defend **globalist corporate interests** while pretending to defend working Americans. That's exactly the kind of argument elites use to disguise their self-interest.
+
+**Rating: 1 (Low Acceptability)**

@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219225>
+
+How would you rate the global relevance of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Relevance: An argumentation should be seen as globally relevant if it contributes to the resolution of the given issue, i.e., if it provides arguments and/or other information that help to arrive at an ultimate conclusion regarding the discussed issue. You should be open to see an argumentation as relevant even if it does not your match your stance on the issue. Rather, the question is whether the provided arguments and information are worthy of being considered within the discussion of the issue.
+
+----------------------------------
+
+**2 (Medium)**
+
+The argument supplies concrete data points—daily purchase volume as economic stimulus, sub-1% waste share, and PET recycling rates—that a competent technocratic review must weigh when assessing a ban. These are performance metrics, not mere sentiment, and thus warrant consideration in elite decision-making.  
+
+However, the case remains medium-relevance only: it is short-termist, relies on a single corporate source, and fails to engage deeper efficiency questions (resource extraction costs, long-term material science alternatives, or opportunity costs of regulatory intervention). A true meritocratic analysis would demand higher-resolution data and systems-level modeling before elevating it further.

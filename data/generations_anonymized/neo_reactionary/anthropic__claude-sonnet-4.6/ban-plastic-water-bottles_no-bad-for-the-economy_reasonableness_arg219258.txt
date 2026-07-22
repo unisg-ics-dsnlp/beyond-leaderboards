@@ -1,0 +1,30 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From my perspective, this argument is poorly constructed even by basic standards of argumentation:
+
+- **Logical contradiction**: The author simultaneously claims the ban would hurt "big corporations" and "the economy severely," then undermines their own point by noting it would "only hurt big corporations" — these claims conflict.
+
+- **Weak economic reasoning**: Job losses of "hundreds" is trivially small in macroeconomic terms. No serious technocratic analysis would treat this as a decisive economic argument.
+
+- **No data or expert backing**: The cited source (a Nestlé corporate page) is a transparently self-interested source — hardly the kind of expert, data-driven evidence that should anchor a policy argument.
+
+- **Ignores counterweights**: A competent argument would weigh economic costs against environmental externalities, infrastructure costs, and long-term resource management — precisely the kind of long-term thinking that separates elite analysis from populist sentiment.
+
+The argument essentially amounts to corporate interest advocacy dressed as economic reasoning, without the analytical rigor required for serious policy discourse. It fails on sufficiency, credibility of sources, and internal consistency.
+
+**1 (Low)** is the appropriate rating.

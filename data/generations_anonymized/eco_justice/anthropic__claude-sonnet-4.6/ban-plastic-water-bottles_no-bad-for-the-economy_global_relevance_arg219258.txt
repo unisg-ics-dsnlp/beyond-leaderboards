@@ -1,0 +1,25 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the global relevance of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Relevance: An argumentation should be seen as globally relevant if it contributes to the resolution of the given issue, i.e., if it provides arguments and/or other information that help to arrive at an ultimate conclusion regarding the discussed issue. You should be open to see an argumentation as relevant even if it does not your match your stance on the issue. Rather, the question is whether the provided arguments and information are worthy of being considered within the discussion of the issue.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+While economic impact *is* a legitimate consideration in policy debates, this argument fails to achieve global relevance for several reasons:
+
+- It focuses narrowly on **corporate profits and jobs** — a highly localized, industry-specific concern — without connecting to the broader systemic issues at stake (plastic pollution, water commons governance, ecological harm).
+- The argument **conflates corporate financial loss with genuine public harm**, which is a weak basis for policy conclusions.
+- It ignores the **global dimensions** of bottled water debates: plastic waste in oceans, privatization of water commons, and resource extraction impacts on communities worldwide.
+- The cited source (Nestlé's own corporate website) undermines credibility and suggests a narrow, self-interested framing rather than a contribution to genuine resolution of the issue.
+
+From an eco-justice lens, an argument that centers **corporate revenue over planetary stewardship and commons governance** contributes little to resolving the deeper question of whether bottled water should be banned. It doesn't engage with the strongest reasons *for* a ban, nor does it offer a substantive counterweight worthy of serious deliberation.

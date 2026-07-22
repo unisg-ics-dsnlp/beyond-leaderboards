@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219244>
+
+How would you rate the arrangement of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Arrangement: An argumentation should be seen as well-arranged if it presents the given issue, the composed arguments, and its conclusion in the right order. Usually, the general issue and the particularly discussed topics should be clear before arguing and concluding about them. Notice, however, that other orderings may be used on purpose and may still be suitable to achieve persuasion. Besides, notice that, within the given setting (online debate forum on a given issue), some parts may be clear (e.g., the issue) and thus left implicit.
+
+----------------------------------
+
+I would rate this argument **1 (Low)** for arrangement.
+
+The argument starts with a relevant statistic, offers a cultural-historical explanation, but then abruptly ends with "The water bottles they buy help us" — a conclusion that is vague, unexplained, and disconnected from what preceded it. It's unclear *who* "us" refers to, *how* the bottles help, or what the overarching point is. The logical chain is broken, and the conclusion feels like it belongs to a different argument entirely. There is no coherent structure leading the reader from premise to conclusion.

@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219242>
+
+How would you rate the arrangement of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Arrangement: An argumentation should be seen as well-arranged if it presents the given issue, the composed arguments, and its conclusion in the right order. Usually, the general issue and the particularly discussed topics should be clear before arguing and concluding about them. Notice, however, that other orderings may be used on purpose and may still be suitable to achieve persuasion. Besides, notice that, within the given setting (online debate forum on a given issue), some parts may be clear (e.g., the issue) and thus left implicit.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The statement is structurally deficient by any reasonable standard. It presents what appears to be a conclusion ("ban water bottles") contingent on an economic condition ("until we get out of this recession"), but offers **no preceding argumentation, no issue framing, and no logical scaffolding** to support the claim.
+
+From a technocratic standpoint, this is precisely the kind of poorly reasoned populist assertion that illustrates why unfiltered public discourse fails — no data, no expert grounding, no causal mechanism explained. The arrangement is essentially nonexistent.

@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219250>
+
+How would you rate the global relevance of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Relevance: An argumentation should be seen as globally relevant if it contributes to the resolution of the given issue, i.e., if it provides arguments and/or other information that help to arrive at an ultimate conclusion regarding the discussed issue. You should be open to see an argumentation as relevant even if it does not your match your stance on the issue. Rather, the question is whether the provided arguments and information are worthy of being considered within the discussion of the issue.
+
+----------------------------------
+
+Rating: 1 (Low)
+
+The argument is a bourgeois distraction. It focuses on individual consumer habits—reusing a bottle—rather than the systemic exploitation of a basic human necessity for private profit. The issue is not the bottle, but the private ownership of the means of water distribution. To suggest "reuse" as a solution ignores the material reality of capitalist waste and the need for collective, public control of water resources.

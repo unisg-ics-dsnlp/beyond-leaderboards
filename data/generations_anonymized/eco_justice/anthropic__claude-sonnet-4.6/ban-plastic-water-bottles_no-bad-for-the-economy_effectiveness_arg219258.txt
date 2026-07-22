@@ -1,0 +1,30 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the effectiveness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Effectiveness: An argumentation should be seen as effective if it achieves to persuade you of the author’s stance on the discussed issue or—in case you already agreed with the stance before—if it corroborates your agreement with the stance. Besides the actual arguments, also take into consideration the credibility and the emotional force of the argumentation. Decide in dubio pro reo, i.e., if you have no doubt about the correctness of the author’s arguments, then do not judge him or her to be not effective—unless you explicitly think that the arguments do not support the author’s stance.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From an Eco-Justice Environmentalist perspective, this argument is deeply ineffective for several reasons:
+
+- **Narrow framing**: It reduces a complex ecological issue purely to corporate profit and jobs, ignoring the massive environmental costs of plastic pollution, resource extraction, and ecosystem degradation.
+
+- **Inverted priorities**: Defending Dasani and Nestlé's profits while millions face water insecurity is morally backwards. These corporations are among the most egregious exploiters of the **commons** — freshwater resources that belong to all.
+
+- **No engagement with harm**: The argument completely ignores plastic waste, microplastic contamination, and the burden these costs shift onto **future generations** — a direct violation of intergenerational justice.
+
+- **Weak credibility**: Citing a Nestlé corporate website as a source is a textbook conflict of interest. The **polluter pays** principle demands we scrutinize, not amplify, industry self-interest.
+
+- **Logical inconsistency**: Claiming a ban "would only hurt big corporations" while simultaneously arguing it would devastate the economy contradicts itself.
+
+The argument fails to persuade on ecological, ethical, or even economic grounds. It prioritizes short-term corporate gain over **planetary stewardship** — precisely the kind of reasoning that perpetuates ecological crisis.

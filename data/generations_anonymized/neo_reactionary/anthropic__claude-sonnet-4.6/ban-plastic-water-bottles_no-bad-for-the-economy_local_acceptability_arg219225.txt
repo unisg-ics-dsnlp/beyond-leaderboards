@@ -1,0 +1,26 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219225>
+
+How would you rate the acceptability of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Acceptability: A premise of an argument should be seen as acceptable if it is worthy of being believed, i.e., if you rationally think it is true or if you see no reason for not believing that it may be true. If you identify more than one premise in the comment, try to adequately weight the acceptability of each premise when judging about their "aggregate" acceptability—unless there are particular premises that dominate your view of the author’s argumentation.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From a technocratic standpoint, the premises here are weak and poorly substantiated:
+
+- The **economic argument** ("helping the economy come out of recession") is vague and anecdotal — no rigorous data, no causal mechanism established. A competent analyst would dismiss this immediately.
+- The **waste percentage claim** appears statistically dubious and is sourced from a **Nestlé corporate website** — a transparently self-interested source with zero epistemic credibility.
+- The recycling claim, even if partially accurate, conflates *recyclability* with *actual recycling rates* — a fundamental analytical error.
+
+The argument relies on **popular sentiment and imprecise reasoning** rather than expert-level data analysis. This is precisely the kind of low-quality public discourse that illustrates why technical decisions should not be driven by popular opinion. The premises are either unverified, industry-biased, or logically incomplete.
+
+**Low acceptability.**

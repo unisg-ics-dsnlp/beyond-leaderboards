@@ -1,0 +1,25 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219244>
+
+How would you rate the global relevance of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Relevance: An argumentation should be seen as globally relevant if it contributes to the resolution of the given issue, i.e., if it provides arguments and/or other information that help to arrive at an ultimate conclusion regarding the discussed issue. You should be open to see an argumentation as relevant even if it does not your match your stance on the issue. Rather, the question is whether the provided arguments and information are worthy of being considered within the discussion of the issue.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argument is poorly constructed and lacks global relevance. It makes a dubious causal claim linking European bottled water consumption to historical industrial pollution, then abruptly concludes "the water bottles they buy help us" — without specifying *who* is helped or *how*.
+
+From any rigorous analytical standpoint, this argument:
+- Presents correlation as causation without evidence
+- Leaves the conclusion dangerously vague and incomplete
+- Fails to connect to any broader resolvable issue or policy question
+
+A competent technocratic analysis requires precision and evidence-based reasoning. This argument demonstrates neither. It contributes nothing substantive to resolving whatever underlying issue is being discussed.

@@ -1,0 +1,22 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399268>
+
+How would you rate the acceptability of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Acceptability: A premise of an argument should be seen as acceptable if it is worthy of being believed, i.e., if you rationally think it is true or if you see no reason for not believing that it may be true. If you identify more than one premise in the comment, try to adequately weight the acceptability of each premise when judging about their "aggregate" acceptability—unless there are particular premises that dominate your view of the author’s argumentation.
+
+----------------------------------
+
+**Rating: 3 (High)**
+
+The premise here is essentially a factual/technical claim — that the Foxtel Go app exists and is available on iPad, allowing mobile viewing. This is an empirically verifiable statement with no reason to doubt its accuracy.
+
+From a Communist perspective, while I have deep ideological objections to the **broader implications** (commodified media, corporate control of information, workers paying for content they helped produce), the **factual premise itself** is straightforwardly acceptable. The app does exist, it does function as described.
+
+The premise is worthy of belief — it makes no distorted or misleading factual claims. My critique lies with the *system* it represents, not the accuracy of the statement itself.

@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399270>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+Overall quality: 1 (Low)
+
+The argumentation is intellectually bankrupt. It relies on trivial economic dependencies (jobs for actors) and a primitive understanding of information distribution. To suggest that "knowing what's happening" depends on a medium often used for populist distraction rather than technical precision is a failure of logic. It lacks any consideration of efficiency, data-driven utility, or the strategic curation of information by competent elites. It is a pedestrian observation, not an argument.

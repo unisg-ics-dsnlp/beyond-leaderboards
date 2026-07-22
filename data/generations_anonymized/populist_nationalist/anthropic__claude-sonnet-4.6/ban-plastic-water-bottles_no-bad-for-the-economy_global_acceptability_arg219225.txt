@@ -1,0 +1,25 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219225>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argument has serious credibility problems that would undermine its acceptability across most audiences:
+
+- **Factual errors**: The "1% of world's waste" statistic is poorly cited and likely inaccurate — plastic pollution is a well-documented major issue.
+- **Weak economic logic**: Claiming bottled water sales meaningfully help a recession is a stretch that most readers, regardless of ideology, would find unconvincing.
+- **Source credibility**: Citing Nestlé's own corporate website is a glaring conflict of interest — even from my perspective, you don't let the fox guard the henhouse.
+- **Poor presentation**: Typos, grammatical errors, and a broken citation undermine the author's authority.
+
+Even setting aside the environmental debate entirely, the **argumentation itself is sloppy and poorly supported** — and that's a problem no matter where you stand politically.

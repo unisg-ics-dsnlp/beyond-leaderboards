@@ -1,0 +1,32 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the sufficiency of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Sufficiency: The premises of an argument should be seen as sufficient if, together, they provide enough support to make it rational to draw the argument’s conclusion. If you identify more than one conclusion in the comment, try to adequately weight the sufficiency of the premises for each conclusion when judging about their "aggregate" sufficiency—unless there are particular premises or conclusions that dominate your view of the author’s argumentation. Notice that you may see premises as sufficient even though you do not personally accept all of them, i.e., sufficiency does not presuppose acceptability.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The premises are **insufficient** to support the conclusion that banning bottled water would "severely hurt the economy."
+
+Here's why the support fails even on its own logical terms:
+
+- **Job loss claims are vague and understated** — "hundreds of people" is a remarkably weak economic argument for an industry-wide ban discussion. No data, scale, or economic modeling is provided.
+
+- **Corporate profit loss ≠ economic harm** — The argument conflates harm to specific corporations (Dasani, Nestlé) with broader economic harm. These are not equivalent claims.
+
+- **Internal contradiction** — The argument simultaneously claims banning bottled water would "hurt the economy severely" *and* "only hurt big corporations" — these two premises undermine each other rather than reinforce the conclusion.
+
+- **No counterfactual reasoning** — There's no consideration of economic activity that might *replace* bottled water (infrastructure investment, reusable bottle industries, reduced healthcare costs from pollution).
+
+From an **eco-justice standpoint**, the argument also entirely ignores the externalized costs — plastic pollution, aquifer depletion, and commons exploitation — that the polluter-pays principle demands be factored in. The economic framing is **narrow, self-serving, and ecologically blind**.
+
+The premises, even taken charitably, do not come close to sustaining the conclusion.

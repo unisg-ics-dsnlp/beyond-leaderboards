@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg585674>
+
+How would you rate the success of the author’s argumentation in creating credibility?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Credibility: An argumentation should be seen as successful in creating credibility if it conveys arguments and other information in a way that makes the author worthy of credence, e.g., by indicating the honesty of the author or by revealing the author’s knowledge or expertise regarding the discussed issue. It should be seen as not successful if rather the opposite holds. Decide in dubio pro reo, i.e., if you have no doubt about the author’s credibility, then do not judge him or her to be not credible.
+
+----------------------------------
+
+Rating: 1 (Low)
+
+The author relies on subjective preference and anecdotal comparison rather than expertise or evidence. There is no demonstration of specialized knowledge or a principled framework to establish credibility; it is merely an opinion on media consumption. From my perspective, the "efficiency" of TV does not equate to the quality or truth of information, nor does it make the author a credible authority.

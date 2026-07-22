@@ -1,0 +1,22 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399270>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The argument presents functionally valid points — TV's role in employment, information dissemination, and emergency broadcasting are real, practical contributions. These are **relevant and broadly acceptable** observations that most audiences would recognize as legitimate.
+
+However, from a reasonableness standpoint, the argumentation is **superficial and insufficiently developed**. The claims are asserted rather than argued, and the comparisons to newspapers/books are crude oversimplifications. The employment argument in particular is weak — it's a circular dependency claim that could justify any industry's existence.
+
+The argument contributes *something* to resolving the issue but lacks the analytical depth to be considered highly reasonable.

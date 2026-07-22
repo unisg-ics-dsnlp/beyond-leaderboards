@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219206>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+**Global Acceptability: 1 (Low)**
+
+From an eco-justice perspective, this argument is fundamentally unacceptable. It prioritizes short-term economic profit over **ecological integrity** and the **stewardship duty**. By framing "big business" as a reason to maintain plastic production, the author ignores the **polluter pays** principle and risks **irreversible ecosystem damage**. Furthermore, suggesting "compostable" alternatives as a panacea is a reckless distraction from the need to respect **ecological limits**. Shifting the burden of plastic pollution onto future generations is a violation of **intergenerational justice**.

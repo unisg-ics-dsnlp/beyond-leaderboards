@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219244>
+
+How would you rate the global sufficiency of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Sufficiency: An argumentation should be seen as globally sufficient if it adequately rebuts those counter-arguments to its conclusion that can be anticipated. Notice that it is not generally clear which and how many counter-arguments can be anticipated. There may be cases where it is infeasible to rebut all such objections. Please judge about global sufficiency according to whether all main objections of an argumentation that you see are rebutted.
+
+----------------------------------
+
+**1 (Low)**
+
+This argument fails global sufficiency: it ignores core objections around plastic pollution, aquifer depletion, and carbon costs that violate ecological integrity and planetary boundaries. Historical pollution excuses nothing—polluters must remediate, not shift burdens via disposable bottles that harm future generations and the commons. "Helps us" is empty rhetoric that dodges stewardship duties and sustainability limits. No main counters are rebutted.

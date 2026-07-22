@@ -1,0 +1,25 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399270>
+
+How would you rate the global relevance of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Relevance: An argumentation should be seen as globally relevant if it contributes to the resolution of the given issue, i.e., if it provides arguments and/or other information that help to arrive at an ultimate conclusion regarding the discussed issue. You should be open to see an argumentation as relevant even if it does not your match your stance on the issue. Rather, the question is whether the provided arguments and information are worthy of being considered within the discussion of the issue.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The argument raises points that are *somewhat* relevant to a broader discussion about TV's value — touching on employment, information access, and emergency communication. These are legitimate considerations worth acknowledging in any debate about TV's role.
+
+However, the arguments are **weak and underdeveloped**:
+- The jobs argument is economically shallow (industries rise and fall; that alone doesn't justify anything)
+- The information access point has merit but is increasingly outdated given the internet
+- The emergency warnings point is the strongest, but barely elaborated
+
+It contributes *partially* to resolving the issue but lacks the depth and precision to be considered highly relevant.

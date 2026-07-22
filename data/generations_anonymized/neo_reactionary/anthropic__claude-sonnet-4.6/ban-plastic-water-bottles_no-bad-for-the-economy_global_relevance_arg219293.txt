@@ -1,0 +1,25 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the global relevance of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Relevance: An argumentation should be seen as globally relevant if it contributes to the resolution of the given issue, i.e., if it provides arguments and/or other information that help to arrive at an ultimate conclusion regarding the discussed issue. You should be open to see an argumentation as relevant even if it does not your match your stance on the issue. Rather, the question is whether the provided arguments and information are worthy of being considered within the discussion of the issue.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argument is globally irrelevant for several reasons:
+
+- **Statistical confusion**: The author conflates bottle water recycling rates with overall recycling behavior — a fundamental analytical error that undermines the entire claim.
+- **The linked source directly contradicts the argument** — citing 23% of Americans *not* recycling, which the author apparently misread or ignored.
+- **Narrow scope**: Even if the statistic were accurate, bottle water recycling is a marginal subset of the broader recycling discussion.
+- **Defensive rather than constructive**: The argument contributes nothing substantive to resolving the recycling issue — it merely deflects criticism.
+
+From a technocratic standpoint, this is precisely the kind of poorly-reasoned popular sentiment that should be filtered through expert analysis before entering serious discourse. It adds no meaningful data, misreads its own cited source, and advances no actionable conclusion.

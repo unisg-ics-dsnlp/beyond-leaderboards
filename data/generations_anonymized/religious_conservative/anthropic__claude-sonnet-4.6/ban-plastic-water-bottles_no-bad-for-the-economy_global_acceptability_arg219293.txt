@@ -1,0 +1,24 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argument suffers from serious credibility problems that undermine its global acceptability:
+
+- **Factual misrepresentation**: The author claims "86-88% recycle bottle waters," yet the linked source apparently indicates ~23% of Americans *don't* recycle — a very different statistic, and the author's numbers don't align with the cited source.
+- **Logical error**: Even if the statistic were accurate, "more than half" is a low bar for stewardship — a value I'd associate with our duty of care over creation.
+- **Rhetorical tone**: The dismissive "stop complaining" framing is unlikely to persuade any reasonable audience member, regardless of ideology.
+
+A sound argument requires honest use of evidence and respectful engagement — basic standards of right reason that this argument fails to meet.

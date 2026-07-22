@@ -1,0 +1,28 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argument has several critical flaws that undermine its global acceptability:
+
+1. **Factual contradiction**: The author claims "86-88% recycle bottle waters," yet their own cited source suggests ~23% of Americans *don't* recycle — which directly contradicts their inflated statistic.
+
+2. **Logical fallacy**: "More than half" is presented as sufficient justification to dismiss criticism entirely — a weak threshold for environmental responsibility.
+
+3. **Defensive dismissiveness**: The tone ("stop complaining") shuts down legitimate discourse rather than engaging with it constructively.
+
+From a materialist perspective, this argument also obscures the *structural* problem — the capitalist system that mass-produces single-use plastics for profit while placing the burden of environmental responsibility on individual workers/consumers rather than the bourgeois corporations that profit from this waste.
+
+The argument would not be broadly accepted even by its intended audience given its internal inconsistency with its own cited source.

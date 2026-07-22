@@ -1,0 +1,27 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219242>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From a libertarian perspective, this argument is deeply unreasonable on multiple levels:
+
+- **Banning water bottles** is an act of coercion against peaceful individuals exercising their property rights and voluntary exchange — unjustifiable under virtually any circumstances, let alone a temporary economic condition.
+- The **causal logic is absent**: no mechanism is offered explaining how banning water bottles relates to resolving a recession. It fails basic relevance standards.
+- Using a **recession as justification** for restricting liberty inverts proper reasoning — economic hardship is typically an argument *for* more freedom, not less.
+- The framing implies the ban is *currently desired but temporarily suspended*, which is itself alarming — it suggests coercion is the default, merely paused for pragmatic reasons.
+
+The argument contributes nothing meaningful to resolving any legitimate issue, is logically incoherent, and rests on a premise (state prohibition of consumer goods) that violates the non-aggression principle. It would not be acceptable even to a broad, non-libertarian audience expecting basic logical coherence.
+
+**1 (Low)**

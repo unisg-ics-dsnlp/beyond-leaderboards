@@ -1,0 +1,22 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219245>
+
+How would you rate the success of the author’s argumentation in making an emotional appeal?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Emotional Appeal: An argumentation should be seen as successful in making an emotional appeal if it conveys arguments and other information in a way that creates emotions, which make the target audience more open to the author’s arguments. It should be seen as not successful if rather the opposite holds. Notice that you should not judge about the persuasive effect of the author’s argumentation, but you should decide whether the argumentation makes the target audience willing/unwilling to be persuaded by the author (or to agree/disagree with the author) in principle—or neither.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+This passage is composed almost entirely of statistics and financial figures — billions of dollars, millions of liters, growth percentages. While the numbers are striking in scale, they are presented in a purely informational, clinical manner. There is no moral framing, no appeal to human dignity, no invocation of community or family harm, no narrative of suffering or injustice. Nothing here stirs the heart or moves the soul toward any particular disposition.
+
+From my perspective, a truly compelling argument engages not just the mind but the conscience — it connects facts to moral meaning. Raw economic data, however large, does not accomplish that. The reader is left informed, perhaps, but not moved.
+
+**1 (Low)** is the appropriate rating.

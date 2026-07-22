@@ -1,0 +1,22 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the acceptability of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Acceptability: A premise of an argument should be seen as acceptable if it is worthy of being believed, i.e., if you rationally think it is true or if you see no reason for not believing that it may be true. If you identify more than one premise in the comment, try to adequately weight the acceptability of each premise when judging about their "aggregate" acceptability—unless there are particular premises that dominate your view of the author’s argumentation.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The premises here are factually inverted and internally contradictory. The author claims Americans recycle 86-88% of plastic bottles, yet links to an article suggesting **23% of Americans don't recycle at all** — which directly undermines their own claim.
+
+From an eco-justice standpoint, the actual recycling rate for plastic bottles in the U.S. is closer to **~29-30%**, meaning the vast majority of plastic bottles are **not** recycled. This represents a massive failure of stewardship and a violation of our duty to the commons.
+
+The premise is not worthy of belief — it misrepresents the data, contradicts its own cited source, and uses a logical sleight of hand ("more than half!") to dismiss legitimate ecological concern. The precautionary principle demands we take recycling failures seriously, not minimize them with inflated statistics.

@@ -1,0 +1,22 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219245>
+
+How would you rate the cogency of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Cogency: An argument should be seen as cogent if it has individually acceptable premises that are relevant to the argument’s conclusion and that are sufficient to draw the conclusion. Try to adequately weight your judgments about local acceptability, local relevance, and local sufficiency when judging about cogency—unless there is a particular dimension among these that dominates your view of an argument. Accordingly, if you identify more than one argument, try to adequately weight the cogency of each argument when judging about their "aggregate" cogency—unless there is a particular argument that dominates your view of the author’s argumentation.
+
+----------------------------------
+
+**Rating: ? (Cannot Judge)**
+
+The passage presents a series of statistics about the bottled water industry's scale and revenue, but **no discernible conclusion is drawn**. It reads as a data dump — figures about market size, revenue, and volume — without an argumentative claim being advanced.
+
+From a technocratic standpoint, data presentation *without* a directed conclusion is analytically incomplete. Even the most competent analyst must connect empirical evidence to a thesis. Here, the premises may be individually acceptable (sourced from a credible industry body), but **relevance and sufficiency cannot be assessed** without knowing what conclusion they are meant to support.
+
+**Cannot judge cogency** where no argument exists to evaluate.

@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg376774>
+
+How would you rate the arrangement of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Arrangement: An argumentation should be seen as well-arranged if it presents the given issue, the composed arguments, and its conclusion in the right order. Usually, the general issue and the particularly discussed topics should be clear before arguing and concluding about them. Notice, however, that other orderings may be used on purpose and may still be suitable to achieve persuasion. Besides, notice that, within the given setting (online debate forum on a given issue), some parts may be clear (e.g., the issue) and thus left implicit.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argument is poorly arranged. It offers no structured presentation — no clear framing of the issue, no developed reasoning, and no proper conclusion. The single clause attempts to simultaneously state a premise and imply a conclusion, collapsing what should be a structured argumentation into a throwaway remark. Even by the most generous standards of informal debate, this lacks the logical scaffolding required for persuasion.

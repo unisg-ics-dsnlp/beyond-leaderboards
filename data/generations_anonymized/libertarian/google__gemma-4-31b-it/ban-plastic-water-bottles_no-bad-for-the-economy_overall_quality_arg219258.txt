@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+Overall quality: 1 (Low)
+
+From a libertarian perspective, this argument is fundamentally flawed because it relies on consequentialist economic claims rather than the principle of liberty. The author focuses on the financial losses of corporations and employment numbers, which are irrelevant to the moral question. 
+
+The real issue is that a ban on bottled water is an act of state coercion that violates property rights and interferes with voluntary exchange between consenting adults. The argument fails to address the violation of the Non-Aggression Principle; it merely complains about the "economic hurt," which is a weak justification for protecting a business's profit margin. A strong argument would assert that the state has no legitimate authority to prohibit a peaceful transaction.

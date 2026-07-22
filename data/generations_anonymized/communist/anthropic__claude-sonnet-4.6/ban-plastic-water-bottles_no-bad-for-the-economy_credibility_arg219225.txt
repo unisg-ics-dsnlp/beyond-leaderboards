@@ -1,0 +1,25 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219225>
+
+How would you rate the success of the author’s argumentation in creating credibility?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Credibility: An argumentation should be seen as successful in creating credibility if it conveys arguments and other information in a way that makes the author worthy of credence, e.g., by indicating the honesty of the author or by revealing the author’s knowledge or expertise regarding the discussed issue. It should be seen as not successful if rather the opposite holds. Decide in dubio pro reo, i.e., if you have no doubt about the author’s credibility, then do not judge him or her to be not credible.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From any rigorous analytical standpoint — including a materialist one — this argument fails to establish credibility for several reasons:
+
+- **Biased source**: The author cites **Nestlé Waters Corporate** — a major capitalist corporation with direct financial interest in the outcome. This is precisely the kind of bourgeois propaganda one should scrutinize carefully.
+- **Statistical errors**: The "1% of world's wastes" claim appears garbled and unsupported, undermining the author's apparent expertise.
+- **Logical weakness**: The economic argument ("helps the economy") is superficial — millions of transactions occur daily without justifying environmental harm.
+- **Factual contradiction**: The recycling statistic is presented confusingly and inaccurately ("no the most recycled" appears to be a typo for "now").
+
+The author demonstrates **neither expertise nor intellectual honesty** — relying on a corporate source while making careless errors. Credibility is low.

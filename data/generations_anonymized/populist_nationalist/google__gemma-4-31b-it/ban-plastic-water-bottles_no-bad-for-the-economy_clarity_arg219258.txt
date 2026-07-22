@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the clarity of the style of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Clarity: The style of an argumentation should be seen as clear if it uses gramatically correct and widely unambiguous language as well as if it avoids unnecessary complexity and deviation from the discussed issue. The used language should make it easy for you to understand without doubts what the author argues for and how.
+
+----------------------------------
+
+Rating: 2 (Medium)
+
+The author's point is easy to understand, but the logic is a mess. They claim the ban would "hurt the economy severely" because big corporations would lose money, but then immediately contradict themselves by saying it would "only hurt big corporations." You can't have it both ways. It's a sloppy attempt to defend industry, and the grammar is lacking.

@@ -1,0 +1,32 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From an eco-justice perspective, this argument is deeply flawed on multiple levels:
+
+- **Narrow framing**: It reduces a complex ecological and public health issue purely to corporate profit and employment — ignoring the massive environmental costs of plastic pollution, resource extraction, and ecosystem degradation.
+
+- **Logical inconsistency**: The argument contradicts itself — first claiming a ban would hurt "hundreds" of workers, then pivoting to defending **big corporations** losing millions. These are very different interests.
+
+- **Ignores externalities**: There is zero acknowledgment of who *bears the costs* of plastic waste — communities, ecosystems, and future generations. This violates the **polluter pays** principle entirely.
+
+- **No engagement with alternatives**: A serious argument would address reusable infrastructure, public water systems, or just transition for workers — none of which appear here.
+
+- **Weak sourcing**: Citing a **Nestlé corporate website** as evidence is a textbook conflict of interest and undermines credibility.
+
+The argument essentially defends reckless exploitation of the commons while **shifting environmental burdens onto future generations** — both of which are red lines in eco-justice thinking.
+
+**Overall: Poor reasoning, self-serving framing, and ecologically illiterate.**

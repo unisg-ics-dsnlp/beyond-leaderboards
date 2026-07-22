@@ -1,0 +1,25 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the success of the author’s argumentation in creating credibility?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Credibility: An argumentation should be seen as successful in creating credibility if it conveys arguments and other information in a way that makes the author worthy of credence, e.g., by indicating the honesty of the author or by revealing the author’s knowledge or expertise regarding the discussed issue. It should be seen as not successful if rather the opposite holds. Decide in dubio pro reo, i.e., if you have no doubt about the author’s credibility, then do not judge him or her to be not credible.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The author's credibility is significantly undermined by several issues:
+
+- **Factual contradiction**: The author claims "86-88% recycle bottle waters," yet the linked source says **23% of Americans *don't* recycle** — which actually supports roughly 77% recycling, not 86-88%. The numbers don't match the cited source.
+- **The link contradicts the claim**: Citing a source that doesn't support your own statistic actively damages credibility rather than building it.
+- **Grammatical/spelling errors** ("there" instead of "their," "donatmt") signal carelessness, reducing perceived expertise.
+- **Logical leap**: Even if the statistic were accurate, generalizing bottle water recycling to *all* recycling behavior is an unsupported stretch.
+
+The author shows intent to support their argument with a source, which is a minimal positive signal, but the execution undermines trustworthiness entirely.

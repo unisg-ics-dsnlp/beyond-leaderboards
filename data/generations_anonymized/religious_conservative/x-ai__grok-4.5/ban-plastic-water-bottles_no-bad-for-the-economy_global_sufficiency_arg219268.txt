@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219268>
+
+How would you rate the global sufficiency of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Sufficiency: An argumentation should be seen as globally sufficient if it adequately rebuts those counter-arguments to its conclusion that can be anticipated. Notice that it is not generally clear which and how many counter-arguments can be anticipated. There may be cases where it is infeasible to rebut all such objections. Please judge about global sufficiency according to whether all main objections of an argumentation that you see are rebutted.
+
+----------------------------------
+
+**Global Sufficiency: 1 (Low)**
+
+The claim that “plastic is good” because it is lightweight and aids distribution offers no real argumentation and fails to anticipate or rebut any serious objections. From a natural-law and stewardship perspective, the main counters—desecration of creation through pollution and waste, harm to the vulnerable (especially the unborn and poor via microplastics and environmental degradation), and the vice of disposable consumerism that undermines temperance and family/community responsibility—are left entirely unaddressed. A bare assertion of convenience does not meet the standard of global sufficiency.

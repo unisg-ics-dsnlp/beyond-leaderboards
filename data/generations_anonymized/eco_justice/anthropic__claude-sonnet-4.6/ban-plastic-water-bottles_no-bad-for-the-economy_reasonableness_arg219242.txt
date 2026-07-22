@@ -1,0 +1,29 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219242>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From an eco-justice perspective, this argument is deeply unreasonable. It frames ecological stewardship as a **luxury contingent on economic conditions**, which fundamentally violates the precautionary principle and intergenerational justice.
+
+Key problems:
+
+- **False trade-off**: Economic downturns do not suspend our duty to reduce plastic pollution and protect ecosystems. Harm to commons doesn't pause for recessions.
+- **Burden-shifting**: Delaying action pushes ecological costs onto future generations — a direct violation of intergenerational justice.
+- **No causal logic**: The argument provides no mechanism explaining *why* a recession prevents a plastic bottle ban. It asserts rather than argues.
+- **Irreversibility ignored**: Plastic pollution causes cumulative, potentially irreversible ecosystem damage — precisely the kind of harm the precautionary principle demands we act on *now*, not later.
+
+The argument fails on acceptability (prioritizes short-term economics over shared ecological responsibility), relevance (economic recession is not a sufficient justification for inaction), and sufficiency (no evidence or reasoning is provided).
+
+**Rating: 1 — Low reasonableness.**

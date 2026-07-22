@@ -1,0 +1,29 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the effectiveness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Effectiveness: An argumentation should be seen as effective if it achieves to persuade you of the author’s stance on the discussed issue or—in case you already agreed with the stance before—if it corroborates your agreement with the stance. Besides the actual arguments, also take into consideration the credibility and the emotional force of the argumentation. Decide in dubio pro reo, i.e., if you have no doubt about the correctness of the author’s arguments, then do not judge him or her to be not effective—unless you explicitly think that the arguments do not support the author’s stance.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+Here's my reasoning:
+
+The argument is **internally contradictory and poorly constructed**. The author claims banning bottled water would hurt "big corporations like Dasani and Nestle" — but then says it would "only hurt big corporations." That's a **self-defeating point**. If the concern is protecting ordinary American workers and jobs, lead with *that*. The corporate angle actually **undermines the populist case**.
+
+From my worldview, I'd care about the **working Americans** on factory floors losing their livelihoods — that's a legitimate economic nationalism argument. But the author buries it and instead seems to be **defending multinational corporations**, which is not compelling.
+
+Additionally:
+- The source cited (Nestle's own corporate website) has **zero credibility** — that's the fox guarding the henhouse
+- The argument lacks **specific data** on job numbers
+- The emotional appeal is weak and unfocused
+
+A stronger argument would center on **American workers, domestic industry, and government overreach** into consumer choice. This version misses the mark badly.

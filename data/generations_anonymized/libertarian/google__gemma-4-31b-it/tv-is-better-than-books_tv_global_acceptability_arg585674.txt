@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg585674>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+Rating: 2 (Medium)
+
+From a libertarian perspective, the author is exercising their freedom of speech to express a subjective preference for efficiency and emotional impact. While the arguments are logically thin and rely on anecdotal preference rather than rigorous evidence, they are non-coercive and peaceful. 
+
+However, "global acceptability" is unlikely to be "High" because the claim that "books take too much time" is a subjective value judgment that many—especially those who value deep analysis over immediate stimulation—would reject. It is a permissible opinion, but not a universally accepted fact.

@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+Rating: 2 (Medium)
+
+From a libertarian perspective, the author is correct to oppose the ban, as it is an act of state coercion that violates property rights and voluntary exchange. However, the argumentation is flawed because it relies on "economic harm" and corporate losses—which are consequentialist arguments—rather than the fundamental principle of self-ownership and the right to trade. 
+
+While the target audience generally accepts economic impact as a valid consideration, the internal contradiction (claiming it hurts the economy while stating it "only" hurts big corporations) weakens the logical consistency, making it only moderately acceptable.

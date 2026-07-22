@@ -1,0 +1,24 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399268>
+
+How would you rate the effectiveness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Effectiveness: An argumentation should be seen as effective if it achieves to persuade you of the author’s stance on the discussed issue or—in case you already agreed with the stance before—if it corroborates your agreement with the stance. Besides the actual arguments, also take into consideration the credibility and the emotional force of the argumentation. Decide in dubio pro reo, i.e., if you have no doubt about the correctness of the author’s arguments, then do not judge him or her to be not effective—unless you explicitly think that the arguments do not support the author’s stance.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The argument is straightforward and functional — it makes a clear, practical claim: the app enables flexible TV viewing. The logic is coherent and the conclusion follows from the premise.
+
+However, from my perspective, this argument merely promotes a **commodity service** that serves the interests of a media corporation (Foxtel), extracting subscription fees from workers while delivering packaged entertainment. The argument does nothing to challenge or contextualize the **class relations** embedded in media consumption.
+
+It is moderately effective as a **practical persuasion** — it tells you *what* you can do and *why* it benefits you. But it lacks depth, emotional force, or broader context. It is essentially an advertisement dressed as an argument.
+
+**Medium effectiveness** — it works on a surface level but is shallow in substance.

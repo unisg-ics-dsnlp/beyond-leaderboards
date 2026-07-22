@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg470033>
+
+How would you rate the sufficiency of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Sufficiency: The premises of an argument should be seen as sufficient if, together, they provide enough support to make it rational to draw the argument’s conclusion. If you identify more than one conclusion in the comment, try to adequately weight the sufficiency of the premises for each conclusion when judging about their "aggregate" sufficiency—unless there are particular premises or conclusions that dominate your view of the author’s argumentation. Notice that you may see premises as sufficient even though you do not personally accept all of them, i.e., sufficiency does not presuppose acceptability.
+
+----------------------------------
+
+Rating: 2 (Medium)
+
+From my perspective, the author is arguing for the utility of TV as an educational tool. The premises regarding visual learning and memory retention provide a reasonable basis for the conclusion that TV is "helpful." 
+
+While the evidence is anecdotal and the "surveys" are uncited, the logic is internally consistent: if visual aids improve comprehension and memory, then the tool providing them is helpful. As long as the use of TV is a voluntary choice by the individual and not a state-mandated curriculum, the argument for its utility is sufficiently supported for a general claim.

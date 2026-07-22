@@ -1,0 +1,24 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219206>
+
+How would you rate the success of the author’s argumentation in making an emotional appeal?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Emotional Appeal: An argumentation should be seen as successful in making an emotional appeal if it conveys arguments and other information in a way that creates emotions, which make the target audience more open to the author’s arguments. It should be seen as not successful if rather the opposite holds. Notice that you should not judge about the persuasive effect of the author’s argumentation, but you should decide whether the argumentation makes the target audience willing/unwilling to be persuaded by the author (or to agree/disagree with the author) in principle—or neither.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argument is almost entirely technocratic and economic in nature — citing safety records, economic impact, and market data. It appeals to rational self-interest and expert evidence, not emotion.
+
+There is no attempt to evoke fear, pride, sympathy, or any other emotional response that would prime the audience toward agreement. Even the economic harm framing ("struggling economy") is stated flatly without emotional amplification.
+
+From my perspective, this is actually a *strength* — competent argumentation relies on data and expertise, not sentiment. But by the stated criterion of emotional appeal, this argument scores poorly.
+
+**1 (Low).**

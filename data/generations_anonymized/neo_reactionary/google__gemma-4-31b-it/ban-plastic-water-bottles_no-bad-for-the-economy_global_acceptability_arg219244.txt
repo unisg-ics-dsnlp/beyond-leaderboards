@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219244>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+Rating: 1 (Low)
+
+The argumentation is logically incoherent and lacks technical rigor. Attributing consumption patterns to vague "culture" and claiming bottled water "helps us" without defining the beneficiary or the mechanism is an exercise in populist sentiment, not data-driven analysis. 
+
+From a technocratic perspective, this is an inefficient use of language. It fails to provide a causal link between industrial pollution and current market behavior, offering a narrative instead of a performance-based analysis. No competent analyst would accept such a flimsy premise.

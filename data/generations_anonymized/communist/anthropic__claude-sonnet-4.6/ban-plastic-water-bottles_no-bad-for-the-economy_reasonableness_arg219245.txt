@@ -1,0 +1,28 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219245>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+From a materialist perspective, the argument presents **factual economic data** about the bottled water industry's scale and profitability. The statistics are concrete and relevant — they illustrate the enormous capital accumulation occurring in this sector.
+
+However, the argumentation is only **moderately reasonable** because:
+
+- The data is **presented without clear resolution** — it describes the industry's size but doesn't sufficiently connect to any specific conclusion or policy position
+- The figures are **internally somewhat inconsistent** (mixing 2001 and 2002 data, and the $35 billion global figure versus $35,000 million in 2001 creates slight confusion)
+- From a class analysis standpoint, the data *hints at* but never explicitly addresses **who profits** from commodifying a basic human necessity — the surplus value extracted from consumers and workers remains unexamined
+
+The argument is **acceptable and relevant** as raw evidence of capitalist commodification of water, but its **sufficiency is limited** — it stops at describing the phenomenon rather than resolving any underlying question about it.
+
+Hence, **Medium (2)** — useful data, incomplete argumentation.

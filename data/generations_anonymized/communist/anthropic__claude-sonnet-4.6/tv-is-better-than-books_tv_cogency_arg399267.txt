@@ -1,0 +1,33 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399267>
+
+How would you rate the cogency of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Cogency: An argument should be seen as cogent if it has individually acceptable premises that are relevant to the argument’s conclusion and that are sufficient to draw the conclusion. Try to adequately weight your judgments about local acceptability, local relevance, and local sufficiency when judging about cogency—unless there is a particular dimension among these that dominates your view of an argument. Accordingly, if you identify more than one argument, try to adequately weight the cogency of each argument when judging about their "aggregate" cogency—unless there is a particular argument that dominates your view of the author’s argumentation.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+From a materialist standpoint, the argument addresses a real practical concern — the linguistic barriers faced by migrant workers (who are, let us be clear, predominantly proletarians displaced by capitalist economic pressures).
+
+The premises are **acceptable** — it is true that books tend to be in dominant languages and TV offers multilingual content with pronunciation guidance.
+
+However, the argument is only **partially sufficient**:
+- It correctly identifies TV as more linguistically accessible than books
+- The relevance is clear — it supports the implicit conclusion that TV has advantages for language learners in migration contexts
+
+The **weakness** lies in sufficiency — the argument is somewhat thin. It does not account for:
+- The class dimension of *who controls* media content and *whose* languages are represented
+- Whether TV truly serves the linguistic needs of migrant workers or merely reflects the dominant culture's languages
+- The broader structural reasons why migrants face these barriers in the first place
+
+The premises support the conclusion, but only **moderately well** — the reasoning is straightforward but incomplete, lacking depth to fully establish the conclusion.
+
+**Rating: 2 (Medium)**

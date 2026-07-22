@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399270>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+Rating: 1 (Low)
+
+Reasonableness: The argumentation is superficial and fails to address the common good. Relying on the preservation of celebrity employment is a trivial economic point, not a moral one. Furthermore, the claim that TV is the sole source of global awareness ignores the virtue of discernment; much of what is broadcast undermines family cohesion and moral order. True "updates" should serve the community's spiritual and physical well-being, not merely provide a constant stream of noise.

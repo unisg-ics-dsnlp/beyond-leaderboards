@@ -1,0 +1,16 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399270>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**1 (Low).** The argument gives a few plausible benefits of television—employment, broad news access, and emergency alerts—but it is asserted rather than supported. It exaggerates TV’s uniqueness, ignores alternatives such as radio, internet, and alert systems, and does not weigh TV’s social or ecological costs.

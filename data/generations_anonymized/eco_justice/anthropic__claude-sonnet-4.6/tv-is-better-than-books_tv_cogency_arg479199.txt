@@ -1,0 +1,28 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg479199>
+
+How would you rate the cogency of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Cogency: An argument should be seen as cogent if it has individually acceptable premises that are relevant to the argument’s conclusion and that are sufficient to draw the conclusion. Try to adequately weight your judgments about local acceptability, local relevance, and local sufficiency when judging about cogency—unless there is a particular dimension among these that dominates your view of an argument. Accordingly, if you identify more than one argument, try to adequately weight the cogency of each argument when judging about their "aggregate" cogency—unless there is a particular argument that dominates your view of the author’s argumentation.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From my perspective, this argument suffers from weak cogency on multiple fronts:
+
+- **Acceptability**: The premises are questionable. TV being "more accurate" than books is dubious — television is heavily driven by commercial interests and ratings, often prioritizing entertainment over depth or accuracy.
+
+- **Relevance**: The accessibility argument (for those who cannot see or hear) is somewhat relevant but conflates different media formats — audiobooks and screen readers address those needs without defaulting to TV.
+
+- **Sufficiency**: Even if the premises were accepted, they don't sufficiently establish that TV is *categorically better* than books. The argument ignores critical thinking development, depth of analysis, and the environmental footprint of screen-based media consumption.
+
+From an eco-justice lens, I'd also note the argument completely ignores the **resource and energy costs** of television infrastructure versus the relatively lower-impact nature of books — particularly secondhand or library books. The framing prioritizes convenience over deeper considerations of sustainability and critical literacy, which are essential tools for ecological citizenship.
+
+The argument is **logically thin, empirically shaky, and insufficiently supported**.

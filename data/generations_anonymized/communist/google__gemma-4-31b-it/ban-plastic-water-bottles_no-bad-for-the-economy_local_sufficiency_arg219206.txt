@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219206>
+
+How would you rate the sufficiency of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Sufficiency: The premises of an argument should be seen as sufficient if, together, they provide enough support to make it rational to draw the argument’s conclusion. If you identify more than one conclusion in the comment, try to adequately weight the sufficiency of the premises for each conclusion when judging about their "aggregate" sufficiency—unless there are particular premises or conclusions that dominate your view of the author’s argumentation. Notice that you may see premises as sufficient even though you do not personally accept all of them, i.e., sufficiency does not presuppose acceptability.
+
+----------------------------------
+
+Rating: 1 (Low)
+
+The premises are fundamentally insufficient because they prioritize the preservation of profit for the bourgeoisie over the material needs of the proletariat. The author argues that "hurting the economy" justifies the continued sale of bottled water, but this "economy" is merely a mechanism for the extraction of surplus value. 
+
+To claim that "big business" in plastics and advertising justifies the commodification of a basic human right is to advocate for the continued exploitation of the masses. Furthermore, the suggestion of "compostable bottles" is a capitalist distraction—a way to maintain private ownership of the means of distribution while pretending to solve a crisis created by capital. The premises fail to address the systemic alienation of the public from their own natural resources.

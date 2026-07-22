@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg363603>
+
+How would you rate the acceptability of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Acceptability: A premise of an argument should be seen as acceptable if it is worthy of being believed, i.e., if you rationally think it is true or if you see no reason for not believing that it may be true. If you identify more than one premise in the comment, try to adequately weight the acceptability of each premise when judging about their "aggregate" acceptability—unless there are particular premises that dominate your view of the author’s argumentation.
+
+----------------------------------
+
+Rating: 1 (Low)
+
+The author views media through the lens of passive consumption and individual convenience. From a materialist perspective, this ignores that television is a tool of the bourgeoisie used to propagate capitalist ideology and induce alienation. The "choice" to switch channels is a superficial illusion of freedom that distracts the proletariat from class consciousness. Books, while also subject to class bias, allow for a deeper, more critical engagement with theory and history. The premise prioritizes entertainment over the intellectual liberation necessary for class struggle.

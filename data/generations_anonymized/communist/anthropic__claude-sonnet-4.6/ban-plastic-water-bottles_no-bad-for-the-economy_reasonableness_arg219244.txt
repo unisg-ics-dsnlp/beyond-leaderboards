@@ -1,0 +1,28 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219244>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From a materialist perspective, this argument is poorly constructed on multiple levels:
+
+- **Causal confusion**: Attributing bottled water consumption primarily to "European culture" obscures the **material and economic roots** of the problem — industrial pollution of water sources is a direct consequence of capitalist production prioritizing profit over public health.
+
+- **Logical gap**: The claim that European bottled water consumption "helps us" is vague and unsupported. Who is "us"? The argument fails to establish any coherent causal chain.
+
+- **Superficial analysis**: Framing pollution as a cultural phenomenon rather than a **structural consequence of capitalist industrialization** is analytically weak and misleading.
+
+- **Insufficient resolution**: The argument does not meaningfully contribute to resolving any issue — it neither explains the phenomenon adequately nor proposes any direction forward.
+
+The argumentation lacks **global sufficiency** (incomplete reasoning), **global relevance** (the cultural explanation is tangential at best), and **global acceptability** (the conclusion is unsupported and unclear). These failures across all three dimensions justify a **low reasonableness rating**.

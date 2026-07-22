@@ -1,0 +1,30 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219225>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From a materialist standpoint, this argument is weak on multiple grounds:
+
+- **Economic framing is superficial**: The "helping the economy" claim serves bourgeois interests — it prioritizes corporate profit (Nestlé, a notorious water privatizer) over collective well-being. This is a classic capitalist deflection.
+
+- **Statistical misuse**: The recycling statistic is sourced directly from a **Nestlé corporate website** — a clear conflict of interest that undermines credibility for any audience.
+
+- **Logical gaps**: The argument conflates "people buy it" with "it should not be banned" — a non-sequitur. Consumer behavior under capitalism reflects manufactured dependency, not genuine need.
+
+- **Poor construction**: Grammatical errors, vague claims ("maybe not in a big way"), and reliance on a single industry source make this unconvincing even to a general audience.
+
+Even setting aside my ideological lens, the argument fails basic standards of **evidence quality, logical coherence, and source neutrality** that most audiences would expect. The corporate sourcing alone would cause widespread rejection across the political spectrum.
+
+**Global acceptability is low.**

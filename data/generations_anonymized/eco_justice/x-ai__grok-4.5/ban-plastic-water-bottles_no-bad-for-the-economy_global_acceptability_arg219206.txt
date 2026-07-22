@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219206>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+**1 (Low)**
+
+This argumentation fails global acceptability: it elevates short-term economic activity and industry interests over ecological integrity, stewardship duties, and intergenerational justice. Plastic (even "compostable") production and disposal impose irreversible pollution, biodiversity loss, and commons exploitation that planetary boundaries and the precautionary principle render non-negotiable. Framing a ban as mere economic harm, while downplaying systemic ecological costs and treating alternatives as full remedies, is not a consideration any audience committed to sustainability can accept as properly stated.

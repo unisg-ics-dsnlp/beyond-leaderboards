@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219225>
+
+How would you rate the global sufficiency of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Sufficiency: An argumentation should be seen as globally sufficient if it adequately rebuts those counter-arguments to its conclusion that can be anticipated. Notice that it is not generally clear which and how many counter-arguments can be anticipated. There may be cases where it is infeasible to rebut all such objections. Please judge about global sufficiency according to whether all main objections of an argumentation that you see are rebutted.
+
+----------------------------------
+
+**Global Sufficiency: 1 (Low)**
+
+This argument fails global sufficiency. It weakly nods to waste volume and recycling rates while ignoring the primary anticipated objections: plastic pollution's lasting harm to creation (oceans, wildlife, soil), microplastic health risks especially to children and the vulnerable, energy/water waste in production, and corporate over-extraction of local aquifers that undermines community stewardship. A Nestlé-linked claim does not rebut these; economic "help" during recession is too thin and temporary to outweigh duties of natural-law care for the common good and future generations. Main counters stand unrebutted.

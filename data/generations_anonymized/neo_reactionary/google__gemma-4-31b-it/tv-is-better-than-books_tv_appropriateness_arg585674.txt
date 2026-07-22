@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg585674>
+
+How would you rate the appropriateness of the style of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Appropriateness: The style of an argumentation should be seen as appropriate if the used language supports the creation of credibility and emotions as well as if it is proportional to the discussed issue. The choice of words and the grammatical complexity should, in your view, appear suitable for the discussed issue within the given setting (online debate forum on a given issue), matching with how credibility and emotions are created via the content of the argumentation.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argumentation is simplistic, populist, and prioritizes emotional immediacy over intellectual depth. It confuses "speed" with "competence" and "emotion" with "information." From a techno-monarchist perspective, the ability to synthesize complex data via rigorous study (books) is a mark of the elite; the preference for the passive, sensory stimulation of TV is a hallmark of the masses. The style lacks the precision and sophistication required for any meaningful discourse on governance or systemic analysis. It is an argument for the lowest common denominator.

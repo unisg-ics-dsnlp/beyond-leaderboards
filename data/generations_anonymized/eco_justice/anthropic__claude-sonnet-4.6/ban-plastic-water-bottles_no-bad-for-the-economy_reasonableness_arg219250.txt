@@ -1,0 +1,27 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219250>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+While the argument acknowledges the waste problem — which is a step in the right direction — the reuse claim is **weak and insufficient** as a resolution.
+
+From an eco-justice perspective:
+
+- **Reuse rates for plastic bottles are empirically very low** — the argument assumes behavioral change that rarely materializes at scale
+- It **deflects systemic responsibility** onto individual consumers rather than addressing the structural problem of single-use plastic production
+- It ignores the **full lifecycle harm**: fossil fuel extraction, manufacturing emissions, microplastic contamination, and end-of-life pollution
+- The argument essentially **greenwashes** a fundamentally wasteful system with a marginal mitigation strategy
+
+The precautionary principle demands we address the root cause, not patch symptoms. This argument fails to contribute meaningfully to resolving the ecological harm bottled water causes — making it **globally insufficient and only superficially relevant**.

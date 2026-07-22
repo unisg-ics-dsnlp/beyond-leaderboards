@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219268>
+
+How would you rate the acceptability of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Acceptability: A premise of an argument should be seen as acceptable if it is worthy of being believed, i.e., if you rationally think it is true or if you see no reason for not believing that it may be true. If you identify more than one premise in the comment, try to adequately weight the acceptability of each premise when judging about their "aggregate" acceptability—unless there are particular premises that dominate your view of the author’s argumentation.
+
+----------------------------------
+
+**Rating: 3 (High)**
+
+The premises are simple empirical claims about the physical properties of plastic (lightweight) and its utility in logistics (distribution). These are generally true and do not conflict with any principles of self-ownership or property rights. As long as the production and distribution of plastic involve voluntary exchange and do not initiate force or violate property rights through externalities, the premises themselves are rationally acceptable.

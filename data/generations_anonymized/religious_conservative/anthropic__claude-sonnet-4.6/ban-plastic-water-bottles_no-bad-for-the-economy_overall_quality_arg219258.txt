@@ -1,0 +1,28 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argumentation is weak on several grounds:
+
+- **Internal contradiction**: The author claims banning bottled water would "hurt big corporations" yet simultaneously argues it would "hurt the economy severely" — these framings undercut each other. If only big corporations lose, the economic harm is far more limited than claimed.
+
+- **Shallow reasoning**: Job loss and corporate profit loss are asserted without any supporting data, figures, or serious economic analysis.
+
+- **Source credibility**: Citing a corporate website (Nestlé's own promotional page) to support an economic argument is a clear conflict of interest and undermines credibility.
+
+- **Missing moral and practical dimensions**: From my perspective, a serious argument about water policy should also address **stewardship of creation**, **community health**, **subsidiarity** (local water infrastructure), and duties to the common good — none of which are engaged here.
+
+The argument relies on bare economic self-interest without intellectual rigor, proper sourcing, or moral grounding. It reads more as corporate advocacy than genuine reasoned argumentation.

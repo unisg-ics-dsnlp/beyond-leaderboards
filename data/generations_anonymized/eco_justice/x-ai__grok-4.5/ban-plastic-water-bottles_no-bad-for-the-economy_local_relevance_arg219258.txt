@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the relevance of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Relevance: A premise of an argument should be seen as relevant if it contributes to the acceptance or rejection of the argument’s conclusion, i.e., if you think it is worthy of being considered as a reason, evidence, or similar regarding the conclusion. If you identify more than one premise in the comment, try to adequately weight the relevance of each premise when judging about their "aggregate" relevance—unless there are particular premises that dominate your view of the author’s argumentation. You should be open to see a premise as relevant even if it does not match your own stance on the issue.
+
+----------------------------------
+
+**2 (Medium)**
+
+The premises on job losses and corporate revenue hits (Nestlé, Dasani) offer some direct support for a narrow claim of short-term economic disruption and are thus partially relevant to the stated conclusion. However, they remain only medium in aggregate weight: they ignore ecological externalities, plastic pollution, water commons depletion, and intergenerational burdens that any sound assessment of “economic harm” must weigh under stewardship, ecological integrity, and the precautionary principle. Pure corporate-profit framing does not fully contribute to a just evaluation of the ban.

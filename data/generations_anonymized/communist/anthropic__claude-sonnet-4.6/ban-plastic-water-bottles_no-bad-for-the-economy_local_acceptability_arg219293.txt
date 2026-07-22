@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the acceptability of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Acceptability: A premise of an argument should be seen as acceptable if it is worthy of being believed, i.e., if you rationally think it is true or if you see no reason for not believing that it may be true. If you identify more than one premise in the comment, try to adequately weight the acceptability of each premise when judging about their "aggregate" acceptability—unless there are particular premises that dominate your view of the author’s argumentation.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The premise is factually flawed and internally contradictory. The author claims "86-88% recycle bottle waters," yet their own cited source suggests roughly 23% of Americans *don't* recycle — meaning only ~77% do, not 86-88%. The numbers don't align with the source provided.
+
+From a materialist standpoint, this kind of statistical manipulation obscures the **systemic failures** of capitalist waste management — where corporations like bottled water companies externalize environmental costs onto workers and communities while profiting enormously. The premise is not worthy of belief as stated, earning it a **low acceptability** rating.

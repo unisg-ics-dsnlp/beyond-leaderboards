@@ -1,0 +1,22 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219242>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+This argument has very low global acceptability. The reasoning is vague, logically weak, and economically confused. The connection between a recession and the ability to ban water bottles is never explained or justified. 
+
+From a materialist perspective, this argument fails to address the underlying class dynamics — who benefits from plastic water bottle production (corporations), who suffers from environmental degradation (the working class), and why economic crises are themselves products of capitalist contradictions rather than reasons to delay environmental action.
+
+Even setting aside my ideological lens, the argument would be broadly rejected across audiences for its **lack of coherent reasoning** and **unsupported causal claim**.

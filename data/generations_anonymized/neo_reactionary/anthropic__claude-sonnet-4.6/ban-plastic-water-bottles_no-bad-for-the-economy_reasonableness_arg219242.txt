@@ -1,0 +1,24 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219242>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+This argument is poorly reasoned even by any standard, including my own technocratic lens.
+
+The claim implicitly suggests that economic conditions (recession) should dictate environmental or regulatory policy — but it provides **no causal mechanism, no data, no expert framework** connecting recession recovery to water bottle bans. It's a vague assertion masquerading as an argument.
+
+From my perspective, competent technocratic governance would require **evidence-based justification** for both the ban itself *and* the economic precondition. Neither is provided. This is precisely the kind of shallow, populist-sounding reasoning that illustrates why decision-making should be filtered through expert judgment rather than casual assertion.
+
+**Low reasonableness.** It contributes nothing substantive to resolving the issue.

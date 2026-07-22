@@ -1,0 +1,22 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the relevance of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Relevance: A premise of an argument should be seen as relevant if it contributes to the acceptance or rejection of the argument’s conclusion, i.e., if you think it is worthy of being considered as a reason, evidence, or similar regarding the conclusion. If you identify more than one premise in the comment, try to adequately weight the relevance of each premise when judging about their "aggregate" relevance—unless there are particular premises that dominate your view of the author’s argumentation. You should be open to see a premise as relevant even if it does not match your own stance on the issue.
+
+----------------------------------
+
+I rate this **1 (Low)**.
+
+The author's core premise — that 86-88% of Americans recycle their bottle waters — is **directly contradicted by the source they themselves cite**, which indicates roughly 23% of Americans *don't* recycle. That's a fundamental misreading that undermines the premise entirely.
+
+From an eco-justice lens, even if the statistic were accurate, **recycling rates for a single product category** would be a weak premise for the broader conclusion that Americans recycle sufficiently. Stewardship and ecological integrity demand we look at **systemic consumption patterns**, not cherry-picked metrics. The real issue isn't just whether bottles get recycled — it's the **planetary burden of single-use plastic production** in the first place.
+
+A relevant premise would need to address the full lifecycle impact, not deflect criticism with a misrepresented statistic.

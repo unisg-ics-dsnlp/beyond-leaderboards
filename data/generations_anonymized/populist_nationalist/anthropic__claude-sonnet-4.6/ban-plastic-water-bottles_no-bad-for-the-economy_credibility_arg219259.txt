@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219259>
+
+How would you rate the success of the author’s argumentation in creating credibility?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Credibility: An argumentation should be seen as successful in creating credibility if it conveys arguments and other information in a way that makes the author worthy of credence, e.g., by indicating the honesty of the author or by revealing the author’s knowledge or expertise regarding the discussed issue. It should be seen as not successful if rather the opposite holds. Decide in dubio pro reo, i.e., if you have no doubt about the author’s credibility, then do not judge him or her to be not credible.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The author presents some reasonable, logical points — the practical advantages of small bottles over bulk storage and contamination risks are sensible claims that show basic knowledge of the topic. However, the opening claim that bottled water is *less* likely found in developing countries is questionable and undermines credibility, as bottled water is actually widely prevalent in many developing nations precisely *because* tap water is unsafe. No sources or data are cited to back up any of the claims, which limits the author's demonstrated expertise. Overall, there's enough coherent reasoning to avoid a low rating, but not enough rigor or accuracy to earn high credibility.

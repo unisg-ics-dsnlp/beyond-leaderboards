@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg585674>
+
+How would you rate the global sufficiency of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Sufficiency: An argumentation should be seen as globally sufficient if it adequately rebuts those counter-arguments to its conclusion that can be anticipated. Notice that it is not generally clear which and how many counter-arguments can be anticipated. There may be cases where it is infeasible to rebut all such objections. Please judge about global sufficiency according to whether all main objections of an argumentation that you see are rebutted.
+
+----------------------------------
+
+**Global Sufficiency: 1 (Low)**
+
+This argument prioritizes raw speed and emotional immediacy of TV spectacle over depth. It fails to rebut the main anticipated objections: books enable rigorous, expert-level analysis and long-term competence that mass media cannot; TV fosters passive consumption and demagoguery rather than hierarchical filtering by proven elites; and "faster" information is worthless if it sacrifices accuracy, nuance, or technocratic decision quality. No counters are engaged—purely one-sided populism.

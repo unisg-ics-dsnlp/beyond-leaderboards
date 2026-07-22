@@ -1,0 +1,35 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219206>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+## Rating: 2 (Medium)
+
+**Reasoning:**
+
+The argument makes some internally coherent points and cites sources, which lends it basic credibility. However, from an eco-justice lens — and even by general standards of reasonableness — it has significant weaknesses:
+
+**What works:**
+- Acknowledges economic stakes (relevant to the debate)
+- Mentions compostable alternatives (shows some awareness of ecological concerns)
+- Raises a legitimate point about water safety traceability
+
+**What undermines reasonableness:**
+- The economic argument **shifts burdens to future generations** — prioritizing short-term profit over long-term ecological harm, which is a fundamental logical gap even outside my worldview
+- The compostable bottle point is **underdeveloped** — it's raised but not substantiated as a genuine solution
+- The safety comparison with municipal water is **selective** — it ignores the massive plastic pollution externality, which is a glaring omission that weakens sufficiency
+- The argument **ignores the commons problem** entirely — plastic waste is a shared burden, not a private one
+
+The argument is **globally relevant** (addresses the issue directly) and **partially acceptable**, but its **sufficiency is low** because it sidesteps the most consequential harms. It contributes *something* to the debate but leaves critical dimensions unaddressed.
+
+**→ Medium (2)** is appropriate.

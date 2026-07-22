@@ -1,0 +1,26 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219250>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argument is weak on multiple levels:
+
+- It **concedes the premise** ("it is true that bottled water is a waste") without defending it, which undermines the author's own position from the start.
+- The rebuttal ("bottles can be reused") is **underdeveloped** — it's a bare assertion with no supporting reasoning, evidence, or elaboration.
+- The logical structure is thin: even if bottles *can* be reused, that doesn't automatically negate the waste concern — it merely shifts responsibility to individual behavior.
+
+From a libertarian lens, I'd actually note the *kernel* of a valid point here: **individual choice and voluntary reuse** are preferable to top-down bans on bottled water. But the author fails to develop this into a coherent argument. Good reasoning requires more than a one-sentence concession-plus-counterpoint.
+
+**Overall: Low quality argumentation.**

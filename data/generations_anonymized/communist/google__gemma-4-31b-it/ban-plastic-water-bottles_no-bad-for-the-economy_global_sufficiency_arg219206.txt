@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219206>
+
+How would you rate the global sufficiency of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Sufficiency: An argumentation should be seen as globally sufficient if it adequately rebuts those counter-arguments to its conclusion that can be anticipated. Notice that it is not generally clear which and how many counter-arguments can be anticipated. There may be cases where it is infeasible to rebut all such objections. Please judge about global sufficiency according to whether all main objections of an argumentation that you see are rebutted.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argumentation is globally insufficient because it prioritizes the preservation of capitalist profit over human needs and ecological survival. It fails to address the fundamental contradiction: the commodification of a basic necessity. 
+
+The author argues that banning bottled water would "hurt the economy," which is merely a defense of the bourgeoisie's ability to extract surplus value from a natural resource. It ignores the exploitation of workers in the plastics industry and the alienation of the masses who are forced to pay for water that should be a collective right. By focusing on "big business" and "market" alternatives, the author ignores the primary counter-argument: that private ownership of water is an immoral manifestation of class hierarchy.

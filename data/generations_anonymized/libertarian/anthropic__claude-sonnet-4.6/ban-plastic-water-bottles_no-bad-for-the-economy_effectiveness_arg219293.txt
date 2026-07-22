@@ -1,0 +1,25 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the effectiveness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Effectiveness: An argumentation should be seen as effective if it achieves to persuade you of the author’s stance on the discussed issue or—in case you already agreed with the stance before—if it corroborates your agreement with the stance. Besides the actual arguments, also take into consideration the credibility and the emotional force of the argumentation. Decide in dubio pro reo, i.e., if you have no doubt about the correctness of the author’s arguments, then do not judge him or her to be not effective—unless you explicitly think that the arguments do not support the author’s stance.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argumentation is ineffective for several reasons:
+
+- **Internal contradiction**: The author claims "86-88% recycle bottle waters," but then links to a source about **23% of Americans not recycling at all** — these statistics don't align and actually undermine the argument.
+- **Statistical misuse**: Even if the recycling rate were accurate, cherry-picking one product category (bottled water) doesn't support the broad claim that Americans recycle sufficiently overall.
+- **Source contradiction**: The linked source appears to *contradict* rather than support the author's stance, severely damaging credibility.
+- **Logical leap**: "More than half" recycling doesn't necessarily mean criticism is unwarranted — it's a weak threshold to dismiss concerns entirely.
+
+From my perspective, the underlying issue of whether recycling should be **voluntary or mandated** is more interesting — but this argument fails even on its own terms before reaching that debate.

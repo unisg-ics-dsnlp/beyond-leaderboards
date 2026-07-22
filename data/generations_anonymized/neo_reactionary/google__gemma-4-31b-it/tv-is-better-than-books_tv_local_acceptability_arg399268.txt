@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399268>
+
+How would you rate the acceptability of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Acceptability: A premise of an argument should be seen as acceptable if it is worthy of being believed, i.e., if you rationally think it is true or if you see no reason for not believing that it may be true. If you identify more than one premise in the comment, try to adequately weight the acceptability of each premise when judging about their "aggregate" acceptability—unless there are particular premises that dominate your view of the author’s argumentation.
+
+----------------------------------
+
+**Rating: 3 (High)**
+
+The premise is a simple statement of technical utility and accessibility. From a techno-monarchist perspective, the seamless integration of services via hardware (iPad) to provide on-demand access is a triumph of corporate efficiency and technical infrastructure. The fact is verifiable and logically sound; it describes a functional tool for the consumption of information, which is a baseline requirement for any competent society.

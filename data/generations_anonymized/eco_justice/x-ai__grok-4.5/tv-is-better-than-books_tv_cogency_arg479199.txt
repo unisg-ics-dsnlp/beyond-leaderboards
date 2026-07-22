@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg479199>
+
+How would you rate the cogency of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Cogency: An argument should be seen as cogent if it has individually acceptable premises that are relevant to the argument’s conclusion and that are sufficient to draw the conclusion. Try to adequately weight your judgments about local acceptability, local relevance, and local sufficiency when judging about cogency—unless there is a particular dimension among these that dominates your view of an argument. Accordingly, if you identify more than one argument, try to adequately weight the cogency of each argument when judging about their "aggregate" cogency—unless there is a particular argument that dominates your view of the author’s argumentation.
+
+----------------------------------
+
+**Cogency: 1 (Low)**
+
+This argument lacks cogency. Its premises are weakly acceptable at best (TV accessibility for the blind/deaf is overstated without aids; "latest" TV info is often shallow, commercialized, or ephemeral rather than rigorously accurate; convenience is subjective). They are only partially relevant to a blanket claim that TV is "better," and wholly insufficient—they ignore depth, critical reflection, and especially the ecological costs of TV (energy-intensive production/broadcasting, e-waste, resource extraction) that violate stewardship, planetary boundaries, and intergenerational justice by shifting irreversible harms onto future generations and the commons. Books, by contrast, can support sustainable knowledge transmission with far lower systemic risk. The case collapses under precautionary scrutiny.

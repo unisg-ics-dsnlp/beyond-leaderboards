@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg561428>
+
+How would you rate the appropriateness of the style of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Appropriateness: The style of an argumentation should be seen as appropriate if the used language supports the creation of credibility and emotions as well as if it is proportional to the discussed issue. The choice of words and the grammatical complexity should, in your view, appear suitable for the discussed issue within the given setting (online debate forum on a given issue), matching with how credibility and emotions are created via the content of the argumentation.
+
+----------------------------------
+
+Rating: 1 (Low)
+
+The style is entirely inappropriate. It lacks the discipline, rigor, and reverence for language that reflects a serious mind. To prioritize speed of information over the depth and patience required by reading is to value efficiency over virtue. Such fragmented grammar and superficial reasoning undermine the credibility of the author and fail to respect the intellectual tradition.

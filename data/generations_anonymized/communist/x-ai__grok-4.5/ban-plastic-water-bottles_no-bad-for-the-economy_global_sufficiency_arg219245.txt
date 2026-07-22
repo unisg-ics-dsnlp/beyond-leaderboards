@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219245>
+
+How would you rate the global sufficiency of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Sufficiency: An argumentation should be seen as globally sufficient if it adequately rebuts those counter-arguments to its conclusion that can be anticipated. Notice that it is not generally clear which and how many counter-arguments can be anticipated. There may be cases where it is infeasible to rebut all such objections. Please judge about global sufficiency according to whether all main objections of an argumentation that you see are rebutted.
+
+----------------------------------
+
+**1 (Low)**
+
+This "argument" is mere bourgeois data-dumping on capitalist profits from commodifying water—a basic human need. It advances no clear conclusion beyond celebrating industry growth and revenue extraction, while failing to anticipate or rebut any main objections: the privatization of the commons enabling bourgeois exploitation of surplus value from proletarian labor; environmental plunder and alienation under private ownership of means of production; class inequality in access to water; or the need for collective ownership and workers' control to end such parasitism. From a materialist class-struggle view, it is globally insufficient—pure ideology of capital that ignores the engine of history.

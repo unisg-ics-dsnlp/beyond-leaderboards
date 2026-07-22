@@ -1,0 +1,28 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219206>
+
+How would you rate the cogency of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Cogency: An argument should be seen as cogent if it has individually acceptable premises that are relevant to the argument’s conclusion and that are sufficient to draw the conclusion. Try to adequately weight your judgments about local acceptability, local relevance, and local sufficiency when judging about cogency—unless there is a particular dimension among these that dominates your view of an argument. Accordingly, if you identify more than one argument, try to adequately weight the cogency of each argument when judging about their "aggregate" cogency—unless there is a particular argument that dominates your view of the author’s argumentation.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From an Eco-Justice perspective, the argument's cogency is weak for several reasons:
+
+- **Economic premise is insufficient**: Prioritizing economic gains over ecological integrity violates the stewardship duty. The economic argument doesn't adequately address the systemic environmental costs — plastic pollution, water extraction from commons, and carbon footprint.
+
+- **Compostable bottles claim is underdeveloped**: Mentioning emerging compostable alternatives without substantive evidence doesn't sufficiently support the conclusion that bottled water sales should continue. It's a partial concession that actually undermines the core argument.
+
+- **Safety comparison is misleading**: The claim that bottled water is safer than municipal water is contested and shifts focus away from the real issue — the reckless exploitation of water commons and the burden of plastic waste shifted onto future generations.
+
+- **Premises lack sufficiency**: Even if individually partially acceptable, the premises together fail to justify continued large-scale bottled water sales when weighed against irreversible ecosystem damage and intergenerational burdens.
+
+The argument prioritizes short-term economic interests over planetary boundaries and intergenerational justice — making it logically insufficient and ideologically problematic from an Eco-Justice standpoint.

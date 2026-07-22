@@ -1,0 +1,22 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg376774>
+
+How would you rate the effectiveness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Effectiveness: An argumentation should be seen as effective if it achieves to persuade you of the author’s stance on the discussed issue or—in case you already agreed with the stance before—if it corroborates your agreement with the stance. Besides the actual arguments, also take into consideration the credibility and the emotional force of the argumentation. Decide in dubio pro reo, i.e., if you have no doubt about the correctness of the author’s arguments, then do not judge him or her to be not effective—unless you explicitly think that the arguments do not support the author’s stance.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argument is weak and ineffective. The claim that TV is "better" because one can "explore the world while sitting on a couch" is vague and unsupported — better than *what* is never established.
+
+From a materialist standpoint, this argument also fails to engage with any substantive reasoning. It relies on a superficial appeal to passive consumption, which ironically reflects the **alienation** capitalism produces — workers so exhausted by exploitation that passive couch-sitting becomes the ideal. The argument offers no evidence, no logical structure, and no persuasive force beyond a casual assertion.
+
+It does not persuade.

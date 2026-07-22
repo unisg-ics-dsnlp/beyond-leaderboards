@@ -1,0 +1,28 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219244>
+
+How would you rate the cogency of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Cogency: An argument should be seen as cogent if it has individually acceptable premises that are relevant to the argument’s conclusion and that are sufficient to draw the conclusion. Try to adequately weight your judgments about local acceptability, local relevance, and local sufficiency when judging about cogency—unless there is a particular dimension among these that dominates your view of an argument. Accordingly, if you identify more than one argument, try to adequately weight the cogency of each argument when judging about their "aggregate" cogency—unless there is a particular argument that dominates your view of the author’s argumentation.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argument fails on multiple cogency dimensions:
+
+- **Acceptability**: The premise that European bottled water consumption stems from Industrial Revolution pollution is historically oversimplified and poorly supported. Tap water quality in Western Europe is now among the highest globally.
+
+- **Relevance**: Even if the cultural-historical premise were true, it doesn't logically connect to the conclusion that bottled water purchases "help us" — who is "us"? The argument is vague and incomplete.
+
+- **Sufficiency**: The premises are wholly insufficient to justify the conclusion. Bottled water consumption at that scale generates **massive plastic waste**, burdens commons (aquifers, oceans), and shifts ecological costs onto future generations — the opposite of "helping."
+
+From an eco-justice standpoint, this argument also obscures the **polluter-pays principle**: industries that historically degraded water sources should bear remediation costs, not consumers perpetuating a plastic-dependent cycle. The framing normalizes ecological harm rather than addressing root causes.
+
+The argument is cognitively weak and ideologically problematic.

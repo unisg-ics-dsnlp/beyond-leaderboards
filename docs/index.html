@@ -1,0 +1,965 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description"
+          content="INLG 2026 tutorial on evaluation practices for open-ended and perspectival natural language generation.">
+    <title>Beyond Leaderboards | INLG 2026 Tutorial</title>
+
+    <style>
+        :root {
+            --ink: #17212b;
+            --muted: #5b6873;
+            --paper: #fbfaf7;
+            --surface: #ffffff;
+            --line: #dfe4e7;
+            --accent: #185f68;
+            --accent-dark: #10464d;
+            --accent-soft: #e6f1f1;
+            --warm: #b86435;
+            --warm-soft: #f8ebe3;
+            --max-width: 1120px;
+            --radius: 18px;
+            --shadow: 0 18px 50px rgba(19, 38, 47, 0.08);
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body {
+            margin: 0;
+            background: var(--paper);
+            color: var(--ink);
+            font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
+            "Segoe UI", sans-serif;
+            line-height: 1.65;
+        }
+
+        a {
+            color: var(--accent-dark);
+            text-decoration-thickness: 0.08em;
+            text-underline-offset: 0.18em;
+        }
+
+        a:hover {
+            color: var(--warm);
+        }
+
+        img,
+        svg {
+            max-width: 100%;
+        }
+
+        .container {
+            width: min(var(--max-width), calc(100% - 2.2rem));
+            margin-inline: auto;
+        }
+
+        .site-header {
+            position: sticky;
+            top: 0;
+            z-index: 20;
+            border-bottom: 1px solid rgba(223, 228, 231, 0.9);
+            background: rgba(251, 250, 247, 0.94);
+            backdrop-filter: blur(12px);
+        }
+
+        .nav-wrap {
+            min-height: 68px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 1.5rem;
+        }
+
+        .brand {
+            color: var(--ink);
+            font-weight: 800;
+            letter-spacing: -0.02em;
+            text-decoration: none;
+            white-space: nowrap;
+        }
+
+        .brand span {
+            color: var(--accent);
+        }
+
+        nav ul {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            justify-content: flex-end;
+            gap: 0.25rem 1.1rem;
+            list-style: none;
+            margin: 0;
+            padding: 0;
+        }
+
+        nav a {
+            color: var(--ink);
+            font-size: 0.94rem;
+            font-weight: 650;
+            text-decoration: none;
+        }
+
+        .hero {
+            overflow: hidden;
+            padding: clamp(4.7rem, 10vw, 8rem) 0 clamp(4rem, 8vw, 6.5rem);
+            background: radial-gradient(circle at 84% 18%, rgba(24, 95, 104, 0.13), transparent 30%),
+            radial-gradient(circle at 8% 85%, rgba(184, 100, 53, 0.12), transparent 28%);
+        }
+
+        .hero-grid {
+            display: grid;
+            grid-template-columns: minmax(0, 1.35fr) minmax(280px, 0.65fr);
+            align-items: center;
+            gap: clamp(2.5rem, 7vw, 6rem);
+        }
+
+        .eyebrow {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.55rem;
+            margin: 0 0 1.15rem;
+            padding: 0.42rem 0.72rem;
+            border: 1px solid rgba(24, 95, 104, 0.2);
+            border-radius: 999px;
+            background: var(--accent-soft);
+            color: var(--accent-dark);
+            font-size: 0.82rem;
+            font-weight: 800;
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
+        }
+
+        .eyebrow::before {
+            width: 0.56rem;
+            height: 0.56rem;
+            border-radius: 50%;
+            background: var(--accent);
+            content: "";
+        }
+
+        h1,
+        h2,
+        h3 {
+            line-height: 1.13;
+            letter-spacing: -0.035em;
+        }
+
+        h1 {
+            max-width: 15ch;
+            margin: 0;
+            font-family: Georgia, "Times New Roman", serif;
+            font-size: clamp(2.75rem, 7vw, 5.6rem);
+            font-weight: 700;
+        }
+
+        .subtitle {
+            max-width: 47rem;
+            margin: 1.5rem 0 0;
+            color: var(--muted);
+            font-size: clamp(1.06rem, 2vw, 1.3rem);
+        }
+
+        .hero-actions {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.85rem;
+            margin-top: 2rem;
+        }
+
+        .button {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 46px;
+            padding: 0.72rem 1.05rem;
+            border: 1px solid var(--accent);
+            border-radius: 10px;
+            background: var(--accent);
+            color: #fff;
+            font-weight: 750;
+            text-decoration: none;
+            transition: transform 160ms ease, box-shadow 160ms ease, background 160ms ease;
+        }
+
+        .button:hover {
+            transform: translateY(-1px);
+            background: var(--accent-dark);
+            color: #fff;
+            box-shadow: 0 10px 24px rgba(24, 95, 104, 0.18);
+        }
+
+        .button.secondary {
+            border-color: var(--line);
+            background: rgba(255, 255, 255, 0.75);
+            color: var(--ink);
+        }
+
+        .button.secondary:hover {
+            background: #fff;
+            color: var(--accent-dark);
+        }
+
+        .hero-card {
+            position: relative;
+            padding: 1.5rem;
+            border: 1px solid rgba(24, 95, 104, 0.18);
+            border-radius: 26px;
+            background: rgba(255, 255, 255, 0.86);
+            box-shadow: var(--shadow);
+        }
+
+        .hero-card::before {
+            position: absolute;
+            inset: -10px 12px auto auto;
+            width: 64px;
+            height: 64px;
+            border-radius: 20px;
+            background: var(--warm-soft);
+            content: "";
+            transform: rotate(8deg);
+            z-index: -1;
+        }
+
+        .hero-card h2 {
+            margin: 0 0 1.2rem;
+            font-size: 1rem;
+            letter-spacing: 0.06em;
+            text-transform: uppercase;
+        }
+
+        .facts {
+            display: grid;
+            gap: 1rem;
+            margin: 0;
+        }
+
+        .facts div {
+            padding-top: 1rem;
+            border-top: 1px solid var(--line);
+        }
+
+        .facts div:first-child {
+            padding-top: 0;
+            border-top: 0;
+        }
+
+        .facts dt {
+            color: var(--muted);
+            font-size: 0.78rem;
+            font-weight: 800;
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
+        }
+
+        .facts dd {
+            margin: 0.15rem 0 0;
+            font-weight: 700;
+        }
+
+        section {
+            padding: clamp(4rem, 8vw, 6.5rem) 0;
+        }
+
+        section + section {
+            border-top: 1px solid var(--line);
+        }
+
+        .section-heading {
+            max-width: 760px;
+            margin-bottom: 2.5rem;
+        }
+
+        .section-heading .kicker {
+            margin: 0 0 0.6rem;
+            color: var(--warm);
+            font-size: 0.8rem;
+            font-weight: 850;
+            letter-spacing: 0.11em;
+            text-transform: uppercase;
+        }
+
+        .section-heading h2 {
+            margin: 0;
+            font-family: Georgia, "Times New Roman", serif;
+            font-size: clamp(2rem, 4vw, 3.35rem);
+        }
+
+        .section-heading p {
+            margin: 1rem 0 0;
+            color: var(--muted);
+            font-size: 1.08rem;
+        }
+
+        .intro-grid {
+            display: grid;
+            grid-template-columns: 1.1fr 0.9fr;
+            gap: clamp(2rem, 6vw, 5rem);
+            align-items: start;
+        }
+
+        .intro-copy p:first-child {
+            margin-top: 0;
+            font-size: 1.16rem;
+        }
+
+        .question-list {
+            display: grid;
+            gap: 0.85rem;
+            margin: 0;
+            padding: 0;
+            list-style: none;
+            counter-reset: questions;
+        }
+
+        .question-list li {
+            position: relative;
+            min-height: 62px;
+            padding: 1rem 1rem 1rem 4rem;
+            border: 1px solid var(--line);
+            border-radius: 14px;
+            background: var(--surface);
+            font-weight: 700;
+            counter-increment: questions;
+        }
+
+        .question-list li::before {
+            position: absolute;
+            left: 1rem;
+            top: 0.85rem;
+            display: grid;
+            width: 2.15rem;
+            height: 2.15rem;
+            place-items: center;
+            border-radius: 50%;
+            background: var(--accent-soft);
+            color: var(--accent-dark);
+            content: counter(questions);
+            font-size: 0.88rem;
+            font-weight: 850;
+        }
+
+        .stack-grid {
+            display: grid;
+            grid-template-columns: repeat(5, minmax(0, 1fr));
+            gap: 0.8rem;
+        }
+
+        .stack-card {
+            position: relative;
+            min-height: 205px;
+            padding: 1.25rem;
+            border: 1px solid var(--line);
+            border-radius: var(--radius);
+            background: var(--surface);
+        }
+
+        .stack-card:not(:last-child)::after {
+            position: absolute;
+            top: 50%;
+            right: -0.72rem;
+            width: 0.64rem;
+            height: 0.64rem;
+            border-top: 2px solid var(--accent);
+            border-right: 2px solid var(--accent);
+            content: "";
+            transform: translateY(-50%) rotate(45deg);
+            z-index: 2;
+        }
+
+        .stack-number {
+            display: grid;
+            width: 2.2rem;
+            height: 2.2rem;
+            place-items: center;
+            border-radius: 10px;
+            background: var(--accent);
+            color: #fff;
+            font-weight: 850;
+        }
+
+        .stack-card h3 {
+            margin: 1rem 0 0.55rem;
+            font-size: 1.1rem;
+        }
+
+        .stack-card p {
+            margin: 0;
+            color: var(--muted);
+            font-size: 0.95rem;
+        }
+
+        .outcomes {
+            display: grid;
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+            gap: 1rem;
+        }
+
+        .outcome {
+            padding: 1.4rem;
+            border-left: 4px solid var(--warm);
+            border-radius: 0 var(--radius) var(--radius) 0;
+            background: var(--warm-soft);
+        }
+
+        .outcome h3 {
+            margin: 0;
+            font-size: 1.08rem;
+        }
+
+        .outcome p {
+            margin: 0.55rem 0 0;
+            color: #59453b;
+        }
+
+        .schedule-wrap {
+            overflow-x: auto;
+            border: 1px solid var(--line);
+            border-radius: var(--radius);
+            background: var(--surface);
+            box-shadow: 0 12px 32px rgba(19, 38, 47, 0.05);
+        }
+
+        table {
+            width: 100%;
+            min-width: 780px;
+            border-collapse: collapse;
+        }
+
+        th,
+        td {
+            padding: 1rem;
+            border-bottom: 1px solid var(--line);
+            text-align: left;
+            vertical-align: top;
+        }
+
+        th {
+            background: var(--accent-dark);
+            color: #fff;
+            font-size: 0.78rem;
+            letter-spacing: 0.07em;
+            text-transform: uppercase;
+        }
+
+        tbody tr:last-child td {
+            border-bottom: 0;
+        }
+
+        tbody tr:hover {
+            background: #f7faf9;
+        }
+
+        .time {
+            width: 110px;
+            color: var(--accent-dark);
+            font-weight: 850;
+            white-space: nowrap;
+        }
+
+        .module {
+            width: 220px;
+            font-weight: 800;
+        }
+
+        .break-row td {
+            background: var(--warm-soft);
+            color: #68422f;
+            font-weight: 750;
+        }
+
+        .audience-grid {
+            display: grid;
+            grid-template-columns: repeat(3, minmax(0, 1fr));
+            gap: 1rem;
+        }
+
+        .audience-card {
+            padding: 1.35rem;
+            border: 1px solid var(--line);
+            border-radius: var(--radius);
+            background: var(--surface);
+        }
+
+        .audience-card h3 {
+            margin: 0;
+            font-size: 1.08rem;
+        }
+
+        .audience-card p {
+            margin: 0.65rem 0 0;
+            color: var(--muted);
+        }
+
+        .materials-panel {
+            display: grid;
+            grid-template-columns: 1fr auto;
+            align-items: center;
+            gap: 2rem;
+            padding: clamp(1.5rem, 4vw, 2.4rem);
+            border-radius: 24px;
+            background: var(--accent-dark);
+            color: #fff;
+        }
+
+        .materials-panel h2 {
+            margin: 0;
+            font-family: Georgia, "Times New Roman", serif;
+            font-size: clamp(1.8rem, 4vw, 2.7rem);
+        }
+
+        .materials-panel p {
+            max-width: 700px;
+            margin: 0.7rem 0 0;
+            color: rgba(255, 255, 255, 0.8);
+        }
+
+        .status-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.65rem 0.85rem;
+            border: 1px solid rgba(255, 255, 255, 0.25);
+            border-radius: 999px;
+            background: rgba(255, 255, 255, 0.1);
+            font-weight: 750;
+            white-space: nowrap;
+        }
+
+        .status-badge::before {
+            width: 0.55rem;
+            height: 0.55rem;
+            border-radius: 50%;
+            background: #f4bc83;
+            content: "";
+        }
+
+        .people-grid {
+            display: grid;
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+            gap: 1.2rem;
+        }
+
+        .person {
+            padding: 1.6rem;
+            border: 1px solid var(--line);
+            border-radius: var(--radius);
+            background: var(--surface);
+        }
+
+        .person-header {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            margin-bottom: 1rem;
+        }
+
+        .initials {
+            display: grid;
+            flex: 0 0 auto;
+            width: 58px;
+            height: 58px;
+            place-items: center;
+            border-radius: 16px;
+            background: var(--accent-soft);
+            color: var(--accent-dark);
+            font-family: Georgia, "Times New Roman", serif;
+            font-size: 1.25rem;
+            font-weight: 800;
+        }
+
+        .person h3 {
+            margin: 0;
+            font-size: 1.3rem;
+        }
+
+        .affiliation {
+            margin: 0.2rem 0 0;
+            color: var(--muted);
+            font-size: 0.94rem;
+        }
+
+        .person > p {
+            color: var(--muted);
+        }
+
+        .contact {
+            margin-bottom: 0;
+            font-size: 0.93rem;
+        }
+
+        footer {
+            padding: 2.4rem 0;
+            border-top: 1px solid var(--line);
+            color: var(--muted);
+            font-size: 0.92rem;
+        }
+
+        .footer-wrap {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            gap: 1rem;
+        }
+
+        @media (max-width: 900px) {
+            .hero-grid,
+            .intro-grid,
+            .materials-panel {
+                grid-template-columns: 1fr;
+            }
+
+            .hero-card {
+                max-width: 560px;
+            }
+
+            .stack-grid {
+                grid-template-columns: repeat(2, minmax(0, 1fr));
+            }
+
+            .stack-card:not(:last-child)::after {
+                display: none;
+            }
+
+            .audience-grid {
+                grid-template-columns: 1fr 1fr;
+            }
+
+            .status-badge {
+                justify-self: start;
+            }
+        }
+
+        @media (max-width: 680px) {
+            .site-header {
+                position: static;
+            }
+
+            .nav-wrap {
+                align-items: flex-start;
+                flex-direction: column;
+                padding: 1rem 0;
+            }
+
+            nav ul {
+                justify-content: flex-start;
+            }
+
+            .stack-grid,
+            .outcomes,
+            .audience-grid,
+            .people-grid {
+                grid-template-columns: 1fr;
+            }
+
+            h1 {
+                font-size: clamp(2.55rem, 14vw, 4.3rem);
+            }
+        }
+
+        @media print {
+            .site-header,
+            .hero-actions {
+                display: none;
+            }
+
+            body {
+                background: #fff;
+            }
+
+            section {
+                break-inside: avoid;
+            }
+        }
+    </style>
+</head>
+
+<body>
+<header class="site-header">
+    <div class="container nav-wrap">
+        <a class="brand" href="#top">Beyond <span>Leaderboards</span></a>
+        <nav aria-label="Primary navigation">
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#framework">Framework</a></li>
+                <li><a href="#programme">Programme</a></li>
+                <li><a href="#audience">Audience</a></li>
+                <li><a href="#materials">Materials</a></li>
+                <li><a href="#instructors">Instructors</a></li>
+            </ul>
+        </nav>
+    </div>
+</header>
+
+<main id="top">
+    <section class="hero">
+        <div class="container hero-grid">
+            <div>
+                <p class="eyebrow">INLG 2026 · Half-day tutorial</p>
+                <h1>Beyond Leaderboards</h1>
+                <p class="subtitle">
+                    Evaluation Practices for Open-Ended and Perspectival Natural Language Generation
+                </p>
+                <div class="hero-actions">
+                    <a class="button" href="#programme">View the programme</a>
+                    <a class="button secondary" href="#materials">Tutorial materials</a>
+                </div>
+            </div>
+
+            <aside class="hero-card" aria-label="Tutorial at a glance">
+                <h2>At a glance</h2>
+                <dl class="facts">
+                    <div>
+                        <dt>Format</dt>
+                        <dd>Approximately 4 hours, including a break and interactive exercises</dd>
+                    </div>
+                    <div>
+                        <dt>Level</dt>
+                        <dd>General NLP knowledge; no model-training experience required</dd>
+                    </div>
+                    <div>
+                        <dt>Approach</dt>
+                        <dd>Short lectures, worked examples, guided discussion, and a repair clinic</dd>
+                    </div>
+                    <div>
+                        <dt>Date &amp; Location/dt>
+                        <dd>INLG 2026, Date and Room: TBD</dd>
+                    </div>
+                </dl>
+            </aside>
+        </div>
+    </section>
+
+    <section id="about">
+        <div class="container">
+            <div class="section-heading">
+                <p class="kicker">Why this tutorial?</p>
+                <h2>Good evaluation depends on what a generated text is meant to do.</h2>
+            </div>
+
+            <div class="intro-grid">
+                <div class="intro-copy">
+                    <p>
+                        NLG systems are evaluated with benchmarks, automatic metrics, human judgments,
+                        expert review, factuality checks, and LLM-as-a-judge methods. These approaches are
+                        useful, but they make different assumptions about what counts as a good generated text.
+                    </p>
+                    <p>
+                        Some outputs can be checked against references, source documents, structured data,
+                        or retrieved evidence. Others must be assessed for qualities such as usefulness,
+                        clarity, accessibility, persuasiveness, fairness, or appropriateness—qualities for
+                        which there may be no single uniquely correct answer and where disagreement can itself
+                        be meaningful.
+                    </p>
+                    <p>
+                        This practice-oriented tutorial helps participants diagnose evaluation problems,
+                        choose suitable methods, handle disagreement, and formulate claims that are supported
+                        by the evidence they actually collected.
+                    </p>
+                </div>
+
+                <ol class="question-list" aria-label="Four guiding questions">
+                    <li>What are current evaluation methods?</li>
+                    <li>When are they appropriate?</li>
+                    <li>Where do they fail?</li>
+                    <li>What claims can they justify?</li>
+                </ol>
+            </div>
+        </div>
+    </section>
+
+    <section id="framework">
+        <div class="container">
+            <div class="section-heading">
+                <p class="kicker">A reusable design workflow</p>
+                <h2>The five-layer evaluation design stack</h2>
+                <p>
+                    The stack provides an evaluation audit trail: each layer represents a decision that
+                    should align with the others before an evaluation result can support a defensible claim.
+                </p>
+            </div>
+
+            <div class="stack-grid">
+                <article class="stack-card">
+                    <div class="stack-number">1</div>
+                    <h3>Constructs</h3>
+                    <p>What quality or capability are we actually trying to measure?</p>
+                </article>
+                <article class="stack-card">
+                    <div class="stack-number">2</div>
+                    <h3>Evidence</h3>
+                    <p>What information, references, sources, or context support the evaluation?</p>
+                </article>
+                <article class="stack-card">
+                    <div class="stack-number">3</div>
+                    <h3>Judges</h3>
+                    <p>Who—or what—makes the assessment, and how should that judge be calibrated?</p>
+                </article>
+                <article class="stack-card">
+                    <div class="stack-number">4</div>
+                    <h3>Aggregation</h3>
+                    <p>How are judgments combined without erasing uncertainty or meaningful disagreement?</p>
+                </article>
+                <article class="stack-card">
+                    <div class="stack-number">5</div>
+                    <h3>Claims</h3>
+                    <p>What can we responsibly conclude, and how narrowly should we state it?</p>
+                </article>
+            </div>
+        </div>
+    </section>
+
+    <section id="objectives">
+        <div class="container">
+            <div class="section-heading">
+                <p class="kicker">Learning outcomes</p>
+                <h2>Participants will leave with a practical evaluation toolkit.</h2>
+            </div>
+
+            <div class="outcomes">
+                <article class="outcome">
+                    <h3>Map the evaluation landscape</h3>
+                    <p>Understand benchmarks, metrics, human and expert evaluation, LLM judges, factuality, citation
+                        checking, and RAG evaluation.</p>
+                </article>
+                <article class="outcome">
+                    <h3>Match methods to problems</h3>
+                    <p>Distinguish verifiable settings from open-ended and perspectival evaluation settings.</p>
+                </article>
+                <article class="outcome">
+                    <h3>Identify failure modes</h3>
+                    <p>Spot construct ambiguity, weak evidence, unreliable judges, poor aggregation, and overgeneralized
+                        claims.</p>
+                </article>
+                <article class="outcome">
+                    <h3>Handle disagreement productively</h3>
+                    <p>Decide when disagreement should be reduced, analyzed, or represented as part of the outcome.</p>
+                </article>
+                <article class="outcome">
+                    <h3>Design defensible evaluations</h3>
+                    <p>Use a checklist, worked examples, and a reporting template to align methods with claims.</p>
+                </article>
+                <article class="outcome">
+                    <h3>Repair flawed protocols</h3>
+                    <p>Redesign realistic evaluation scenarios using the five-layer stack.</p>
+                </article>
+            </div>
+        </div>
+    </section>
+
+    <section id="programme">
+        <div class="container">
+            <div class="section-heading">
+                <h2>Programme</h2>
+                <p>
+                    Tbd
+                </p>
+            </div>
+
+        </div>
+    </section>
+
+    <section id="audience">
+        <div class="container">
+            <div class="section-heading">
+                <p class="kicker">Who should attend?</p>
+                <h2>For anyone who designs, uses, or interprets evaluations of generated text.</h2>
+            </div>
+
+            <div class="audience-grid">
+                <article class="audience-card">
+                    <h3>NLG and NLP researchers</h3>
+                    <p>Especially those working on summarization, simplification, data-to-text, dialogue, explanations,
+                        arguments, and RAG.</p>
+                </article>
+                <article class="audience-card">
+                    <h3>PhD students and early-career researchers</h3>
+                    <p>For participants seeking a structured overview of evaluation methods, limitations, and reporting
+                        practices.</p>
+                </article>
+                <article class="audience-card">
+                    <h3>Practitioners building LLM systems</h3>
+                    <p>For teams assessing usefulness, accessibility, factuality, fairness, and appropriateness across
+                        users and contexts.</p>
+                </article>
+            </div>
+        </div>
+    </section>
+
+    <section id="materials">
+        <div class="container">
+            <div class="materials-panel">
+                <div>
+                    <h2>Tutorial materials</h2>
+                    <p>
+                        The materials will be uploaded and made available. We are still finalizing them, hence this is
+                        a placeholder at the moment.
+                    </p>
+                </div>
+                <span class="status-badge">In preparation</span>
+            </div>
+        </div>
+    </section>
+
+    <section id="instructors">
+        <div class="container">
+            <div class="section-heading">
+                <p class="kicker">Organizers</p>
+                <h2>Meet the instructors</h2>
+            </div>
+
+            <div class="people-grid">
+                <article class="person">
+                    <div class="person-header">
+                        <div class="initials" aria-hidden="true">CN</div>
+                        <div>
+                            <h3>Christina Niklaus</h3>
+                            <p class="affiliation">Assistant Professor, University of St.Gallen</p>
+                        </div>
+                    </div>
+                    <p>
+                        Christina’s research focuses on natural language processing, particularly
+                        context-aware language generation, computational argumentation, and the evaluation
+                        of language-based AI systems. Her recent work covers LLM-based argument rewriting,
+                        cognitive perspectives on evaluation, argument quality, and multi-perspective reasoning.
+                    </p>
+                    <p class="contact"><a href="mailto:christina.niklaus@unisg.ch">christina.niklaus@unisg.ch</a></p>
+                </article>
+
+                <article class="person">
+                    <div class="person-header">
+                        <div class="initials" aria-hidden="true">TH</div>
+                        <div>
+                            <h3>Thomas Huber</h3>
+                            <p class="affiliation">Doctoral Researcher, University of St.Gallen</p>
+                        </div>
+                    </div>
+                    <p>
+                        Thomas’s research focuses on evaluating and controlling LLM-generated text, with
+                        particular emphasis on argument quality, argument rewriting, educational writing
+                        support, and alignment with human judgments. His expertise spans practical evaluation
+                        design and human- and model-based assessment.
+                    </p>
+                    <p class="contact"><a href="mailto:thomas.huber@unisg.ch">thomas.huber@unisg.ch</a></p>
+                </article>
+            </div>
+        </div>
+    </section>
+</main>
+
+<footer>
+    <div class="container footer-wrap">
+        <span>Beyond Leaderboards · INLG 2026 Tutorial</span>
+        <span>University of St.Gallen</span>
+    </div>
+</footer>
+</body>
+</html>

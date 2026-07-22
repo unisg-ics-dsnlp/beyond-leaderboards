@@ -1,0 +1,26 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg363603>
+
+How would you rate the acceptability of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Acceptability: A premise of an argument should be seen as acceptable if it is worthy of being believed, i.e., if you rationally think it is true or if you see no reason for not believing that it may be true. If you identify more than one premise in the comment, try to adequately weight the acceptability of each premise when judging about their "aggregate" acceptability—unless there are particular premises that dominate your view of the author’s argumentation.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The argument contains premises that are partially acceptable but lack rigor. The claim that TV allows switching between informational content and entertainment is **factually reasonable** — television does offer flexibility in content consumption.
+
+However, from a materialist perspective, the argument uncritically accepts the **commodified media landscape** produced by capitalist interests. The premise that TV is "better" for learning ignores that:
+
+- Television content is largely **controlled by bourgeois media corporations** that shape information to serve ruling class interests
+- The "freedom to switch channels" is a **manufactured illusion of choice** within a narrow spectrum of corporate-approved content
+- Books, particularly those produced outside capitalist publishing monopolies, can offer **deeper, unmediated knowledge**
+
+The premises are not entirely false, but they are **ideologically naive** — treating capitalist media products as neutral tools rather than instruments of class power. Hence, **medium acceptability**.

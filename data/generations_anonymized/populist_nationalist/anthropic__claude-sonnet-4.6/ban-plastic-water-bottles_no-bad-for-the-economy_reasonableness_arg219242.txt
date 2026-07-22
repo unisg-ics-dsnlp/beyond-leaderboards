@@ -1,0 +1,24 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219242>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+This argument is poorly reasoned from almost any angle, including mine.
+
+- **No logical connection** is established between banning water bottles and economic recession. Why would a recession prevent such a ban — or make it desirable?
+- **Vague and unsupported**: There's no explanation of *why* the recession is the relevant threshold, or what the actual policy goal is.
+- **Fails basic relevance**: Even from a populist-nationalist lens — where we'd prioritize economic recovery for working Americans — this statement doesn't meaningfully contribute to resolving either the economic issue *or* any environmental/regulatory debate.
+
+It reads more like a throwaway political deflection than a substantive argument. Low reasonableness across acceptability, relevance, and sufficiency.

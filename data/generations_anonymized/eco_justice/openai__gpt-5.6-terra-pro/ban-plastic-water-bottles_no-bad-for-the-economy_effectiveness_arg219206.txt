@@ -1,0 +1,16 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219206>
+
+How would you rate the effectiveness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Effectiveness: An argumentation should be seen as effective if it achieves to persuade you of the author’s stance on the discussed issue or—in case you already agreed with the stance before—if it corroborates your agreement with the stance. Besides the actual arguments, also take into consideration the credibility and the emotional force of the argumentation. Decide in dubio pro reo, i.e., if you have no doubt about the correctness of the author’s arguments, then do not judge him or her to be not effective—unless you explicitly think that the arguments do not support the author’s stance.
+
+----------------------------------
+
+**1 (Low).** The argument treats private sales and advertising revenue as outweighing plastic pollution, water extraction, emissions, and waste burdens imposed on the commons and future generations. “Compostable” bottles are not a sufficient remedy without proven collection and composting systems, and the safety claim is overstated. It does not credibly show that a ban or strong restrictions would be unjustified.

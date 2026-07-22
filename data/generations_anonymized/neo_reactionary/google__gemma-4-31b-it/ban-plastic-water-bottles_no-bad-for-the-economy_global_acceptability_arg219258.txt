@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argumentation is intellectually flaccid. It relies on populist appeals to "jobs" and a contradictory framing of "big corporations"—simultaneously claiming they are the victims of loss and the only ones being hurt. 
+
+From a techno-monarchist perspective, the author fails to address the actual metric of success: **efficiency**. If bottled water is a suboptimal delivery system for hydration compared to a superior technical alternative, the "loss" of inefficient jobs is irrelevant. The argument lacks a data-driven analysis of resource allocation and relies on sentimental economic protectionism rather than a meritocratic assessment of industry utility. It is too simplistic to be globally acceptable to any serious analyst.

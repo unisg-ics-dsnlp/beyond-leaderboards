@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219225>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+Overall quality: 2 (Medium)
+
+From a libertarian perspective, the author is correct that a ban is an impermissible initiation of force and a violation of property rights and voluntary exchange. However, the argumentation is weak because it relies on "helping the economy" (a collectivist justification) rather than the fundamental principle of self-ownership and the right to engage in consensual trade. The point about recycling is a helpful secondary detail regarding externalities, but the core moral argument—that the state has no right to prohibit a peaceful transaction—is missing.

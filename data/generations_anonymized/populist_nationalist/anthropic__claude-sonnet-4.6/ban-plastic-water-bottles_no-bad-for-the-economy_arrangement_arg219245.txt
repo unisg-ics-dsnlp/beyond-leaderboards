@@ -1,0 +1,22 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219245>
+
+How would you rate the arrangement of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Arrangement: An argumentation should be seen as well-arranged if it presents the given issue, the composed arguments, and its conclusion in the right order. Usually, the general issue and the particularly discussed topics should be clear before arguing and concluding about them. Notice, however, that other orderings may be used on purpose and may still be suitable to achieve persuasion. Besides, notice that, within the given setting (online debate forum on a given issue), some parts may be clear (e.g., the issue) and thus left implicit.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The arrangement here is poor. The argument jumps around with statistics — throwing out a 13% growth figure with no prior context, then leaping to global revenue, then back to U.S. figures, then back to global numbers from a different year. There's **no clear issue stated, no logical buildup, and no conclusion drawn.** It's just a pile of numbers with no direction.
+
+A well-arranged argument tells you *what point is being made* before dumping data on you. This reads like someone pulled stats from a report without organizing them into a coherent case. Ordinary people deserve clear, straight-talking arguments — not a jumbled mess of figures that leaves you more confused than informed.
+
+**1 (Low).**

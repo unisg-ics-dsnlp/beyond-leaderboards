@@ -1,0 +1,25 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg585674>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From a technocratic standpoint, this argument is fundamentally weak:
+
+- It conflates **emotional impact** with **informational quality** — a critical error. Visceral imagery may be "powerful," but it optimizes for sentiment over substance.
+- The argument actually **undermines itself** from an elite governance perspective: television's emotional immediacy is precisely what makes it a tool for **populist manipulation** rather than informed decision-making.
+- "Books take too much time" is an **anti-intellectual shortcut** — depth and rigor require investment. Efficiency in information consumption should not come at the cost of analytical quality.
+- The reasoning is **anecdotal and shallow**, relying on emotional appeal rather than structured logic.
+
+A competent thinker recognizes that **speed and emotional resonance are not virtues** in serious discourse. This argument would appeal to the masses — which is precisely its flaw.

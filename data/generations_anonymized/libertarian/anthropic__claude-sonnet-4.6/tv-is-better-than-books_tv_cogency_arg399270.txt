@@ -1,0 +1,28 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399270>
+
+How would you rate the cogency of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Cogency: An argument should be seen as cogent if it has individually acceptable premises that are relevant to the argument’s conclusion and that are sufficient to draw the conclusion. Try to adequately weight your judgments about local acceptability, local relevance, and local sufficiency when judging about cogency—unless there is a particular dimension among these that dominates your view of an argument. Accordingly, if you identify more than one argument, try to adequately weight the cogency of each argument when judging about their "aggregate" cogency—unless there is a particular argument that dominates your view of the author’s argumentation.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From a cogency standpoint, this argument is weak regardless of ideological lens:
+
+- **Premise 1** ("TV gives actors jobs") is relevant but **not sufficient** — it's a circular economic dependency argument. Many industries create jobs; that alone doesn't justify TV's necessity or value.
+
+- **Premise 2** ("newspapers can't fit everything") is **questionable and overstated**. It assumes a false dichotomy between TV and print, ignoring radio, internet, and other voluntary market alternatives.
+
+- **Premise 3** (emergency warnings) is the **strongest premise** but still insufficient — radio and digital alerts serve the same function, undermining the claim's uniqueness.
+
+The argument also **lacks a clear conclusion** — is it arguing TV *should exist*? *Must* exist? *Is valuable*? The premises don't converge on a well-defined claim.
+
+The reasoning is **individually weak, insufficiently relevant, and collectively far from sufficient** to establish any meaningful conclusion.

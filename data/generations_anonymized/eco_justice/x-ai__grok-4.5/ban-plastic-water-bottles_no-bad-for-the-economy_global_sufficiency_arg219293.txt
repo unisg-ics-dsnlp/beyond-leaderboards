@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the global sufficiency of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Sufficiency: An argumentation should be seen as globally sufficient if it adequately rebuts those counter-arguments to its conclusion that can be anticipated. Notice that it is not generally clear which and how many counter-arguments can be anticipated. There may be cases where it is infeasible to rebut all such objections. Please judge about global sufficiency according to whether all main objections of an argumentation that you see are rebutted.
+
+----------------------------------
+
+**1 (Low)**
+
+This claim fails global sufficiency entirely. It ignores core counters: recycling rates for plastics are far lower and incomplete (leaking microplastics, energy waste); single-use bottle production itself violates ecological integrity, planetary boundaries, and polluter-pays; "more than half" still shifts irreversible burdens onto future generations and commons. No rebuttal of reduce-first, precautionary limits, or systemic overconsumption. Mere assertion of partial recycling does not defend the conclusion.

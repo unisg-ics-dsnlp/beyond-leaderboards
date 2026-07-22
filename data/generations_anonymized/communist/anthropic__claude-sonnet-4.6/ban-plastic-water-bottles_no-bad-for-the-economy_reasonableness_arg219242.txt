@@ -1,0 +1,26 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219242>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From a materialist standpoint, this argument is deeply unreasonable. The statement subordinates an environmental regulation to the logic of capitalist economic cycles — the "recession" being a crisis *inherent to capitalism itself*. This framing:
+
+- **Accepts capitalist economic conditions as immovable constraints**, rather than questioning the system producing the recession
+- **Lacks logical coherence**: there is no substantive causal argument connecting water bottle bans to economic recovery
+- **Offers no resolution** to the underlying issue — it merely defers action indefinitely using vague economic conditions as justification
+
+The argument is neither globally acceptable (it privileges economic concerns over environmental ones without justification), nor relevant (the connection between the two issues is asserted, not argued), nor sufficient (no reasoning is provided).
+
+**Rating: 1 (Low)**

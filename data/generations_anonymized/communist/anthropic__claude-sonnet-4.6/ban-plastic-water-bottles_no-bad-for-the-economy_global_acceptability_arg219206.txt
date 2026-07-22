@@ -1,0 +1,26 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219206>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The argument presents recognizable economic and public health points that portions of the target audience would find acceptable. However, from a materialist standpoint, the reasoning has notable weaknesses:
+
+- The "economic harm" argument uncritically prioritizes **capitalist profit metrics** over public good — a logically weak foundation even by mainstream standards
+- The claim about compostable bottles is **underdeveloped** and speculative
+- The safety comparison with municipal water is **partially valid** but oversimplified and source-dependent
+
+The argumentation is coherent enough to be taken seriously but contains logical gaps and unsubstantiated claims that would cause **a significant portion of the target audience to reject the reasoning**, even if not the conclusion.
+
+Hence — **Medium acceptability**.

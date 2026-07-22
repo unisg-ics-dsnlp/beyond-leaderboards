@@ -1,0 +1,30 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219244>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From a materialist perspective, this argument is weak on multiple levels:
+
+- **Causal oversimplification**: Attributing bottled water consumption primarily to "European culture" ignores the **material and economic forces** at play — corporate interests, privatization of water resources, and capitalist commodification of a basic human need.
+
+- **Historical distortion**: While industrial pollution is real, the argument fails to connect this to the **class dynamics** of who polluted the water (industrial capitalists) and who suffers the consequences (workers and communities).
+
+- **The concluding claim is incoherent**: "The water bottles they buy help us" — help *whom*, exactly? This appears to be an incomplete or illogical statement that undermines the entire argument.
+
+- **No structural analysis**: There is no examination of how water privatization represents the **enclosure of a common resource** by capital, forcing workers to purchase what should be a collective right.
+
+The argument lacks logical coherence, empirical rigor, and any meaningful causal chain. It mistakes cultural explanation for material analysis and ends with an unintelligible conclusion.
+
+**Overall: Poor argumentation quality.**

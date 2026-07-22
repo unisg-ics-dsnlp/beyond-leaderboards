@@ -1,0 +1,27 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg561428>
+
+How would you rate the effectiveness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Effectiveness: An argumentation should be seen as effective if it achieves to persuade you of the author’s stance on the discussed issue or—in case you already agreed with the stance before—if it corroborates your agreement with the stance. Besides the actual arguments, also take into consideration the credibility and the emotional force of the argumentation. Decide in dubio pro reo, i.e., if you have no doubt about the correctness of the author’s arguments, then do not judge him or her to be not effective—unless you explicitly think that the arguments do not support the author’s stance.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From a materialist perspective, this argument is weak and underdeveloped. The author makes a superficial claim about information efficiency without providing concrete evidence, examples, or deeper analysis.
+
+The argument reduces a complex question to a simplistic time-efficiency comparison, ignoring critical dimensions such as:
+- **Quality and depth** of information
+- **Who controls** the information being broadcast
+- **Class interests** embedded in media production
+
+Under capitalism, television is largely a tool of bourgeois ideological control — a means of production owned by capital to shape consciousness. Books, particularly those circulated among the working class, have historically been instruments of **liberation and class consciousness**.
+
+The argument's emotional force is minimal, its credibility unsupported, and it fails to persuade even on its own terms. A truly effective argument would require **evidence and structured reasoning** — neither of which is present here.

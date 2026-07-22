@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399270>
+
+How would you rate the effectiveness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Effectiveness: An argumentation should be seen as effective if it achieves to persuade you of the author’s stance on the discussed issue or—in case you already agreed with the stance before—if it corroborates your agreement with the stance. Besides the actual arguments, also take into consideration the credibility and the emotional force of the argumentation. Decide in dubio pro reo, i.e., if you have no doubt about the correctness of the author’s arguments, then do not judge him or her to be not effective—unless you explicitly think that the arguments do not support the author’s stance.
+
+----------------------------------
+
+Effectiveness: 1 (Low)
+
+The author relies on fallacies and a misunderstanding of market dynamics. First, the claim that actors wouldn't have jobs without TV ignores the reality of voluntary exchange; actors would simply find other venues (theater, film, digital media) to offer their labor. Second, the claim regarding information flow is a "false necessity" argument. The market provides numerous competing ways to disseminate news; the absence of one medium does not preclude the existence of others. Finally, the argument appeals to a perceived "public good" to justify the existence of a medium, but fails to acknowledge that these services are most efficient when provided voluntarily, not as an essential utility. It is an emotional plea, not a logical defense of necessity.

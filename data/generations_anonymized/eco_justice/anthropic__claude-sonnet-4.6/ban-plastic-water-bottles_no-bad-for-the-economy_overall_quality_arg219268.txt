@@ -1,0 +1,27 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219268>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argument is extremely weak on multiple grounds:
+
+- **Superficial and incomplete**: It only highlights convenience benefits (lightweight, distribution efficiency) while entirely ignoring ecological costs — plastic pollution, microplastics, non-biodegradability, and harm to ecosystems.
+- **No engagement with trade-offs**: A credible argument must acknowledge the full lifecycle impact. Plastic's "usefulness" cannot be evaluated in isolation from its **irreversible environmental harm**.
+- **No evidence or nuance**: The claim is asserted without data, context, or acknowledgment of alternatives.
+- **Ignores the commons**: Plastic waste systematically degrades shared ecosystems — oceans, soils, waterways — violating the stewardship duty we hold toward the planetary commons.
+
+From an eco-justice perspective, framing plastic as simply "good" because it's convenient is a textbook case of **externalizing harm onto ecosystems and future generations** — precisely the kind of reasoning that perpetuates ecological injustice.
+
+**Overall: 1 (Low)** — The argumentation is one-dimensional, unsupported, and ethically incomplete.

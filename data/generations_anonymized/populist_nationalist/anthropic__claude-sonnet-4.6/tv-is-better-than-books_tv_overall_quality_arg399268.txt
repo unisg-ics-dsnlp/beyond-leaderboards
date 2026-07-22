@@ -1,0 +1,22 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399268>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+This isn't really an *argument* at all — it's a product advertisement or a simple factual statement about a streaming app. There's no claim being defended, no reasoning provided, no evidence marshaled, and no position taken on any meaningful issue.
+
+From any serious analytical standpoint — including mine — good argumentation requires a **thesis, supporting reasoning, and a conclusion**. This has none of that. It's just a feature description for a tech product.
+
+It has nothing to do with the interests of ordinary citizens, national priorities, or any substantive debate. Weak.

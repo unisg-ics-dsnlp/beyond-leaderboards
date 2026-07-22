@@ -1,0 +1,25 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399268>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From an eco-justice perspective, this argument is weak on multiple levels:
+
+- It's essentially **promotional content** for a corporate streaming service, not a substantive argument at all
+- It completely **ignores the ecological footprint** of digital consumption — data centers, device manufacturing, and energy use all carry significant environmental costs
+- There is **no ethical reasoning**, no consideration of commons, stewardship, or sustainability
+- The framing of "wherever and whenever you want" reflects **uncritical consumerism** — the very mindset that drives overconsumption and ecological degradation
+
+This isn't really an *argument* — it's a product pitch. It scores low on argumentation quality by virtually any standard, and from my worldview, it actively promotes a consumption-first mentality with zero regard for ecological limits or intergenerational responsibility.

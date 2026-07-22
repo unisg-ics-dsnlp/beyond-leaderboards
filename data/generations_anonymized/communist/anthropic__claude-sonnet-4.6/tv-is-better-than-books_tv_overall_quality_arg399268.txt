@@ -1,0 +1,27 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399268>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From a materialist perspective, this is barely an argument at all — it is merely a **product advertisement** dressed as a statement. It promotes a commodity (Foxconn's Foxtel Go app) without any substantive reasoning, evidence, or logical structure.
+
+The statement:
+- Makes no **claim worth defending**
+- Offers no **premises or conclusions**
+- Simply asserts a consumer convenience as if it constitutes an argument
+
+Furthermore, from a class-conscious view, this "argument" uncritically promotes **commodified entertainment** — a product of the culture industry designed to pacify workers and extract subscription fees, deepening their alienation rather than addressing it.
+
+The "argumentation quality" is **low** because there is functionally **no argumentation present** — only a marketing claim.

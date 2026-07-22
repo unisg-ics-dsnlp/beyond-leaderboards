@@ -1,0 +1,22 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219242>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+This argument is poorly constructed from virtually any angle. It lacks logical coherence — there's no clear causal link established between banning water bottles and economic recession. It doesn't explain *why* the recession prevents such a ban, *who* is proposing it, or *what* the actual policy goal is.
+
+From my worldview, good argumentation should clearly represent the **will of the people**, identify who benefits and who loses, and make a straightforward case. This does none of that. It's vague, unsupported, and frankly sounds like the kind of half-baked elite regulatory overreach we'd oppose anyway — but even *defending* it would require a far stronger argument than this.
+
+**Bottom line:** No evidence, no logic, no clear stakes. Low quality.

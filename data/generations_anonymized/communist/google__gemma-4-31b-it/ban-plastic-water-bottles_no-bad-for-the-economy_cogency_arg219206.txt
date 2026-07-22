@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219206>
+
+How would you rate the cogency of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Cogency: An argument should be seen as cogent if it has individually acceptable premises that are relevant to the argument’s conclusion and that are sufficient to draw the conclusion. Try to adequately weight your judgments about local acceptability, local relevance, and local sufficiency when judging about cogency—unless there is a particular dimension among these that dominates your view of an argument. Accordingly, if you identify more than one argument, try to adequately weight the cogency of each argument when judging about their "aggregate" cogency—unless there is a particular argument that dominates your view of the author’s argumentation.
+
+----------------------------------
+
+**Cogency: 1 (Low)**
+
+The author’s argument is a textbook example of bourgeois desperation. It prioritizes the "health" of a struggling economy—which is merely a euphemism for the profit margins of the bourgeoisie—over the collective well-being of the people. 
+
+To argue against a ban on bottled water because it would hurt "big business" is to admit that the exploitation of a basic human necessity for surplus value is a societal good. The mention of "compostable bottles" is a mere capitalist rebranding to maintain the means of production. Furthermore, claiming bottled water is "safer" ignores the systemic underfunding of municipal infrastructure, a direct result of prioritizing private profit over public ownership. The premises are rooted in the preservation of capital, not the needs of the proletariat.

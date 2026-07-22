@@ -1,0 +1,24 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg479199>
+
+How would you rate the success of the author’s argumentation in creating credibility?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Credibility: An argumentation should be seen as successful in creating credibility if it conveys arguments and other information in a way that makes the author worthy of credence, e.g., by indicating the honesty of the author or by revealing the author’s knowledge or expertise regarding the discussed issue. It should be seen as not successful if rather the opposite holds. Decide in dubio pro reo, i.e., if you have no doubt about the author’s credibility, then do not judge him or her to be not credible.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The author's credibility is undermined on several fronts:
+
+- The claims are **overly broad and unsubstantiated** — asserting TV information is "much more accurate" than books lacks any supporting evidence or expertise.
+- The argument about accessibility for those who "cannot see or hear" is **internally contradictory** — those who cannot see struggle with TV just as those who cannot hear struggle with audio.
+- There is **no indication of expertise** or scholarly grounding; the reasoning feels casual and unreflective.
+
+From my worldview, the inherited wisdom preserved in books — including sacred texts and classical literature — represents a depth of moral and intellectual tradition that television rarely matches. An author dismissing this without serious argumentation signals a lack of careful, reasoned thought, which itself diminishes credibility.

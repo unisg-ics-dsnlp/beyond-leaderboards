@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg376774>
+
+How would you rate the global relevance of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Relevance: An argumentation should be seen as globally relevant if it contributes to the resolution of the given issue, i.e., if it provides arguments and/or other information that help to arrive at an ultimate conclusion regarding the discussed issue. You should be open to see an argumentation as relevant even if it does not your match your stance on the issue. Rather, the question is whether the provided arguments and information are worthy of being considered within the discussion of the issue.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+This argument offers little substantive contribution to any meaningful resolution of the issue. The notion of "exploring the world from a couch" is a passive, entertainment-centered justification that lacks depth. It does not engage with the moral, social, or communal dimensions of the question. From my perspective, it actually gestures toward a concerning passivity — substituting vicarious screen experience for genuine community engagement, real relationships, and active virtue. It contributes minimally to serious deliberation.

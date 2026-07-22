@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg470033>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**Overall quality: 2 (Medium)**
+
+This argument shows some materialist insight into how visual media can aid proletarian learning by reducing alienation from abstract concepts, yet it remains limited—ignoring class control of TV by the bourgeoisie, which turns it into a tool of surplus-value extraction and ideological domination rather than true worker education. Moderation is noted, but without calling for collective ownership of media means.

@@ -1,0 +1,23 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399267>
+
+How would you rate the acceptability of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Acceptability: A premise of an argument should be seen as acceptable if it is worthy of being believed, i.e., if you rationally think it is true or if you see no reason for not believing that it may be true. If you identify more than one premise in the comment, try to adequately weight the acceptability of each premise when judging about their "aggregate" acceptability—unless there are particular premises that dominate your view of the author’s argumentation.
+
+----------------------------------
+
+I rate this **3 (High)**.
+
+The premises are factually grounded and acceptable. It is true that:
+- Books are predominantly published in the dominant language of a given country
+- Television broadcasts are available in multiple languages
+- TV provides audio input that aids pronunciation learning
+
+From a materialist standpoint, access to information and language tools reflects real material conditions of migrants — largely working-class people displaced by capitalist economic pressures. The premises accurately describe the **unequal access to cultural resources** that workers face when crossing borders. There is no reason to doubt their basic truthfulness.

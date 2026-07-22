@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg470033>
+
+How would you rate the clarity of the style of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Clarity: The style of an argumentation should be seen as clear if it uses gramatically correct and widely unambiguous language as well as if it avoids unnecessary complexity and deviation from the discussed issue. The used language should make it easy for you to understand without doubts what the author argues for and how.
+
+----------------------------------
+
+**2 (Medium)**
+
+The style is mostly understandable—what is argued (TV aids visual learning/retention better than text, use moderately) comes through without major doubt—but grammar errors ("as the you can"), awkward phrasing, and minor run-ons reduce precision and unambiguity. No heavy complexity or deviation, yet not fully clear/high.
+
+From eco-justice stewardship: even educational media must respect ecological limits and avoid shifting resource burdens (energy, e-waste) onto future generations.

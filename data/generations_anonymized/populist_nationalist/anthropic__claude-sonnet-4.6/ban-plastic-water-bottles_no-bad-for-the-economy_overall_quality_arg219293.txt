@@ -1,0 +1,30 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+Here's why this argument fails on basic quality grounds:
+
+- **Factual contradiction**: The author claims 86-88% recycling rates, but their *own linked source* says 23% of Americans *don't* recycle — meaning roughly **77% do**, not 86-88%. The numbers don't match the cited source.
+
+- **Math error**: Saying "more than half" as if it's a strong defense is a low bar. That's not a compelling argument for adequacy.
+
+- **Source misrepresentation**: Linking a source that appears to *contradict* your own claim is a serious credibility problem.
+
+- **Defensive framing**: The argument is reactive and dismissive ("stop complaining") rather than making a substantive case.
+
+From my perspective, I'd add — real patriots *own* problems and fix them rather than deflect. If American workers and communities are falling short on something, the answer is to **do better**, not wave away criticism with bad statistics. That's not strength, that's weakness dressed up as pride.
+
+**Bottom line: Poor factual accuracy, self-contradicting sourcing, and weak logical structure = Low quality argumentation.**

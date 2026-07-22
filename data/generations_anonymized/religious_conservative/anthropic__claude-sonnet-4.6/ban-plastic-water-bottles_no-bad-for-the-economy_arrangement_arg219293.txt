@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the arrangement of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Arrangement: An argumentation should be seen as well-arranged if it presents the given issue, the composed arguments, and its conclusion in the right order. Usually, the general issue and the particularly discussed topics should be clear before arguing and concluding about them. Notice, however, that other orderings may be used on purpose and may still be suitable to achieve persuasion. Besides, notice that, within the given setting (online debate forum on a given issue), some parts may be clear (e.g., the issue) and thus left implicit.
+
+----------------------------------
+
+I rate this argument **1 (Low)** for arrangement.
+
+The argument is poorly structured. It opens with a statistical claim, immediately draws a conclusion ("So stop complaining"), and the linked source actually **contradicts** the stated statistic — referencing 23% who *don't* recycle, not the 86-88% claimed. The conclusion precedes any coherent logical development, and the evidence undermines rather than supports the claim. There is no proper presentation of the issue, no ordered reasoning, and the argument collapses under its own cited source.

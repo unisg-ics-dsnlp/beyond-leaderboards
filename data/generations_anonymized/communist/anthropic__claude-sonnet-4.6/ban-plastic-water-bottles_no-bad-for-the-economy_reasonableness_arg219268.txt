@@ -1,0 +1,27 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219268>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From any analytical standpoint — including a materialist one — this argument is poorly constructed. It makes a vague claim about plastic's properties (lightweight, good for distribution) without:
+
+- **Sufficient elaboration** of what is being argued
+- **Context** for what problem is being resolved
+- **Evidence** to support the claims
+- **Acknowledgment** of contradictions (e.g., environmental consequences that fall disproportionately on the working class)
+
+The argument is too underdeveloped to meaningfully contribute to resolving any issue for a broad audience. It barely qualifies as an argument at all — more of a fragmented assertion.
+
+**Rating: 1 (Low)**

@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399270>
+
+How would you rate the sufficiency of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Sufficiency: The premises of an argument should be seen as sufficient if, together, they provide enough support to make it rational to draw the argument’s conclusion. If you identify more than one conclusion in the comment, try to adequately weight the sufficiency of the premises for each conclusion when judging about their "aggregate" sufficiency—unless there are particular premises or conclusions that dominate your view of the author’s argumentation. Notice that you may see premises as sufficient even though you do not personally accept all of them, i.e., sufficiency does not presuppose acceptability.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The premises are insufficient because they ignore the material reality of production. The author argues that TV provides jobs and information, but fails to acknowledge that these "jobs" are merely forms of wage slavery where the surplus value created by the actors and technicians is appropriated by the bourgeoisie who own the networks. 
+
+Furthermore, the claim that TV is the sole provider of global awareness is a bourgeois delusion; it ignores how corporate-owned media alienates the masses by filtering "news" to serve the interests of capital. The premises support a conclusion of utility for the owner class, not a rational justification for the existence of the medium under private ownership.

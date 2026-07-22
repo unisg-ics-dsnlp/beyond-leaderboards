@@ -1,0 +1,28 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argumentation is deeply flawed on multiple levels:
+
+- **Factual inversion**: The author cites a source about *23% of Americans not recycling*, then claims 86-88% recycle bottles — directly contradicting their own linked source. This is a fundamental credibility failure.
+
+- **Statistical misrepresentation**: Even if the numbers were accurate, framing "more than half" as sufficient is ecologically inadequate. From a stewardship perspective, partial recycling of single-use plastics doesn't address the root problem of plastic overproduction and its burden on ecosystems and future generations.
+
+- **Deflection logic**: The argument essentially says "we do *some* good, so criticism is invalid" — this dismisses the **precautionary principle** entirely and ignores systemic ecological harm.
+
+- **Commons neglect**: Plastic pollution is a commons problem. Partial recycling rates do not absolve collective responsibility for irreversible ecosystem damage.
+
+The argument neither resolves the issue sufficiently nor meets basic standards of factual accuracy, making it unacceptable to any reasonably informed audience.

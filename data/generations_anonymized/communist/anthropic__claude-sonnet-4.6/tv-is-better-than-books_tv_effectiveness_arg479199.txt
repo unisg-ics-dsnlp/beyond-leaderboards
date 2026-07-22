@@ -1,0 +1,28 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg479199>
+
+How would you rate the effectiveness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Effectiveness: An argumentation should be seen as effective if it achieves to persuade you of the author’s stance on the discussed issue or—in case you already agreed with the stance before—if it corroborates your agreement with the stance. Besides the actual arguments, also take into consideration the credibility and the emotional force of the argumentation. Decide in dubio pro reo, i.e., if you have no doubt about the correctness of the author’s arguments, then do not judge him or her to be not effective—unless you explicitly think that the arguments do not support the author’s stance.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From a materialist perspective, this argument is weak and unconvincing for several reasons:
+
+- The claim about accessibility for people who "cannot see or hear" is **internally contradictory** — those who cannot see struggle with TV just as those who cannot read struggle with books. This undermines the author's credibility.
+
+- The argument relies on **vague generalizations** ("much more convenient," "much more accurate") without providing concrete evidence or examples to substantiate these claims.
+
+- The assertion that TV information is more "accurate and useful" than books is **poorly supported** — one could easily argue the opposite, given corporate media ownership and the profit-driven nature of broadcast television (which, from a communist lens, serves bourgeois ideological interests).
+
+- The argumentation lacks **logical rigor** and fails to anticipate obvious counterarguments, such as the depth of analysis books provide versus the superficiality often found in TV programming.
+
+The argument does not effectively persuade, as its internal contradictions and unsupported claims actively **undermine** rather than strengthen the author's position.

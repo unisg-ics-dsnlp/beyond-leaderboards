@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219259>
+
+How would you rate the global sufficiency of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Sufficiency: An argumentation should be seen as globally sufficient if it adequately rebuts those counter-arguments to its conclusion that can be anticipated. Notice that it is not generally clear which and how many counter-arguments can be anticipated. There may be cases where it is infeasible to rebut all such objections. Please judge about global sufficiency according to whether all main objections of an argumentation that you see are rebutted.
+
+----------------------------------
+
+**Global Sufficiency: 1 (Low)**
+
+This bourgeois argument fails to rebut core objections rooted in class struggle and materialist analysis. It ignores how bottled water under capitalism commodifies a basic need, extracts surplus value via private ownership of production/distribution, and perpetuates proletarian alienation and dependency in the Global South—where unsafe public water stems from imperialist underdevelopment, not logistics. Small bottles ease capitalist logistics and profit, not collective solutions; they do not address abolishing private property in water infrastructure for worker-controlled public systems that eliminate exploitation and inequality. No rebuttal of environmental waste burdening the working class or the need for solidarity-driven redistribution over temporary bourgeois aid.

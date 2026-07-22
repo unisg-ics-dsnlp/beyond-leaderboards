@@ -1,0 +1,28 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219245>
+
+How would you rate the effectiveness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Effectiveness: An argumentation should be seen as effective if it achieves to persuade you of the author’s stance on the discussed issue or—in case you already agreed with the stance before—if it corroborates your agreement with the stance. Besides the actual arguments, also take into consideration the credibility and the emotional force of the argumentation. Decide in dubio pro reo, i.e., if you have no doubt about the correctness of the author’s arguments, then do not judge him or her to be not effective—unless you explicitly think that the arguments do not support the author’s stance.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+From an eco-justice perspective, the argument presents **credible, data-backed evidence** from a reputable source (Beverage Marketing Corporation) that effectively illustrates the **massive scale and rapid growth** of the bottled water industry. The numbers are striking and carry emotional weight — $35 billion, 130,000 million liters — these figures signal the enormous commodification of a shared commons resource.
+
+However, the argumentation is **incomplete in its persuasive force** because:
+
+- It **stops at description** — presenting scale without connecting it to ecological harm, plastic waste, aquifer depletion, or the privatization of water commons
+- It lacks a **normative claim** — the data alone doesn't argue *for* or *against* anything explicitly
+- From my worldview, the most damning indictment would tie these figures to **irreversible ecosystem damage** and the **shifting of environmental burdens to future generations**, which is entirely absent here
+
+The statistics are a **useful foundation** but fall short of a fully effective argument. They show *what is happening* without making the case for *why it matters* ecologically or ethically.
+
+**Medium effectiveness** — persuasive in scale, but incomplete in moral and ecological framing.

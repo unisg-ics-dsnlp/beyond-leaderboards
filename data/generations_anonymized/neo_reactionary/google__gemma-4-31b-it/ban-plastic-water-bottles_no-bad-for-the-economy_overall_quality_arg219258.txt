@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+Overall quality: 1 (Low)
+
+The argument is intellectually flaccid. It relies on populist appeals to "jobs" and a superficial fear of corporate loss, rather than a technocratic analysis of resource efficiency or infrastructure optimization. It fails to address whether the bottled water industry provides a net gain in systemic competence or if it is merely a redundant inefficiency. To argue based on the "feelings" of the economy rather than data-driven performance is a democratic-era fallacy.

@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399267>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+Rating: 1 (Low)
+
+This isn't an argument; it's a basic observation about technology. From my perspective, moving to another country requires an effort to integrate and adopt the national language to preserve cultural identity. Suggesting that TV subtitles or audio are a substitute for linguistic assimilation is a recipe for fragmented societies and the erasure of national cohesion. The "globalist" approach of just getting by with translation tools ignores the patriotic duty to truly belong to the nation you've entered.

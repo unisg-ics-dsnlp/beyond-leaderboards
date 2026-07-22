@@ -1,0 +1,34 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219206>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+From a materialist standpoint, this argument has moderate quality but significant weaknesses:
+
+**Strengths:**
+- Attempts to address multiple dimensions (economic, environmental, health)
+- Cites sources, showing some evidentiary basis
+- Acknowledges the plastic problem and offers a partial solution (compostable bottles)
+
+**Weaknesses:**
+- The **economic argument is fundamentally bourgeois** — defending an industry because it generates profit ignores *who* captures that profit (corporations, not workers)
+- The argument conflates **corporate economic interests with public welfare** — a classic ideological sleight of hand
+- The health safety claim is **weakly supported** and ignores that municipal water failures are largely products of **underfunded public infrastructure** under austerity capitalism
+- The "compostable bottles" point is underdeveloped — a classic **greenwashing deflection**
+- No engagement with the **structural reasons** bottled water exists (privatization of a commons)
+
+The argument is coherent enough to follow but relies heavily on **capitalist assumptions** — that market activity equals social good. It avoids deeper questions about why water, a fundamental human need, is commodified at all.
+
+**Medium quality** — logically structured but analytically shallow and ideologically uncritical.

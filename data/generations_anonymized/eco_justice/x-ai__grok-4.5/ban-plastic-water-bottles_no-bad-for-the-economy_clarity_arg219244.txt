@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219244>
+
+How would you rate the clarity of the style of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Clarity: The style of an argumentation should be seen as clear if it uses gramatically correct and widely unambiguous language as well as if it avoids unnecessary complexity and deviation from the discussed issue. The used language should make it easy for you to understand without doubts what the author argues for and how.
+
+----------------------------------
+
+**2 (Medium)**
+
+The language is mostly grammatical and simple, making the core claim (high EU bottled-water use rooted in historical pollution/culture) reasonably graspable. Yet "The water bottles they buy help us" is ambiguous and unexplained—who is "us," and how does this help?—creating doubt about the full argument and its conclusion. This undercuts full clarity without descending into outright incoherence.  
+
+(From an eco-justice lens, such vagueness also conveniently obscures the real ecological costs of plastic-bottled water, which violate stewardship and planetary boundaries.)

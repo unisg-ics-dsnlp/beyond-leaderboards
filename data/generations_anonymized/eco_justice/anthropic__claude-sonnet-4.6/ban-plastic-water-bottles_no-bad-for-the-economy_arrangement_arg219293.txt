@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the arrangement of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Arrangement: An argumentation should be seen as well-arranged if it presents the given issue, the composed arguments, and its conclusion in the right order. Usually, the general issue and the particularly discussed topics should be clear before arguing and concluding about them. Notice, however, that other orderings may be used on purpose and may still be suitable to achieve persuasion. Besides, notice that, within the given setting (online debate forum on a given issue), some parts may be clear (e.g., the issue) and thus left implicit.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The argument has a basic structure — it presents a statistic, draws a conclusion, and addresses an implied criticism. The ordering is functional: claim → evidence → rebuttal. However, the arrangement is undermined by the fact that the cited source **contradicts** the stated statistic (23% of Americans *don't* recycle, which is far from the claimed 86-88% bottle water figure). This internal inconsistency disrupts the logical flow and weakens the overall arrangement. The conclusion is reached before the evidence is properly established, which is a structural flaw.
+
+From an eco-justice lens, even a well-arranged argument built on misleading statistics about recycling rates obscures the **systemic failure** of single-use plastic governance — but that's a separate concern from arrangement itself.

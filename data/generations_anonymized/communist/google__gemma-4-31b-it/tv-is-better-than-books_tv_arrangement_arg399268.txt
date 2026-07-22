@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399268>
+
+How would you rate the arrangement of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Arrangement: An argumentation should be seen as well-arranged if it presents the given issue, the composed arguments, and its conclusion in the right order. Usually, the general issue and the particularly discussed topics should be clear before arguing and concluding about them. Notice, however, that other orderings may be used on purpose and may still be suitable to achieve persuasion. Besides, notice that, within the given setting (online debate forum on a given issue), some parts may be clear (e.g., the issue) and thus left implicit.
+
+----------------------------------
+
+Rating: 1 (Low)
+
+This is not an argument; it is a promotional statement for a capitalist service. It lacks a premise, a logical progression, and a conclusion. From a materialist perspective, it merely encourages the consumption of a commodity designed to extract surplus value from the proletariat while keeping them alienated through digital distraction. There is no intellectual arrangement here, only the voice of the bourgeoisie selling access to a proprietary platform.

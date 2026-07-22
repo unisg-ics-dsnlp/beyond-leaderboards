@@ -1,0 +1,27 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399267>
+
+How would you rate the cogency of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Cogency: An argument should be seen as cogent if it has individually acceptable premises that are relevant to the argument’s conclusion and that are sufficient to draw the conclusion. Try to adequately weight your judgments about local acceptability, local relevance, and local sufficiency when judging about cogency—unless there is a particular dimension among these that dominates your view of an argument. Accordingly, if you identify more than one argument, try to adequately weight the cogency of each argument when judging about their "aggregate" cogency—unless there is a particular argument that dominates your view of the author’s argumentation.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The argument makes a reasonable, factual observation — that TV offers multilingual content and pronunciation modeling, which books in a foreign country may not. The premises are **acceptable and relevant**.
+
+However, it falls short of **full cogency** because:
+
+- The **conclusion is implied but never stated** — we're left guessing whether the point is that TV is *better* for immigrants, that immigration policy should account for this, or something else entirely.
+- The **sufficiency is weak** — even if true, this doesn't fully support any strong conclusion about immigration, language policy, or integration.
+
+From my worldview, I'd also note: if you're moving to another country, the **burden is on you to learn that nation's language and culture** — not on the host nation to accommodate you through TV programming. That's a key piece missing from this argument entirely.
+
+**Medium cogency** — factually grounded but logically incomplete.

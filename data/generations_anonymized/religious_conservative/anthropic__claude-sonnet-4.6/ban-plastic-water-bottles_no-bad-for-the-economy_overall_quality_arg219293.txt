@@ -1,0 +1,27 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argumentation quality is poor for several reasons:
+
+- **Factual contradiction**: The author claims 86-88% recycling rates, yet the linked source apparently references that **23% of Americans *don't* recycle** — the evidence undermines the very claim being made.
+- **Mathematical confusion**: The author treats "more than half" as if it settles the debate, which is a weak logical standard.
+- **Spelling and credibility errors** ("there" instead of "their") suggest careless reasoning.
+- **Defensive tone** substitutes for actual argumentation.
+
+From a conservative standpoint, **stewardship of creation is a genuine moral duty** — so this debate matters. But sloppy reasoning does a disservice to any side of the conversation. Good stewardship requires honest accounting, not self-congratulatory statistics that contradict one's own cited sources.
+
+**Overall: 1 (Low)**

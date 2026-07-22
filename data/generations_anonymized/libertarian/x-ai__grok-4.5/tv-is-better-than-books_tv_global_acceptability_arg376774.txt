@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg376774>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+**Global Acceptability: 2 (Medium)**
+
+This is a legitimate personal-preference claim rooted in voluntary choice and self-ownership—no coercion, no rights violation. Convenience via private media is a valid consideration in free markets of entertainment. Yet the phrasing is vague, hyperbolic ("explore the world"), and assumes a contested "better" without specifying alternatives or trade-offs, so not everyone in a general audience would fully accept its framing or weight.

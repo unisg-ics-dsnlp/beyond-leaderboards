@@ -1,0 +1,25 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg376774>
+
+How would you rate the effectiveness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Effectiveness: An argumentation should be seen as effective if it achieves to persuade you of the author’s stance on the discussed issue or—in case you already agreed with the stance before—if it corroborates your agreement with the stance. Besides the actual arguments, also take into consideration the credibility and the emotional force of the argumentation. Decide in dubio pro reo, i.e., if you have no doubt about the correctness of the author’s arguments, then do not judge him or her to be not effective—unless you explicitly think that the arguments do not support the author’s stance.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From my perspective, this argument is weak on multiple fronts:
+
+- It's **vague and unsupported** — "explore the world" is a loose metaphor with no substantive backing
+- It offers **no comparative reasoning** against alternatives (books, internet, travel, etc.)
+- The "sitting on a couch" framing actually **undermines** the claim — passive consumption is hardly a compelling virtue
+- There's **no logical structure** connecting the premise to the conclusion that TV is *better*
+
+The argument relies entirely on a casual, emotionally appealing image rather than any reasoned case. It fails to persuade.

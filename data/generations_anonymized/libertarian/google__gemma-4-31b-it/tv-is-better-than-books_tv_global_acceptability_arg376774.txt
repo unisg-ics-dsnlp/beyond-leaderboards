@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg376774>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+Rating: 3 (High)
+
+From my perspective, this is a matter of individual preference and voluntary consumption. The author is expressing a subjective value judgment about how they choose to spend their leisure time and utilize their property (the TV). Since it involves no coercion, violation of property rights, or initiation of force, there is no reason for any rational person to find the *consideration* of this argument unacceptable, regardless of whether they agree with the conclusion.

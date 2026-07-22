@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the cogency of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Cogency: An argument should be seen as cogent if it has individually acceptable premises that are relevant to the argument’s conclusion and that are sufficient to draw the conclusion. Try to adequately weight your judgments about local acceptability, local relevance, and local sufficiency when judging about cogency—unless there is a particular dimension among these that dominates your view of an argument. Accordingly, if you identify more than one argument, try to adequately weight the cogency of each argument when judging about their "aggregate" cogency—unless there is a particular argument that dominates your view of the author’s argumentation.
+
+----------------------------------
+
+**1 (Low)**
+
+This argument fails basic cogency tests. Premises about job losses ("hundreds") and corporate revenue hits are vaguely plausible but poorly scaled, unquantified, and contradicted by the claim that a ban "would only hurt big corporations" while simultaneously asserting severe economy-wide damage. Relevance exists at a surface level (corporate performance and employment matter), yet sufficiency is absent: no data, no consideration of market adaptation, substitution effects, or long-term efficiency gains from competent resource allocation. The appeal to "millions of Americans" is pure popular-will noise, not expert analysis. Corporate entities like Nestlé demonstrate competence and scale; defending them requires rigorous technocratic reasoning, not this muddled, self-undermining populism. Low acceptability + weak sufficiency = low cogency.

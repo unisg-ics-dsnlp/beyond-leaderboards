@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219206>
+
+How would you rate the global sufficiency of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Sufficiency: An argumentation should be seen as globally sufficient if it adequately rebuts those counter-arguments to its conclusion that can be anticipated. Notice that it is not generally clear which and how many counter-arguments can be anticipated. There may be cases where it is infeasible to rebut all such objections. Please judge about global sufficiency according to whether all main objections of an argumentation that you see are rebutted.
+
+----------------------------------
+
+**1 (Low)**
+
+This argumentation fails global sufficiency: it anticipates none of the core ecological objections—plastic pollution and microplastics driving irreversible biodiversity loss, aquifer depletion as reckless commons exploitation, fossil-energy footprints violating planetary boundaries, and the intergenerational burden of waste that outlasts us. Compostables are waved as a fix without evidence they close those loops or respect ecological limits; economic-harm claims ignore externalized costs that the polluter-pays principle demands we internalize. Safety talking points sidestep stewardship duties entirely. Main counters remain unrebutted.

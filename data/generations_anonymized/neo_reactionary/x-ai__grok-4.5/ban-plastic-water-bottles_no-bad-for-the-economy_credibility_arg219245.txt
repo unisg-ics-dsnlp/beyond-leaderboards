@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219245>
+
+How would you rate the success of the author’s argumentation in creating credibility?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Credibility: An argumentation should be seen as successful in creating credibility if it conveys arguments and other information in a way that makes the author worthy of credence, e.g., by indicating the honesty of the author or by revealing the author’s knowledge or expertise regarding the discussed issue. It should be seen as not successful if rather the opposite holds. Decide in dubio pro reo, i.e., if you have no doubt about the author’s credibility, then do not judge him or her to be not credible.
+
+----------------------------------
+
+**2 (Medium)**
+
+The citation of Beverage Marketing Corporation data and specific industry figures signals some technocratic competence and appeal to expert sources, which partially establishes credibility through demonstrated knowledge of market metrics. However, incomplete phrasing ("U.S. alone grew by over 13%"), awkward units ("130,000 million liters"), and mixed years undermine precision—hallmarks of true elite expertise. In a meritocratic frame, this is adequate but not high-caliber argumentation; it does not fully convey the rigorous, results-oriented authority that justifies credence.

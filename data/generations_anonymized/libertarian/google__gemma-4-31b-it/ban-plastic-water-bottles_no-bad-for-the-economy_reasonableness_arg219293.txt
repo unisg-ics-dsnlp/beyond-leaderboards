@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+Rating: 1 (Low)
+
+The argumentation is unreasonable. From a libertarian perspective, the "issue" is not a collective quota of recycling, but whether individuals are infringing upon the property rights of others via externalities. 
+
+Statistically, the author's claim is logically flawed and contradicts the provided source. More importantly, "average" percentages are irrelevant to the moral question of property and consent. Whether 10% or 90% recycle does not justify the coercion often used to enforce recycling mandates, nor does it resolve the underlying issue of property rights and voluntary exchange.

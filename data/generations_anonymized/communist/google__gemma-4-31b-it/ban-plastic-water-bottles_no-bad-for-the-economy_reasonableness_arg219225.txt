@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219225>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+**Reasoning:** The author’s argument is fundamentally flawed as it prioritizes the "economy"—which is merely a euphemism for the profit margins of the bourgeoisie—over the collective well-being of the people and the planet. To suggest that the sale of bottled water "helps" the economy is to advocate for the continued extraction of surplus value by corporations like Nestlé, who privatize a basic human right (water) for private gain. Furthermore, relying on "recycling" is a capitalist deception designed to shift the burden of waste from the producer to the worker, masking the inherent contradictions of a system based on infinite growth and planned obsolescence. This argument serves the interests of capital, not the proletariat.

@@ -1,0 +1,28 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219259>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The argument raises genuinely relevant points — emergency distribution logistics and contamination risks in bulk storage are real practical concerns. These are not dismissible.
+
+However, from an eco-justice lens, the reasoning is **incomplete and somewhat misleading**:
+
+- It frames bottled water as a *solution* rather than a **stopgap masking the real failure**: lack of investment in safe public water infrastructure — itself often a product of colonial neglect and corporate extraction.
+- The claim that bottled water is "less likely" in developing countries contradicts evidence; multinational beverage corporations *heavily* market bottled water in the Global South, often **commodifying what should be a commons**.
+- It ignores the **plastic waste burden** disproportionately borne by poorer communities and future generations — a clear violation of intergenerational justice.
+
+The argument is **acceptable in narrow emergency contexts** but fails to address systemic causes, making it only partially reasonable. It contributes *something* to the discussion but deflects from the deeper structural and ecological harms bottled water perpetuates.
+
+**Medium (2)** — relevant but insufficient and potentially misleading in framing.

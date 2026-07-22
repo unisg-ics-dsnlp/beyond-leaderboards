@@ -1,0 +1,24 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the clarity of the style of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Clarity: The style of an argumentation should be seen as clear if it uses gramatically correct and widely unambiguous language as well as if it avoids unnecessary complexity and deviation from the discussed issue. The used language should make it easy for you to understand without doubts what the author argues for and how.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argument has clear clarity problems:
+
+- **Math is flat-out wrong** — the author claims 86-88% recycling, but their own linked source suggests roughly 77% of Americans recycle, which contradicts the stated figures entirely.
+- **Grammatical errors** ("there" instead of "their," "donatmt") undermine credibility and readability.
+- **Internal contradiction** — the source linked doesn't support the numbers claimed, creating confusion about what the author is actually arguing.
+
+The core point is understandable, but the sloppy execution makes it hard to trust or follow the argument clearly.

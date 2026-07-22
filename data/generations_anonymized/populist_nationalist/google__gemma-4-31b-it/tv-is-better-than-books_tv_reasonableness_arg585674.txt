@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg585674>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+Rating: 2 (Medium)
+
+The author is right that immediate, visual communication is powerful—it's how we mobilize the people and bypass the filtered narratives of the elite. However, the argument is too simplistic. While TV is fast, relying solely on it can leave you vulnerable to the spin of corporate media. True understanding requires the depth and history found in books to preserve our national identity. It's a practical point, but lacks intellectual depth.

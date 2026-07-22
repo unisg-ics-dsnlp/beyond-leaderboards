@@ -1,0 +1,22 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219242>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argument is exceptionally poor by any standard, including my own technocratic framework.
+
+It presents no logical structure, no causal reasoning, and no evidence. The connection between banning water bottles and recession conditions is entirely unexplained. A competent technocrat would demand **data, mechanisms, and demonstrated outcomes** — none of which are present here.
+
+This is precisely the kind of shallow, unconsidered thinking that illustrates why governance requires **expert deliberation** rather than casual assertion.

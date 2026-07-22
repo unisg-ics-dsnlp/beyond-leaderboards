@@ -1,0 +1,28 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219250>
+
+How would you rate the cogency of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Cogency: An argument should be seen as cogent if it has individually acceptable premises that are relevant to the argument’s conclusion and that are sufficient to draw the conclusion. Try to adequately weight your judgments about local acceptability, local relevance, and local sufficiency when judging about cogency—unless there is a particular dimension among these that dominates your view of an argument. Accordingly, if you identify more than one argument, try to adequately weight the cogency of each argument when judging about their "aggregate" cogency—unless there is a particular argument that dominates your view of the author’s argumentation.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argument's cogency is weak from an eco-justice perspective:
+
+- **Premise acceptability**: The concession that bottled water is wasteful is valid, but the reuse claim is empirically shaky — most single-use plastic bottles are *not* reused in practice, and repeated reuse carries health concerns (leaching chemicals).
+
+- **Relevance**: Reusability is *somewhat* relevant to waste reduction, but it sidesteps the deeper systemic harms — plastic pollution, microplastics entering ecosystems, corporate commodification of water commons, and the carbon footprint of production.
+
+- **Sufficiency**: Even *if* bottles were reliably reused, this doesn't sufficiently address the core problem. The bottled water industry still privatizes a shared commons, undermines public water infrastructure, and generates irreversible ecological harm at scale.
+
+The argument commits a classic **greenwashing fallacy** — offering a marginal behavioral fix to deflect from structural critique. Under the **precautionary principle**, the burden of proof lies with those profiting from the commons, not with those demanding protection of it.
+
+**The premise is insufficient to rescue the practice.**

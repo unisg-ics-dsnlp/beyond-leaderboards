@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219206>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+Rating: 2 (Medium)
+
+The author correctly emphasizes the importance of economic stability and the role of private enterprise, which aligns with the principle of subsidiarity by favoring market solutions over state bans. However, the argument is insufficient because it ignores the stewardship of creation—a moral duty to protect the environment for future generations. While economic health is a good, it must be ordered toward the common good, which includes the preservation of the natural world. The mention of compostable alternatives is a step toward a virtuous resolution, but the overall argument prioritizes profit over the sacred duty of stewardship.

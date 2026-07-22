@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219259>
+
+How would you rate the clarity of the style of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Clarity: The style of an argumentation should be seen as clear if it uses gramatically correct and widely unambiguous language as well as if it avoids unnecessary complexity and deviation from the discussed issue. The used language should make it easy for you to understand without doubts what the author argues for and how.
+
+----------------------------------
+
+**Clarity: 2 (Medium)**
+
+The language is mostly grammatical and free of jargon or needless complexity, so the individual claims about distribution ease and lower contamination risk are easy to follow. However, the overall argument lacks a clear thesis statement and jumps between observations without tight logical connectors, leaving some ambiguity about the precise claim being advanced.

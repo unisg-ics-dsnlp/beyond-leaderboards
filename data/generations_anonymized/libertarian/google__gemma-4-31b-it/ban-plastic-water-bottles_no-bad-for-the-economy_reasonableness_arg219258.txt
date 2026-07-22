@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From a Libertarian perspective, this argument is fundamentally flawed because it relies on "economic harm" and corporate losses to oppose a ban. The loss of profits for Nestle or the disappearance of specific jobs are irrelevant to the moral question. 
+
+The real issue is the **initiation of force**: a ban on bottled water is an act of state coercion that violates property rights and the principle of voluntary exchange. The author fails to argue that the ban is an illegitimate interference with self-ownership and contractual freedom, focusing instead on utilitarian outcomes. An argument against coercion should be based on rights, not on whether a corporation loses money.

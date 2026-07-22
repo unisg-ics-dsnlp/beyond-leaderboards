@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219244>
+
+How would you rate the acceptability of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Acceptability: A premise of an argument should be seen as acceptable if it is worthy of being believed, i.e., if you rationally think it is true or if you see no reason for not believing that it may be true. If you identify more than one premise in the comment, try to adequately weight the acceptability of each premise when judging about their "aggregate" acceptability—unless there are particular premises that dominate your view of the author’s argumentation.
+
+----------------------------------
+
+**1 (Low)**
+
+The premises fail basic tests of truth and reason under natural law and sound judgment. Western Europe’s high bottled-water use is real in per-capita terms, yet the “almost 50 % of world total” claim is inflated and unsubstantiated. The causal story—that this stems from lingering Industrial-Revolution pollution—is false: modern Western European tap water is among the safest and most regulated on earth; the habit is cultural fashion, marketing, and status, not necessity. The final assertion that “the water bottles they buy help us” is vague, unproven, and ignores the waste of plastic and the duty of stewardship over creation. Premises that rest on exaggeration and outdated history are not worthy of belief.

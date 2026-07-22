@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399267>
+
+How would you rate the acceptability of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Acceptability: A premise of an argument should be seen as acceptable if it is worthy of being believed, i.e., if you rationally think it is true or if you see no reason for not believing that it may be true. If you identify more than one premise in the comment, try to adequately weight the acceptability of each premise when judging about their "aggregate" acceptability—unless there are particular premises that dominate your view of the author’s argumentation.
+
+----------------------------------
+
+Rating: 2 (Medium)
+
+While the premises are generally plausible in a modern globalized context, they ignore the systemic digital divide. Access to "TV in all different languages" is a privilege of the global north and wealthy classes; it is not a universal truth. From a justice perspective, assuming universal access to technology overlooks the marginalization of those without the infrastructure to access these "commons" of information.

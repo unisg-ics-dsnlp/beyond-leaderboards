@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the relevance of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Relevance: A premise of an argument should be seen as relevant if it contributes to the acceptance or rejection of the argument’s conclusion, i.e., if you think it is worthy of being considered as a reason, evidence, or similar regarding the conclusion. If you identify more than one premise in the comment, try to adequately weight the relevance of each premise when judging about their "aggregate" relevance—unless there are particular premises that dominate your view of the author’s argumentation. You should be open to see a premise as relevant even if it does not match your own stance on the issue.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From an eco-justice perspective, the premises are irrelevant because they prioritize short-term corporate profit and temporary employment over the catastrophic, irreversible harm of plastic pollution and the degradation of our shared commons. Economic loss for polluters is not a valid reason to ignore our stewardship duty or the precautionary principle; in fact, the "polluter pays" principle suggests that these corporations should bear the cost of their ecological wreckage. Shifting the burden of plastic waste onto future generations is an unacceptable trade-off.

@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the clarity of the style of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Clarity: The style of an argumentation should be seen as clear if it uses gramatically correct and widely unambiguous language as well as if it avoids unnecessary complexity and deviation from the discussed issue. The used language should make it easy for you to understand without doubts what the author argues for and how.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The argument is generally understandable — you can tell the author opposes banning bottled water on economic grounds. However, there are clear grammatical errors ("loose" instead of "lose"), and the reasoning is somewhat muddled. The author contradicts themselves by first saying it would hurt "hundreds" of workers, then pivots to saying it would "only hurt big corporations" — those are two very different claims that undercut each other. The language is plain and accessible, but the lack of precision and internal consistency keeps this from being truly clear.

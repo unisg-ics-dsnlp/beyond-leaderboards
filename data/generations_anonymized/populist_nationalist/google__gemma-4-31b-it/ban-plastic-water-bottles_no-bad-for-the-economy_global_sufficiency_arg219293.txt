@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the global sufficiency of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Sufficiency: An argumentation should be seen as globally sufficient if it adequately rebuts those counter-arguments to its conclusion that can be anticipated. Notice that it is not generally clear which and how many counter-arguments can be anticipated. There may be cases where it is infeasible to rebut all such objections. Please judge about global sufficiency according to whether all main objections of an argumentation that you see are rebutted.
+
+----------------------------------
+
+Rating: 1 (Low)
+
+The argumentation is a disaster. First, the "fact" contradicts the source provided—the link actually says 23% *don't* recycle, which doesn't even support the specific claim about water bottles. Second, it relies on a vague statistic to shut down a conversation rather than addressing the actual issue. 
+
+From my perspective, we shouldn't be obsessing over "global" environmental narratives pushed by elites anyway, but if you're going to make an argument, it needs to be based on truth and strength, not sloppy numbers. This fails on every level.

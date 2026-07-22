@@ -1,0 +1,28 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From an eco-justice perspective, this argument has serious acceptability problems that go beyond my ideological disagreement with it:
+
+- **Logical inconsistency**: The argument contradicts itself — it claims banning bottled water would hurt "big corporations" while simultaneously arguing it would devastate workers. These framings undercut each other.
+
+- **Narrow framing of harm**: It defines economic harm exclusively through corporate profit and jobs, completely ignoring the massive environmental and public health costs that a broader audience would reasonably expect to be part of this discussion.
+
+- **Externalized costs ignored**: The argument treats plastic pollution, water commons exploitation, and ecological degradation as invisible — costs that society and future generations bear, not Nestlé.
+
+- **Source credibility**: Citing Nestlé's own corporate website as evidence is a significant credibility problem that most audiences — regardless of ideology — would recognize as a conflict of interest.
+
+Even audience members who *support* bottled water economically would likely find this argument poorly constructed and one-dimensional. It fails the basic standard of engaging with the full scope of the issue in a way a broad target audience could accept as a legitimate contribution to the debate.

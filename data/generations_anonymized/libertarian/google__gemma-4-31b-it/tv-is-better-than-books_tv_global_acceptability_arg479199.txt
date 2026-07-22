@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg479199>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+Rating: 2 (Medium)
+
+From a libertarian perspective, the author's arguments rely on subjective preferences regarding convenience and utility. While these are valid considerations in a free market of ideas and media, the claim that TV is "better" is a value judgment, not a universal fact. Many would argue that books allow for deeper, more autonomous critical thinking—a key component of individual liberty. Because the arguments are based on convenience rather than a fundamental principle, they are reasonable to consider, but unlikely to be accepted as definitive by everyone.

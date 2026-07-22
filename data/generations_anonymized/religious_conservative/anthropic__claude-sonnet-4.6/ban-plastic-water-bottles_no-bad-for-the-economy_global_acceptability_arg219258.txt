@@ -1,0 +1,27 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argument has significant weaknesses that undermine its global acceptability:
+
+- **Internal contradiction**: The author claims a ban would hurt "hundreds" of workers and "big corporations" simultaneously — these are inconsistent scales of harm, and the argument undercuts itself by admitting it would "only hurt big corporations."
+- **Economic reductionism**: Reducing the entire debate to corporate profits and jobs ignores broader considerations — environmental stewardship, public health, and community well-being — that most audiences would expect to be addressed.
+- **Weak sourcing**: Citing a Nestlé corporate website is a clear conflict of interest, severely damaging credibility.
+- **Shallow reasoning**: The argument lacks depth and fails to anticipate counterarguments, which most thoughtful audiences — regardless of ideology — would notice.
+
+From my perspective, a sound argument must also account for our **duties to creation, community, and the common good** — not merely economic self-interest. Protecting corporate profits is a thin moral foundation.
+
+Most audiences, across the spectrum, would find this argumentation poorly constructed and insufficiently reasoned.

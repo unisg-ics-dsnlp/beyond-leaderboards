@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the acceptability of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Acceptability: A premise of an argument should be seen as acceptable if it is worthy of being believed, i.e., if you rationally think it is true or if you see no reason for not believing that it may be true. If you identify more than one premise in the comment, try to adequately weight the acceptability of each premise when judging about their "aggregate" acceptability—unless there are particular premises that dominate your view of the author’s argumentation.
+
+----------------------------------
+
+Rating: 2 (Medium)
+
+The premises regarding economic loss and job displacement are likely true, but the argument is fundamentally flawed from a Libertarian perspective. The author focuses on "the economy" and "corporations" rather than the core issue: the violation of property rights and voluntary exchange. 
+
+While I agree that a ban is an impermissible initiation of force against peaceful commerce, the author's justification relies on utilitarian economic outcomes rather than the principle of self-ownership and the right to trade. The premise that it "only" hurts corporations is also logically inconsistent with the claim that it hurts "hundreds of people" (employees).

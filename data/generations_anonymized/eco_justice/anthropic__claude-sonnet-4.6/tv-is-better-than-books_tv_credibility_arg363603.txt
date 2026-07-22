@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg363603>
+
+How would you rate the success of the author’s argumentation in creating credibility?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Credibility: An argumentation should be seen as successful in creating credibility if it conveys arguments and other information in a way that makes the author worthy of credence, e.g., by indicating the honesty of the author or by revealing the author’s knowledge or expertise regarding the discussed issue. It should be seen as not successful if rather the opposite holds. Decide in dubio pro reo, i.e., if you have no doubt about the author’s credibility, then do not judge him or her to be not credible.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argument lacks credibility markers. The author presents a personal preference without citing evidence, expertise, or research to support the claim that TV is superior to books for learning. The reasoning is anecdotal and informal, offering no demonstration of knowledge about learning science, media literacy, or educational research. While the honesty of the author isn't in question, credibility requires more than sincerity — it requires demonstrated competence or substantiated claims, neither of which are present here.

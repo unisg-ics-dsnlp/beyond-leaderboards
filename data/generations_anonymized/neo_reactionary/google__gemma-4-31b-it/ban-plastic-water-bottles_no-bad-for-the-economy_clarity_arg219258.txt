@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the clarity of the style of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Clarity: The style of an argumentation should be seen as clear if it uses gramatically correct and widely unambiguous language as well as if it avoids unnecessary complexity and deviation from the discussed issue. The used language should make it easy for you to understand without doubts what the author argues for and how.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The author's position is unambiguous, but the argumentation is intellectually sloppy. It relies on populist appeals to "jobs" and "millions of Americans" rather than a rigorous analysis of market efficiency or resource optimization. While the language is simple, the lack of logical precision and the contradictory claim that it would "hurt the economy severely" yet "only hurt big corporations" diminishes the overall clarity of the reasoning.

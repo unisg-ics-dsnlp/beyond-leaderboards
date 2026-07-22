@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219244>
+
+How would you rate the global sufficiency of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Sufficiency: An argumentation should be seen as globally sufficient if it adequately rebuts those counter-arguments to its conclusion that can be anticipated. Notice that it is not generally clear which and how many counter-arguments can be anticipated. There may be cases where it is infeasible to rebut all such objections. Please judge about global sufficiency according to whether all main objections of an argumentation that you see are rebutted.
+
+----------------------------------
+
+**Global Sufficiency: 1 (Low)**
+
+The argument fails to rebut core objections rooted in class analysis. It naturalizes high bottled-water consumption as mere "culture" or historical pollution while ignoring how capitalist industrialization (driven by the bourgeoisie) created that pollution to extract surplus value, then commodified water itself as private property. No response is given to the fact that this trade alienates workers from a basic need, perpetuates unequal global resource flows under imperialism, and blocks collective ownership and public control of water systems. Vague claims that bottles "help us" leave exploitation unchallenged.

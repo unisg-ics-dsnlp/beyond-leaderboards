@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg470033>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+Overall quality: 1 (Low)
+
+From a materialist perspective, this argument is superficial. It focuses on individual cognitive convenience while ignoring the means of production. Who owns the television networks? Who controls the content? The author treats the medium as a neutral tool for "learning," ignoring how the bourgeoisie utilizes mass media to disseminate ideology and alienate the proletariat from critical thought. The "surveys" cited are anecdotal and lack a structural analysis of how access to such technology is distributed by class. It is a bourgeois argument for efficiency over liberation.

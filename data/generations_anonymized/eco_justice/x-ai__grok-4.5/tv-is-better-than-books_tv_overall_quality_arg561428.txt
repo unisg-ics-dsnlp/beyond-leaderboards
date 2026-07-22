@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg561428>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**1 (Low)**
+
+This argument is shallow and poorly reasoned: it fetishizes speed and volume of info while ignoring depth, critical reflection, and ecological costs. TV's resource-intensive production, energy use, and disposable content accelerate planetary boundary breaches and shift burdens to future generations—unlike books, which better support stewardship and intergenerational knowledge. No evidence, no precaution, just convenience over integrity.

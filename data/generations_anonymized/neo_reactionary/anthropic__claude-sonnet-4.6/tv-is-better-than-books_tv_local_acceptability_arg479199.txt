@@ -1,0 +1,28 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg479199>
+
+How would you rate the acceptability of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Acceptability: A premise of an argument should be seen as acceptable if it is worthy of being believed, i.e., if you rationally think it is true or if you see no reason for not believing that it may be true. If you identify more than one premise in the comment, try to adequately weight the acceptability of each premise when judging about their "aggregate" acceptability—unless there are particular premises that dominate your view of the author’s argumentation.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From a technocratic-meritocratic standpoint, the premises here are poorly constructed and largely unacceptable:
+
+- The claim that TV is "more convenient and easy to understand" is actually a **weakness**, not a strength. Ease of consumption often correlates with intellectual shallowness — precisely the kind of lowest-common-denominator thinking that undermines competent decision-making.
+
+- The accessibility argument (for those who cannot see or hear) is the **strongest premise**, but it's a narrow edge case being used to make a sweeping general claim.
+
+- The assertion that TV information is "more accurate and useful" than books is **factually dubious**. Books, particularly academic and technical texts, undergo rigorous peer review and editorial scrutiny. Television is largely driven by ratings — a form of **populist demand** that actively degrades information quality.
+
+The argument essentially valorizes convenience and mass accessibility over depth and rigor — a fundamentally anti-meritocratic position. The premises reflect popular sentiment rather than demonstrated epistemic quality.
+
+**The premises are largely unacceptable.**

@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg363603>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+**Global Acceptability: 3 (High)**
+
+From a materialist perspective, the author is merely discussing the consumption of media—a superficial preference of the superstructure. While the argument is simplistic and ignores how these mediums are often controlled by the bourgeoisie to disseminate capitalist propaganda and alienate the worker, the logic is internally consistent for a consumer. Any target audience would accept these personal preferences as valid considerations in a casual discussion.

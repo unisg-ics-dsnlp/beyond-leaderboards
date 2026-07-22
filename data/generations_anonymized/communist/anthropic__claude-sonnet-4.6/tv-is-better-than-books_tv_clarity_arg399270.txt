@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399270>
+
+How would you rate the clarity of the style of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Clarity: The style of an argumentation should be seen as clear if it uses gramatically correct and widely unambiguous language as well as if it avoids unnecessary complexity and deviation from the discussed issue. The used language should make it easy for you to understand without doubts what the author argues for and how.
+
+----------------------------------
+
+I rate the clarity of this argument as **2 (Medium)**.
+
+The argument is grammatically simple and the points are broadly understandable, but it lacks precision and logical coherence between its claims. The jump from employment of actors to news delivery is abrupt, and the reasoning feels fragmented rather than structured. The language is plain but the argumentation style is loose and underdeveloped.

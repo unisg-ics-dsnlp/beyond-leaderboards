@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399270>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+Rating: 1 (Low)
+
+The author's argumentation is fundamentally flawed. It frames the existence of the television industry as a benevolent provider of "jobs," ignoring that these are merely wage-labor positions where the bourgeoisie extract surplus value from the workers. Furthermore, it presents the medium as a neutral source of information, ignoring that the means of production for news are privately owned and used to disseminate capitalist propaganda to maintain class hegemony. Such narrow, market-centric logic is not globally acceptable to those who recognize the systemic exploitation inherent in corporate media.

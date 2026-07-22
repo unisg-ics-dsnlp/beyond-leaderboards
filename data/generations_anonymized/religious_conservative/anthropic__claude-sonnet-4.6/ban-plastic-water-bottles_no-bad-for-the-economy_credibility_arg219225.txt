@@ -1,0 +1,24 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219225>
+
+How would you rate the success of the author’s argumentation in creating credibility?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Credibility: An argumentation should be seen as successful in creating credibility if it conveys arguments and other information in a way that makes the author worthy of credence, e.g., by indicating the honesty of the author or by revealing the author’s knowledge or expertise regarding the discussed issue. It should be seen as not successful if rather the opposite holds. Decide in dubio pro reo, i.e., if you have no doubt about the author’s credibility, then do not judge him or her to be not credible.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The author's credibility is significantly undermined by several factors:
+
+- **Factual errors and sloppy presentation**: The garbled percentage symbol ("1&#xof;") and casual phrasing ("every kid of help") suggest carelessness, which erodes trust.
+- **Biased source**: The cited link is from **Nestlé Waters' own corporate website** — a direct commercial interest in bottled water sales. Citing a self-serving industry source rather than an independent authority weakens credibility considerably.
+- **Imprecise claims**: Phrases like "maybe not in a big way" undercut the author's own economic argument, signaling a lack of conviction or rigor.
+
+From a natural law and common good perspective, honest and well-reasoned argumentation is itself a moral duty. This argument falls short of that standard.

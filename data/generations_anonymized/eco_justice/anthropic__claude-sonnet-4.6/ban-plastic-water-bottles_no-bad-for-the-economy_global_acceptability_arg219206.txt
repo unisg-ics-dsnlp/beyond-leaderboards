@@ -1,0 +1,26 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219206>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The argument raises points that a general audience would find partially reasonable — economic impacts and public health safety are legitimate considerations that most people can engage with. The mention of compostable alternatives also shows some acknowledgment of environmental concerns.
+
+However, the argumentation has notable weaknesses that reduce its global acceptability:
+
+- The **economic framing** is one-sided and ignores the massive **externalized costs** of plastic pollution borne by ecosystems and future generations — a classic case of failing the *polluter pays* principle.
+- The **compostable bottle claim** is presented superficially without evidence of scalability or actual environmental benefit.
+- The **safety comparison** to municipal water is contested and potentially misleading — it deflects from the real issue of single-use plastic waste.
+
+The argument is coherent enough to be taken seriously in a broad debate, but its selective framing and omission of ecological costs would make it unacceptable to environmentally informed audiences. It sits firmly in the **middle ground** — not dismissible, but not broadly persuasive either.

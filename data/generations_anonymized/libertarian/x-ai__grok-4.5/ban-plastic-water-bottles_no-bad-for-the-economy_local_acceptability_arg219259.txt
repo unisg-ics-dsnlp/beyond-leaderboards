@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219259>
+
+How would you rate the acceptability of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Acceptability: A premise of an argument should be seen as acceptable if it is worthy of being believed, i.e., if you rationally think it is true or if you see no reason for not believing that it may be true. If you identify more than one premise in the comment, try to adequately weight the acceptability of each premise when judging about their "aggregate" acceptability—unless there are particular premises that dominate your view of the author’s argumentation.
+
+----------------------------------
+
+**2 (Medium)**
+
+The logistical and contamination claims about small sealed bottles vs. bulk storage are largely acceptable on practical grounds (easier individual distribution, lower open-container risk). Government programs do in fact hand out bottled water. However, the opening premise is weak: bottled water is often *more* prevalent precisely where public supplies are unsafe, as markets and voluntary exchange fill the gap left by failed state provision. Aggregate acceptability is therefore only medium—facts about ease and hygiene hold, but the scarcity claim does not.

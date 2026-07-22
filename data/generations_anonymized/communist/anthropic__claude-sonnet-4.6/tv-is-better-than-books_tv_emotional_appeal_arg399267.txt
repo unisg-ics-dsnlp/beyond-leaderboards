@@ -1,0 +1,22 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399267>
+
+How would you rate the success of the author’s argumentation in making an emotional appeal?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Emotional Appeal: An argumentation should be seen as successful in making an emotional appeal if it conveys arguments and other information in a way that creates emotions, which make the target audience more open to the author’s arguments. It should be seen as not successful if rather the opposite holds. Notice that you should not judge about the persuasive effect of the author’s argumentation, but you should decide whether the argumentation makes the target audience willing/unwilling to be persuaded by the author (or to agree/disagree with the author) in principle—or neither.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argument is largely functional and informational — it presents a practical comparison between books and TV for language learners in a new country. While the scenario of being a linguistic minority in a foreign land *could* evoke empathy or solidarity, the author presents it in a dry, matter-of-fact way without drawing on emotional language, personal narrative, or appeals to shared experience.
+
+From a communist perspective, this argument misses an opportunity to highlight the **class dimensions** of this situation — e.g., the alienation of migrant workers, the barriers working-class immigrants face in accessing education and culture. Such framing could have generated genuine emotional resonance. Instead, it remains a neutral, technical observation.
+
+The emotional appeal is minimal at best.

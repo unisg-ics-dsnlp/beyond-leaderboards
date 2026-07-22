@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg585674>
+
+How would you rate the global sufficiency of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Sufficiency: An argumentation should be seen as globally sufficient if it adequately rebuts those counter-arguments to its conclusion that can be anticipated. Notice that it is not generally clear which and how many counter-arguments can be anticipated. There may be cases where it is infeasible to rebut all such objections. Please judge about global sufficiency according to whether all main objections of an argumentation that you see are rebutted.
+
+----------------------------------
+
+Rating: 1 (Low)
+
+The argumentation is intellectually shallow and prioritizes emotional immediacy over depth. From a techno-monarchist perspective, efficiency is not merely speed of delivery, but the quality of the output. The author confuses "power" (emotional stimulation) with "competence" (comprehensive understanding). 
+
+The argument fails to rebut the obvious counter-point: that visual media often simplifies complex systems into populist narratives, whereas rigorous texts allow for the technical analysis required by a competent elite. It optimizes for the lowest common denominator—the popular sentiment—rather than the precision required for high-level decision-making. Insufficient.

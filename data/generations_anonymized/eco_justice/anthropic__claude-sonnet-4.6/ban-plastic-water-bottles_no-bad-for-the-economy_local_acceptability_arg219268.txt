@@ -1,0 +1,30 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219268>
+
+How would you rate the acceptability of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Acceptability: A premise of an argument should be seen as acceptable if it is worthy of being believed, i.e., if you rationally think it is true or if you see no reason for not believing that it may be true. If you identify more than one premise in the comment, try to adequately weight the acceptability of each premise when judging about their "aggregate" acceptability—unless there are particular premises that dominate your view of the author’s argumentation.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The argument contains premises that are **factually partially true but deeply incomplete** from an eco-justice lens:
+
+- ✅ Plastic *is* lightweight — that's technically accurate
+- ✅ It *does* have distribution/logistics advantages — also factually grounded
+
+However, these premises **omit critical ecological realities**:
+
+- Plastic's lightweight nature doesn't offset its **persistent environmental harm** — microplastics, ocean pollution, and centuries-long degradation
+- "Good for distribution" ignores the **full lifecycle cost** — fossil fuel extraction, toxic production, and end-of-life waste burden shifted onto ecosystems and future generations
+
+The premises aren't entirely false, but they're **selectively true** — presenting only the utility side while ignoring the **commons degradation** and **intergenerational burden** that plastic imposes.
+
+A premise worthy of full acceptance must account for **ecological integrity**, not just industrial convenience. These premises fail that standard without being wholly fabricated — hence **Medium**.

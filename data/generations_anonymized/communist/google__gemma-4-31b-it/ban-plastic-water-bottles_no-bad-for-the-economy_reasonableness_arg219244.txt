@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219244>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+**Reasonableness: 1 (Low)**
+
+This argument is a bourgeois fantasy. It attempts to justify the ecological devastation and resource extraction of the Global North by framing the consumption of bottled water as a "cultural" necessity or a benevolent act of "help." 
+
+In reality, this is a manifestation of capitalist exploitation. The bourgeoisie in Western Europe privatizes a basic human right—water—to generate surplus value, while the environmental costs of plastic production and water extraction are borne by the global proletariat. To suggest that the consumption of a commodity produced by private capital "helps" the world is to ignore the material reality of imperialist accumulation and the alienation of nature. It is an irrational justification for the continued dominance of capital over human needs.

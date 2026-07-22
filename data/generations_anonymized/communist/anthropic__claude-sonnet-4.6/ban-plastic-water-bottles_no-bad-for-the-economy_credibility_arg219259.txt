@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219259>
+
+How would you rate the success of the author’s argumentation in creating credibility?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Credibility: An argumentation should be seen as successful in creating credibility if it conveys arguments and other information in a way that makes the author worthy of credence, e.g., by indicating the honesty of the author or by revealing the author’s knowledge or expertise regarding the discussed issue. It should be seen as not successful if rather the opposite holds. Decide in dubio pro reo, i.e., if you have no doubt about the author’s credibility, then do not judge him or her to be not credible.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The author presents some factual-sounding claims and demonstrates basic knowledge of water distribution logistics. However, from a materialist perspective, the argument lacks cited evidence or expertise markers. The opening claim — that bottled water is *less* common in developing countries — is actually questionable and undermines credibility, as bottled water markets are often *heavily* present in the Global South precisely because capitalist neglect of public infrastructure forces workers to purchase what should be a public good.
+
+The argument shows partial knowledge but contains a suspicious framing that could reflect bourgeois interests in commodifying water rather than genuine expertise. **Medium credibility** — some reasonable points, but notable gaps and a questionable foundational claim.

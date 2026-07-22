@@ -1,0 +1,28 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the acceptability of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Acceptability: A premise of an argument should be seen as acceptable if it is worthy of being believed, i.e., if you rationally think it is true or if you see no reason for not believing that it may be true. If you identify more than one premise in the comment, try to adequately weight the acceptability of each premise when judging about their "aggregate" acceptability—unless there are particular premises that dominate your view of the author’s argumentation.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From my perspective, the premises here are weak and poorly grounded:
+
+- The claim that a ban would "hurt the economy severely" is an **exaggeration**. Economic disruption from such a policy would be real but manageable — workers and capital would reallocate.
+
+- More critically, **framing corporate profit loss as a primary moral concern** is misguided. The common good is not reducible to corporate revenue or GDP metrics. Corporations like Nestle and Dasani do not hold a sacred claim to their market position.
+
+- The premise that "millions use bottled water daily" is likely **true**, but it doesn't automatically make a ban harmful — it simply describes current behavior, not moral justification.
+
+- The argument essentially **elevates economic interest above all other considerations**, which conflicts with the principle that rights and economic activities must be ordered toward the common good, not merely profit.
+
+The premises are either factually imprecise, logically insufficient, or rest on a **materialist framework** that subordinates virtue and community well-being to market outcomes. That is not a sound foundation for public policy reasoning.

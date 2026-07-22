@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219250>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+Overall quality: 1 (Low)
+
+This argument is fundamentally flawed. It attempts to justify the reckless exploitation of the commons by suggesting a marginal mitigation strategy. Reusing a few bottles does not offset the systemic ecological degradation, carbon emissions from production, or the irreversible harm of plastic pollution. It ignores the precautionary principle and shifts the burden of waste management onto the future.

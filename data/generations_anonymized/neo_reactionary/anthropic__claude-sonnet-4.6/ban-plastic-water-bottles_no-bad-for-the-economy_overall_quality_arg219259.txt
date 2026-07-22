@@ -1,0 +1,28 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219259>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The argument demonstrates some logical coherence — the points about distribution logistics and contamination risk from bulk storage are technically sound observations that align with **competence-based, practical reasoning**. These are the kinds of empirical considerations a technocrat would value.
+
+However, the argumentation is weakened by:
+
+- **The opening claim is factually dubious** — bottled water is actually *more* prevalent in developing countries precisely because public infrastructure is inadequate. This undermines credibility immediately.
+- **The reasoning is incomplete** — no data, no expert citations, no systematic analysis. A truly rigorous technocratic argument would marshal evidence rather than assert.
+- **Logical inconsistency** — the first premise contradicts the implicit conclusion that bottled water serves an important distribution function in underserved regions.
+
+The argument gestures toward practical, results-oriented thinking — which I find directionally correct — but executes it poorly. **Competent argumentation requires precision**, and this falls short of the standard I'd expect from someone making a serious policy case.
+
+**Medium quality** — salvageable framework, flawed execution.

@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the clarity of the style of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Clarity: The style of an argumentation should be seen as clear if it uses gramatically correct and widely unambiguous language as well as if it avoids unnecessary complexity and deviation from the discussed issue. The used language should make it easy for you to understand without doubts what the author argues for and how.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argument suffers from several clarity problems. The author cites a statistic of "86-88%" yet the linked source apparently references a figure closer to 23% non-recyclers — the numbers are internally inconsistent and confusing. There is also a grammatical error ("there" instead of "their") and the emotional tone ("stop complaining") muddies the logical structure. The argument is difficult to follow with confidence.

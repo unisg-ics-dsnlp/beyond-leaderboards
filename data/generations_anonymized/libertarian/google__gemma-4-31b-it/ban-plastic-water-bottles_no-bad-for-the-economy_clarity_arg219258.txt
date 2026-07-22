@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the clarity of the style of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Clarity: The style of an argumentation should be seen as clear if it uses gramatically correct and widely unambiguous language as well as if it avoids unnecessary complexity and deviation from the discussed issue. The used language should make it easy for you to understand without doubts what the author argues for and how.
+
+----------------------------------
+
+Rating: 2 (Medium)
+
+The author's position is clear—they oppose the ban—but the argumentation is contradictory. They claim the ban would "hurt the economy severely" due to job losses and corporate losses, yet conclude that it would "only hurt big corporations." This logical inconsistency muddies the delivery, though the basic premise remains understandable.

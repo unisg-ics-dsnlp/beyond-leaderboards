@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219242>
+
+How would you rate the success of the author’s argumentation in creating credibility?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Credibility: An argumentation should be seen as successful in creating credibility if it conveys arguments and other information in a way that makes the author worthy of credence, e.g., by indicating the honesty of the author or by revealing the author’s knowledge or expertise regarding the discussed issue. It should be seen as not successful if rather the opposite holds. Decide in dubio pro reo, i.e., if you have no doubt about the author’s credibility, then do not judge him or her to be not credible.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+**Reasoning:** The author fails to establish credibility because they treat the protection of our commons and the elimination of plastic pollution as a luxury to be postponed for economic convenience. By suggesting that ecological integrity is secondary to a temporary recession, the author reveals a fundamental lack of understanding regarding the precautionary principle and our stewardship duty. There is no expertise shown—only a willingness to shift the burden of plastic degradation onto future generations.

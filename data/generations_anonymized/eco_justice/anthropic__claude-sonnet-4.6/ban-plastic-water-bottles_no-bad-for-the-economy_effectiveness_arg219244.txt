@@ -1,0 +1,25 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219244>
+
+How would you rate the effectiveness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Effectiveness: An argumentation should be seen as effective if it achieves to persuade you of the author’s stance on the discussed issue or—in case you already agreed with the stance before—if it corroborates your agreement with the stance. Besides the actual arguments, also take into consideration the credibility and the emotional force of the argumentation. Decide in dubio pro reo, i.e., if you have no doubt about the correctness of the author’s arguments, then do not judge him or her to be not effective—unless you explicitly think that the arguments do not support the author’s stance.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argumentation is weak and ineffective for several reasons:
+
+- **Vague conclusion**: "The water bottles they buy help us" is undefined — help *whom*, and *how*? The argument lacks a clear, defensible stance.
+- **Causal oversimplification**: Attributing bottled water consumption purely to "European culture" and historical pollution ignores systemic failures in water governance, corporate marketing, and regulatory gaps.
+- **No remediation logic**: From an eco-justice lens, the historical pollution cited is itself an indictment of industrial harm — yet the argument treats bottled water as a *solution* rather than a symptom of unresolved stewardship failures.
+- **Ignores ecological costs**: Single-use plastic bottles represent a massive burden on ecosystems and future generations — a critical omission that severely undermines credibility.
+
+The argument neither persuades nor corroborates a coherent environmental position. It sidesteps the **polluter pays principle** entirely and implicitly normalizes shifting ecological burdens rather than addressing root causes.

@@ -1,0 +1,29 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219259>
+
+How would you rate the acceptability of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Acceptability: A premise of an argument should be seen as acceptable if it is worthy of being believed, i.e., if you rationally think it is true or if you see no reason for not believing that it may be true. If you identify more than one premise in the comment, try to adequately weight the acceptability of each premise when judging about their "aggregate" acceptability—unless there are particular premises that dominate your view of the author’s argumentation.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The premises are a mixed bag from my perspective:
+
+- The **logistical claim** about small bottles being easier to distribute than bulk storage has some practical merit, particularly in emergency contexts.
+- The **contamination claim** favoring single-use bottles over large containers has partial validity in poorly maintained infrastructure scenarios.
+
+However, the **opening premise** — that bottled water is *less common* in developing countries — is empirically questionable and arguably **backwards**. Bottled water markets are actually *growing rapidly* in the Global South precisely because of inadequate public water infrastructure.
+
+More critically, from an **eco-justice lens**, these premises collectively obscure a deeper problem: framing single-use plastic bottles as a *solution* to water insecurity shifts the burden of corporate pollution onto vulnerable communities and future generations — a clear violation of the **polluter-pays principle** and **intergenerational justice**.
+
+The premises aren't entirely false, but they're **selectively framed** to normalize a system that degrades commons (oceans, waterways) while treating a symptom rather than addressing the root cause: failure to invest in public water infrastructure.
+
+**Medium acceptability** — some factual grounding, but ideologically loaded framing that obscures systemic harm.

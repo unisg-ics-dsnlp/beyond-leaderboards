@@ -1,0 +1,24 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219245>
+
+How would you rate the global sufficiency of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Sufficiency: An argumentation should be seen as globally sufficient if it adequately rebuts those counter-arguments to its conclusion that can be anticipated. Notice that it is not generally clear which and how many counter-arguments can be anticipated. There may be cases where it is infeasible to rebut all such objections. Please judge about global sufficiency according to whether all main objections of an argumentation that you see are rebutted.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From my perspective, this passage is purely descriptive — it presents market data on the bottled water industry without advancing any actual conclusion or rebutting any counter-arguments whatsoever.
+
+There is no thesis being defended, no anticipation of objections, and no argumentative structure. It simply states figures. Global sufficiency requires that *main objections be rebutted* — but there is nothing here to even identify what position is being defended, let alone what counter-arguments might threaten it.
+
+A competent technocratic analyst would at minimum establish a claim and address foreseeable challenges to it. This does neither.
+
+**1 (Low)** is the only defensible rating.

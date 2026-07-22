@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219250>
+
+How would you rate the appropriateness of the style of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Appropriateness: The style of an argumentation should be seen as appropriate if the used language supports the creation of credibility and emotions as well as if it is proportional to the discussed issue. The choice of words and the grammatical complexity should, in your view, appear suitable for the discussed issue within the given setting (online debate forum on a given issue), matching with how credibility and emotions are created via the content of the argumentation.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The argument is written in plain, accessible language suitable for an online forum — that much is appropriate. However, the style is overly casual and underdeveloped for the weight of the issue. The concession ("it is true that...") shows some rhetorical awareness, but the rebuttal ("bottles can be reused!") is delivered too abruptly and with an exclamation mark that substitutes enthusiasm for substance.
+
+From a materialist standpoint, the issue of bottled water touches on **commodity production, corporate profit extraction, and environmental exploitation** — matters deserving more serious rhetorical engagement. The style does not match the depth the topic warrants.

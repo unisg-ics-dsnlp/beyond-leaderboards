@@ -1,0 +1,22 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399270>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The argument makes pragmatic, broadly acceptable points about TV's functional roles — employment, information access, and emergency communication. These are **globally relevant** observations that most audiences would recognize as valid.
+
+However, from my perspective, the argument is **instrumentally narrow** — it frames TV's value purely around human utility without acknowledging ecological costs (energy consumption, e-waste, resource extraction for electronics). More critically, the reasoning is **logically incomplete**: digital alternatives (internet, radio, apps) now fulfill most of these functions, weakening the argument's sufficiency.
+
+It's reasonable enough to warrant a **medium** rating — the points are acceptable and relevant, but insufficiently rigorous to fully resolve the issue.

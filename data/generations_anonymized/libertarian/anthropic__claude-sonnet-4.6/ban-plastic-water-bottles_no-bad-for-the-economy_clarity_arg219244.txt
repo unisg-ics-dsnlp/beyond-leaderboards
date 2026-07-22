@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219244>
+
+How would you rate the clarity of the style of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Clarity: The style of an argumentation should be seen as clear if it uses gramatically correct and widely unambiguous language as well as if it avoids unnecessary complexity and deviation from the discussed issue. The used language should make it easy for you to understand without doubts what the author argues for and how.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argument suffers from significant clarity problems. Most notably, the final sentence — *"The water bottles they buy help us"* — is grammatically awkward and deeply ambiguous. **Who is "us"?** The author never establishes a referent, leaving the core claim essentially unintelligible.
+
+Additionally, the causal chain is loosely constructed: the jump from historical water pollution to present consumption habits to some unspecified benefit to "us" lacks clear logical connective tissue. The reader is left guessing at the author's actual point.

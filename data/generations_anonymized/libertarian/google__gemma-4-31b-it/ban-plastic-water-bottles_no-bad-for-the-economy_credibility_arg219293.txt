@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the success of the author’s argumentation in creating credibility?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Credibility: An argumentation should be seen as successful in creating credibility if it conveys arguments and other information in a way that makes the author worthy of credence, e.g., by indicating the honesty of the author or by revealing the author’s knowledge or expertise regarding the discussed issue. It should be seen as not successful if rather the opposite holds. Decide in dubio pro reo, i.e., if you have no doubt about the author’s credibility, then do not judge him or her to be not credible.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The author fails to establish credibility. First, the claim that 86-88% of bottles are recycled is contradicted by the linked source, which discusses the percentage of *people* who recycle, not the volume of *material*. Second, the phrasing "That is more than half!" is intellectually simplistic and suggests a lack of expertise. From my perspective, credibility requires accuracy and honesty; presenting skewed data to dismiss a concern is not a credible approach to a problem involving externalities.

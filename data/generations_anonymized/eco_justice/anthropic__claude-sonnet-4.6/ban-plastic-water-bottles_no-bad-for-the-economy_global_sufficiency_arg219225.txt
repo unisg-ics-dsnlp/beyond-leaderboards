@@ -1,0 +1,28 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219225>
+
+How would you rate the global sufficiency of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Sufficiency: An argumentation should be seen as globally sufficient if it adequately rebuts those counter-arguments to its conclusion that can be anticipated. Notice that it is not generally clear which and how many counter-arguments can be anticipated. There may be cases where it is infeasible to rebut all such objections. Please judge about global sufficiency according to whether all main objections of an argumentation that you see are rebutted.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From an Eco-Justice perspective, this argument fails dramatically on global sufficiency. It anticipates almost **none** of the major counter-arguments:
+
+- **Ecological harm ignored**: No rebuttal to microplastic contamination of waterways, marine ecosystems, and food chains — a serious, systemic harm.
+- **Recycling rates misrepresented**: Citing *recyclability* is not the same as actual recycling outcomes. The vast majority of plastic bottles are **not** recycled in practice.
+- **Intergenerational burden unaddressed**: The argument never confronts the long-term costs of plastic pollution shifted onto future generations — a core violation of stewardship duty.
+- **Economic framing is shallow**: Prioritizing short-term recession recovery over irreversible ecological damage is precisely the kind of **commons exploitation** that eco-justice rejects.
+- **Precautionary principle absent**: No engagement with the uncertainty around long-term plastic accumulation risks.
+
+The argument essentially defends a harmful practice using narrow economic metrics while ignoring the ecological and intergenerational dimensions that matter most. It does not come close to rebutting the main objections a serious critic would raise.
+
+**1 — Low global sufficiency.**

@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the relevance of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Relevance: A premise of an argument should be seen as relevant if it contributes to the acceptance or rejection of the argument’s conclusion, i.e., if you think it is worthy of being considered as a reason, evidence, or similar regarding the conclusion. If you identify more than one premise in the comment, try to adequately weight the relevance of each premise when judging about their "aggregate" relevance—unless there are particular premises that dominate your view of the author’s argumentation. You should be open to see a premise as relevant even if it does not match your own stance on the issue.
+
+----------------------------------
+
+**2 (Medium)**
+
+The premise (claimed 86-88% bottle-water recycling rate + "more than half") is directly offered as evidence for the conclusion that "we do recycle, so stop complaining." That makes it relevant on its face as purported data supporting the claim.  
+
+However, the linked source addresses a different metric (share of people who recycle at all, not volume of bottles), the numbers are mismatched/poorly phrased, and from a techno-monarchist view popular averages are low-value signals anyway—competence and system design by elites matter far more than mass participation rates. Aggregate relevance is therefore only medium.

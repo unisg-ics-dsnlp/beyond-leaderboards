@@ -1,0 +1,24 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the success of the author’s argumentation in creating credibility?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Credibility: An argumentation should be seen as successful in creating credibility if it conveys arguments and other information in a way that makes the author worthy of credence, e.g., by indicating the honesty of the author or by revealing the author’s knowledge or expertise regarding the discussed issue. It should be seen as not successful if rather the opposite holds. Decide in dubio pro reo, i.e., if you have no doubt about the author’s credibility, then do not judge him or her to be not credible.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argument fails to establish credibility on several grounds:
+
+- **The source cited is a Nestlé corporate website** — a plainly self-interested party, which undermines trustworthiness rather than supporting it.
+- The economic claims are **vague and unsubstantiated** ("hundreds of people," "millions of dollars" — no precise data).
+- The reasoning contains a **logical inconsistency**: it first says a ban would hurt the economy broadly, then contradicts itself by saying it would "only hurt big corporations."
+
+From any serious analytical standpoint — including a natural law framework that values honest, well-reasoned discourse — this argument does not demonstrate the knowledge, rigor, or intellectual honesty required to earn credibility.

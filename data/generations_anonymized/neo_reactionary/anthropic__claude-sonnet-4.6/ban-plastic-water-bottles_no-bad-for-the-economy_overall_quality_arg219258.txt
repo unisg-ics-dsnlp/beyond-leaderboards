@@ -1,0 +1,32 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From a technocratic standpoint, this argument is deeply flawed:
+
+- **Logical inconsistency**: The author simultaneously claims banning bottled water would "hurt big corporations" and then uses that as a reason *against* the ban — yet also states it would "only hurt big corporations," undermining their own economic alarm argument.
+
+- **No data rigor**: Vague claims like "hundreds of jobs" and "millions of dollars" without sourcing credible economic analysis. A competent technocrat demands precise figures.
+
+- **Shallow economic reasoning**: Job preservation in an inefficient industry is not a sound basis for policy. Competent governance evaluates net economic impact, not narrow sectoral interests.
+
+- **Source quality**: Citing a corporate website (Nestlé's own domain) as evidence is epistemically weak — this is advocacy, not expertise.
+
+- **No engagement with counterarguments**: A rigorous argument would address environmental costs, infrastructure alternatives, or regulatory tradeoffs.
+
+The argument reflects exactly the kind of **low-information populist reasoning** that demonstrates why policy should be driven by technical experts rather than emotional appeals to job preservation and corporate interests dressed up as economic concern.
+
+**Overall: 1 (Low)**

@@ -1,0 +1,22 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg376774>
+
+How would you rate the relevance of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Relevance: A premise of an argument should be seen as relevant if it contributes to the acceptance or rejection of the argument’s conclusion, i.e., if you think it is worthy of being considered as a reason, evidence, or similar regarding the conclusion. If you identify more than one premise in the comment, try to adequately weight the relevance of each premise when judging about their "aggregate" relevance—unless there are particular premises that dominate your view of the author’s argumentation. You should be open to see a premise as relevant even if it does not match your own stance on the issue.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From an Eco-Justice perspective, the premise that TV allows you to "explore the world while sitting on a couch" is **largely irrelevant** to any meaningful argument about environmental or social value.
+
+The claim conflates **passive consumption** with genuine engagement with the natural world. Stewardship and ecological integrity require *active* relationship with ecosystems — not mediated, screen-based substitutes. The premise doesn't contribute meaningfully to any conclusion about TV's broader value, and it certainly offers no reason to accept or reject claims about sustainability, harm, or our duties to the commons.
+
+The premise is vague, anecdotal, and fails to engage with any substantive dimension worth weighing seriously.

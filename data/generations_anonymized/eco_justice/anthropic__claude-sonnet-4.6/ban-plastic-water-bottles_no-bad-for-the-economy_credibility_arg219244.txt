@@ -1,0 +1,25 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219244>
+
+How would you rate the success of the author’s argumentation in creating credibility?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Credibility: An argumentation should be seen as successful in creating credibility if it conveys arguments and other information in a way that makes the author worthy of credence, e.g., by indicating the honesty of the author or by revealing the author’s knowledge or expertise regarding the discussed issue. It should be seen as not successful if rather the opposite holds. Decide in dubio pro reo, i.e., if you have no doubt about the author’s credibility, then do not judge him or her to be not credible.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argument undermines its own credibility on several fronts:
+
+- The claim that bottled water "helps us" is vague and unsupported — *who* is "us"? This lack of precision signals weak reasoning.
+- The historical framing (Industrial Revolution pollution) is oversimplified and ignores that Western European tap water today is among the **most regulated and safest in the world**, suggesting the author lacks current knowledge.
+- The argument implicitly **normalizes** a wasteful, plastic-dependent practice without acknowledging its ecological costs — a credible author would at least acknowledge counterarguments.
+- No sources, data, or expertise are signaled.
+
+From an eco-justice lens, this reads as an attempt to **justify overconsumption** through selective historical framing, which further erodes trust in the author's intellectual honesty.

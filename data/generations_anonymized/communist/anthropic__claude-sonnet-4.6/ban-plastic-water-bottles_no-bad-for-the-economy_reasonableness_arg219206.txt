@@ -1,0 +1,32 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219206>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+From a Communist analytical lens, this argument has moderate reasonableness:
+
+**What works:**
+- The argument is internally coherent and cites sources
+- It addresses multiple dimensions (economic, environmental, health)
+- The point about compostable bottles shows some acknowledgment of environmental concerns
+
+**What undermines it:**
+- The core "economic harm" argument is fundamentally a **bourgeois framing** — it prioritizes capital interests (plastics industry, advertising corporations) over collective well-being. "Hurting the economy" really means hurting *profit margins*, not workers' welfare.
+- The health safety claim has merit on its surface but obscures the deeper issue: **why is municipal water unsafe?** That is a question of public investment and collective infrastructure, not a justification for privatizing water.
+- Water as a **commodity** rather than a collective right is itself the problem the argument never interrogates.
+
+**Overall:** The argument is *relevant* to the debate and *acceptable* to a mainstream capitalist audience, but it is **insufficiently rigorous** — it naturalizes commodity logic without questioning it. It earns a medium score because it does contribute meaningfully to the debate on its own terms, even if those terms are ideologically compromised.
+
+**2 (Medium)**

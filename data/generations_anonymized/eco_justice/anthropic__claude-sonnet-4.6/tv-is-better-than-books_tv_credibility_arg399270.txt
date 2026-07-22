@@ -1,0 +1,25 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399270>
+
+How would you rate the success of the author’s argumentation in creating credibility?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Credibility: An argumentation should be seen as successful in creating credibility if it conveys arguments and other information in a way that makes the author worthy of credence, e.g., by indicating the honesty of the author or by revealing the author’s knowledge or expertise regarding the discussed issue. It should be seen as not successful if rather the opposite holds. Decide in dubio pro reo, i.e., if you have no doubt about the author’s credibility, then do not judge him or her to be not credible.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From my perspective, this argument lacks credibility on several fronts:
+
+- The claims are **vague and unsubstantiated** — no evidence, data, or expertise is demonstrated
+- The reasoning is **oversimplified**, ignoring digital media, radio, and online platforms that also serve these functions
+- The argument about actors' jobs is a **weak economic justification** that doesn't engage seriously with the topic
+- The author shows **limited knowledge** of how information ecosystems actually work
+
+The writing style and shallow reasoning signal a lack of depth or expertise, which undermines the author's credibility regardless of the topic at hand.

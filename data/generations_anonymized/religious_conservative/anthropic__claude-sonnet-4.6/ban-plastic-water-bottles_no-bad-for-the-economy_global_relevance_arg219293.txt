@@ -1,0 +1,22 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the global relevance of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Relevance: An argumentation should be seen as globally relevant if it contributes to the resolution of the given issue, i.e., if it provides arguments and/or other information that help to arrive at an ultimate conclusion regarding the discussed issue. You should be open to see an argumentation as relevant even if it does not your match your stance on the issue. Rather, the question is whether the provided arguments and information are worthy of being considered within the discussion of the issue.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argument suffers from a fundamental factual error — it misrepresents its own cited source. The linked article actually indicates that **23% of Americans *don't* recycle**, which contradicts the claimed 86-88% figure. An argument built on a misread or fabricated statistic contributes little to resolving the issue meaningfully.
+
+Beyond the factual problem, the argument is dismissive ("stop complaining") rather than constructive, and it conflates *bottle water recycling rates* with broader recycling behavior without proper sourcing.
+
+From a natural law and community responsibility standpoint, stewardship of creation is a genuine moral duty — so the *topic* matters. But this particular argument, riddled with errors and lacking intellectual rigor, does not meaningfully advance the discussion.

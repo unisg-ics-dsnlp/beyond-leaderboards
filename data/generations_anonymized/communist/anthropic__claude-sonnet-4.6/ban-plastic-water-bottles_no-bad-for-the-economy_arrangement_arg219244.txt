@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219244>
+
+How would you rate the arrangement of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Arrangement: An argumentation should be seen as well-arranged if it presents the given issue, the composed arguments, and its conclusion in the right order. Usually, the general issue and the particularly discussed topics should be clear before arguing and concluding about them. Notice, however, that other orderings may be used on purpose and may still be suitable to achieve persuasion. Besides, notice that, within the given setting (online debate forum on a given issue), some parts may be clear (e.g., the issue) and thus left implicit.
+
+----------------------------------
+
+I rate the arrangement **1 (Low)**.
+
+The argument is poorly arranged. It begins with a statistical claim, then offers a historical explanation, but ends abruptly with "The water bottles they buy help us" — a conclusion that is vague, incomplete, and disconnected. It is unclear *who* "us" refers to and what the actual conclusion is meant to be. The logical thread breaks down entirely at the end, leaving the reader without a coherent takeaway. The arrangement fails to properly connect premise to conclusion.

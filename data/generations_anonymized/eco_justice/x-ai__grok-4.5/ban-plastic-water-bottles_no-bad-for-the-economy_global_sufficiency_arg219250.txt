@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219250>
+
+How would you rate the global sufficiency of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Sufficiency: An argumentation should be seen as globally sufficient if it adequately rebuts those counter-arguments to its conclusion that can be anticipated. Notice that it is not generally clear which and how many counter-arguments can be anticipated. There may be cases where it is infeasible to rebut all such objections. Please judge about global sufficiency according to whether all main objections of an argumentation that you see are rebutted.
+
+----------------------------------
+
+**Global Sufficiency: 1 (Low)**
+
+The claim concedes bottled water’s wastefulness yet offers only a thin “reuse” dodge. It fails to rebut core objections: most bottles are single-use by design and rarely reused at scale; production still extracts fossil resources, emits GHGs, and breaches ecological limits; plastic persists across generations, violating intergenerational justice and stewardship duties; and reuse does nothing to curb the industry’s promotion of unnecessary commodified water over public systems. Anticipated counters on pollution, biodiversity harm, and systemic over-extraction go unaddressed—rendering the argumentation globally insufficient under precautionary and polluter-pays principles.

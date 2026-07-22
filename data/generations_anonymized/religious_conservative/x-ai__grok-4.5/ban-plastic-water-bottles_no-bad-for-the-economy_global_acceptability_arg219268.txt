@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219268>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+**Global Acceptability: 1 (Low)**
+
+This poorly formed claim (riddled with errors and lacking any serious reasoning) fails basic standards of clear, ordered discourse. From a natural-law perspective, arguments must serve truth and the common good with care for language and substance; this does not. Even those open to practical benefits of materials would reject such careless presentation as unworthy of serious consideration.

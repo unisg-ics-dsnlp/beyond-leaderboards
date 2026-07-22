@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg585674>
+
+How would you rate the success of the author’s argumentation in creating credibility?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Credibility: An argumentation should be seen as successful in creating credibility if it conveys arguments and other information in a way that makes the author worthy of credence, e.g., by indicating the honesty of the author or by revealing the author’s knowledge or expertise regarding the discussed issue. It should be seen as not successful if rather the opposite holds. Decide in dubio pro reo, i.e., if you have no doubt about the author’s credibility, then do not judge him or her to be not credible.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The author makes a relatable, common-sense observation about the emotional immediacy of television versus reading. The appeal to real disasters (Japan, Alabama, Missouri) lends some grounding in concrete reality, suggesting the author is engaged with current events.
+
+However, the argument is largely anecdotal and relies on intuitive appeal rather than demonstrated expertise or deeper knowledge. There is no citation of evidence, no scholarly grounding, and the reasoning is fairly surface-level. The author comes across as an ordinary, honest observer — neither particularly credible nor dishonest — hence a **medium** rating is appropriate.

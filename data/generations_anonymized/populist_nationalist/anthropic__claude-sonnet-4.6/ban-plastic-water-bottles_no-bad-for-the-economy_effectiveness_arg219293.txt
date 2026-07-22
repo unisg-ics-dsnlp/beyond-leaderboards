@@ -1,0 +1,27 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the effectiveness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Effectiveness: An argumentation should be seen as effective if it achieves to persuade you of the author’s stance on the discussed issue or—in case you already agreed with the stance before—if it corroborates your agreement with the stance. Besides the actual arguments, also take into consideration the credibility and the emotional force of the argumentation. Decide in dubio pro reo, i.e., if you have no doubt about the correctness of the author’s arguments, then do not judge him or her to be not effective—unless you explicitly think that the arguments do not support the author’s stance.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argument is **ineffective** for several reasons:
+
+- **Factual contradiction**: The author claims 86-88% recycling rates, but their own linked source says **23% of Americans don't recycle** — which actually undermines their argument rather than supporting it.
+- **Math error**: Even taking the author's own numbers, they confusingly present them as if they're strong, but the sourced data tells a different story.
+- **Credibility collapse**: Citing a source that contradicts your own claim is a serious own-goal. It destroys trust in the argument immediately.
+- **Emotional appeal without substance**: The defensive "stop complaining" tone comes across as reactive rather than persuasive.
+
+From my worldview, I'd add — ordinary Americans *do* step up and do their part, and that deserves recognition. But if you're going to make that case, **get your facts straight**. Weak arguments don't serve the people you're trying to defend.
+
+**Bottom line: 1 (Low)** — the argument fails on basic factual consistency and self-contradicts with its own source.

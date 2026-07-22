@@ -1,0 +1,26 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219245>
+
+How would you rate the global relevance of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Relevance: An argumentation should be seen as globally relevant if it contributes to the resolution of the given issue, i.e., if it provides arguments and/or other information that help to arrive at an ultimate conclusion regarding the discussed issue. You should be open to see an argumentation as relevant even if it does not your match your stance on the issue. Rather, the question is whether the provided arguments and information are worthy of being considered within the discussion of the issue.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+From a materialist perspective, this argument presents useful empirical data about the commodification of water — a common resource transformed into a profit-generating commodity by the bourgeoisie. The figures illustrate the **scale of capital accumulation** in this sector, which is relevant to understanding how corporations extract value from basic human needs.
+
+However, its global relevance is only **medium** because:
+
+- It **describes** the industry's size without clearly advancing a conclusion
+- The data points are somewhat **fragmented** (mixing 2001 and 2002 figures)
+- It lacks analysis of **who controls** this industry, **who is exploited**, or **what should be done**
+
+The numbers hint at the contradiction between water as a human right and water as a commodity — but stop short of making that argument explicitly.

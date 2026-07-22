@@ -1,0 +1,28 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219225>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From an Eco-Justice Environmentalist perspective, this argument fails on multiple grounds:
+
+- **Acceptability**: The economic justification ("helping the economy") is a classic case of prioritizing short-term gain over long-term ecological integrity — precisely the kind of reasoning that perpetuates unsustainable systems. This framing is not broadly acceptable when planetary boundaries are at stake.
+
+- **Relevance**: The recycling statistic, even if accurate, deflects from the core issues: fossil fuel extraction for plastic production, microplastic contamination, and the commodification of a shared commons (water). Recycling rates don't neutralize these harms.
+
+- **Sufficiency**: The argument is deeply insufficient. It relies on a single industry-linked source (Nestlé Waters), invokes a vague percentage claim, and never engages with the systemic ecological costs. The **polluter pays** and **precautionary principles** demand more rigorous justification before dismissing environmental concerns.
+
+The argument essentially asks future generations to bear the ecological burden of today's convenience — a direct violation of **intergenerational justice**. It does not meaningfully contribute to resolving the issue in a way that accounts for ecological harm or stewardship duties.
+
+**Verdict: Low reasonableness.**

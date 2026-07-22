@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg363603>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**Overall quality: 1 (Low)**
+
+This argument is weak and idealist: it treats media choice as mere personal convenience while ignoring class control of the means of communication. Under capitalism, TV (owned by the bourgeoisie) primarily serves to extract surplus value via advertising and to alienate workers with passive consumption and ruling-class ideology, not genuine proletarian education. Books, by contrast, can be tools of class struggle when they transmit revolutionary theory. Switching channels does not abolish exploitation or private ownership of media; only collective worker control of production and information can. The claim lacks materialist analysis, evidence of surplus-value dynamics, or solidarity with the working class.

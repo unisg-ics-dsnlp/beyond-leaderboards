@@ -1,0 +1,25 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg376774>
+
+How would you rate the effectiveness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Effectiveness: An argumentation should be seen as effective if it achieves to persuade you of the author’s stance on the discussed issue or—in case you already agreed with the stance before—if it corroborates your agreement with the stance. Besides the actual arguments, also take into consideration the credibility and the emotional force of the argumentation. Decide in dubio pro reo, i.e., if you have no doubt about the correctness of the author’s arguments, then do not judge him or her to be not effective—unless you explicitly think that the arguments do not support the author’s stance.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From an eco-justice perspective, this argument is weak on multiple levels:
+
+- It offers **no substantive reasoning** — "exploring the world from a couch" is a vague, unsupported claim
+- It implicitly **celebrates passive consumption** without addressing the ecological footprint of television infrastructure, streaming energy use, or electronic waste
+- The argument lacks **credibility, evidence, or logical structure** — it's essentially a lifestyle preference dressed as an argument
+- It does nothing to persuade on any meaningful dimension, environmental or otherwise
+
+The argumentation is superficial and fails to make a compelling case even on its own terms.

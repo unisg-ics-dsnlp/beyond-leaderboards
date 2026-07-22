@@ -1,0 +1,30 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219225>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From a materialist standpoint, this argument is weak on multiple fronts:
+
+- **Economic reasoning is superficial**: The claim that bottled water purchases "help the economy" ignores *who benefits* — primarily large corporations like Nestlé that extract surplus value from workers and commodify a basic human necessity (water).
+
+- **Source credibility is compromised**: Citing Nestlé's own corporate website as evidence is a textbook example of bourgeois propaganda — the capitalist class justifying its own exploitation of natural resources.
+
+- **Statistical claims are vague and unverified**: "Less than 1% of world's wastes" lacks proper citation, and the recycling statistic is cherry-picked from an industry lobby group.
+
+- **Logical structure is poor**: The argument conflates *consumption volume* with *economic necessity*, and uses weak qualifiers ("maybe not in a big way") that undermine its own claims.
+
+The argument fundamentally serves corporate interests by framing the commodification of water as economically beneficial, while ignoring environmental costs borne collectively by the working class. This is precisely how capitalist ideology obscures exploitation behind appeals to economic growth.
+
+**Overall: Low quality argumentation.**

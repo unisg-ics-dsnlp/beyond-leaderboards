@@ -1,0 +1,28 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219259>
+
+How would you rate the cogency of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Cogency: An argument should be seen as cogent if it has individually acceptable premises that are relevant to the argument’s conclusion and that are sufficient to draw the conclusion. Try to adequately weight your judgments about local acceptability, local relevance, and local sufficiency when judging about cogency—unless there is a particular dimension among these that dominates your view of an argument. Accordingly, if you identify more than one argument, try to adequately weight the cogency of each argument when judging about their "aggregate" cogency—unless there is a particular argument that dominates your view of the author’s argumentation.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From my perspective, the argument suffers on multiple cogency dimensions:
+
+- **Acceptability**: The opening premise is questionable — bottled water is *less* likely found in developing countries? This seems empirically backwards; bottled water is often *more* prevalent where public water is unsafe. This undermines the foundation.
+
+- **Relevance**: The points about government distribution and container size have some practical relevance, but they feel disconnected from a clear, unified conclusion. What exactly is being argued — that bottled water *should* be distributed, *is* distributed, or *is preferable*?
+
+- **Sufficiency**: The premises, even if accepted, don't sufficiently establish a coherent conclusion. The contamination claim about large containers versus small bottles is asserted without evidence.
+
+The argument lacks the logical discipline and grounded premises needed to be persuasive. Good stewardship of resources — including clean water, which touches on our duty to protect the vulnerable — deserves more rigorous reasoning.
+
+**Rating: 1 (Low)**

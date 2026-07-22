@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399270>
+
+How would you rate the relevance of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Relevance: A premise of an argument should be seen as relevant if it contributes to the acceptance or rejection of the argument’s conclusion, i.e., if you think it is worthy of being considered as a reason, evidence, or similar regarding the conclusion. If you identify more than one premise in the comment, try to adequately weight the relevance of each premise when judging about their "aggregate" relevance—unless there are particular premises that dominate your view of the author’s argumentation. You should be open to see a premise as relevant even if it does not match your own stance on the issue.
+
+----------------------------------
+
+I'd rate this **2 (Medium)**.
+
+The premises touch on TV's functional roles — employment, information access, and emergency communication — which are genuinely relevant to defending TV's value. However, from my eco-justice lens, these arguments are narrowly anthropocentric and economically framed, missing broader systemic considerations. They do contribute *something* to the conclusion, but the reasoning is incomplete and the premises don't strongly reinforce each other toward a coherent argument. The emergency warning point is arguably the strongest and most relevant premise; the jobs argument is weaker and more tangential.

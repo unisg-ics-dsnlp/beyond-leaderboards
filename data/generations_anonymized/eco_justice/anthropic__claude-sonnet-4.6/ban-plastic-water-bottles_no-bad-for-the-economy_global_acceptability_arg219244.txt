@@ -1,0 +1,25 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219244>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argument has significant acceptability problems from multiple angles:
+
+- **Factually dubious**: The claim that bottled water "helps us" is vague and unsupported. It obscures *who* benefits and at what cost.
+- **Deflects systemic responsibility**: Framing chronic water pollution as a *cultural justification* for continued bottled water consumption rather than demanding remediation violates the **polluter pays** principle — industries that polluted water sources should bear cleanup costs, not normalize the harm.
+- **Ignores ecological costs**: Bottled water production generates plastic waste, carbon emissions, and resource extraction harms — shifting burdens onto ecosystems and future generations.
+- **Logical gap**: Even if historical pollution explains *why* Europeans drink bottled water, it does not justify the practice as acceptable or beneficial globally.
+
+Most critically, the argument would **not** be broadly accepted even outside an eco-justice framework — it conflates explanation with justification and makes an unsubstantiated positive claim ("helps us"). A general audience would likely find it poorly reasoned and incomplete.

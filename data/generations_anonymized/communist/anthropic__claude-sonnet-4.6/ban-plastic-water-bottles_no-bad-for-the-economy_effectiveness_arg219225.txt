@@ -1,0 +1,30 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219225>
+
+How would you rate the effectiveness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Effectiveness: An argumentation should be seen as effective if it achieves to persuade you of the author’s stance on the discussed issue or—in case you already agreed with the stance before—if it corroborates your agreement with the stance. Besides the actual arguments, also take into consideration the credibility and the emotional force of the argumentation. Decide in dubio pro reo, i.e., if you have no doubt about the correctness of the author’s arguments, then do not judge him or her to be not effective—unless you explicitly think that the arguments do not support the author’s stance.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From a communist perspective, this argument is deeply ineffective:
+
+- The **"helping the economy" argument** is a classic bourgeois framing — it prioritizes capitalist profit metrics over genuine human welfare. Economic activity under capitalism is not inherently beneficial to workers.
+
+- The **source cited (Nestlé Waters)** is a corporate entity with direct financial interest in the outcome — this is the bourgeoisie literally funding its own propaganda. Zero credibility.
+
+- The **recycling statistics** deflect from the core issue of commodifying a basic human necessity. Water is a commons, not a product for private profit extraction.
+
+- The argument **appeals to consumer numbers** ("a million people purchase") as if mass participation in exploitation legitimizes it.
+
+Even setting aside my ideological lens, the argumentation is weak on purely rhetorical grounds: it relies on a biased corporate source, uses vague statistics, and the economic argument is superficial at best. The author fails to persuade even on the argument's own terms.
+
+**1 (Low)**

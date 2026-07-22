@@ -1,0 +1,22 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219259>
+
+How would you rate the global relevance of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Relevance: An argumentation should be seen as globally relevant if it contributes to the resolution of the given issue, i.e., if it provides arguments and/or other information that help to arrive at an ultimate conclusion regarding the discussed issue. You should be open to see an argumentation as relevant even if it does not your match your stance on the issue. Rather, the question is whether the provided arguments and information are worthy of being considered within the discussion of the issue.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The argument raises practical logistical points about bottled water distribution in developing contexts — contamination risk, portability, and government programs. These are empirically grounded observations worth considering.
+
+However, it lacks **global scope**. It addresses a narrow distributional use-case rather than the broader systemic question of bottled water's role worldwide. A technocratically rigorous argument would engage with infrastructure investment, long-term water security policy, and scalable solutions — not merely defend small-bottle distribution logistics.
+
+Relevant, but insufficiently comprehensive to rate highly.

@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the arrangement of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Arrangement: An argumentation should be seen as well-arranged if it presents the given issue, the composed arguments, and its conclusion in the right order. Usually, the general issue and the particularly discussed topics should be clear before arguing and concluding about them. Notice, however, that other orderings may be used on purpose and may still be suitable to achieve persuasion. Besides, notice that, within the given setting (online debate forum on a given issue), some parts may be clear (e.g., the issue) and thus left implicit.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From an eco-justice perspective, this argument is a failure of both logic and stewardship. The author attempts to justify the continued use of a destructive system by citing a marginal success rate, ignoring the systemic harm of plastic production and the violation of ecological integrity. 
+
+Structurally, it is poorly arranged: it leaps from a disputed statistic to a dismissive conclusion without addressing the core issue of planetary boundaries or the precautionary principle. To claim "more than half" is a victory while the commons are choking on plastic is an insult to intergenerational justice.

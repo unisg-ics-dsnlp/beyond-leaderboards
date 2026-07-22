@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the cogency of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Cogency: An argument should be seen as cogent if it has individually acceptable premises that are relevant to the argument’s conclusion and that are sufficient to draw the conclusion. Try to adequately weight your judgments about local acceptability, local relevance, and local sufficiency when judging about cogency—unless there is a particular dimension among these that dominates your view of an argument. Accordingly, if you identify more than one argument, try to adequately weight the cogency of each argument when judging about their "aggregate" cogency—unless there is a particular argument that dominates your view of the author’s argumentation.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argument is fundamentally flawed. Beyond the logical failure of claiming 86-88% is "more than half," it ignores the material reality of production. Recycling is a bourgeois distraction—a "greenwashed" palliative designed to maintain the cycle of consumption. 
+
+The core issue is not the failure to recycle, but the private ownership of the means of production, which prioritizes the extraction of surplus value and profit over ecological survival. To argue that a percentage of waste management justifies the continued mass production of plastic by capitalist entities is to ignore the systemic exploitation of both the worker and the planet.

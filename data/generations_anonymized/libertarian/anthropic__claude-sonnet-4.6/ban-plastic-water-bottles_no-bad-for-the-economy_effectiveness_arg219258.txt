@@ -1,0 +1,28 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the effectiveness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Effectiveness: An argumentation should be seen as effective if it achieves to persuade you of the author’s stance on the discussed issue or—in case you already agreed with the stance before—if it corroborates your agreement with the stance. Besides the actual arguments, also take into consideration the credibility and the emotional force of the argumentation. Decide in dubio pro reo, i.e., if you have no doubt about the correctness of the author’s arguments, then do not judge him or her to be not effective—unless you explicitly think that the arguments do not support the author’s stance.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From a libertarian perspective, I *agree* with the conclusion — banning bottled water is an unjustifiable restriction on voluntary exchange and property rights. However, the argumentation itself is **weak**:
+
+- **Wrong framing**: The argument centers on economic harm to corporations and jobs — a consequentialist appeal that is easily countered. The *stronger* argument is the principled one: adults have the right to voluntarily purchase and sell bottled water, and a ban is coercive interference with peaceful exchange.
+
+- **Logical inconsistency**: The author simultaneously claims the ban would "hurt the economy severely" *and* "only hurt big corporations" — these contradict each other.
+
+- **Weak sourcing**: Citing a Nestlé corporate website is a clear conflict of interest and severely undermines credibility.
+
+- **No engagement with opposing arguments**: The piece ignores environmental externality arguments entirely, which are the primary justification ban-proponents use.
+
+The author reaches the right destination but via a poorly constructed road. It fails to persuade even someone already sympathetic to the conclusion.

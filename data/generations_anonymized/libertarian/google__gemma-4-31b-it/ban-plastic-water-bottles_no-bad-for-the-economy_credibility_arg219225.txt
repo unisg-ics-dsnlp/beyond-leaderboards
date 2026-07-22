@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219225>
+
+How would you rate the success of the author’s argumentation in creating credibility?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Credibility: An argumentation should be seen as successful in creating credibility if it conveys arguments and other information in a way that makes the author worthy of credence, e.g., by indicating the honesty of the author or by revealing the author’s knowledge or expertise regarding the discussed issue. It should be seen as not successful if rather the opposite holds. Decide in dubio pro reo, i.e., if you have no doubt about the author’s credibility, then do not judge him or her to be not credible.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+While I fundamentally agree that banning bottled water is an impermissible act of coercion and a violation of property rights and voluntary exchange, the author's execution is poor. 
+
+The argument relies on "helping the economy"—a collectivist justification—rather than the primary moral principle of self-ownership and freedom of contract. Furthermore, the poor grammar and reliance on a corporate promotional link undermine the author's expertise and professional credibility. To be credible, one should argue from the strength of individual rights, not the marginal utility of a recession recovery.

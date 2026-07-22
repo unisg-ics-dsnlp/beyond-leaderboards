@@ -1,0 +1,24 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399270>
+
+How would you rate the success of the author’s argumentation in creating credibility?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Credibility: An argumentation should be seen as successful in creating credibility if it conveys arguments and other information in a way that makes the author worthy of credence, e.g., by indicating the honesty of the author or by revealing the author’s knowledge or expertise regarding the discussed issue. It should be seen as not successful if rather the opposite holds. Decide in dubio pro reo, i.e., if you have no doubt about the author’s credibility, then do not judge him or her to be not credible.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argument lacks credibility on several fronts:
+
+- **Factually weak claims**: Newspapers and books *can* deliver breaking news and emergency alerts — radio, SMS systems, and online platforms do so constantly. The author's assertions are demonstrably imprecise.
+- **No expertise signaled**: There's no indication of knowledge, sourcing, or reasoning depth.
+- **Oversimplified logic**: The job-dependency claim ignores that markets adapt — actors find other mediums; information finds other channels.
+
+The author comes across as uninformed rather than dishonest, but credibility requires more than good faith — it requires accuracy and rigor.

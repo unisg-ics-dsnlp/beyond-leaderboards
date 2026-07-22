@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg363603>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**1 (Low)**
+
+This argument is shallow and self-serving: it prioritizes personal convenience and endless switching over any deeper evaluation of knowledge quality, attention, or long-term effects. From an eco-justice view it fails completely—TV/streaming demands high energy, rare-earth mining, and e-waste that degrade ecosystems and dump irreversible burdens on future generations, while books (especially shared or low-impact ones) better honor stewardship and ecological limits. No evidence, no precautionary weighing of harms, just preference. Weak reasoning that ignores planetary boundaries.

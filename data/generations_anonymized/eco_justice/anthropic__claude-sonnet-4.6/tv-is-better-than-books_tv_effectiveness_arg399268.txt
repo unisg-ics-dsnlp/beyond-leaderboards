@@ -1,0 +1,22 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399268>
+
+How would you rate the effectiveness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Effectiveness: An argumentation should be seen as effective if it achieves to persuade you of the author’s stance on the discussed issue or—in case you already agreed with the stance before—if it corroborates your agreement with the stance. Besides the actual arguments, also take into consideration the credibility and the emotional force of the argumentation. Decide in dubio pro reo, i.e., if you have no doubt about the correctness of the author’s arguments, then do not judge him or her to be not effective—unless you explicitly think that the arguments do not support the author’s stance.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The argument is straightforward and functionally clear — it makes a simple, practical case for using the Foxtel Go app for mobile TV viewing. It achieves its narrow persuasive goal adequately.
+
+However, from my perspective, it carries **no weight on deeper questions** of resource consumption, energy use from streaming infrastructure, or the broader culture of endless on-demand consumption that strains planetary boundaries. The argument is effective *on its own limited terms*, but lacks any acknowledgment of the ecological footprint of digital media consumption — data centers, device manufacturing, and energy use are real environmental costs.
+
+It's a **medium** — competent but shallow persuasion.

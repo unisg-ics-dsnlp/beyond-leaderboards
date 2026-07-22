@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**1 (Low)**
+
+This "argument" is riddled with basic errors that destroy its quality: misspellings ("there," garbled link text), unsupported/inaccurate stats (86-88% bottle recycling claim clashes with the linked source's ~77% general rate and doesn't prove the point), and a non-sequitur leap from "more than half" to "stop complaining." From a libertarian view, voluntary recycling is fine under property rights and non-aggression—no one owes others forced participation—but this fails as coherent reasoning entirely.

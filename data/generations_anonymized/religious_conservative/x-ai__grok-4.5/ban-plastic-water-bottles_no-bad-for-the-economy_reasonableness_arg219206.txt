@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219206>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+**Reasonableness: 3 (High)**
+
+From a Religious-Conservative view grounded in natural law, subsidiarity, and paired rights/duties, this argumentation is highly reasonable. It rightly prioritizes economic vitality (supporting family stability and community flourishing) over hasty government bans that violate free enterprise and personal responsibility without grave moral necessity. Market alternatives like compostables and superior safety/traceability further uphold the common good and protection of the vulnerable, rendering a ban both unnecessary and disruptive to ordered liberty.

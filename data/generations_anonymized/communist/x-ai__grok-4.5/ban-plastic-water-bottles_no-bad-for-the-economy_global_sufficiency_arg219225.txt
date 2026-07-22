@@ -1,0 +1,25 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219225>
+
+How would you rate the global sufficiency of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Sufficiency: An argumentation should be seen as globally sufficient if it adequately rebuts those counter-arguments to its conclusion that can be anticipated. Notice that it is not generally clear which and how many counter-arguments can be anticipated. There may be cases where it is infeasible to rebut all such objections. Please judge about global sufficiency according to whether all main objections of an argumentation that you see are rebutted.
+
+----------------------------------
+
+**1 (Low)**
+
+This bourgeois apologetics for Nestle and private water commodification fails global sufficiency. It anticipates only the weakest greenwashing objections (waste volume, recycling rates) while ignoring the decisive counter-arguments rooted in class struggle and material relations:
+
+- Privatization of the commons (water as means of production/life) enables surplus-value extraction by capital from both workers and nature.
+- Environmental externalities and plastic pollution fall hardest on the proletariat and Global South, not the bourgeoisie who profit.
+- "Economic help" in recession is mere defense of capitalist accumulation and temporary wage-labor jobs under exploitation, not worker control or collective ownership.
+- No rebuttal of alienation, health double-standards, or the need to abolish private property in essential resources for equality and solidarity.
+
+The piece is corporate propaganda, not argumentation that confronts the main objections. Under a materialist conception of history, it collapses.

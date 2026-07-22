@@ -1,0 +1,25 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg376774>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From an eco-justice perspective, this argument is weak on multiple levels:
+
+- It's **superficial and unsupported** — no evidence, no reasoning, just a bare assertion
+- The framing of "exploring the world from a couch" actually reflects a **passive, consumptive relationship with nature** — precisely the disconnected mindset that enables ecological destruction
+- It ignores the **environmental costs** of television infrastructure, energy consumption, and electronic waste
+- True stewardship requires **direct engagement** with ecosystems, not mediated, passive consumption
+
+The argument lacks intellectual rigor regardless of ideological lens.

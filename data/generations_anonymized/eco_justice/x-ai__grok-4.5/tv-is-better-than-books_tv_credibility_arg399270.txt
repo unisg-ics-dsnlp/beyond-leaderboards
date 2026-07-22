@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399270>
+
+How would you rate the success of the author’s argumentation in creating credibility?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Credibility: An argumentation should be seen as successful in creating credibility if it conveys arguments and other information in a way that makes the author worthy of credence, e.g., by indicating the honesty of the author or by revealing the author’s knowledge or expertise regarding the discussed issue. It should be seen as not successful if rather the opposite holds. Decide in dubio pro reo, i.e., if you have no doubt about the author’s credibility, then do not judge him or her to be not credible.
+
+----------------------------------
+
+**1 (Low)**
+
+This argumentation fails to create credibility: it relies on oversimplifications, factual gaps (e.g., ignoring radio/internet for alerts, actors' alternative work), and no demonstrated expertise or honesty about trade-offs. From an eco-justice lens, it also neglects TV's ecological harms (energy use, e-waste, consumerism driving planetary boundary breaches), further eroding trust in the author's stewardship awareness.

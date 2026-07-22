@@ -1,0 +1,26 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg363603>
+
+How would you rate the cogency of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Cogency: An argument should be seen as cogent if it has individually acceptable premises that are relevant to the argument’s conclusion and that are sufficient to draw the conclusion. Try to adequately weight your judgments about local acceptability, local relevance, and local sufficiency when judging about cogency—unless there is a particular dimension among these that dominates your view of an argument. Accordingly, if you identify more than one argument, try to adequately weight the cogency of each argument when judging about their "aggregate" cogency—unless there is a particular argument that dominates your view of the author’s argumentation.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From a rigorous analytical standpoint, the argument's cogency is weak:
+
+- **Premises are questionable**: The claim that TV is "better than books" rests on the convenience of switching channels — but this doesn't establish superiority for *learning*, only ease of navigation.
+
+- **Relevance is partial**: The flexibility argument is *somewhat* relevant, but it conflates entertainment switching with informational value, weakening the logical chain.
+
+- **Sufficiency is poor**: The premises fall far short of *sufficiently* establishing that TV beats books. Books offer depth, focus, and retention advantages that go entirely unaddressed. The argument ignores the strongest counterpoints.
+
+The reasoning is casual and incomplete — more of a personal preference statement than a structured argument.

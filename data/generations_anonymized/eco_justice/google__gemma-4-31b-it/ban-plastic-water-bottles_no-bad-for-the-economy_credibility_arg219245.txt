@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219245>
+
+How would you rate the success of the author’s argumentation in creating credibility?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Credibility: An argumentation should be seen as successful in creating credibility if it conveys arguments and other information in a way that makes the author worthy of credence, e.g., by indicating the honesty of the author or by revealing the author’s knowledge or expertise regarding the discussed issue. It should be seen as not successful if rather the opposite holds. Decide in dubio pro reo, i.e., if you have no doubt about the author’s credibility, then do not judge him or her to be not credible.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+While the author cites figures to show market growth, they fail to establish any moral or ecological credibility. From an eco-justice perspective, presenting the "explosion" of a multi-billion dollar industry that commodifies a fundamental common and generates massive plastic waste as a success—without addressing the systemic harm to ecological integrity—reveals a profound lack of stewardship. Expertise in profit margins is not expertise in sustainability; this is merely the language of exploitation.

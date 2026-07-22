@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219206>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**2 (Medium)**
+
+The argument raises legitimate concerns about jobs, domestic industry, consumer choice, and water safety. But several key claims—especially that bottled water is safer than municipal water and that a ban would “greatly” hurt the economy—are asserted without solid evidence or careful comparison. It would be stronger with reliable data and a clearer case against a ban rather than just against plastic bottles.

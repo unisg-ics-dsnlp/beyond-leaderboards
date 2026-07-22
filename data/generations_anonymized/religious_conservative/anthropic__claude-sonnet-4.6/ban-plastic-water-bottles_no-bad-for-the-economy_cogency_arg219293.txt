@@ -1,0 +1,26 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the cogency of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Cogency: An argument should be seen as cogent if it has individually acceptable premises that are relevant to the argument’s conclusion and that are sufficient to draw the conclusion. Try to adequately weight your judgments about local acceptability, local relevance, and local sufficiency when judging about cogency—unless there is a particular dimension among these that dominates your view of an argument. Accordingly, if you identify more than one argument, try to adequately weight the cogency of each argument when judging about their "aggregate" cogency—unless there is a particular argument that dominates your view of the author’s argumentation.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argument fails basic cogency on multiple grounds:
+
+- **Factually contradictory**: The author claims 86-88% recycling rates, yet the linked source apparently references that 23% of Americans *don't* recycle — the author's own evidence undermines the premise.
+
+- **Statistical misuse**: "More than half" is used as if it settles the debate, but even if the figure were accurate, it would not justify dismissing legitimate concerns about waste stewardship.
+
+- **Logical insufficiency**: Even granting a high recycling rate, that alone does not warrant the conclusion that criticism is unwarranted. Stewardship of creation is a *duty*, not merely a threshold to clear.
+
+From a natural law and community responsibility standpoint, we are called to be faithful stewards of the created order — and sloppy reasoning does not serve that cause well. The argument's premises are neither well-supported nor sufficient to draw its dismissive conclusion.

@@ -1,0 +1,22 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399268>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+This is barely an argument at all — it's a product feature description. There is no logical structure, no claim being defended, no evidence marshaled, and no reasoning chain present.
+
+From my perspective, it lacks the intellectual rigor expected even in basic discourse. A competent thinker presents **premises leading to conclusions**. This statement simply asserts a capability exists. It would not pass muster in any serious technocratic deliberation.
+
+**Overall: 1 (Low)**

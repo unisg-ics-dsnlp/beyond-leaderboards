@@ -1,0 +1,30 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg561428>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+## Rating: 1 (Low)
+
+**Reasoning:**
+
+From a materialist standpoint, this argument is superficial and poorly constructed. The author makes a bare assertion — that TV delivers information faster than books — without any substantive evidence, nuance, or engagement with counterarguments.
+
+Key weaknesses:
+
+- **Acceptability is questionable**: The claim oversimplifies. Books can be highly efficient sources of deep, structured knowledge, while TV often delivers fragmented, bourgeois-filtered information serving ruling-class interests.
+- **Relevance is minimal**: The argument reduces the TV vs. Books debate purely to *speed of information*, ignoring quality, critical thinking, depth, and ideological content — all crucial dimensions.
+- **Sufficiency is very low**: A single, undeveloped point does not sufficiently resolve the issue. No evidence, no acknowledgment of trade-offs.
+
+The argument reflects the kind of **superficial, consumption-driven thinking** that capitalism encourages — prioritizing speed and convenience over depth and critical consciousness. A truly reasonable argument would engage more thoroughly with the issue.
+
+**Rating: 1 (Low)**

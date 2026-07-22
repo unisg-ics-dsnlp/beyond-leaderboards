@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219206>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+Rating: 2 (Medium)
+
+While the author correctly emphasizes economic stability and the protection of industry—which aligns with the principle of subsidiarity and supporting the livelihoods of families—the argument relies too heavily on material utility and profit. From a perspective of stewardship over God's creation, the environmental cost of plastic is a moral concern that cannot be dismissed solely by economic data. The arguments are logically structured, but they lack a consideration of the common good beyond financial gain, which may lead some to find the reasoning incomplete.

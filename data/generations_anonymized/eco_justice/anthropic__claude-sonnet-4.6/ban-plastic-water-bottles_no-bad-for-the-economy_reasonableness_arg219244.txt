@@ -1,0 +1,28 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219244>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argumentation is poorly reasoned from multiple angles:
+
+- **Causal logic is weak**: Attributing 50% of global bottled water consumption purely to "European culture" shaped by historical pollution is an oversimplification. It ignores infrastructure investment, corporate marketing, regulatory failures, and economic factors.
+
+- **"Help us" is dangerously vague**: Who is "us"? This framing obscures accountability entirely — a red flag under the **polluter-pays principle**. If industrial pollution degraded water sources, the responsible parties should remediate those systems, not shift the burden onto consumers buying single-use plastic.
+
+- **Ecological contradiction**: Bottled water consumption at this scale generates massive plastic waste, contributing to ecosystem degradation — violating **ecological integrity** and **stewardship duties**. Framing it as a solution is deeply problematic.
+
+- **Shifts burdens forward**: Normalizing bottled water as a cultural fix rather than addressing root causes of water pollution shifts remediation costs to future generations — a direct violation of **intergenerational justice**.
+
+The argument lacks sufficient evidence, acceptable framing, and relevant solutions. It rationalizes a harmful status quo rather than contributing meaningfully to resolving the underlying issue.

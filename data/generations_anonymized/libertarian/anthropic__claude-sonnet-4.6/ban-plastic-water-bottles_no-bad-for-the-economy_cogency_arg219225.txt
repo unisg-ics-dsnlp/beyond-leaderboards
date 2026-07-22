@@ -1,0 +1,28 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219225>
+
+How would you rate the cogency of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Cogency: An argument should be seen as cogent if it has individually acceptable premises that are relevant to the argument’s conclusion and that are sufficient to draw the conclusion. Try to adequately weight your judgments about local acceptability, local relevance, and local sufficiency when judging about cogency—unless there is a particular dimension among these that dominates your view of an argument. Accordingly, if you identify more than one argument, try to adequately weight the cogency of each argument when judging about their "aggregate" cogency—unless there is a particular argument that dominates your view of the author’s argumentation.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From a libertarian standpoint — and purely on logical grounds — this argument is **weakly cogent**:
+
+- **Premises are questionable**: The economic argument ("helping the economy") is vague and unsupported beyond a raw consumer count. The waste statistic appears garbled ("less then 1&#xof;") and the source cited is a **Nestlé corporate website** — a directly interested party, undermining premise acceptability.
+
+- **Relevance is partial**: The recycling point is somewhat relevant to countering environmental objections, but the economic stimulus argument is weak — consumer purchases of *any* product contribute to economic activity; this doesn't specifically justify bottled water.
+
+- **Sufficiency is low**: Even if the premises were accepted, they don't sufficiently establish that a ban would be a "huge mistake." The argument never addresses the strongest case for a ban, nor does it provide robust independent evidence.
+
+The core libertarian argument against such a ban — that it **violates voluntary exchange and property rights** — is far stronger than what the author presents. The author reaches a defensible conclusion by libertarian standards, but through **poorly constructed reasoning**.
+
+**Conclusion: Low cogency** — right destination, wrong road.

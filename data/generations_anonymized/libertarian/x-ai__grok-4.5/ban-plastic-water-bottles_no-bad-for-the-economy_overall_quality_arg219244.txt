@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219244>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**1 (Low)**
+
+The argument is weak and incoherent: unsubstantiated stats, vague causal claims about "culture"/history without evidence or mechanism, and a non-sequitur conclusion ("help us") that fails to specify voluntary exchange benefits, property rights, or any coherent link. Markets for bottled water are fine as free choice, but this doesn't argue it.

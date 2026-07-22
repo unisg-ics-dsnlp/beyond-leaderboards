@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399267>
+
+How would you rate the success of the author’s argumentation in creating credibility?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Credibility: An argumentation should be seen as successful in creating credibility if it conveys arguments and other information in a way that makes the author worthy of credence, e.g., by indicating the honesty of the author or by revealing the author’s knowledge or expertise regarding the discussed issue. It should be seen as not successful if rather the opposite holds. Decide in dubio pro reo, i.e., if you have no doubt about the author’s credibility, then do not judge him or her to be not credible.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The author makes a straightforward, practical observation about language accessibility — books versus television — when immigrating to a new country. The argument is honest and grounded in common experience, which lends it basic credibility. However, it demonstrates no particular expertise or depth of knowledge on the subject. It reads as a personal, common-sense reflection rather than an informed or researched position. There is nothing dishonest about it, but neither does it reveal notable authority or scholarship.

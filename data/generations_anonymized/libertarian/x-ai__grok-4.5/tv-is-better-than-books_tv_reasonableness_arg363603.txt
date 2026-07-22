@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg363603>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+**2 (Medium)**
+
+As a matter of individual preference and voluntary media choice, the claim is acceptable and relevant—TV's channel-switching and mixed learning/entertainment options can enhance personal utility without coercing anyone. Yet it remains only moderately reasonable: it offers no comparative evidence against books' depth or focus, ignores trade-offs, and rests on pure subjectivity rather than general rules or sufficiency for a broader audience.

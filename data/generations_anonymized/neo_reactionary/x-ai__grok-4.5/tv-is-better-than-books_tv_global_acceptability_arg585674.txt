@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg585674>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+**2 (Medium)**
+
+TV's superior efficiency in delivering raw sensory data and immediate impact aligns with performance metrics over slow, competence-demanding media like books. The argument's considerations (speed, power, results) are broadly acceptable as valid inputs for any audience prioritizing outcomes, even if the populist framing undervalues elite filtering of information.

@@ -1,0 +1,26 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399270>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The argumentation presents three distinct points about television's social utility. From a materialist standpoint, the argument about employment is relevant — workers' livelihoods are a legitimate concern. The points about information access and emergency communication also carry practical weight that most audiences would find acceptable and relevant.
+
+However, the argumentation is only moderately reasonable because:
+
+- The **employment argument** is superficial — it ignores that capitalist media industries exploit creative workers while concentrating ownership among the bourgeoisie. Jobs exist under many arrangements.
+- The **information access points** are relevant but **insufficiently developed** — they assert rather than demonstrate why TV is superior or irreplaceable compared to other media.
+- The arguments lack **internal coherence** as a unified case; they feel like scattered observations rather than a structured resolution to the issue.
+
+The claims are broadly acceptable and relevant to a general audience, but their sufficiency is weak. Hence, **Medium (2)** is appropriate.

@@ -1,0 +1,27 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219206>
+
+How would you rate the acceptability of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Acceptability: A premise of an argument should be seen as acceptable if it is worthy of being believed, i.e., if you rationally think it is true or if you see no reason for not believing that it may be true. If you identify more than one premise in the comment, try to adequately weight the acceptability of each premise when judging about their "aggregate" acceptability—unless there are particular premises that dominate your view of the author’s argumentation.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From an Eco-Justice perspective, the premises here are largely **unacceptable**:
+
+- The **economic argument** is a classic case of prioritizing short-term profit over ecological integrity — exactly the kind of reasoning that perpetuates reckless exploitation of the commons.
+- The claim that **compostable bottles eliminate the detriment** is misleading and oversimplified. It ignores resource extraction, water commodification, and the systemic waste infrastructure failures that make even "compostable" alternatives problematic at scale.
+- The **safety record claim** conveniently sidesteps the massive ecological harm of plastic pollution, microplastics in waterways, and the privatization of a shared commons (water). It shifts the framing entirely away from environmental cost.
+- The economic premises essentially **shift burdens to future generations** — a direct violation of intergenerational justice — by externalizing ecological costs.
+
+The premises reflect a worldview that treats water as a commodity rather than a commons, and economic disruption as a greater harm than ecosystem degradation. That is fundamentally at odds with the precautionary principle and stewardship duty.
+
+**The premises are not worthy of belief as stated — they are selective, ecologically dishonest, and ideologically convenient for polluters.**

@@ -1,0 +1,22 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg376774>
+
+How would you rate the acceptability of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Acceptability: A premise of an argument should be seen as acceptable if it is worthy of being believed, i.e., if you rationally think it is true or if you see no reason for not believing that it may be true. If you identify more than one premise in the comment, try to adequately weight the acceptability of each premise when judging about their "aggregate" acceptability—unless there are particular premises that dominate your view of the author’s argumentation.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The premise that TV allows one to "explore the world while sitting on a couch" has partial truth — television does provide access to information and perspectives about the world. However, from a materialist standpoint, this "exploration" is **passive consumption** of content produced and controlled by bourgeois media corporations. 
+
+The premise obscures the fact that what workers are "exploring" is largely a **curated, commodified representation** of reality designed to serve ruling-class interests — not genuine understanding of the world. It also naturalizes **sedentary, individualized consumption** rather than active collective engagement with material reality.
+
+The premise is neither wholly false nor fully acceptable — hence **Medium**.

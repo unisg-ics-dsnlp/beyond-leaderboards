@@ -1,0 +1,30 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the effectiveness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Effectiveness: An argumentation should be seen as effective if it achieves to persuade you of the author’s stance on the discussed issue or—in case you already agreed with the stance before—if it corroborates your agreement with the stance. Besides the actual arguments, also take into consideration the credibility and the emotional force of the argumentation. Decide in dubio pro reo, i.e., if you have no doubt about the correctness of the author’s arguments, then do not judge him or her to be not effective—unless you explicitly think that the arguments do not support the author’s stance.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From a Communist perspective, this argument is deeply ineffective and ideologically bankrupt:
+
+- **It defends bourgeois interests explicitly** — arguing that corporations like Nestlé and Dasani losing "millions of dollars" is a *harm* is precisely the kind of capitalist logic we reject. Nestlé's profits represent **extracted surplus value** from workers and the commodification of a basic human necessity.
+
+- **The jobs argument is weak** — this is a classic capitalist fallacy. Worker employment should not be held hostage to corporate profit structures. A ban could redirect labor toward public water infrastructure, serving collective needs.
+
+- **The source (Nestlé's own corporate website)** is laughably non-credible — citing the very corporation that profits from bottled water to argue against banning it is a textbook conflict of interest.
+
+- **"Millions of Americans use it"** — popularity does not equal justification. Capitalism normalizes exploitation through mass consumption.
+
+Even setting aside my ideological lens, the argument is **circular, poorly sourced, and emotionally weak**. It fails to persuade on basic logical grounds, let alone from a working-class perspective.
+
+**1 (Low)**

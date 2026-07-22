@@ -1,0 +1,27 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219245>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From an eco-justice perspective, this argumentation is weak for several reasons:
+
+- **It's purely descriptive** — it presents industry growth figures without any normative analysis or argument about what *should* be done
+- **No ecological framing** — there's zero engagement with the commons dimension of water, aquifer depletion, plastic waste, or corporate enclosure of a shared resource
+- **Missing moral weight** — raw revenue figures don't constitute an argument; they're data points without a thesis
+- **No precautionary or stewardship lens** — the numbers could be used to argue *for or against* bottled water expansion, making the "argument" directionless
+
+The statistics themselves could be powerful evidence in a genuine eco-justice argument about the **commodification of water commons** and the **burden shifted to future generations** through plastic pollution and groundwater extraction — but as presented, they do none of that work.
+
+**It's data, not argumentation.**

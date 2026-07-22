@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219244>
+
+How would you rate the appropriateness of the style of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Appropriateness: The style of an argumentation should be seen as appropriate if the used language supports the creation of credibility and emotions as well as if it is proportional to the discussed issue. The choice of words and the grammatical complexity should, in your view, appear suitable for the discussed issue within the given setting (online debate forum on a given issue), matching with how credibility and emotions are created via the content of the argumentation.
+
+----------------------------------
+
+Rating: 1 (Low)
+
+The argumentation is fragmented and lacks the logical rigor required to establish credibility. It fails to connect the historical context of the Industrial Revolution to current consumption patterns with any coherent moral or rational thread. Furthermore, the concluding sentence—"The water bottles they buy help us"—is vague and lacks the substance necessary to address the common good or the responsibility of stewardship over nature. It is an insufficient style for a meaningful debate.

@@ -1,0 +1,28 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219244>
+
+How would you rate the cogency of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Cogency: An argument should be seen as cogent if it has individually acceptable premises that are relevant to the argument’s conclusion and that are sufficient to draw the conclusion. Try to adequately weight your judgments about local acceptability, local relevance, and local sufficiency when judging about cogency—unless there is a particular dimension among these that dominates your view of an argument. Accordingly, if you identify more than one argument, try to adequately weight the cogency of each argument when judging about their "aggregate" cogency—unless there is a particular argument that dominates your view of the author’s argumentation.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argument fails on multiple cogency dimensions:
+
+- **Acceptability**: The premise linking European bottled water consumption to Industrial Revolution-era pollution is dubious. Western Europe today has some of the world's most rigorously regulated tap water systems — a product of technocratic environmental governance, not persistent industrial contamination.
+
+- **Relevance**: Even if historical pollution were accepted as a premise, its relevance to *current* consumption patterns is weak without establishing a causal chain.
+
+- **Sufficiency**: The conclusion ("the water bottles they buy help us") is vague and unsupported. Help *whom*? In what way? The argument provides no sufficient logical bridge.
+
+From my perspective, this is precisely the kind of poorly reasoned popular narrative that emerges when analysis is driven by cultural storytelling rather than data and expert scrutiny. A competent technocratic analyst would demand empirical evidence before accepting such claims.
+
+**Cogency: 1 (Low)**

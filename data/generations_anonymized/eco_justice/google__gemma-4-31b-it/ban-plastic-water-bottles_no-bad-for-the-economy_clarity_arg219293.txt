@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the clarity of the style of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Clarity: The style of an argumentation should be seen as clear if it uses gramatically correct and widely unambiguous language as well as if it avoids unnecessary complexity and deviation from the discussed issue. The used language should make it easy for you to understand without doubts what the author argues for and how.
+
+----------------------------------
+
+Rating: 1 (Low)
+
+The author's argumentation is fundamentally flawed and unclear. Beyond the grammatical errors, the logic is incoherent: claiming that 86-88% is "more than half" is a redundant simplification that fails to address the systemic harm of plastic production. From an eco-justice perspective, focusing on a percentage of recycling ignores the ecological integrity of our oceans and the failure of the polluter-pays principle. The argument is a distraction from the urgent need to eliminate single-use plastics entirely.

@@ -1,0 +1,30 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the effectiveness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Effectiveness: An argumentation should be seen as effective if it achieves to persuade you of the author’s stance on the discussed issue or—in case you already agreed with the stance before—if it corroborates your agreement with the stance. Besides the actual arguments, also take into consideration the credibility and the emotional force of the argumentation. Decide in dubio pro reo, i.e., if you have no doubt about the correctness of the author’s arguments, then do not judge him or her to be not effective—unless you explicitly think that the arguments do not support the author’s stance.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From a materialist analytical standpoint, this argument is deeply ineffective for several reasons:
+
+1. **Internal contradiction**: The author cites a source suggesting 23% of Americans *don't* recycle, yet claims 86-88% recycle their bottle waters — these figures are inconsistent and the source appears to contradict the argument itself.
+
+2. **Statistical misuse**: Even if the 86-88% figure were accurate, it applies narrowly to *bottle water* recycling, not recycling broadly — yet the author generalizes it to defend overall recycling behavior.
+
+3. **"More than half" is a low bar**: Framing 86-88% as noteworthy by saying "that is more than half" is rhetorically weak and suggests poor numerical reasoning.
+
+4. **Defensive tone undermines credibility**: The dismissive "stop complaining" framing weakens persuasive force rather than strengthening it.
+
+Much like how the bourgeoisie uses selective statistics to obscure systemic failures, this argument uses cherry-picked data to deflect legitimate criticism of a structural environmental problem rooted in capitalist overproduction and commodity culture.
+
+**The argumentation fails on both logical and credibility grounds.**

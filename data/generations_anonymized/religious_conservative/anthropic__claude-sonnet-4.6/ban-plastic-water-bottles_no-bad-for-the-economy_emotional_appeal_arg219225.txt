@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219225>
+
+How would you rate the success of the author’s argumentation in making an emotional appeal?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Emotional Appeal: An argumentation should be seen as successful in making an emotional appeal if it conveys arguments and other information in a way that creates emotions, which make the target audience more open to the author’s arguments. It should be seen as not successful if rather the opposite holds. Notice that you should not judge about the persuasive effect of the author’s argumentation, but you should decide whether the argumentation makes the target audience willing/unwilling to be persuaded by the author (or to agree/disagree with the author) in principle—or neither.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argument makes a weak emotional appeal. While it briefly invokes economic hardship ("recession") and hints at collective responsibility ("every bit of help counts"), these gestures are underdeveloped and feel incidental rather than intentional. The argument quickly retreats into statistics and data, which are rational rather than emotional tools. There is no compelling human story, no vivid imagery, and no deeper appeal to shared values or community well-being that would genuinely move an audience emotionally. The emotional potential is there but largely squandered.

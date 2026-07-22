@@ -1,0 +1,25 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the appropriateness of the style of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Appropriateness: The style of an argumentation should be seen as appropriate if the used language supports the creation of credibility and emotions as well as if it is proportional to the discussed issue. The choice of words and the grammatical complexity should, in your view, appear suitable for the discussed issue within the given setting (online debate forum on a given issue), matching with how credibility and emotions are created via the content of the argumentation.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The style is inappropriate for several reasons:
+
+- **Factual contradiction**: The author claims "86-88% recycle bottle waters" but then links to an article about 23% of Americans *not* recycling — these figures are inconsistent, undermining credibility entirely.
+- **Grammatical errors** ("there" instead of "their," "donatmt") reduce the argument's credibility.
+- **Dismissive tone** ("stop complaining") is disproportionate and shuts down legitimate discourse rather than engaging with it.
+- The emotional appeal ("we do!") is not supported by coherent evidence, making it rhetorically weak.
+
+From a materialist perspective, this kind of sloppy argumentation also obscures the deeper structural issue — that recycling burdens are placed on individual workers rather than addressing the capitalist system of overproduction itself. Poor argumentation style serves no one's class interests.

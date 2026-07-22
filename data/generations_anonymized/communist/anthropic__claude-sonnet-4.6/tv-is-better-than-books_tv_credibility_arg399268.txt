@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399268>
+
+How would you rate the success of the author’s argumentation in creating credibility?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Credibility: An argumentation should be seen as successful in creating credibility if it conveys arguments and other information in a way that makes the author worthy of credence, e.g., by indicating the honesty of the author or by revealing the author’s knowledge or expertise regarding the discussed issue. It should be seen as not successful if rather the opposite holds. Decide in dubio pro reo, i.e., if you have no doubt about the author’s credibility, then do not judge him or her to be not credible.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The argument presents a straightforward factual claim about a product's functionality. The author demonstrates basic knowledge of the app and its capabilities, which lends some credibility. However, the statement is purely descriptive with no deeper expertise, sourcing, or evidence provided. It reads as a simple consumer observation rather than an informed analysis.
+
+From my perspective, this is merely an advertisement for a commodity produced under capitalist media ownership — but judging purely on credibility grounds, it is neither particularly credible nor actively undermining trust. Hence, **medium**.

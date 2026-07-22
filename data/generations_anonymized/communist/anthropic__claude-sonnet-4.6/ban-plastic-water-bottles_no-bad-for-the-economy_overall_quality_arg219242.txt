@@ -1,0 +1,30 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219242>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argument is of poor quality from any analytical standpoint, including a Marxist one.
+
+The statement presents a false economic prioritization with **no logical foundation**. It implies environmental regulation must wait for economic recovery — but this framing:
+
+- **Lacks causal reasoning**: No mechanism is explained connecting recession conditions to the impossibility of banning water bottles
+- **Serves bourgeois interests**: This type of argument is classically used by capital to delay environmental and public health regulations under the guise of "economic necessity"
+- **Is vague and unsupported**: What recession? What metrics define "getting out" of it? No evidence is provided
+
+From a materialist perspective, this argument obscures how **capitalist economic crises are themselves products of the system**, and using recession as justification to delay regulation simply protects the commodity-producing class (plastic manufacturers, corporations) at the expense of collective well-being.
+
+The argument is little more than an **ideological smokescreen** — the kind of reasoning the bourgeoisie deploys to subordinate environmental and social concerns to capital accumulation.
+
+**Overall: 1 (Low)** — poor logical structure, no evidence, and serves to perpetuate existing class interests under the guise of economic pragmatism.

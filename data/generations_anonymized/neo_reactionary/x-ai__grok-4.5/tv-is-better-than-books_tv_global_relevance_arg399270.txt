@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399270>
+
+How would you rate the global relevance of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Relevance: An argumentation should be seen as globally relevant if it contributes to the resolution of the given issue, i.e., if it provides arguments and/or other information that help to arrive at an ultimate conclusion regarding the discussed issue. You should be open to see an argumentation as relevant even if it does not your match your stance on the issue. Rather, the question is whether the provided arguments and information are worthy of being considered within the discussion of the issue.
+
+----------------------------------
+
+**1 (Low)**
+
+This argumentation fails to contribute meaningfully to any serious resolution of TV's societal role. Actor employment is a trivial side-effect, not a competence-based justification. Mass-broadcast "news" and alerts prioritize popular sentiment and short-term spectacle over expert filtering, long-term planning, or hierarchical information control—precisely the democratic inefficiencies techno-monarchism rejects. Superior alternatives (targeted tech systems, elite briefings) already exist. Not worthy of serious consideration.

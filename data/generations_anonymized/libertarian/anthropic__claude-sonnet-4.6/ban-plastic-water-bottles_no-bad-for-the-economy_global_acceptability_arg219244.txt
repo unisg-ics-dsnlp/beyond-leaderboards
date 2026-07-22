@@ -1,0 +1,25 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219244>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argument has significant acceptability problems regardless of ideological lens:
+
+- The claim that Western Europe consumes ~50% of global bottled water is dubious and unsupported
+- The causal link between Industrial Revolution pollution and *current* bottled water consumption is asserted without evidence
+- "The water bottles they buy help us" is vague and unexplained — help *whom*, and *how*?
+- The reasoning is incomplete and logically loose, making it difficult for any audience to accept the argumentation as well-stated
+
+The argument lacks the basic evidentiary and logical coherence that would make it broadly acceptable even to a sympathetic audience.

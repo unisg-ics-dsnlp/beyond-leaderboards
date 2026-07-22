@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the global sufficiency of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Sufficiency: An argumentation should be seen as globally sufficient if it adequately rebuts those counter-arguments to its conclusion that can be anticipated. Notice that it is not generally clear which and how many counter-arguments can be anticipated. There may be cases where it is infeasible to rebut all such objections. Please judge about global sufficiency according to whether all main objections of an argumentation that you see are rebutted.
+
+----------------------------------
+
+**1 (Low)**
+
+This populist claim fails global sufficiency entirely. It asserts a dubious statistic (mismatched to its own linked source claiming only ~77% participation) without addressing core objections: data unreliability, the inefficiency of mass voluntary recycling versus technocratic waste systems, broader environmental metrics beyond bottles, or whether "more than half" even constitutes competence. No anticipation or rebuttal of expert critiques on systemic performance—mere democratic sentiment dressed as fact. Authority rests on results and expertise, not averages of the uninformed.

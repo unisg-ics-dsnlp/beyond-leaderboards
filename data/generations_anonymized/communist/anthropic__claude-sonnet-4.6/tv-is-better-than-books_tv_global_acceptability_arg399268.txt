@@ -1,0 +1,25 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399268>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The argument is a straightforward factual claim about a streaming service's accessibility feature. From a purely logical standpoint, it is coherent and relevant — if the goal is to watch TV flexibly, the app serves that purpose.
+
+However, it is not **universally acceptable** to the full expected audience because:
+
+- It **presupposes ownership of an iPad**, excluding those who cannot afford such devices — a class-based limitation the author ignores.
+- It **presupposes a Foxtel subscription**, which is a paid service, further narrowing the audience to those with disposable income.
+
+The argument functions well for its **intended bourgeois consumer audience**, but fails to acknowledge the material barriers that exclude a significant portion of the working class from this "solution." It is not globally acceptable across all potential viewers of TV content.

@@ -1,0 +1,24 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg479199>
+
+How would you rate the success of the author’s argumentation in creating credibility?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Credibility: An argumentation should be seen as successful in creating credibility if it conveys arguments and other information in a way that makes the author worthy of credence, e.g., by indicating the honesty of the author or by revealing the author’s knowledge or expertise regarding the discussed issue. It should be seen as not successful if rather the opposite holds. Decide in dubio pro reo, i.e., if you have no doubt about the author’s credibility, then do not judge him or her to be not credible.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The author's credibility is undermined by several weaknesses:
+
+- **Overgeneralization**: Claiming TV information is "much more accurate" than books is a sweeping assertion with no supporting evidence or sourcing.
+- **Logical gaps**: The accessibility argument (for those who cannot see or hear) actually cuts *against* TV in some respects — those who cannot see still struggle with visual TV content.
+- **No expertise signaled**: The author demonstrates no domain knowledge, cites no sources, and offers no nuanced understanding of the topic.
+
+The argument reads as casual opinion rather than informed reasoning, which significantly undermines credibility.

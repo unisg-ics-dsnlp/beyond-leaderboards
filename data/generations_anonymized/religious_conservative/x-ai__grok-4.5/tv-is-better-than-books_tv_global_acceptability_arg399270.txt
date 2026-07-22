@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399270>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+**Global Acceptability: 1 (Low)**
+
+These claims treat TV as an unalloyed good while ignoring its frequent assault on moral order, family cohesion, and the sanctity of time better spent in prayer, reading Scripture, or local community. Actors find honest work in theater or film without the medium’s constant stream of vice; newspapers, radio, and word-of-mouth have long conveyed news and warnings under natural law and subsidiarity. The hyperbolic, one-sided phrasing would not be accepted as serious consideration by any audience that values tradition and virtue over convenience.

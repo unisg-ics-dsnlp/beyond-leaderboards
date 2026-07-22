@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219259>
+
+How would you rate the success of the author’s argumentation in making an emotional appeal?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Emotional Appeal: An argumentation should be seen as successful in making an emotional appeal if it conveys arguments and other information in a way that creates emotions, which make the target audience more open to the author’s arguments. It should be seen as not successful if rather the opposite holds. Notice that you should not judge about the persuasive effect of the author’s argumentation, but you should decide whether the argumentation makes the target audience willing/unwilling to be persuaded by the author (or to agree/disagree with the author) in principle—or neither.
+
+----------------------------------
+
+**1 (Low)**
+
+This is dry technocratic efficiency talk—distribution logistics, contamination risk, bulk vs. unit packaging. Zero emotional charge. No fear, pity, urgency, or moral heat that would open an audience; pure competence calculus. From a hierarchical, results-first view, that is a feature, not a bug: emotion is noise that democracy weaponizes. The argument succeeds on merit, fails on pathos.

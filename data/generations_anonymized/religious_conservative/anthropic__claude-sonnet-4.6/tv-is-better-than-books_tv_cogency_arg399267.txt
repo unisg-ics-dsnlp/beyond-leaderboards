@@ -1,0 +1,22 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399267>
+
+How would you rate the cogency of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Cogency: An argument should be seen as cogent if it has individually acceptable premises that are relevant to the argument’s conclusion and that are sufficient to draw the conclusion. Try to adequately weight your judgments about local acceptability, local relevance, and local sufficiency when judging about cogency—unless there is a particular dimension among these that dominates your view of an argument. Accordingly, if you identify more than one argument, try to adequately weight the cogency of each argument when judging about their "aggregate" cogency—unless there is a particular argument that dominates your view of the author’s argumentation.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The argument makes a reasonable practical observation — that television offers multilingual content and pronunciation modeling, which books in a single language cannot provide for a newcomer. The premises are generally acceptable and relevant.
+
+However, the argument lacks **sufficiency**. It doesn't clearly state its conclusion — is it arguing TV is *better* than books for immigrants? That TV is *necessary*? The implicit claim is underdeveloped. From my perspective, one might also note that **community, parish, and local institutions** are far more effective for true integration than passive media consumption — a point the argument entirely overlooks.
+
+The logic is coherent but incomplete, earning a **medium** cogency rating.

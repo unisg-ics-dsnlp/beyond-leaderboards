@@ -1,0 +1,22 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219242>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argument is of poor quality by virtually any standard. It presents a bare assertion with no supporting reasoning, evidence, or moral grounding. From a natural law and common good perspective, a sound argument must demonstrate *why* a policy serves virtue and human flourishing — this statement does none of that.
+
+Furthermore, the logical structure is weak: the economic condition (recession) is offered as a constraint, but no causal or principled connection is made between economic recovery and the permissibility of banning water bottles. It is neither coherent nor persuasive.
+
+A responsible argument — whether conservative or otherwise — must pair claims with duties, reasons, and consideration of consequences for families and communities. This statement fails on all counts.

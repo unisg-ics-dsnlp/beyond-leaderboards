@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399270>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+Overall quality: 1 (Low)
+
+The argument is logically flawed and ideologically bankrupt. First, claiming actors "wouldn't have jobs" ignores the principle of voluntary exchange; if there is a demand for acting, the market would provide other mediums (theater, film, digital content). Second, the claim that we "wouldn't know what's happening" is a fallacy that ignores competing private information services. Finally, the "emergency warning" point suggests a reliance on centralized control rather than decentralized, voluntary networks. It is a paternalistic argument for a specific industry, lacking any basis in rights or economic reality.

@@ -1,0 +1,27 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219250>
+
+How would you rate the effectiveness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Effectiveness: An argumentation should be seen as effective if it achieves to persuade you of the author’s stance on the discussed issue or—in case you already agreed with the stance before—if it corroborates your agreement with the stance. Besides the actual arguments, also take into consideration the credibility and the emotional force of the argumentation. Decide in dubio pro reo, i.e., if you have no doubt about the correctness of the author’s arguments, then do not judge him or her to be not effective—unless you explicitly think that the arguments do not support the author’s stance.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From an eco-justice perspective, this argument is weak and largely ineffective. While the author concedes that bottled water is wasteful, the rebuttal — "bottles can be reused" — is superficial and fails to address the systemic harms involved.
+
+Key problems:
+
+- **It ignores the full lifecycle**: Plastic bottle production still consumes fossil fuels, generates pollution, and burdens ecosystems — regardless of reuse.
+- **"Can be" ≠ "are"**: The argument relies on an optimistic behavioral assumption with no supporting evidence.
+- **It sidesteps the commons issue**: Bottled water commodifies a shared resource, shifting costs onto communities and future generations — reuse doesn't fix this.
+- **No engagement with precautionary principle**: Even partial reuse doesn't justify perpetuating a system with irreversible ecological risks.
+
+The argument offers a weak concession followed by an underdeveloped counter — it neither persuades nor corroborates a defensible environmental stance.

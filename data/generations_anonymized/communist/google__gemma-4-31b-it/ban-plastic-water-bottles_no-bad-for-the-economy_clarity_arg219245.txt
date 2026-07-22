@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219245>
+
+How would you rate the clarity of the style of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Clarity: The style of an argumentation should be seen as clear if it uses gramatically correct and widely unambiguous language as well as if it avoids unnecessary complexity and deviation from the discussed issue. The used language should make it easy for you to understand without doubts what the author argues for and how.
+
+----------------------------------
+
+Rating: 2 (Medium)
+
+While the language is grammatically correct and the statistics are presented simply, the author fails to provide a clear thesis. They present raw data on the growth of the bottled water industry without explicitly stating an argument. From a materialist perspective, they are merely describing the expansion of capitalist accumulation and the commodification of a basic human necessity, but they leave the ideological conclusion—the exploitation of the masses for private profit—unspoken.

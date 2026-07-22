@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+**1 (Low)**
+
+This argumentation fails global acceptability: the claimed 86-88% bottle recycling rate is unsupported (and contradicted) by the linked source on overall non-recycling habits, while the dismissive framing and errors ignore real ecological harm from plastic production, leakage, and incomplete recovery. From an eco-justice view, such claims cannot be accepted as valid considerations—they downplay stewardship duties, planetary boundaries, and intergenerational burdens of single-use plastics rather than addressing root overconsumption.

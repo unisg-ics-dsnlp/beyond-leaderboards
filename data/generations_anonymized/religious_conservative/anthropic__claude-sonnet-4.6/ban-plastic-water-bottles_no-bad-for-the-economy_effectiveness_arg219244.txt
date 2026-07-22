@@ -1,0 +1,25 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219244>
+
+How would you rate the effectiveness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Effectiveness: An argumentation should be seen as effective if it achieves to persuade you of the author’s stance on the discussed issue or—in case you already agreed with the stance before—if it corroborates your agreement with the stance. Besides the actual arguments, also take into consideration the credibility and the emotional force of the argumentation. Decide in dubio pro reo, i.e., if you have no doubt about the correctness of the author’s arguments, then do not judge him or her to be not effective—unless you explicitly think that the arguments do not support the author’s stance.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argumentation is weak and ineffective for several reasons:
+
+- The claim that Western Europe consumes ~50% of the world's bottled water is presented without a credible source, undermining its foundation.
+- The causal link between historical industrial pollution and *current* bottled water consumption is asserted but not demonstrated — many European nations have highly regulated, clean tap water today.
+- The concluding phrase **"The water bottles they buy help us"** is vague and abrupt — it is entirely unclear *who* is helped and *how*, leaving the core argument unresolved.
+- The reasoning relies on "many claim," which is an appeal to unnamed authority, further weakening credibility.
+
+The argument fails to persuade because it neither substantiates its premises nor clearly articulates its conclusion.

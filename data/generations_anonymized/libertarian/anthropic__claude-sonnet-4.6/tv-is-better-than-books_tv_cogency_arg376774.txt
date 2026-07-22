@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg376774>
+
+How would you rate the cogency of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Cogency: An argument should be seen as cogent if it has individually acceptable premises that are relevant to the argument’s conclusion and that are sufficient to draw the conclusion. Try to adequately weight your judgments about local acceptability, local relevance, and local sufficiency when judging about cogency—unless there is a particular dimension among these that dominates your view of an argument. Accordingly, if you identify more than one argument, try to adequately weight the cogency of each argument when judging about their "aggregate" cogency—unless there is a particular argument that dominates your view of the author’s argumentation.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argument is poorly cogent. The premise — that TV lets you "explore the world from a couch" — is **not sufficiently established** nor clearly relevant to a broader conclusion (better than what? for whom? by what standard?).
+
+From a libertarian lens, "better" is inherently **subjective** — individuals are the best judges of their own preferences. The argument makes a sweeping claim without grounding it in any acceptable standard of comparison. The premise is weak, the relevance is unclear, and it's wholly insufficient to support the conclusion.

@@ -1,0 +1,30 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+Here's why this argument fails on reasonableness:
+
+- **Factual error**: The author claims 86-88% recycling rates, but their own linked source says roughly **23% of Americans *don't* recycle** — meaning about 77% do *something*, not 86-88% of bottles specifically. The numbers are misrepresented.
+
+- **Self-contradiction**: The source the author cites actually **undermines** their own claim. That's a basic credibility problem regardless of ideology.
+
+- **Logical leap**: Even if the statistic were accurate, "more than half" is a low bar for declaring the issue resolved. It doesn't address whether current rates are *sufficient*.
+
+- **Dismissiveness**: Telling critics to "stop complaining" shuts down legitimate debate rather than resolving it — that's not how you win an argument.
+
+From my worldview, I respect when ordinary Americans push back against elite environmentalist lecturing — that instinct is valid. But **you need accurate facts to make that case effectively**. Weak arguments with bad numbers only hand ammunition to the other side. If you're going to fight back against the narrative, fight smart.
+
+**Bottom line: Good instinct, poor execution.**

@@ -1,0 +1,28 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219245>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From a materialist standpoint, this passage is little more than a **recitation of industry statistics** without any analytical framework. It tells us the bottled water industry generates billions in revenue, but asks nothing critical:
+
+- **Who captures that $35 billion?** A handful of bourgeois corporations (Nestlé, Coca-Cola, PepsiCo) extracting surplus value from workers *and* commodifying a basic human necessity.
+- **No argument is actually made.** The author presents numbers but draws no conclusion, makes no claim, and advances no thesis.
+- The statistics are also **internally inconsistent** — figures jump between 2001 and 2002 without clear purpose.
+
+The passage mistakes **data accumulation for argumentation**. Merely citing industry revenue figures is not an argument — it is advertising copy dressed as analysis. A genuine argument would interrogate *who owns* these means of production, *who profits*, and *who is denied access* to water because it has been privatized and commodified.
+
+Water is a commons. Its transformation into a $35 billion commodity represents a profound act of **enclosure and exploitation** — but the author never even approaches this conclusion.
+
+**The argumentation quality is low.**

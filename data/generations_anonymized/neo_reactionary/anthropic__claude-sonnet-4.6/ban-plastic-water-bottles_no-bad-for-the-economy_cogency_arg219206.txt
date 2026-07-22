@@ -1,0 +1,31 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219206>
+
+How would you rate the cogency of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Cogency: An argument should be seen as cogent if it has individually acceptable premises that are relevant to the argument’s conclusion and that are sufficient to draw the conclusion. Try to adequately weight your judgments about local acceptability, local relevance, and local sufficiency when judging about cogency—unless there is a particular dimension among these that dominates your view of an argument. Accordingly, if you identify more than one argument, try to adequately weight the cogency of each argument when judging about their "aggregate" cogency—unless there is a particular argument that dominates your view of the author’s argumentation.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+From a techno-monarchist perspective, the argument presents *multiple premises* with varying quality:
+
+**Strengths:**
+- The economic argument (billions in revenue, supply chain dependencies) is factually grounded and relevant — competent administrators *do* weigh economic disruption seriously
+- The safety/traceability claim is the strongest premise: bottled water's superior contamination tracking aligns with technocratic values of *measurable, accountable systems* over bureaucratic municipal infrastructure
+
+**Weaknesses:**
+- The "compostable bottles" point is underdeveloped — it introduces a solution without sufficient evidence of market viability or scalability, making it logically weak
+- The economic argument, while relevant, doesn't *sufficiently* address the core question of whether a ban is justified; it merely notes costs without weighing countervailing benefits
+- The premises collectively gesture toward a conclusion but don't *decisively* establish it
+
+**Verdict:** The argument has acceptable premises and reasonable relevance, but the sufficiency is lacking — particularly the compostable bottle claim, which reads as an afterthought rather than a substantiated point. A competent technocratic analyst would demand stronger empirical grounding before accepting this as conclusive.
+
+**Medium cogency** — functional but not rigorous.

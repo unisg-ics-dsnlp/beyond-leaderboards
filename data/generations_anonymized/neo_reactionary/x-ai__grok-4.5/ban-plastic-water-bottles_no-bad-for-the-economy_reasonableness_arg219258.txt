@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+**1 (Low)**
+
+This argumentation is weak and insufficient: it relies on vague hyperbole ("hundreds of jobs," "millions of dollars," "hurt severely") without data, scale, or long-term analysis, while treating corporate losses as self-evidently catastrophic. From a techno-monarchist view, competent elites and corporate-state hybrids deserve defense on efficiency and results grounds—not via populist-sounding job counts or circular appeals to consumer volume. It fails global sufficiency and expert standards; better arguments would quantify net economic/competence impacts under hierarchical, data-driven governance rather than this low-rigor defense.

@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219225>
+
+How would you rate the global sufficiency of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Sufficiency: An argumentation should be seen as globally sufficient if it adequately rebuts those counter-arguments to its conclusion that can be anticipated. Notice that it is not generally clear which and how many counter-arguments can be anticipated. There may be cases where it is infeasible to rebut all such objections. Please judge about global sufficiency according to whether all main objections of an argumentation that you see are rebutted.
+
+----------------------------------
+
+**Global Sufficiency: 1 (Low)**
+
+This argument fails global sufficiency. It does not rebut the core anticipated objections rooted in ecological integrity, planetary boundaries, and intergenerational justice: plastic's persistent pollution of oceans and commons, microplastic harm to biodiversity, fossil-fuel extraction and emissions from production/transport, and the shifting of irreversible cleanup burdens onto future generations. Superficial claims about "less than 1% of waste," recyclability rates (often overstated and incomplete), and short-term economic activity ignore the precautionary principle, polluter-pays duty, and true externalized costs. Recycling does not erase upstream ecological damage or justify reckless exploitation of shared resources. From a stewardship perspective, these unaddressed harms render the case inadequate.

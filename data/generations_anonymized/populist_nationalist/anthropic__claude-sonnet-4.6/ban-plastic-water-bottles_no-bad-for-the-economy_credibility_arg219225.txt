@@ -1,0 +1,24 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219225>
+
+How would you rate the success of the author’s argumentation in creating credibility?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Credibility: An argumentation should be seen as successful in creating credibility if it conveys arguments and other information in a way that makes the author worthy of credence, e.g., by indicating the honesty of the author or by revealing the author’s knowledge or expertise regarding the discussed issue. It should be seen as not successful if rather the opposite holds. Decide in dubio pro reo, i.e., if you have no doubt about the author’s credibility, then do not judge him or her to be not credible.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The author's credibility takes a hit for several reasons:
+
+- **Factual errors** are glaring — "less than 1% of the world's wastes" contains a formatting error, and the statistic about PET bottles being recycled appears garbled ("no the most recycled").
+- **The source cited** is from **Nestlé Waters' own corporate website** — a direct financial stakeholder in bottled water sales. That's not an independent, trustworthy source; it's a company defending its own product. Real people see through that kind of elite corporate spin.
+- **Grammar and spelling issues** throughout undermine the author's perceived expertise and care.
+
+While the author shows some effort to back up claims with data, the reliance on a biased corporate source and sloppy presentation significantly damage credibility.

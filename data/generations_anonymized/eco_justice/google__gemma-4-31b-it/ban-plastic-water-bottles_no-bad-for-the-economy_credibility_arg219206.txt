@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219206>
+
+How would you rate the success of the author’s argumentation in creating credibility?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Credibility: An argumentation should be seen as successful in creating credibility if it conveys arguments and other information in a way that makes the author worthy of credence, e.g., by indicating the honesty of the author or by revealing the author’s knowledge or expertise regarding the discussed issue. It should be seen as not successful if rather the opposite holds. Decide in dubio pro reo, i.e., if you have no doubt about the author’s credibility, then do not judge him or her to be not credible.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The author fails to establish genuine credibility because they prioritize short-term economic gain over ecological integrity. By framing "big business" as a justification for plastic pollution, the author reveals a profound ignorance of the precautionary principle and the systemic harm caused by the exploitation of the commons. Furthermore, suggesting "compostable" alternatives as a panacea without addressing the root of over-consumption is a superficial distraction from our stewardship duty. Their narrow focus on market stability over planetary boundaries makes them unworthy of credence.

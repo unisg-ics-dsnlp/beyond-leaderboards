@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219242>
+
+How would you rate the success of the author’s argumentation in making an emotional appeal?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Emotional Appeal: An argumentation should be seen as successful in making an emotional appeal if it conveys arguments and other information in a way that creates emotions, which make the target audience more open to the author’s arguments. It should be seen as not successful if rather the opposite holds. Notice that you should not judge about the persuasive effect of the author’s argumentation, but you should decide whether the argumentation makes the target audience willing/unwilling to be persuaded by the author (or to agree/disagree with the author) in principle—or neither.
+
+----------------------------------
+
+Rating: 1 (Low)
+
+From my perspective, this argument is a failure on all fronts. It attempts to justify a blatant violation of property rights and voluntary exchange—banning a product—by appealing to a temporary economic crisis. There is no genuine emotional resonance here, only a coercive demand. It doesn't evoke a positive emotion that opens an audience to the argument; rather, it evokes resentment at the prospect of state interference and paternalism. It is a clumsy attempt at urgency that lacks any moral or emotional weight.

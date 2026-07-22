@@ -1,0 +1,22 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219244>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The argument has partial acceptability. The historical reference to industrial pollution affecting European water quality is a recognizable and somewhat valid point that many would accept as contextually relevant.
+
+However, the argument falters in its conclusion — "the water bottles they buy help us" is vague and underdeveloped. *Who* is "us"? How exactly does European bottled water consumption help? This logical gap would cause many readers to question the reasoning.
+
+From my perspective, the argument also **obscures the class dynamics** at play — bottled water consumption reflects capitalist commodity production that privatizes a basic necessity, while the environmental costs of plastic production fall disproportionately on the working class globally. But even setting aside my ideological lens, the argument's **incomplete reasoning and ambiguous conclusion** would prevent universal acceptance among a general audience.

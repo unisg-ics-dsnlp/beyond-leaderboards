@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219244>
+
+How would you rate the relevance of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Relevance: A premise of an argument should be seen as relevant if it contributes to the acceptance or rejection of the argument’s conclusion, i.e., if you think it is worthy of being considered as a reason, evidence, or similar regarding the conclusion. If you identify more than one premise in the comment, try to adequately weight the relevance of each premise when judging about their "aggregate" relevance—unless there are particular premises that dominate your view of the author’s argumentation. You should be open to see a premise as relevant even if it does not match your own stance on the issue.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The premises are irrelevant because they attempt to explain consumption through "culture" and historical pollution, ignoring the material reality of the situation. The consumption of bottled water is not a cultural quirk, but a result of the bourgeoisie privatizing a basic human necessity for profit. The claim that these purchases "help us" is a classic capitalist deception designed to mask the exploitation of global resources and the alienation of the masses from their own environment. The economic driver is profit, not culture.

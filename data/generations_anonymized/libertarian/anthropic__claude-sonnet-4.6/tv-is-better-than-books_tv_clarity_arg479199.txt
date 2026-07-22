@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg479199>
+
+How would you rate the clarity of the style of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Clarity: The style of an argumentation should be seen as clear if it uses gramatically correct and widely unambiguous language as well as if it avoids unnecessary complexity and deviation from the discussed issue. The used language should make it easy for you to understand without doubts what the author argues for and how.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The argument is generally readable and the author's position is understandable — TV is preferred over books. However, the clarity is undermined by some imprecision. For instance, "easy to use for people who cannot see or hear" is contradictory and ambiguous (TV relies heavily on both senses). The claim about TV information being "more accurate" is asserted without clear reasoning. The writing is functional but lacks precision.

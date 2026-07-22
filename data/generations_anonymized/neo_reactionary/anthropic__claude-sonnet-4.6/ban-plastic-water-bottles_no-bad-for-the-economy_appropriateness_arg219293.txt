@@ -1,0 +1,25 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the appropriateness of the style of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Appropriateness: The style of an argumentation should be seen as appropriate if the used language supports the creation of credibility and emotions as well as if it is proportional to the discussed issue. The choice of words and the grammatical complexity should, in your view, appear suitable for the discussed issue within the given setting (online debate forum on a given issue), matching with how credibility and emotions are created via the content of the argumentation.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argumentation style is deeply flawed from multiple angles:
+
+- **Factual incoherence**: The author cites a statistic about "86-88% recycling" but links to an article about *23% of Americans not recycling* — a fundamental contradiction that undermines all credibility.
+- **Grammatical errors** ("there bottle waters," "donatmt") signal low competence, which from my perspective is particularly damning — authority and persuasion require demonstrated intellectual rigor.
+- **Emotional, dismissive tone** ("stop complaining") substitutes populist bluster for reasoned argument.
+- **Misrepresentation of data** is the cardinal sin here — a hallmark of the uninformed popular discourse that expert governance exists to filter out.
+
+This is precisely the kind of low-quality argumentation that illustrates why decisions shouldn't be driven by popular sentiment.

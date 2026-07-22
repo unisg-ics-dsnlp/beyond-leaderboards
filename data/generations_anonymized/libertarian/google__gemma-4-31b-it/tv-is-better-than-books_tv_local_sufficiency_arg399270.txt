@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399270>
+
+How would you rate the sufficiency of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Sufficiency: The premises of an argument should be seen as sufficient if, together, they provide enough support to make it rational to draw the argument’s conclusion. If you identify more than one conclusion in the comment, try to adequately weight the sufficiency of the premises for each conclusion when judging about their "aggregate" sufficiency—unless there are particular premises or conclusions that dominate your view of the author’s argumentation. Notice that you may see premises as sufficient even though you do not personally accept all of them, i.e., sufficiency does not presuppose acceptability.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The premises are insufficient. The author fails to provide a clear conclusion, but implies that TV is "necessary" or "beneficial." From a libertarian perspective, the fact that an industry provides jobs (employment) or offers a specific utility (news speed) does not justify the existence of the medium as a necessity, nor does it address whether the medium is funded through voluntary exchange or coercive means. The arguments are merely observations of utility, not sufficient logical grounds to prove a necessity or a right to exist.

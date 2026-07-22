@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg479199>
+
+How would you rate the acceptability of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Acceptability: A premise of an argument should be seen as acceptable if it is worthy of being believed, i.e., if you rationally think it is true or if you see no reason for not believing that it may be true. If you identify more than one premise in the comment, try to adequately weight the acceptability of each premise when judging about their "aggregate" acceptability—unless there are particular premises that dominate your view of the author’s argumentation.
+
+----------------------------------
+
+Rating: 1 (Low)
+
+The premises ignore the material reality of ownership. TV is a medium dominated by the bourgeoisie, where "educational" content is filtered through corporate interests to maintain capitalist hegemony and alienate the masses. Books, while often commodified, allow for deeper critical analysis of class struggle. The author prioritizes "convenience" over the liberation of consciousness, failing to recognize that the means of information distribution are tools of class control.

@@ -1,0 +1,26 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399270>
+
+How would you rate the acceptability of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Acceptability: A premise of an argument should be seen as acceptable if it is worthy of being believed, i.e., if you rationally think it is true or if you see no reason for not believing that it may be true. If you identify more than one premise in the comment, try to adequately weight the acceptability of each premise when judging about their "aggregate" acceptability—unless there are particular premises that dominate your view of the author’s argumentation.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+From a materialist perspective, the premises have mixed acceptability:
+
+- The claim that TV provides actors/actresses with jobs is **factually true**, but it obscures the deeper reality of how the entertainment industry exploits creative workers while concentrating profits among media conglomerates.
+
+- The premise about TV being necessary for world news **was once stronger** but is now weakened — digital media, online journalism, and social platforms have largely supplanted TV's informational monopoly.
+
+- The claim that print cannot deliver emergency warnings is **partially outdated** — radio, internet, and mobile alerts serve this function equally or better today.
+
+The premises reflect a **bourgeois media-centric worldview** that naturalizes corporate television as an indispensable institution, rather than recognizing it as a profit-driven apparatus controlled by capital. They are not entirely false, but they are **historically contingent and partially obsolete**, warranting only medium acceptability.

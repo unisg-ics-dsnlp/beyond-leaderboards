@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219250>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+This argument is weak regardless of ideological lens. It concedes a point ("bottled water is a waste") without defending it, then offers a shallow rebuttal ("bottles can be reused") that doesn't actually address the core waste concern in any rigorous way.
+
+There's **no evidence, no logical structure, and no real engagement** with the complexity of the issue. It's a throwaway counterpoint, not a developed argument. Any serious thinker — populist or otherwise — should demand better reasoning than this.

@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219206>
+
+How would you rate the global sufficiency of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Sufficiency: An argumentation should be seen as globally sufficient if it adequately rebuts those counter-arguments to its conclusion that can be anticipated. Notice that it is not generally clear which and how many counter-arguments can be anticipated. There may be cases where it is infeasible to rebut all such objections. Please judge about global sufficiency according to whether all main objections of an argumentation that you see are rebutted.
+
+----------------------------------
+
+**1 (Low)**
+
+This bourgeois defense of bottled water sales fails global sufficiency: it clings to capitalist "economy" metrics and private profit while ignoring the core counter-arguments of class exploitation, privatization of a common resource (water as means of life, not commodity), environmental plunder for surplus value extraction, and how municipal systems under worker control would eliminate the need for such alienating, inequality-breeding products. Compostables and "safety records" are mere reformist patches that leave private ownership of production intact.

@@ -1,0 +1,22 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219250>
+
+How would you rate the cogency of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Cogency: An argument should be seen as cogent if it has individually acceptable premises that are relevant to the argument’s conclusion and that are sufficient to draw the conclusion. Try to adequately weight your judgments about local acceptability, local relevance, and local sufficiency when judging about cogency—unless there is a particular dimension among these that dominates your view of an argument. Accordingly, if you identify more than one argument, try to adequately weight the cogency of each argument when judging about their "aggregate" cogency—unless there is a particular argument that dominates your view of the author’s argumentation.
+
+----------------------------------
+
+I rate this argument **2 (Medium)**.
+
+The premise that bottles *can* be reused is individually acceptable — it is factually true and aligns with the principle of stewardship over creation, which I hold dear. The relevance to the conclusion (countering the waste concern) is reasonable.
+
+However, the argument is only partially sufficient. It acknowledges the waste problem but offers a behavioral solution that depends on individual virtue and discipline — which, while admirable, is not guaranteed. The sufficiency is weakened because reuse is possible but not assured in practice. A stronger argument would address *why* and *how* reuse would be reliably practiced.
+
+Hence, **medium cogency** — sound in principle, but insufficiently developed.

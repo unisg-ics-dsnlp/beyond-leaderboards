@@ -1,0 +1,28 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219242>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+This argument is weak from an eco-justice perspective for several reasons:
+
+- **False trade-off**: It frames economic recovery and environmental protection as mutually exclusive — a classic but flawed dichotomy. Ecological stewardship and economic wellbeing are not opposites.
+
+- **Inverted priorities**: It explicitly subordinates environmental action to economic conditions, which directly violates the **precautionary principle** — we cannot wait for ideal economic circumstances to address ecological harm.
+
+- **Burden-shifting**: Delaying environmental regulation shifts costs onto future generations, violating **intergenerational justice**.
+
+- **No supporting reasoning**: The argument provides no evidence, mechanism, or logical structure — it's merely an assertion.
+
+The argument essentially says "ecology can wait for the economy," which is precisely the kind of thinking that has perpetuated environmental degradation. Plastic pollution doesn't pause for recessions.

@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219259>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+**2 (Medium)**
+
+The practical points on ease of distribution and reduced contamination risk for small bottles are relevant and acceptable under natural law and preferential protection of the vulnerable: clean water serves the common good, especially for the poor in developing nations where public sources fail. Government programs aiding this align with community responsibility and subsidiarity when local means are insufficient.  
+
+However, the opening claim that bottled water is "somewhat less likely" in such places undercuts global acceptability and sufficiency—it contradicts observed reality and weakens the case without fuller evidence or moral framing around family/community stewardship of resources. Overall, it contributes modestly but not robustly to resolving water-safety issues.

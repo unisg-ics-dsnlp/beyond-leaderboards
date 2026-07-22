@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219225>
+
+How would you rate the acceptability of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Acceptability: A premise of an argument should be seen as acceptable if it is worthy of being believed, i.e., if you rationally think it is true or if you see no reason for not believing that it may be true. If you identify more than one premise in the comment, try to adequately weight the acceptability of each premise when judging about their "aggregate" acceptability—unless there are particular premises that dominate your view of the author’s argumentation.
+
+----------------------------------
+
+Rating: 2 (Medium)
+
+The premises regarding economic contribution and recycling rates are grounded in observable data and support the principle of subsidiarity by opposing sweeping state bans. However, the argument relies heavily on corporate sources, and the claim that "every bit of help counts" for the economy is a weak justification when weighed against the stewardship of God's creation. While the premises are generally believable, they lack a deeper moral framework.

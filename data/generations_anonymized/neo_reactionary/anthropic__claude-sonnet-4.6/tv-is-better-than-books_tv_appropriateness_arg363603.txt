@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg363603>
+
+How would you rate the appropriateness of the style of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Appropriateness: The style of an argumentation should be seen as appropriate if the used language supports the creation of credibility and emotions as well as if it is proportional to the discussed issue. The choice of words and the grammatical complexity should, in your view, appear suitable for the discussed issue within the given setting (online debate forum on a given issue), matching with how credibility and emotions are created via the content of the argumentation.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argumentation style is informal, grammatically loose, and lacks the precision expected even in casual discourse on a substantive topic. The run-on sentence structure, absence of punctuation discipline, and colloquial phrasing ("what ever you want to watch") undermine any credibility the author might establish. A competent communicator — let alone one making a comparative claim about media and learning — should demonstrate command of language proportional to the seriousness of the argument being made. This reads as unconsidered, stream-of-consciousness expression rather than deliberate argumentation.

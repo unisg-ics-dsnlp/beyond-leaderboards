@@ -1,0 +1,28 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219206>
+
+How would you rate the effectiveness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Effectiveness: An argumentation should be seen as effective if it achieves to persuade you of the author’s stance on the discussed issue or—in case you already agreed with the stance before—if it corroborates your agreement with the stance. Besides the actual arguments, also take into consideration the credibility and the emotional force of the argumentation. Decide in dubio pro reo, i.e., if you have no doubt about the correctness of the author’s arguments, then do not judge him or her to be not effective—unless you explicitly think that the arguments do not support the author’s stance.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From an Eco-Justice Environmentalist perspective, this argumentation is largely ineffective. Here's why:
+
+- **Economic framing dominates**: Prioritizing GDP and industry profits over ecological integrity is precisely the kind of short-termism that violates intergenerational justice. Economic arguments don't override planetary boundaries.
+
+- **Compostable bottles are a weak concession**: Mentioning emerging compostable alternatives doesn't address the systemic waste infrastructure failures, resource extraction, or carbon footprint of the bottled water industry as a whole. It's a deflection, not a solution.
+
+- **The safety argument is misleading**: Framing bottled water as safer than municipal water subtly undermines investment in public water commons — a classic example of **privatizing the commons** rather than stewarding them. The precautionary principle demands we fix public systems, not abandon them.
+
+- **No engagement with ecological costs**: The argument completely ignores plastic pollution, microplastics in ecosystems, aquifer depletion, and the carbon cost of production and transport — all serious, potentially **irreversible harms**.
+
+The argument fails to persuade because it sidesteps the core ecological and justice concerns entirely, relying on economic self-interest rather than addressing the **stewardship duty** we hold toward shared resources and future generations.

@@ -1,0 +1,22 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg363603>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argument is superficial and lacks intellectual rigor. The author simply asserts that TV is better than books because of channel-switching convenience — this is a preference statement, not a structured argument. There's no evidence, no engagement with counterarguments, no logical framework.
+
+From my perspective, this kind of reasoning exemplifies exactly why popular opinion shouldn't drive important decisions — it conflates convenience with value, and entertainment with learning. A competent thinker would distinguish between passive consumption and active knowledge acquisition, examine cognitive depth differences between mediums, and support claims with data.
+
+The argument is anecdotal, structurally weak, and intellectually unserious.

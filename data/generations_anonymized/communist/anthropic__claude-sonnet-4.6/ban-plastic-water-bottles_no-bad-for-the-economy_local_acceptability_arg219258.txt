@@ -1,0 +1,28 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the acceptability of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Acceptability: A premise of an argument should be seen as acceptable if it is worthy of being believed, i.e., if you rationally think it is true or if you see no reason for not believing that it may be true. If you identify more than one premise in the comment, try to adequately weight the acceptability of each premise when judging about their "aggregate" acceptability—unless there are particular premises that dominate your view of the author’s argumentation.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From a Communist perspective, the premises here are deeply unacceptable:
+
+- **"Hurting corporations loses millions"** — This frames corporate profit loss as inherently harmful. From our view, Nestlé and Dasani *extracting surplus value* from workers and commodifying a basic human necessity (water) is itself the problem. Their losses are not society's losses.
+
+- **"Hundreds would lose jobs"** — This is the classic **capitalist hostage argument**: workers are held dependent on exploitative industries, so we cannot challenge those industries. The premise obscures that workers could be *retrained and employed* under collective management of water resources.
+
+- **"Millions buy bottled water daily"** — True, but this reflects **manufactured dependency** and the commodification of commons, not a genuine social good worth protecting.
+
+The argument fundamentally **defends bourgeois interests** (corporate profits) while cynically invoking workers as a shield. It treats capitalist economic metrics as the ultimate measure of social value — a premise no Communist can accept.
+
+The premises serve to **perpetuate private ownership of a common resource** — water — which is among the most egregious forms of capitalist enclosure.

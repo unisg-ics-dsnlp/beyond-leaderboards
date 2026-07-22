@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219225>
+
+How would you rate the sufficiency of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Sufficiency: The premises of an argument should be seen as sufficient if, together, they provide enough support to make it rational to draw the argument’s conclusion. If you identify more than one conclusion in the comment, try to adequately weight the sufficiency of the premises for each conclusion when judging about their "aggregate" sufficiency—unless there are particular premises or conclusions that dominate your view of the author’s argumentation. Notice that you may see premises as sufficient even though you do not personally accept all of them, i.e., sufficiency does not presuppose acceptability.
+
+----------------------------------
+
+**2 (Medium)**
+
+The premises offer partial support for opposing a ban—citing modest economic activity amid recession and relatively low waste share plus recyclability—but fall short of rationally warranting the strong claim of a “huge mistake.” Economic help is asserted vaguely without scale or comparison to alternatives; waste/recycling data (industry-sourced) address only one environmental angle while ignoring broader stewardship duties, litter externalities, or whether voluntary market/local solutions better serve the common good under subsidiarity. Together they make a ban look unwise, yet not decisively “huge.”

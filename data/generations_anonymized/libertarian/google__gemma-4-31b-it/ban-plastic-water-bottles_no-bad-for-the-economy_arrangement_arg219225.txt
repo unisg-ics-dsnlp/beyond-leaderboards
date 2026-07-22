@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219225>
+
+How would you rate the arrangement of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Arrangement: An argumentation should be seen as well-arranged if it presents the given issue, the composed arguments, and its conclusion in the right order. Usually, the general issue and the particularly discussed topics should be clear before arguing and concluding about them. Notice, however, that other orderings may be used on purpose and may still be suitable to achieve persuasion. Besides, notice that, within the given setting (online debate forum on a given issue), some parts may be clear (e.g., the issue) and thus left implicit.
+
+----------------------------------
+
+Rating: 2 (Medium)
+
+From my perspective, the author correctly identifies the core issue—the impermissibility of a ban on a voluntary exchange—and provides supporting evidence regarding economic activity and waste management. However, the arrangement is somewhat haphazard. While the conclusion (that the ban is a mistake) is clear, the transition from macroeconomic claims to recycling statistics is abrupt. 
+
+The argument would be stronger if it prioritized the fundamental violation of property rights and consumer consent before moving to the secondary, utilitarian arguments about the economy and recycling. Nevertheless, the intent to oppose state coercion is clear.

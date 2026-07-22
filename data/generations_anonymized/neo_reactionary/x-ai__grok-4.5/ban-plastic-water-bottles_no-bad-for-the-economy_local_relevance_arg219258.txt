@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the relevance of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Relevance: A premise of an argument should be seen as relevant if it contributes to the acceptance or rejection of the argument’s conclusion, i.e., if you think it is worthy of being considered as a reason, evidence, or similar regarding the conclusion. If you identify more than one premise in the comment, try to adequately weight the relevance of each premise when judging about their "aggregate" relevance—unless there are particular premises that dominate your view of the author’s argumentation. You should be open to see a premise as relevant even if it does not match your own stance on the issue.
+
+----------------------------------
+
+**2 (Medium)**
+
+The premises (job losses, corporate revenue hits, high consumer volume) are relevant to an economic-harm conclusion, as they highlight real efficiency costs of a ban. From a techno-monarchist view, protecting competent corporate elites and productive capacity matters more than popular sentiment. However, the numbers are trivial ("hundreds" of jobs, "millions" for giants like Nestlé), the wording is contradictory ("only hurt big corporations" vs. "severely"), and it fails to weigh long-term technocratic alternatives or competence-based outcomes. Thus medium aggregate relevance—not high, not dismissible.

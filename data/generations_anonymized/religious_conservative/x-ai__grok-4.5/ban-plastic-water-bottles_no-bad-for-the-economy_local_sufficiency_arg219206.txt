@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219206>
+
+How would you rate the sufficiency of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Sufficiency: The premises of an argument should be seen as sufficient if, together, they provide enough support to make it rational to draw the argument’s conclusion. If you identify more than one conclusion in the comment, try to adequately weight the sufficiency of the premises for each conclusion when judging about their "aggregate" sufficiency—unless there are particular premises or conclusions that dominate your view of the author’s argumentation. Notice that you may see premises as sufficient even though you do not personally accept all of them, i.e., sufficiency does not presuppose acceptability.
+
+----------------------------------
+
+**2 (Medium)**
+
+The premises offer rational support for opposing a ban—economic harm to jobs and industries threatens family stability and community flourishing (core to the common good), while safety/traceability better protects the vulnerable. Compostable alternatives further show market solutions under subsidiarity can address concerns without state compulsion. Yet they fall short of high sufficiency: they underweight potential duties of stewardship over creation and do not fully establish that economic goods outweigh all other moral considerations under natural law.

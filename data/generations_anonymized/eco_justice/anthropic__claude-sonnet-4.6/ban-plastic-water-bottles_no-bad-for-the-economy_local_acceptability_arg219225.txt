@@ -1,0 +1,28 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219225>
+
+How would you rate the acceptability of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Acceptability: A premise of an argument should be seen as acceptable if it is worthy of being believed, i.e., if you rationally think it is true or if you see no reason for not believing that it may be true. If you identify more than one premise in the comment, try to adequately weight the acceptability of each premise when judging about their "aggregate" acceptability—unless there are particular premises that dominate your view of the author’s argumentation.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From an Eco-Justice perspective, the premises here are largely unacceptable:
+
+- The **economic argument** ("helping the economy") is a classic case of prioritizing short-term profit over long-term ecological integrity — precisely the kind of reasoning that perpetuates unsustainable systems.
+
+- The **"less than 1% of waste"** claim is misleading. Plastic pollution's harm extends far beyond volume metrics — microplastics, ocean contamination, and ecosystem disruption represent *irreversible damage*, which crosses a clear red line.
+
+- The **recycling premise** is weak. Recycling rates for plastic bottles remain dismally low in practice, and recycling does not address upstream extraction, energy use, or the commons degradation involved in plastic production.
+
+- The source cited (Nestlé Waters) represents a **direct conflict of interest** — a polluter self-reporting, which violates the spirit of the polluter-pays principle.
+
+The premises rest on narrow, industry-friendly framing that ignores planetary boundaries and shifts ecological burdens onto future generations. They are not worthy of rational belief without serious scrutiny.

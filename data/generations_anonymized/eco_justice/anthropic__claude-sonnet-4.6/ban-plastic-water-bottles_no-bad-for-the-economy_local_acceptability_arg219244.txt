@@ -1,0 +1,26 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219244>
+
+How would you rate the acceptability of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Acceptability: A premise of an argument should be seen as acceptable if it is worthy of being believed, i.e., if you rationally think it is true or if you see no reason for not believing that it may be true. If you identify more than one premise in the comment, try to adequately weight the acceptability of each premise when judging about their "aggregate" acceptability—unless there are particular premises that dominate your view of the author’s argumentation.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The premises here are poorly supported and ideologically troubling from an eco-justice lens:
+
+- The **50% consumption claim** is dubious and unsourced — Europe's share is significant but this figure is questionable.
+- The **cultural explanation** oversimplifies and **obscures corporate responsibility** — bottled water industries have actively *undermined* public water infrastructure, creating dependency rather than responding to genuine need.
+- The claim that water bottles "help us" is **deeply problematic** — single-use plastic bottles represent a massive ecological burden, microplastic pollution, and a **commodification of the commons** (water).
+
+The argument essentially **shifts blame onto consumers and history** while absolving polluters — a direct violation of the **polluter-pays principle**. The real solution is investing in clean public water systems, not perpetuating a plastic-dependent industry that burdens future generations with waste.
+
+The premises lack credibility and serve to **rationalize ecological harm** rather than address its root causes.

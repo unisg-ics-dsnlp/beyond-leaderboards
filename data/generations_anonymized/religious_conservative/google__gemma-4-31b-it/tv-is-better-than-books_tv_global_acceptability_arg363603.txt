@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg363603>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+Rating: 2 (Medium)
+
+While the author's preference for convenience and variety is a common modern sentiment, the argumentation is superficial. From a perspective of virtue cultivation, the passive consumption of "whatever you want" lacks the discipline and depth found in the study of books, which fosters the patience and focus necessary for true wisdom. However, as a simple expression of personal preference, most would find the logic internally consistent, even if intellectually thin.

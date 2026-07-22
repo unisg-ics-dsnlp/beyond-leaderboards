@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219206>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+**1 (Low)**
+
+This argumentation fails reasonableness under eco-justice standards. It elevates short-term economic activity and corporate interests over ecological integrity, stewardship duties, and intergenerational justice—directly risking irreversible plastic pollution, commons degradation, and burdens shifted onto future generations and non-human nature. Compostable alternatives and selective safety claims do not erase production, transport, and waste externalities that violate planetary boundaries and the precautionary principle. Economic harm claims are insufficient and unacceptable when they normalize reckless exploitation rather than internalizing polluter-pays costs or prioritizing sustainable public water systems.

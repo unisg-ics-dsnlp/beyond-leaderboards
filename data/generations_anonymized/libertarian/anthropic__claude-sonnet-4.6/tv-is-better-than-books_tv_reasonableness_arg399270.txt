@@ -1,0 +1,28 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399270>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The argumentation makes recognizable points about TV's practical utility — employment, information breadth, and emergency communication — which are **globally relevant** and broadly acceptable observations most audiences would recognize as legitimate.
+
+However, from a reasonableness standpoint, the argument has notable weaknesses:
+
+- The **employment argument** is economically weak — it's essentially a "broken window" style fallacy. Jobs destroyed in one sector often emerge in another through voluntary market reallocation.
+- The **information access claim** is increasingly outdated given the internet, and even at face value, it doesn't strongly resolve any core issue about TV's value or necessity.
+- The **emergency warning point** is the strongest of the three, as it touches on a genuine coordination/public good consideration.
+
+The arguments are **sufficiently relevant** to contribute to a discussion about TV's societal role, and they're **acceptable** in the sense that they aren't offensive or logically absurd. But they lack depth and rigor, and some rest on questionable economic reasoning.
+
+**→ Medium (2)** — contributes meaningfully but incompletely to resolving the issue.

@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219245>
+
+How would you rate the success of the author’s argumentation in creating credibility?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Credibility: An argumentation should be seen as successful in creating credibility if it conveys arguments and other information in a way that makes the author worthy of credence, e.g., by indicating the honesty of the author or by revealing the author’s knowledge or expertise regarding the discussed issue. It should be seen as not successful if rather the opposite holds. Decide in dubio pro reo, i.e., if you have no doubt about the author’s credibility, then do not judge him or her to be not credible.
+
+----------------------------------
+
+Rating: 2 (Medium)
+
+From a bourgeois perspective, the author creates credibility through the use of statistics and citations from "research and consulting" firms. However, from a materialist perspective, this "credibility" is a facade. The author merely documents the growth of capital and the successful commodification of a basic human necessity. 
+
+The author demonstrates knowledge of market revenue, but fails to address the exploitation inherent in turning water—a common good—into a source of surplus value for the bourgeoisie. The data proves the industry's profitability, but not the author's moral or systemic insight.

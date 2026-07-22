@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the global sufficiency of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Sufficiency: An argumentation should be seen as globally sufficient if it adequately rebuts those counter-arguments to its conclusion that can be anticipated. Notice that it is not generally clear which and how many counter-arguments can be anticipated. There may be cases where it is infeasible to rebut all such objections. Please judge about global sufficiency according to whether all main objections of an argumentation that you see are rebutted.
+
+----------------------------------
+
+**1 (Low)**
+
+This argument fails global sufficiency hard. It claims a ban tanks jobs and the economy (fair point for American workers under economic nationalism) but never anticipates or rebuts the obvious counters: plastic pollution/waste, "just use tap/reusables," health scares, or that multinationals like Nestlé (Swiss, not American) extract resources while shipping profits overseas.  
+
+It even undercuts itself by saying the ban "would only hurt big corporations" after hyping job losses for hundreds of people. No defense of popular demand, no pushback on elite green overreach, no data on domestic bottling jobs vs. foreign ownership. Weak, incomplete, and leaves the main objections standing.

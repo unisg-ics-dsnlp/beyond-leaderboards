@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399270>
+
+How would you rate the appropriateness of the style of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Appropriateness: The style of an argumentation should be seen as appropriate if the used language supports the creation of credibility and emotions as well as if it is proportional to the discussed issue. The choice of words and the grammatical complexity should, in your view, appear suitable for the discussed issue within the given setting (online debate forum on a given issue), matching with how credibility and emotions are created via the content of the argumentation.
+
+----------------------------------
+
+Rating: 1 (Low)
+
+The argumentation is intellectually shallow and serves only to justify the existence of a capitalist industry. By focusing on "jobs" for actors, the author ignores the exploitation of labor and the alienation of the worker. Furthermore, the claim that TV is the primary source of information ignores how the bourgeoisie uses media ownership to manufacture consent and spread propaganda. The style is simplistic and lacks the materialist rigor required to address the systemic function of mass media.

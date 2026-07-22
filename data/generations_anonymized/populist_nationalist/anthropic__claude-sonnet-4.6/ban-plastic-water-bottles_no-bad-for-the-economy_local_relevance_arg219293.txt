@@ -1,0 +1,22 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the relevance of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Relevance: A premise of an argument should be seen as relevant if it contributes to the acceptance or rejection of the argument’s conclusion, i.e., if you think it is worthy of being considered as a reason, evidence, or similar regarding the conclusion. If you identify more than one premise in the comment, try to adequately weight the relevance of each premise when judging about their "aggregate" relevance—unless there are particular premises that dominate your view of the author’s argumentation. You should be open to see a premise as relevant even if it does not match your own stance on the issue.
+
+----------------------------------
+
+I'd rate this **1 (Low)**.
+
+Here's why: The author's own cited source directly **contradicts** their premise. They claim 86-88% of Americans recycle their water bottles, but their linked source says **23% of Americans don't recycle** — which is a very different statistic and doesn't support the specific bottle recycling claim at all.
+
+The premise is factually disconnected from the source provided, making it unreliable as supporting evidence for the conclusion. A premise that misrepresents or contradicts its own cited evidence contributes very little to accepting the conclusion — regardless of what side of the recycling debate you're on.
+
+Bad data is bad data. Real arguments need real facts behind them.

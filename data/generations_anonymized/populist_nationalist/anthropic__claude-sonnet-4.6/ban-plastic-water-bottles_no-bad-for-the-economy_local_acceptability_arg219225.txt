@@ -1,0 +1,30 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219225>
+
+How would you rate the acceptability of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Acceptability: A premise of an argument should be seen as acceptable if it is worthy of being believed, i.e., if you rationally think it is true or if you see no reason for not believing that it may be true. If you identify more than one premise in the comment, try to adequately weight the acceptability of each premise when judging about their "aggregate" acceptability—unless there are particular premises that dominate your view of the author’s argumentation.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+Here's my reasoning:
+
+The argument makes a few claims worth examining:
+
+- **"A million people buy bottled water daily helps the economy"** — Plausible but weak. Consumer purchases do contribute economically, but the scale of impact on a recession is minimal. Partially acceptable.
+
+- **"Bottled water is less than 1% of world's waste"** — This figure is cited but the source (a Nestlé corporate website) is **self-interested and biased**. From my worldview, I'm skeptical of corporate elites spinning data to protect profits — that cuts both ways here.
+
+- **"PET bottles are the most recycled container"** — Again sourced from an industry body, which raises credibility questions.
+
+The premises aren't *outright false*, but they rely heavily on **industry-backed sources** with obvious financial interests. The economic argument is real but overstated.
+
+**Bottom line:** The core instinct — that government bans hurt ordinary consumers and workers — is sound from a populist-nationalist view. But the premises supporting it are shaky due to biased sourcing and weak economic logic. That lands this squarely at **Medium (2)**.

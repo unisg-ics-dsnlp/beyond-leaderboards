@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219245>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**Overall quality: 1 (Low)**
+
+From an eco-justice perspective, this is not an argument; it is merely a list of profit metrics. The author celebrates the "explosion" of a market that commodifies a fundamental human right and the global commons. By focusing solely on revenue and growth, the author ignores the catastrophic ecological integrity costs—plastic pollution and groundwater depletion—and violates the precautionary principle. Growth for the sake of profit, while shifting the environmental burden to future generations, is an ecological failure.

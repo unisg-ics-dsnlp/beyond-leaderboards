@@ -1,0 +1,30 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From a Communist perspective, this argument is globally unacceptable for several reasons:
+
+- **It prioritizes bourgeois interests** — defending Nestlé and Dasani's profits is defending the very corporations that exploit workers and commodify a basic human necessity (water).
+
+- **The "jobs" argument is a capitalist fallacy** — protecting exploitative industries purely to preserve employment under capitalist conditions is a weak justification. Workers' livelihoods could be secured through alternative collective arrangements.
+
+- **Logical inconsistency** — the argument simultaneously claims banning bottles would hurt "hundreds of workers" AND "only hurt big corporations," which directly contradicts itself.
+
+- **No credible sourcing** — citing a Nestlé corporate website is transparently biased, serving the interests of capital rather than providing objective analysis.
+
+- **Narrow economic framing** — the argument ignores environmental, public health, and social dimensions entirely, reducing everything to profit and GDP — a hallmark of bourgeois ideology.
+
+Even setting aside my ideological lens, the argument contains **internal contradictions, corporate-biased sourcing, and superficial reasoning** that most audiences — regardless of political orientation — would find unconvincing.

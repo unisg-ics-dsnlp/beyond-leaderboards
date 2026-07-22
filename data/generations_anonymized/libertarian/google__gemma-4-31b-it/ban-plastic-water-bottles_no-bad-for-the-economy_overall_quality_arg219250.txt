@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219250>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+Overall quality: 1 (Low)
+
+The argument is logically weak and relies on a vague premise ("bottled water is a waste"). From a libertarian perspective, the "waste" of a product is a subjective value judgment, not a moral or legal violation. Furthermore, the claim that bottles "can be reused" does not address the economic or environmental costs implied by the first premise. It lacks a coherent logical structure and fails to engage with property rights or voluntary exchange.

@@ -1,0 +1,22 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219259>
+
+How would you rate the success of the author’s argumentation in making an emotional appeal?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Emotional Appeal: An argumentation should be seen as successful in making an emotional appeal if it conveys arguments and other information in a way that creates emotions, which make the target audience more open to the author’s arguments. It should be seen as not successful if rather the opposite holds. Notice that you should not judge about the persuasive effect of the author’s argumentation, but you should decide whether the argumentation makes the target audience willing/unwilling to be persuaded by the author (or to agree/disagree with the author) in principle—or neither.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argument is largely technical and logistical in nature — it discusses distribution logistics, contamination risks, and government programs in a dry, factual tone. There is little to no emotional language, vivid imagery, or appeals to human suffering that would stir the reader's feelings and make them more receptive to the author's position.
+
+From my eco-justice lens, even the mention of vulnerable populations in developing countries — which *could* have been a powerful emotional hook — is handled in a detached, almost clinical way. The author misses the opportunity to connect with readers emotionally around themes of human dignity, water as a commons, or the plight of communities without safe water access.
+
+The argument informs but does not move.

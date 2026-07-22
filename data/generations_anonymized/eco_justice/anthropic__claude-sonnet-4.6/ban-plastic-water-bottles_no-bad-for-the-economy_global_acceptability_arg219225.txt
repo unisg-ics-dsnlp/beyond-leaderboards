@@ -1,0 +1,30 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219225>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From an eco-justice perspective, this argument has serious acceptability problems that go beyond mere disagreement with its conclusions:
+
+- **Economic framing overrides ecological harm**: Using recession recovery as justification for environmental damage is a classic case of shifting burdens to future generations — a clear red line.
+
+- **The "less than 1% of waste" claim is misleading**: It ignores microplastic contamination, fossil fuel extraction for production, and cumulative ecosystem damage — all forms of harm under my framework.
+
+- **Recycling rates ≠ sustainability**: Citing recycling statistics conflates *potential* recycling with *actual* ecological impact. Most plastic bottles are *not* recycled in practice.
+
+- **Source credibility issue**: Citing Nestlé Waters' own corporate website is a significant credibility problem — this is the polluter evaluating its own harm, violating the **polluter pays** principle's spirit.
+
+- **The argument lacks nuance** that even a general audience would expect — no acknowledgment of alternatives, no engagement with counterevidence.
+
+Even setting aside my ideological lens, the logical gaps, corporate sourcing, and dismissal of legitimate environmental concerns make this **broadly unacceptable** to most informed audiences.

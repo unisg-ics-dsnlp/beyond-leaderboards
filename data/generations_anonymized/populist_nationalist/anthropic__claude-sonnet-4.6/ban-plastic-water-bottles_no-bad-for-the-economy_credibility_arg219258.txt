@@ -1,0 +1,28 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the success of the author’s argumentation in creating credibility?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Credibility: An argumentation should be seen as successful in creating credibility if it conveys arguments and other information in a way that makes the author worthy of credence, e.g., by indicating the honesty of the author or by revealing the author’s knowledge or expertise regarding the discussed issue. It should be seen as not successful if rather the opposite holds. Decide in dubio pro reo, i.e., if you have no doubt about the author’s credibility, then do not judge him or her to be not credible.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argument severely undermines its own credibility for several reasons:
+
+- **Self-contradictory logic**: The author claims banning bottled water would hurt "big corporations like Dasani and Nestle" — but then says it would "only hurt big corporations." That's internally inconsistent and confusing.
+
+- **Weak sourcing**: The cited URL (nestlewaterscorporate.com) is essentially a **corporate interest website** — citing Nestle to defend Nestle's industry is a textbook conflict of interest. No credible, independent source is provided.
+
+- **Vague claims**: "Hundreds of people" losing jobs and "millions of dollars" lost are thrown out without any data or evidence to back them up.
+
+From my perspective, while I *agree* that overreaching government bans on consumer products are bad for American workers and the economy, **this argument does a poor job making that case credibly**. A strong economic-nationalist argument would cite real employment figures, domestic industry data, and independent sources — not a corporate PR page.
+
+The author's heart may be in the right place defending American jobs, but the execution here doesn't earn credibility.

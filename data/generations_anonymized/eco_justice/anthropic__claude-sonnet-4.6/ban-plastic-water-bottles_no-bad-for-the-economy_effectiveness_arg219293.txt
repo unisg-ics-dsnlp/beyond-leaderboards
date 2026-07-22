@@ -1,0 +1,28 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the effectiveness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Effectiveness: An argumentation should be seen as effective if it achieves to persuade you of the author’s stance on the discussed issue or—in case you already agreed with the stance before—if it corroborates your agreement with the stance. Besides the actual arguments, also take into consideration the credibility and the emotional force of the argumentation. Decide in dubio pro reo, i.e., if you have no doubt about the correctness of the author’s arguments, then do not judge him or her to be not effective—unless you explicitly think that the arguments do not support the author’s stance.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argumentation is deeply ineffective for several reasons:
+
+- **Factual contradiction**: The author claims 86-88% recycling rates, but their own linked source says 23% of Americans *don't* recycle — which actually undermines their argument rather than supporting it.
+
+- **Misleading framing**: Even if recycling rates were high, from an eco-justice perspective, recycling is a *last resort*, not a solution. The real issue is the reckless exploitation of single-use plastics in the first place — a violation of ecological limits and commons stewardship.
+
+- **Deflection of responsibility**: The "we recycle, so stop complaining" framing attempts to shift the burden of proof away from polluters and producers, violating the **polluter pays** principle.
+
+- **No systemic thinking**: The argument ignores the full lifecycle harm of plastic production, microplastic contamination, and intergenerational burdens placed on future generations.
+
+The argument is factually inconsistent, logically weak, and fails to engage with the deeper ecological and justice dimensions of the issue.

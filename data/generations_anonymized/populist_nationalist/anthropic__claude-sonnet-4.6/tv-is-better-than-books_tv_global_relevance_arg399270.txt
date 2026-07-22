@@ -1,0 +1,22 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399270>
+
+How would you rate the global relevance of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Relevance: An argumentation should be seen as globally relevant if it contributes to the resolution of the given issue, i.e., if it provides arguments and/or other information that help to arrive at an ultimate conclusion regarding the discussed issue. You should be open to see an argumentation as relevant even if it does not your match your stance on the issue. Rather, the question is whether the provided arguments and information are worthy of being considered within the discussion of the issue.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The argument makes some valid practical points — TV's role in emergency alerts and real-time news delivery are legitimate functional contributions worth considering in any discussion about television's value.
+
+However, the argumentation is fairly surface-level and doesn't dig deep enough to be *highly* relevant. The jobs argument is weak (industries create and destroy jobs constantly), and the "newspapers can't fit it all" point is outdated in the digital age. It touches on relevant themes but doesn't substantially advance the core debate.
+
+**Medium relevance** — useful but not compelling enough to be decisive.

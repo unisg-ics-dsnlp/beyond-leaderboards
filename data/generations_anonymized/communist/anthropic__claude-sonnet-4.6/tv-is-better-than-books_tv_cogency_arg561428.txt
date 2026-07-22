@@ -1,0 +1,28 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg561428>
+
+How would you rate the cogency of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Cogency: An argument should be seen as cogent if it has individually acceptable premises that are relevant to the argument’s conclusion and that are sufficient to draw the conclusion. Try to adequately weight your judgments about local acceptability, local relevance, and local sufficiency when judging about cogency—unless there is a particular dimension among these that dominates your view of an argument. Accordingly, if you identify more than one argument, try to adequately weight the cogency of each argument when judging about their "aggregate" cogency—unless there is a particular argument that dominates your view of the author’s argumentation.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From a materialist standpoint, this argument is poorly constructed regardless of ideological lens. The premise that "TV provides information faster than books" is **insufficiently developed** and lacks critical nuance.
+
+Key weaknesses:
+- The argument conflates **quantity of information** with **quality or depth of understanding** — a superficial bourgeois consumer logic
+- No evidence or reasoning is provided to support the claim
+- "Information from different resources" is vague and unsubstantiated
+- The conclusion does not logically follow with sufficient force from the premise
+
+The argument is essentially: *TV is faster, therefore better* — which is **reductive and logically weak**. Cogency requires acceptable, relevant, AND sufficient premises. Here, the premise is barely relevant and wholly insufficient to draw a meaningful conclusion.
+
+**Rating: 1 (Low)**

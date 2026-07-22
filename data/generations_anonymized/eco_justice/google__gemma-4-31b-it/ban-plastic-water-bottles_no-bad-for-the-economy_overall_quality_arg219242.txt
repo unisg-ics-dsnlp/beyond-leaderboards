@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219242>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**Overall quality: 1 (Low)**
+
+This argument is fundamentally flawed. It treats the protection of our commons and the elimination of plastic pollution as a temporary convenience rather than a moral imperative. By suggesting we only ban water bottles "until we get out of this recession," the author prioritizes short-term economic fluctuations over ecological integrity and intergenerational justice. 
+
+Stewardship does not pause for market cycles. Shifting the burden of plastic degradation onto future generations to accommodate a temporary economic dip is a violation of the precautionary principle and an abdication of our duty to the planet.

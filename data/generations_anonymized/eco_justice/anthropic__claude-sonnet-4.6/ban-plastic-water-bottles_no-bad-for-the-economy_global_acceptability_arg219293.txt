@@ -1,0 +1,24 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argument has serious acceptability problems:
+
+- **Factual incoherence**: The author claims 86-88% recycling rates, but their own linked source suggests ~23% of Americans *don't* recycle — figures that don't align with the claim being made. This internal contradiction undermines credibility.
+- **Cherry-picked metric**: Focusing solely on bottle water recycling ignores the broader plastic waste crisis and overall recycling performance.
+- **Dismissive framing**: "Stop complaining" shuts down legitimate environmental discourse rather than engaging it seriously.
+
+From a stewardship and ecological integrity standpoint, even if the statistic were accurate, it would not justify complacency — but the argument doesn't even establish that baseline reliably. Most audiences, regardless of ideology, would find this poorly reasoned and factually suspect.

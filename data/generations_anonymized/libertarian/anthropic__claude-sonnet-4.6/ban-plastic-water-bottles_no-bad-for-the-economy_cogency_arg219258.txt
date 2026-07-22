@@ -1,0 +1,32 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the cogency of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Cogency: An argument should be seen as cogent if it has individually acceptable premises that are relevant to the argument’s conclusion and that are sufficient to draw the conclusion. Try to adequately weight your judgments about local acceptability, local relevance, and local sufficiency when judging about cogency—unless there is a particular dimension among these that dominates your view of an argument. Accordingly, if you identify more than one argument, try to adequately weight the cogency of each argument when judging about their "aggregate" cogency—unless there is a particular argument that dominates your view of the author’s argumentation.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From a libertarian perspective, this argument is **poorly constructed** on multiple levels:
+
+**Premise Problems:**
+- The economic harm argument is **internally contradictory** — it claims banning bottled water would hurt "big corporations" while simultaneously arguing it would hurt the economy. These can't both be the dominant framing.
+- Job losses and corporate losses are **asserted without evidence** — no data, no economic analysis.
+
+**Relevance Issues:**
+- Even if economically harmful, that doesn't constitute a *sufficient* argument against a ban. Economic disruption alone rarely defeats a policy argument without deeper reasoning.
+- The argument **misses the stronger libertarian case**: banning bottled water violates **voluntary exchange**, **property rights**, and **consumer autonomy** — the real cogent objections.
+
+**Sufficiency Failure:**
+- "Millions use it" is descriptive, not normative — popularity doesn't establish legitimacy or policy direction.
+- The cited source (a Nestlé corporate site) undermines credibility as an independent premise.
+
+**Bottom Line:** The argument stumbles toward a defensible conclusion — that banning bottled water is wrong — but for weak, poorly supported reasons. A cogent libertarian argument would center on **non-aggression**, **consent**, and **self-ownership**, not corporate profit protection.

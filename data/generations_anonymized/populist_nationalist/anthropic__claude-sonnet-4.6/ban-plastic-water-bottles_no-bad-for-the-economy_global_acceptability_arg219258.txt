@@ -1,0 +1,28 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argument has serious logical problems that undermine its global acceptability:
+
+- **Internal contradiction**: It claims banning bottled water would hurt "hundreds" of workers AND "big corporations" — but then says it would "only hurt big corporations." These claims contradict each other.
+
+- **Weak economic reasoning**: Protecting Dasani and Nestlé — multinational giants — isn't a compelling populist argument. From my worldview, these are exactly the kind of corporate elites whose interests shouldn't override public policy decisions.
+
+- **No real substance**: The argument doesn't engage seriously with *why* a ban might be proposed (environmental concerns, public health, etc.), making it one-sided and shallow.
+
+- **Source credibility**: Citing Nestlé's own corporate website as evidence is a glaring bias problem — that's the fox guarding the henhouse.
+
+Most audiences across the political spectrum would find this poorly constructed and unconvincing. Even those who *agree* with the conclusion would likely reject the weak reasoning behind it.

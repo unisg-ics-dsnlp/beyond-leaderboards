@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399270>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+Overall quality: 1 (Low)
+
+This argument is intellectually shallow and fails to address the systemic ecological cost of the television industry. It prioritizes trivial economic interests (actor jobs) and convenience over the planetary boundaries and the stewardship of our commons. Furthermore, it ignores the environmental degradation caused by electronic waste and energy consumption, offering no justification for the ecological harm inherent in such a resource-heavy medium.

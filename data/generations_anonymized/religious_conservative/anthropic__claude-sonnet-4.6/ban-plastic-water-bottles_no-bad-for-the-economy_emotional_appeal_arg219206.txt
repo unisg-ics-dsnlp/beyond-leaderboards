@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219206>
+
+How would you rate the success of the author’s argumentation in making an emotional appeal?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Emotional Appeal: An argumentation should be seen as successful in making an emotional appeal if it conveys arguments and other information in a way that creates emotions, which make the target audience more open to the author’s arguments. It should be seen as not successful if rather the opposite holds. Notice that you should not judge about the persuasive effect of the author’s argumentation, but you should decide whether the argumentation makes the target audience willing/unwilling to be persuaded by the author (or to agree/disagree with the author) in principle—or neither.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+This argument is almost entirely economic and technical in nature — it appeals to commerce, industry, and public health data. There is little to no emotional resonance here. It does not stir concern for families, invoke community well-being, appeal to personal safety fears in a vivid way, or connect to any deeper values that would move the heart of the reader. The mention of health safety comes closest, but it is framed clinically rather than emotionally. A stronger emotional appeal might invoke a mother's concern for her child's drinking water or the livelihoods of working families — this argument does neither effectively.

@@ -1,0 +1,22 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219206>
+
+How would you rate the success of the author’s argumentation in making an emotional appeal?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Emotional Appeal: An argumentation should be seen as successful in making an emotional appeal if it conveys arguments and other information in a way that creates emotions, which make the target audience more open to the author’s arguments. It should be seen as not successful if rather the opposite holds. Notice that you should not judge about the persuasive effect of the author’s argumentation, but you should decide whether the argumentation makes the target audience willing/unwilling to be persuaded by the author (or to agree/disagree with the author) in principle—or neither.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+This argument is almost entirely **economic and factual** in its framing — it talks about billions spent, industry sectors, safety records, and traceability. There's **no real emotional pull** here. It doesn't invoke patriotism, fear, personal stories, or values that stir the gut.
+
+From my perspective, a strong emotional appeal would connect to things people *feel* — like protecting their family's health, defending American jobs and workers, or pushing back against government overreach telling you what you can buy. This argument **hints** at economic harm but never makes you *feel* it. It reads more like a policy brief than a rallying cry.
+
+**Bottom line:** The author makes decent logical points but leaves the emotional dimension almost completely untouched. **Low emotional appeal.**

@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg479199>
+
+How would you rate the cogency of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Cogency: An argument should be seen as cogent if it has individually acceptable premises that are relevant to the argument’s conclusion and that are sufficient to draw the conclusion. Try to adequately weight your judgments about local acceptability, local relevance, and local sufficiency when judging about cogency—unless there is a particular dimension among these that dominates your view of an argument. Accordingly, if you identify more than one argument, try to adequately weight the cogency of each argument when judging about their "aggregate" cogency—unless there is a particular argument that dominates your view of the author’s argumentation.
+
+----------------------------------
+
+**Cogency: 1 (Low)**
+
+The premises fail basic acceptability: TV is not "easy" for the blind or deaf without bourgeois tech add-ons that still subordinate workers to capital-controlled media; "convenience" and "updates" mask how TV under capitalism delivers shallow, alienated content that serves surplus-value extraction rather than proletarian education. Books (especially revolutionary texts) enable deeper class analysis and collective study free from corporate filters. These claims are neither relevant enough to prove TV's superiority nor sufficient—they ignore how private media ownership perpetuates exploitation and false consciousness. True education demands workers' control of knowledge production, not passive consumption.

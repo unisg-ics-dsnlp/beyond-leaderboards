@@ -1,0 +1,32 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From a Communist perspective, this argument is deeply unreasonable on multiple levels:
+
+- **It prioritizes bourgeois interests**: The argument frames corporate losses (Dasani, Nestlé) as a primary concern — this is defending capital, not people.
+
+- **The "jobs" argument is a classic capitalist fallacy**: Using workers as a shield to protect corporate profits is a manipulation tactic. The proletariat's welfare is invoked only to serve the bourgeoisie's interests.
+
+- **Internal contradiction**: The author simultaneously claims it would "hurt hundreds of workers" AND "only hurt big corporations" — these claims undermine each other, revealing logical incoherence.
+
+- **No genuine resolution offered**: The argument contributes nothing substantive to resolving the environmental or public health dimensions of the bottled water debate.
+
+- **The source cited** (a Nestlé corporate website) is transparently biased — this is the bourgeoisie literally speaking for itself.
+
+Even setting aside my ideological lens, the argumentation is **logically inconsistent, relies on a biased source, and conflates worker welfare with corporate profit protection** — making it unacceptable even to a general audience seeking honest debate.
+
+**1 (Low)** is the only defensible rating.

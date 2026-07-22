@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219244>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+Overall quality: 1 (Low)
+
+The argument is logically incoherent. It attempts to link consumption patterns to historical pollution but concludes with a non sequitur: "The water bottles they buy help us." It fails to explain *who* "us" is or *how* the purchase of bottled water provides a benefit. Furthermore, it ignores the fundamental principle of voluntary exchange; if Europeans choose to buy bottled water, it is a private transaction between consenting parties, not a cultural pathology or a charitable act. There is no evidence provided, only vague claims.

@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219242>
+
+How would you rate the clarity of the style of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Clarity: The style of an argumentation should be seen as clear if it uses gramatically correct and widely unambiguous language as well as if it avoids unnecessary complexity and deviation from the discussed issue. The used language should make it easy for you to understand without doubts what the author argues for and how.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The sentence is grammatically intelligible and relatively simple in structure, but the word "until" creates ambiguity — it's unclear whether the author is arguing *for* or *against* banning water bottles, or whether the recession is presented as a precondition, an obstacle, or a justification. The logical relationship between the ban and the recession is left unexplained, leaving the reader uncertain about the core claim.

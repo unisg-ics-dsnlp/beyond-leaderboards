@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg479199>
+
+How would you rate the success of the author’s argumentation in creating credibility?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Credibility: An argumentation should be seen as successful in creating credibility if it conveys arguments and other information in a way that makes the author worthy of credence, e.g., by indicating the honesty of the author or by revealing the author’s knowledge or expertise regarding the discussed issue. It should be seen as not successful if rather the opposite holds. Decide in dubio pro reo, i.e., if you have no doubt about the author’s credibility, then do not judge him or her to be not credible.
+
+----------------------------------
+
+**1 (Low)**
+
+The argument fails to establish author credibility: it asserts expertise without evidence while advancing clear factual errors (TV is not "easy to use" for those who cannot see or hear; books can be updated, annotated, or peer-reviewed far more rigorously than ephemeral TV content). This reveals shallow knowledge rather than honesty or domain mastery, undermining any claim to trustworthiness. From an eco-justice lens, such careless claims also ignore how screen media accelerate resource extraction and distract from the deep, reflective stewardship that durable books better support for intergenerational learning.

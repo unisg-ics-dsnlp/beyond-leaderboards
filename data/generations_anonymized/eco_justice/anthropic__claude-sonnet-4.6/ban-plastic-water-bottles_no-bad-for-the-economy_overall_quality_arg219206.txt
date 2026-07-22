@@ -1,0 +1,30 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219206>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From an Eco-Justice Environmentalist perspective, this argument is weak in overall quality for several reasons:
+
+- **Economic framing dominates**: Prioritizing GDP and industry profits over ecological integrity and commons stewardship reflects exactly the kind of thinking that perpetuates environmental harm. The economy argument actively **shifts burdens to future generations** — a clear red line.
+
+- **Compostable bottles are a distraction**: Offering an emerging alternative as a solution without evidence of scale, accessibility, or full lifecycle impact is speculative and fails the **precautionary principle**.
+
+- **Safety comparison is misleading**: Framing bottled water as safer than municipal water deflects from the systemic issue — plastic pollution, resource extraction, and the **commodification of a shared commons** (water). It also ignores the massive ecological footprint of the bottled water industry.
+
+- **No engagement with ecological limits**: The argument completely ignores planetary boundaries, biodiversity impacts of plastic pollution, and the carbon footprint of production and transport.
+
+- **Sources are thin**: Citing a general CDC page and a Friends Journal article does not constitute rigorous support for the economic and safety claims made.
+
+The argument is internally coherent on a narrow economic logic, but it fundamentally **fails to engage with the most serious dimensions of harm** — which is what makes it low quality from a substantive standpoint.

@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the success of the author’s argumentation in making an emotional appeal?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Emotional Appeal: An argumentation should be seen as successful in making an emotional appeal if it conveys arguments and other information in a way that creates emotions, which make the target audience more open to the author’s arguments. It should be seen as not successful if rather the opposite holds. Notice that you should not judge about the persuasive effect of the author’s argumentation, but you should decide whether the argumentation makes the target audience willing/unwilling to be persuaded by the author (or to agree/disagree with the author) in principle—or neither.
+
+----------------------------------
+
+Rating: 1 (Low)
+
+The author relies on a superficial statistic to deflect accountability, failing to address the systemic exploitation of the environment by capitalist production. This is not an emotional appeal; it is a bourgeois distraction. It attempts to pacify the masses with a false sense of virtue while the means of production continue to churn out plastic waste for profit. There is no call for solidarity or systemic change, only a defensive plea for the status quo.

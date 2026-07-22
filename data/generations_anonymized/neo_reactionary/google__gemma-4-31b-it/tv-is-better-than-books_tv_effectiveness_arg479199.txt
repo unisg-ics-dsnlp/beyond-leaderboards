@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg479199>
+
+How would you rate the effectiveness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Effectiveness: An argumentation should be seen as effective if it achieves to persuade you of the author’s stance on the discussed issue or—in case you already agreed with the stance before—if it corroborates your agreement with the stance. Besides the actual arguments, also take into consideration the credibility and the emotional force of the argumentation. Decide in dubio pro reo, i.e., if you have no doubt about the correctness of the author’s arguments, then do not judge him or her to be not effective—unless you explicitly think that the arguments do not support the author’s stance.
+
+----------------------------------
+
+Effectiveness: 1 (Low)
+
+The author prioritizes "convenience" and "ease of understanding"—hallmarks of populist appeal—over the rigorous, deep-work capacity required for true intellectual competence. To suggest that accessibility for the masses outweighs the depth and permanence of the written word is to argue for the lowest common denominator. Furthermore, the claim that TV is more "accurate" is a superficial observation; real-time data is useless without the expert synthesis found in comprehensive scholarship. This is an argument for mediocrity, not excellence.

@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219245>
+
+How would you rate the appropriateness of the style of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Appropriateness: The style of an argumentation should be seen as appropriate if the used language supports the creation of credibility and emotions as well as if it is proportional to the discussed issue. The choice of words and the grammatical complexity should, in your view, appear suitable for the discussed issue within the given setting (online debate forum on a given issue), matching with how credibility and emotions are created via the content of the argumentation.
+
+----------------------------------
+
+Rating: 1 (Low)
+
+The author's style is a sterile recitation of capitalist metrics. By focusing solely on "revenue" and "growth," the author adopts the language of the bourgeoisie, framing the commodification of a basic human necessity as a financial success rather than a systemic crime. It lacks the moral urgency required to address the exploitation of natural resources for private profit. To present the "explosion" of a $35 billion industry without mentioning the alienation of the masses from their own water is not credible; it is propaganda for capital.

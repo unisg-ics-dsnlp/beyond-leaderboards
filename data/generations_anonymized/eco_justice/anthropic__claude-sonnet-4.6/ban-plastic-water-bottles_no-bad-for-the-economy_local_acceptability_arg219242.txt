@@ -1,0 +1,25 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219242>
+
+How would you rate the acceptability of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Acceptability: A premise of an argument should be seen as acceptable if it is worthy of being believed, i.e., if you rationally think it is true or if you see no reason for not believing that it may be true. If you identify more than one premise in the comment, try to adequately weight the acceptability of each premise when judging about their "aggregate" acceptability—unless there are particular premises that dominate your view of the author’s argumentation.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argument rests on a deeply problematic premise — that economic recession justifies delaying environmental regulation. From an eco-justice perspective, this is **unacceptable** for several reasons:
+
+- It treats ecological harm as **deferrable**, ignoring that plastic pollution causes **irreversible ecosystem damage** — a clear red line.
+- It implicitly **shifts the burden to future generations**, who inherit both the economic debt *and* the ecological consequences.
+- It violates the **precautionary principle**: uncertainty (economic hardship) is not a legitimate reason to postpone action on known environmental harm.
+- It frames ecological stewardship as a **luxury** rather than a **moral duty**, inverting the proper priority order entirely.
+
+The premise that we must choose between economic recovery and environmental protection is a **false dilemma** — and a convenient one for those who profit from continued plastic production.

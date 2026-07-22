@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219268>
+
+How would you rate the global sufficiency of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Sufficiency: An argumentation should be seen as globally sufficient if it adequately rebuts those counter-arguments to its conclusion that can be anticipated. Notice that it is not generally clear which and how many counter-arguments can be anticipated. There may be cases where it is infeasible to rebut all such objections. Please judge about global sufficiency according to whether all main objections of an argumentation that you see are rebutted.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+**Reasoning:** The argument is globally insufficient. It focuses solely on the utility of plastic for distribution—a concern of capitalist efficiency and the acceleration of commodity circulation. It fails to address the material contradictions: the environmental degradation of the commons and the exploitation of workers in the petrochemical industry. It ignores the externalized costs borne by the proletariat and the planet for the sake of bourgeois profit.

@@ -1,0 +1,32 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the relevance of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Relevance: A premise of an argument should be seen as relevant if it contributes to the acceptance or rejection of the argument’s conclusion, i.e., if you think it is worthy of being considered as a reason, evidence, or similar regarding the conclusion. If you identify more than one premise in the comment, try to adequately weight the relevance of each premise when judging about their "aggregate" relevance—unless there are particular premises that dominate your view of the author’s argumentation. You should be open to see a premise as relevant even if it does not match your own stance on the issue.
+
+----------------------------------
+
+## Rating: **1 (Low)**
+
+### Reasoning:
+
+From an Eco-Justice perspective, the premises offered here are **largely irrelevant** to whether bottled water should be banned, for several reasons:
+
+- **Corporate profit loss** is not a morally weighty consideration when weighed against ecological harm — the *polluter pays* principle actually inverts this logic: corporations causing plastic pollution and aquifer depletion *should* bear costs.
+
+- **Job loss arguments** are a classic deflection. By this logic, no ecologically harmful industry could ever be regulated. The premise doesn't engage with *why* a ban might be justified.
+
+- **Consumer popularity** ("millions use it daily") is an appeal to prevalence, not relevance. Widespread harm is still harm — this actually reinforces the *scale* of the ecological problem rather than undermining the case for a ban.
+
+- The argument **entirely ignores** the actual grounds for a ban: plastic pollution, commons exploitation (aquifers), intergenerational burden-shifting, and ecological degradation.
+
+The premises speak to **economic disruption** but fail to engage meaningfully with the environmental and justice-based conclusion they're meant to counter. They are not worthy reasons in this debate's proper framing.
+
+> **Score: 1 — Low relevance.**

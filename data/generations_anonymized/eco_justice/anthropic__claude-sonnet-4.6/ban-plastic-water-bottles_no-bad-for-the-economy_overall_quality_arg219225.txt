@@ -1,0 +1,30 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219225>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From an Eco-Justice Environmentalist perspective, this argument has serious weaknesses:
+
+- **Economic framing overrides ecological duty**: Citing recession recovery to justify plastic production fundamentally misplaces priorities — short-term economic gains cannot override long-term stewardship obligations or intergenerational justice.
+
+- **The "less than 1%" claim is misleading**: Even a small percentage of global waste represents enormous absolute volumes, and plastic pollution causes *irreversible ecosystem damage* — a clear red line. Volume share is irrelevant when harm is systemic.
+
+- **Recycling is not a solution**: Citing recycling rates ignores that most plastic is *not* actually recycled in practice, and recycling doesn't address microplastic contamination, fossil fuel extraction, or commons degradation.
+
+- **Source credibility is compromised**: Linking to **Nestlé Waters' own corporate website** as evidence is a significant logical flaw — this is a direct conflict of interest from a major polluter, violating the **polluter pays** principle by letting them define the terms of debate.
+
+- **No engagement with precautionary principle**: The argument ignores uncertainty about long-term ecological harm, which under my framework demands *caution*, not dismissal.
+
+The argumentation is superficial, relies on industry sources, and fails to engage seriously with ecological or justice-based counterarguments.

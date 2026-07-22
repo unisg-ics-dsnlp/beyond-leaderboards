@@ -1,0 +1,30 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+This argument has serious flaws from both a factual and ecological standpoint:
+
+- **Factual contradiction**: The author claims 86-88% recycling rates, but their own cited source suggests ~23% of Americans *don't* recycle — and the numbers don't coherently support their claim.
+
+- **Cherry-picking**: Even if the statistic were accurate, focusing on one product (bottled water) to dismiss broader recycling concerns is a classic deflection from systemic ecological failure.
+
+- **Missing the bigger picture**: From a stewardship perspective, the real issue isn't just recycling rates — it's that **single-use plastic bottles shouldn't exist at scale in the first place**. Recycling is a downstream fix for an upstream design failure.
+
+- **Burden-shifting logic**: Celebrating partial recycling while ignoring the full lifecycle harm of plastic production violates the **polluter pays** and **ecological integrity** principles. The commons — our waterways, soils, and oceans — bear the cost.
+
+- **Defensive framing**: "Stop complaining" dismisses legitimate ecological concern, which is intellectually dishonest and counterproductive to meaningful environmental stewardship.
+
+The argument is poorly evidenced, logically inconsistent, and fundamentally misunderstands what ecological responsibility requires.

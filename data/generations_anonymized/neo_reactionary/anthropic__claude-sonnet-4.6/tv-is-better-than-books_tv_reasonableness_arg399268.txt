@@ -1,0 +1,22 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399268>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The argument is straightforward and factually grounded — it presents a clear, practical claim about a product's functionality (mobility and convenience of streaming via Foxtel Go on iPad). It is globally acceptable in that most readers would find the premise uncontroversial, and globally relevant in that it directly addresses the value proposition of the service.
+
+However, it lacks **sufficiency** — it offers no deeper reasoning, no comparative analysis, and no substantive argumentation beyond a basic feature description. From any rigorous analytical standpoint, it reads more as a product statement than a developed argument.
+
+A **medium** rating reflects that it contributes *something* meaningful and acceptable to the discussion, but falls short of a fully reasoned position.

@@ -1,0 +1,26 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219242>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argument is extremely poor on multiple dimensions:
+
+- **No logical structure**: The claim establishes no causal or logical link between banning water bottles and economic recession. Why would a recession *prevent* a ban? Why would exiting one *enable* it?
+
+- **From my perspective**, the premise is doubly flawed — banning water bottles is itself a **paternalistic, coercive intervention** that violates property rights and voluntary exchange. Framing it as a *future goal* to pursue post-recession makes it worse, not better.
+
+- **No evidence, no reasoning** — it reads as an offhand assertion with zero argumentative substance.
+
+The argument fails both on general logical grounds *and* from a libertarian standpoint.

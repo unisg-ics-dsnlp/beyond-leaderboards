@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219242>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+**1 (Low)**
+
+This argumentation is globally unacceptable: it frames ecological stewardship (banning single-use plastics that degrade ecosystems and burden future generations) as optional luxury contingent on short-term economic recovery. That framing violates ecological limits, the precautionary principle, and intergenerational justice—core considerations no responsible audience should treat as legitimately sidelined. The phrasing itself is incoherent and dismissive, further undermining any claim to shared acceptability.

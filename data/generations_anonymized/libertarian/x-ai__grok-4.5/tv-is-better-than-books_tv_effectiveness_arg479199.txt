@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg479199>
+
+How would you rate the effectiveness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Effectiveness: An argumentation should be seen as effective if it achieves to persuade you of the author’s stance on the discussed issue or—in case you already agreed with the stance before—if it corroborates your agreement with the stance. Besides the actual arguments, also take into consideration the credibility and the emotional force of the argumentation. Decide in dubio pro reo, i.e., if you have no doubt about the correctness of the author’s arguments, then do not judge him or her to be not effective—unless you explicitly think that the arguments do not support the author’s stance.
+
+----------------------------------
+
+**1 (Low)**
+
+The argument fails to persuade: its claims are factually shaky (TV is *not* easier for the blind or deaf; books/e-books/audiobooks adapt better via voluntary markets), subjective preferences are treated as universal truths, and "up-to-date" ignores how free exchange rapidly updates print/digital texts while TV often peddles ephemeral, unaccountable noise. No coercion or rights violation is at stake—individuals own their time and choose media freely—so this does not corroborate any preference for TV over books. Weak logic, zero emotional force, low credibility.

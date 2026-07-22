@@ -1,0 +1,28 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argumentation is poorly reasoned on multiple fronts:
+
+- **Factual contradiction**: The author claims 86-88% recycling rates, but their own linked source suggests ~23% of Americans *don't* recycle — which does **not** support the 86-88% figure cited. The author appears to misread or misrepresent their own evidence.
+
+- **Statistical misuse**: "More than half" is a low bar and doesn't validate the specific inflated statistic claimed.
+
+- **Dismissive tone**: Telling critics to "stop complaining" without adequately addressing the underlying concern doesn't resolve the issue.
+
+From a libertarian lens, I'd add that voluntary recycling behavior is exactly the kind of decentralized, individual-choice solution I'd *prefer* — but that doesn't excuse sloppy argumentation. Good arguments for voluntary action should be **accurate and honest**, not built on misread statistics. The argument undermines its own credibility by linking to a source that contradicts its central claim.
+
+**Verdict: Low reasonableness.**

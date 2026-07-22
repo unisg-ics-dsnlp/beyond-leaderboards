@@ -1,0 +1,30 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219206>
+
+How would you rate the sufficiency of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Sufficiency: The premises of an argument should be seen as sufficient if, together, they provide enough support to make it rational to draw the argument’s conclusion. If you identify more than one conclusion in the comment, try to adequately weight the sufficiency of the premises for each conclusion when judging about their "aggregate" sufficiency—unless there are particular premises or conclusions that dominate your view of the author’s argumentation. Notice that you may see premises as sufficient even though you do not personally accept all of them, i.e., sufficiency does not presuppose acceptability.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From an eco-justice perspective, the premises fail to sufficiently support the conclusion that bottled water sales should not be banned:
+
+- The **economic argument** is weak — it prioritizes short-term profit over long-term ecological and public health costs, ignoring the **polluter pays principle** and the massive environmental externalities of plastic production.
+
+- The **compostable bottle premise** is speculative and underdeveloped — emerging alternatives don't justify continuing a harmful system *now*, especially under the **precautionary principle**.
+
+- The **safety record claim** is a narrow premise that sidesteps the broader ecological harm: plastic pollution, aquifer depletion, and carbon footprint. It conflates *consumer safety* with *systemic safety*.
+
+- Crucially, the argument **ignores the commons** — water is a shared resource, and its commodification raises deep stewardship and intergenerational justice concerns that go entirely unaddressed.
+
+The premises, even taken together, do not sufficiently bridge to the conclusion because they omit the most consequential dimensions of the issue — ecological integrity and burden-shifting to future generations.
+
+**Verdict: Low sufficiency.**

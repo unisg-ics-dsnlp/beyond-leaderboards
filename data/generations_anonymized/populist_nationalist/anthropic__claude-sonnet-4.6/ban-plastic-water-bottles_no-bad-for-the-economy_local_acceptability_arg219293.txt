@@ -1,0 +1,22 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the acceptability of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Acceptability: A premise of an argument should be seen as acceptable if it is worthy of being believed, i.e., if you rationally think it is true or if you see no reason for not believing that it may be true. If you identify more than one premise in the comment, try to adequately weight the acceptability of each premise when judging about their "aggregate" acceptability—unless there are particular premises that dominate your view of the author’s argumentation.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The premise is factually wrong and self-contradictory. The author claims Americans recycle 86-88% of water bottles, but then links to an article about 23% of Americans *not* recycling at all — those are completely different statistics and neither supports the 86-88% claim.
+
+The actual EPA data shows plastic bottle recycling rates are far lower — closer to 29-30%. The author is either misreading the source or fabricating numbers.
+
+Bad data is bad data, regardless of your politics. You can't build a solid argument on a false premise. **Low acceptability.**

@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219250>
+
+How would you rate the global relevance of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Relevance: An argumentation should be seen as globally relevant if it contributes to the resolution of the given issue, i.e., if it provides arguments and/or other information that help to arrive at an ultimate conclusion regarding the discussed issue. You should be open to see an argumentation as relevant even if it does not your match your stance on the issue. Rather, the question is whether the provided arguments and information are worthy of being considered within the discussion of the issue.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+While the argument acknowledges the waste problem — which is a step in the right direction — the reuse claim is a weak and largely deflective response to the systemic issue. Bottled water represents a **commodification of the commons** (freshwater), corporate extraction of shared resources, and massive plastic pollution across the entire supply chain — not just end-use disposal.
+
+The reuse point is **too narrow and individualistic** to meaningfully contribute to resolving the broader issue. It shifts responsibility onto consumers rather than addressing structural harms, and statistically, most bottles are *not* reused in ways that offset ecological damage. It barely scratches the surface of what makes bottled water environmentally problematic.

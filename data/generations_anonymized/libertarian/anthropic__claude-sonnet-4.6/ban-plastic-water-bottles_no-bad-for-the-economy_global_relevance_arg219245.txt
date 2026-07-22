@@ -1,0 +1,22 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219245>
+
+How would you rate the global relevance of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Relevance: An argumentation should be seen as globally relevant if it contributes to the resolution of the given issue, i.e., if it provides arguments and/or other information that help to arrive at an ultimate conclusion regarding the discussed issue. You should be open to see an argumentation as relevant even if it does not your match your stance on the issue. Rather, the question is whether the provided arguments and information are worthy of being considered within the discussion of the issue.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The argument presents global market data — industry size, revenue figures, and production volumes — which are factually informative and demonstrate the **scale of the bottled water industry** worldwide. This has some relevance to broader discussions (e.g., privatization of water, market viability, consumer choice).
+
+However, from a purely argumentative standpoint, the passage is **largely descriptive statistics without a clear normative claim**. It tells us the industry is large, but doesn't directly advance a conclusion about whether that's good, bad, or what policy (if any) should follow. The global scope of the data gives it *some* relevance, but the lack of a driving argument limits its contribution to resolving any specific issue.
+
+Hence — **Medium (2)**.

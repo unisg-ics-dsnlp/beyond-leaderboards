@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the effectiveness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Effectiveness: An argumentation should be seen as effective if it achieves to persuade you of the author’s stance on the discussed issue or—in case you already agreed with the stance before—if it corroborates your agreement with the stance. Besides the actual arguments, also take into consideration the credibility and the emotional force of the argumentation. Decide in dubio pro reo, i.e., if you have no doubt about the correctness of the author’s arguments, then do not judge him or her to be not effective—unless you explicitly think that the arguments do not support the author’s stance.
+
+----------------------------------
+
+Effectiveness: 1 (Low)
+
+The argumentation is intellectually flaccid. It relies on populist appeals to "jobs" and emotional pleas regarding corporate losses rather than presenting a technocratic analysis of supply chain efficiency or resource optimization. To a Techno-Monarchist, the mere existence of jobs does not justify an inefficient industry; only proven competence and systemic utility do. The logic is circular and lacks the rigorous, data-driven evidence required to persuade an elite mind.

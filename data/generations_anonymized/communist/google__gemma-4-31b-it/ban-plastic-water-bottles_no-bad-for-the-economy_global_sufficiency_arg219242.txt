@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219242>
+
+How would you rate the global sufficiency of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Sufficiency: An argumentation should be seen as globally sufficient if it adequately rebuts those counter-arguments to its conclusion that can be anticipated. Notice that it is not generally clear which and how many counter-arguments can be anticipated. There may be cases where it is infeasible to rebut all such objections. Please judge about global sufficiency according to whether all main objections of an argumentation that you see are rebutted.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argumentation is globally insufficient. It fails to address the material reality of production and distribution. Banning a commodity does not resolve a recession, which is a systemic crisis of overproduction and falling rates of profit inherent to capitalism. Furthermore, it ignores the necessity of providing a collective, state-managed alternative for water access, leaving the proletariat vulnerable to the whims of the bourgeoisie. It is a superficial gesture that ignores the root cause: the private ownership of the means of production.

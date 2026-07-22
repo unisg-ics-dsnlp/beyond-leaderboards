@@ -1,0 +1,30 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219225>
+
+How would you rate the effectiveness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Effectiveness: An argumentation should be seen as effective if it achieves to persuade you of the author’s stance on the discussed issue or—in case you already agreed with the stance before—if it corroborates your agreement with the stance. Besides the actual arguments, also take into consideration the credibility and the emotional force of the argumentation. Decide in dubio pro reo, i.e., if you have no doubt about the correctness of the author’s arguments, then do not judge him or her to be not effective—unless you explicitly think that the arguments do not support the author’s stance.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From an Eco-Justice Environmentalist perspective, this argumentation is deeply ineffective:
+
+- **Economic framing is weak**: Using recession recovery as justification for ecological harm directly violates the *polluter pays* and *intergenerational justice* principles — short-term economic gains cannot override long-term ecological costs.
+
+- **The "less than 1% of waste" claim is misleading**: It ignores cumulative plastic pollution, microplastic contamination of waterways, and systemic harm to ecosystems — all central to my definition of *harm*.
+
+- **Recycling rates are overstated as a solution**: Citing PET recycling statistics obscures the reality that most plastic still ends up in landfills or nature. Recycling does not negate the need for the *precautionary principle*.
+
+- **Source credibility is compromised**: Linking to Nestlé Waters' own corporate website is a clear conflict of interest — a corporation profiting from bottled water is not a neutral authority on its environmental impact.
+
+- **No engagement with ecological limits**: The argument completely ignores planetary boundaries and the commons (freshwater systems) being exploited for private profit.
+
+The argumentation fails both logically and ethically by my standards.

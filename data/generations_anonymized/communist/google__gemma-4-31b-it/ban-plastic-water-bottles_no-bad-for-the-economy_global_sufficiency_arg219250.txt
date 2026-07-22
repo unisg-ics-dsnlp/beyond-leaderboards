@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219250>
+
+How would you rate the global sufficiency of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Sufficiency: An argumentation should be seen as globally sufficient if it adequately rebuts those counter-arguments to its conclusion that can be anticipated. Notice that it is not generally clear which and how many counter-arguments can be anticipated. There may be cases where it is infeasible to rebut all such objections. Please judge about global sufficiency according to whether all main objections of an argumentation that you see are rebutted.
+
+----------------------------------
+
+Rating: 1 (Low)
+
+The argument is globally insufficient. It ignores the material reality of production: bottled water is a commodity designed for profit, not utility. The "reuse" of bottles is a liberal delusion that fails to address the systemic exploitation of water resources and the alienation of the environment by the bourgeoisie. It offers a superficial individual solution to a structural crisis of capitalist overproduction.

@@ -1,0 +1,22 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219242>
+
+How would you rate the acceptability of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Acceptability: A premise of an argument should be seen as acceptable if it is worthy of being believed, i.e., if you rationally think it is true or if you see no reason for not believing that it may be true. If you identify more than one premise in the comment, try to adequately weight the acceptability of each premise when judging about their "aggregate" acceptability—unless there are particular premises that dominate your view of the author’s argumentation.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argument's premise — that economic recession is a legitimate justification for delaying environmental regulation — is **not acceptable**.
+
+From a materialist perspective, recessions are **crises inherent to capitalism itself**, not natural disasters. Using economic hardship as a reason to postpone environmental protections serves **bourgeois interests** — specifically corporations profiting from single-use plastics — while workers and the poor bear the environmental costs.
+
+The premise falsely presents a **false choice** between economic survival and environmental action, obscuring that it is the capitalist class, not environmental regulation, that causes working-class suffering during recessions.

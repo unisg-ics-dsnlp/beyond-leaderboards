@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219225>
+
+How would you rate the cogency of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Cogency: An argument should be seen as cogent if it has individually acceptable premises that are relevant to the argument’s conclusion and that are sufficient to draw the conclusion. Try to adequately weight your judgments about local acceptability, local relevance, and local sufficiency when judging about cogency—unless there is a particular dimension among these that dominates your view of an argument. Accordingly, if you identify more than one argument, try to adequately weight the cogency of each argument when judging about their "aggregate" cogency—unless there is a particular argument that dominates your view of the author’s argumentation.
+
+----------------------------------
+
+Rating: 2 (Medium)
+
+From a Libertarian perspective, the conclusion—that banning bottled water is a mistake—is absolutely correct because a ban is an act of coercion that violates property rights and voluntary exchange.
+
+However, the author's cogency is only medium because they rely on weak premises. Appealing to "helping the economy" is a collectivist argument; the morality of a product doesn't depend on its GDP contribution, but on the consent of the buyers and sellers. The points about waste and recycling are relevant to externalities, but the primary argument should be the Non-Aggression Principle: the state has no right to prohibit a peaceful transaction between consenting adults.

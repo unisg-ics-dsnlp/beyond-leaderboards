@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219259>
+
+How would you rate the clarity of the style of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Clarity: The style of an argumentation should be seen as clear if it uses gramatically correct and widely unambiguous language as well as if it avoids unnecessary complexity and deviation from the discussed issue. The used language should make it easy for you to understand without doubts what the author argues for and how.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The argument is generally readable and grammatically acceptable, but suffers from some clarity issues. The opening claim about bottled water being "less likely to be found" in developing countries is ambiguous and arguably contradicts the subsequent points. The logical thread connecting the sentences is not always explicit, leaving the reader to infer the argumentative direction. The language itself is simple, but the overall coherence of the argument is muddled enough to create doubt about precisely what conclusion the author is driving toward.

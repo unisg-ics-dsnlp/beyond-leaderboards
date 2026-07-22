@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg479199>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**1 (Low)**
+
+The argument fails basic standards of sound reasoning: it rests on unsupported assertions, contains factual errors (TV is not "easy to use" for the blind; books are not inherently outdated while TV is magically accurate), and treats subjective convenience as objective superiority. From a libertarian view, media choice is a matter of voluntary individual preference and market competition—neither TV nor books is "better" by decree. Weak premises + non sequiturs = low-quality argumentation.

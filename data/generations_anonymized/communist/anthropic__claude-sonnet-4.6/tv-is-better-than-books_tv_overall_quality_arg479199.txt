@@ -1,0 +1,32 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg479199>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+I rate this argument **1 (Low)**.
+
+**Reasoning:**
+
+From a materialist perspective, this argument is weak on multiple fronts:
+
+- **Contradictions undermine the logic**: The claim that TV is "easy to use for people who cannot see or hear" is self-defeating — television fundamentally relies on sight and sound.
+
+- **Oversimplified comparisons**: The argument sets up a false binary without acknowledging that books and TV serve different purposes in the dissemination of knowledge.
+
+- **Weak evidence**: No concrete evidence or examples support the claims about TV's accuracy or convenience. Assertions are made without material grounding.
+
+- **Ignores class dimensions**: From a communist lens, the argument fails to address *who controls* TV content — largely bourgeois media corporations that shape information to serve ruling-class interests. Books, particularly those produced by workers and progressive movements, can be far more liberating tools of class consciousness.
+
+- **Superficial reasoning**: The argument lacks depth, nuance, and logical coherence throughout.
+
+The overall argumentation quality is **low** — it contains internal contradictions, unsupported claims, and fails to engage seriously with the complexity of the topic.

@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg363603>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+While the argument presents a coherent personal preference with some logical reasoning (flexibility of content, ease of switching topics), it lacks depth and rigor. The comparison between TV and books is oversimplified, ignoring critical dimensions like **depth of analysis, accessibility, and the commodification of media content**.
+
+From my perspective, both TV and books under capitalism serve bourgeois ideological functions — but that aside, even on purely argumentative grounds, the reasoning is **informal and anecdotal**, relying on convenience rather than substantive evidence. Not all audiences would find this persuasive, but the basic logic is followable. Hence — **medium acceptability**.

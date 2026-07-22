@@ -1,0 +1,25 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219225>
+
+How would you rate the success of the author’s argumentation in creating credibility?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Credibility: An argumentation should be seen as successful in creating credibility if it conveys arguments and other information in a way that makes the author worthy of credence, e.g., by indicating the honesty of the author or by revealing the author’s knowledge or expertise regarding the discussed issue. It should be seen as not successful if rather the opposite holds. Decide in dubio pro reo, i.e., if you have no doubt about the author’s credibility, then do not judge him or her to be not credible.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From my perspective, this argument fails to establish credibility on several fronts:
+
+- **Biased sourcing**: The author cites **Nestlé Waters' own corporate website** as evidence — a clear conflict of interest. Citing an industry stakeholder to defend that industry is a fundamental credibility failure.
+- **Factual sloppiness**: The "less than 1% of world's waste" claim is presented without proper sourcing, and the formatting errors (garbled percentage symbol) suggest careless composition.
+- **Economic framing over ecological reality**: Prioritizing short-term recession recovery over long-term ecological harm reflects a shallow understanding of the issue, undermining the author's apparent expertise.
+- **Recycling myth**: Citing recycling rates without acknowledging that most plastic is *not* actually recycled, and that recycling doesn't address extraction or microplastic contamination, shows limited knowledge of the full ecological picture.
+
+The author demonstrates neither the honesty nor the expertise required to be deemed credible on this topic.

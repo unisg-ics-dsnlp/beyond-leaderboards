@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg525686>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The text is largely incoherent — it contains random strings of characters ("ihfej tijkjdrk xtklp09," etc.) that constitute no recognizable argument whatsoever. There is no claim supported by reasoning, no evidence, and no logical structure. It fails every basic criterion of reasonableness: it is neither acceptable, relevant, nor sufficient as argumentation. From any ideological standpoint, including mine, this does not qualify as a contribution to resolving any issue.

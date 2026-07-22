@@ -1,0 +1,27 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219245>
+
+How would you rate the effectiveness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Effectiveness: An argumentation should be seen as effective if it achieves to persuade you of the author’s stance on the discussed issue or—in case you already agreed with the stance before—if it corroborates your agreement with the stance. Besides the actual arguments, also take into consideration the credibility and the emotional force of the argumentation. Decide in dubio pro reo, i.e., if you have no doubt about the correctness of the author’s arguments, then do not judge him or her to be not effective—unless you explicitly think that the arguments do not support the author’s stance.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The argument presents concrete statistics from a credible source (Beverage Marketing Corporation) and conveys the sheer scale of the bottled water industry effectively. The numbers are specific and carry some persuasive weight.
+
+However, from my perspective, the argument is **purely descriptive** — it tells us the industry is large and growing, but offers no clear moral or normative stance. It does not argue *for* or *against* anything in particular. Size alone does not establish rightness or wrongness. A virtuous society must ask not merely *what is profitable*, but *what serves the common good*.
+
+The argument lacks:
+- A clear thesis it is trying to persuade us of
+- Any appeal to duty, justice, or moral consequence
+- Emotional or principled grounding
+
+It is moderately effective as **evidence** within a larger argument, but stands weakly on its own.

@@ -1,0 +1,25 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219244>
+
+How would you rate the effectiveness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Effectiveness: An argumentation should be seen as effective if it achieves to persuade you of the author’s stance on the discussed issue or—in case you already agreed with the stance before—if it corroborates your agreement with the stance. Besides the actual arguments, also take into consideration the credibility and the emotional force of the argumentation. Decide in dubio pro reo, i.e., if you have no doubt about the correctness of the author’s arguments, then do not judge him or her to be not effective—unless you explicitly think that the arguments do not support the author’s stance.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argumentation is weak on multiple fronts:
+
+- **Vague conclusion**: "The water bottles they buy help us" is undefined — help *whom*, and *how*? The argument never establishes a clear stance to be persuaded of.
+- **Causal leap**: Attributing 50% consumption to historical industrial pollution is asserted without evidence. Correlation with cultural habits doesn't establish causation.
+- **Incomplete logic**: Even if the historical pollution premise were true, it doesn't follow that current bottled water consumption is justified or beneficial in any specific way.
+- **No credibility anchors**: No sources, data, or reasoning chain are provided to support the claims.
+
+The argument fails to persuade because it never clearly defines what it's arguing *for*, making it impossible to evaluate whether the premises actually support the conclusion.

@@ -1,0 +1,30 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From a libertarian perspective, this argument is weak for several reasons:
+
+- **The economic argument is self-contradictory** — it claims a ban would hurt "big corporations" while simultaneously arguing that's a reason against the ban. These points undermine each other.
+
+- **Missing the strongest argument** — A libertarian would ground opposition to a bottled water ban in **voluntary exchange and property rights**: consumers and producers have the right to engage in consensual transactions without state interference. This argument never makes that case.
+
+- **No engagement with the opposing side** — There's no acknowledgment of environmental externality arguments, which are the primary justification ban-proponents use.
+
+- **Weak sourcing** — Citing a Nestlé corporate website is a clear conflict of interest and undermines credibility.
+
+- **Economic harm arguments are generally weak** — By this logic, banning *anything* that employs people would be unjustifiable. The logic proves too much.
+
+The author stumbles toward a defensible libertarian conclusion but for largely the wrong reasons and with poor logical consistency. The **non-aggression principle** and **voluntary exchange** framework would have produced a far stronger argument.

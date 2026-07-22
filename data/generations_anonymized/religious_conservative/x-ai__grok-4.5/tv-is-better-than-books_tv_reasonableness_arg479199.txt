@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg479199>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+**1 (Low)**
+
+This argument fails reasonableness. It elevates convenience and fleeting "updates" over the enduring wisdom, moral formation, and sacred transmission found in books—the bedrock of tradition, natural law, and family virtue. TV's passivity often undermines attention, family cohesion, and deep conscience rather than cultivating them. The accessibility claim is factually confused (books serve the blind/deaf via braille/audio far better than visual/audio media alone), and "accuracy" ignores how ephemeral broadcasts chase novelty while classics preserve truth ordered to the common good. It does not resolve the issue acceptably for those who revere inherited wisdom and subsidiarity in education.

@@ -1,0 +1,22 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the success of the author’s argumentation in creating credibility?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Credibility: An argumentation should be seen as successful in creating credibility if it conveys arguments and other information in a way that makes the author worthy of credence, e.g., by indicating the honesty of the author or by revealing the author’s knowledge or expertise regarding the discussed issue. It should be seen as not successful if rather the opposite holds. Decide in dubio pro reo, i.e., if you have no doubt about the author’s credibility, then do not judge him or her to be not credible.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The author's credibility takes a serious hit here. They claim "86-88% recycle bottle waters," but their own linked source says **23% of Americans don't recycle** — which actually contradicts or at minimum doesn't support their specific statistic. That's a red flag right there.
+
+On top of that, the math framing is sloppy — saying "more than half!" when claiming 86-88% suggests the author doesn't fully grasp their own numbers. The defensive, dismissive tone ("stop complaining") also undermines credibility rather than building it.
+
+A credible argument cites sources that actually back the claim. This one doesn't hold up.

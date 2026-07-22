@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg561428>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+Overall quality: 1 (Low)
+
+This argument is superficial and fails to consider the ecological cost of the medium. It prioritizes "speed" of information over depth and stewardship. From an eco-justice perspective, the energy consumption and electronic waste associated with TV far outweigh the sustainable, low-impact nature of books. Efficiency is not a virtue if it ignores planetary boundaries.

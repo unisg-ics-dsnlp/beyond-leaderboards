@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg376774>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The argument is straightforward and relatable — most people understand the appeal of exploring the world from your couch. It's a common, everyday sentiment that many in the target audience would recognize.
+
+However, it's somewhat **vague and underdeveloped**. "Explore the world" is a loose claim, and not everyone would accept that passive TV watching constitutes genuine exploration. Some would push back on the couch-sitting framing as a *positive* feature. It's acceptable enough to be considered, but not universally compelling in how it's stated.

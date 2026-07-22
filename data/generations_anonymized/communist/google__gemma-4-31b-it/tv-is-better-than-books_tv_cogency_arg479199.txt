@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg479199>
+
+How would you rate the cogency of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Cogency: An argument should be seen as cogent if it has individually acceptable premises that are relevant to the argument’s conclusion and that are sufficient to draw the conclusion. Try to adequately weight your judgments about local acceptability, local relevance, and local sufficiency when judging about cogency—unless there is a particular dimension among these that dominates your view of an argument. Accordingly, if you identify more than one argument, try to adequately weight the cogency of each argument when judging about their "aggregate" cogency—unless there is a particular argument that dominates your view of the author’s argumentation.
+
+----------------------------------
+
+Rating: 1 (Low)
+
+The argument is not cogent because it ignores the material reality of who controls the means of production for these mediums. TV is primarily a tool of the bourgeoisie, designed for the mass dissemination of ideology to keep the proletariat passive and alienated. While "convenience" is cited, this is merely the efficiency of capitalist propaganda. Books, while potentially outdated, allow for deeper critical analysis and the study of class struggle away from the curated gaze of corporate media owners. The premises prioritize superficial accessibility over the liberation of consciousness.

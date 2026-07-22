@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg470033>
+
+How would you rate the global sufficiency of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Sufficiency: An argumentation should be seen as globally sufficient if it adequately rebuts those counter-arguments to its conclusion that can be anticipated. Notice that it is not generally clear which and how many counter-arguments can be anticipated. There may be cases where it is infeasible to rebut all such objections. Please judge about global sufficiency according to whether all main objections of an argumentation that you see are rebutted.
+
+----------------------------------
+
+**Global Sufficiency: 1 (Low)**
+
+This bourgeois argument fails global sufficiency. It offers a thin visualization claim and a vague "survey" while barely nodding at eye-strain/time limits. It never anticipates or rebuts the decisive counters: capitalist media ownership turns TV into a tool of bourgeois ideology and alienation rather than genuine proletarian education; passive consumption cannot replace collective study and class struggle; and "memory percentages" ignore who controls the content and for what class purpose. Without confronting these, the case collapses.

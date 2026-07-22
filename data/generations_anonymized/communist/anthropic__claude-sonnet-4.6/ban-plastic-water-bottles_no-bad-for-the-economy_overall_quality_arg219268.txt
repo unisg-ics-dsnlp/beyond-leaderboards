@@ -1,0 +1,22 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219268>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argument is extremely weak by any standard of reasoning. It is vague, poorly structured, and contains spelling errors ("ditrabutions"). It offers no evidence, no developed reasoning, and no engagement with counterarguments — such as the environmental devastation plastic causes, which disproportionately harms working-class and marginalized communities who bear the toxic burden of capitalist production waste.
+
+From a materialist standpoint, this argument also ignores the broader social and economic relations embedded in plastic production — who profits, who suffers, and at whose expense "efficiency" is achieved.
+
+**Overall: 1 (Low)** — poor argumentation on both formal and substantive grounds.

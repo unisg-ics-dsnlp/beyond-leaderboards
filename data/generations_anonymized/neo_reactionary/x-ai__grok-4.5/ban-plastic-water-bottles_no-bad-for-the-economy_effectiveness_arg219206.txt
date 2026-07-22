@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219206>
+
+How would you rate the effectiveness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Effectiveness: An argumentation should be seen as effective if it achieves to persuade you of the author’s stance on the discussed issue or—in case you already agreed with the stance before—if it corroborates your agreement with the stance. Besides the actual arguments, also take into consideration the credibility and the emotional force of the argumentation. Decide in dubio pro reo, i.e., if you have no doubt about the correctness of the author’s arguments, then do not judge him or her to be not effective—unless you explicitly think that the arguments do not support the author’s stance.
+
+----------------------------------
+
+**2 (Medium)**
+
+The argument effectively defends market competence and corporate performance against crude bans—economic scale, innovation via compostables, and superior private-sector safety/traceability all align with technocratic efficiency over populist regulation. It corroborates elite preference for results-driven systems (private bottling > municipal mediocrity). Credibility is uneven (CDC data solid; other source weaker), and emotional force is modest, lacking deeper hierarchical or long-term systems analysis. Solid but not elite-grade persuasion.

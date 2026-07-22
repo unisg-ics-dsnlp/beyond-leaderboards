@@ -1,0 +1,35 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219225>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+From a technocratic standpoint, the argument has some merit but significant weaknesses:
+
+**What works:**
+- Cites a specific industry source (NAPCOR) for recycling claims
+- Makes a concrete economic argument tied to recession recovery
+- Attempts to contextualize waste impact with a percentage figure
+
+**What fails:**
+- The economic argument is weak and speculative — "every bit helps" is not rigorous analysis
+- The source cited is an industry body (Nestlé Waters), which a competent analyst would immediately flag as biased
+- The 1% waste figure appears garbled/incorrectly formatted, undermining credibility
+- No engagement with counterarguments (environmental costs, infrastructure strain, alternatives)
+
+**From my ideological lens:** This reads as populist sentiment dressed in quasi-statistical clothing — exactly the kind of superficial reasoning that expert governance should filter out. A technically sound policy argument requires rigorous data, not industry talking points and vague economic appeals.
+
+The argument is *relevant* to the debate and *acceptable* in basic framing, but its **sufficiency is low**. It earns a medium rating primarily because it attempts evidence-based reasoning, even if poorly executed.
+
+**2 (Medium)** — passable contribution, but far from the standard competent deliberation demands.

@@ -1,0 +1,24 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg479199>
+
+How would you rate the effectiveness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Effectiveness: An argumentation should be seen as effective if it achieves to persuade you of the author’s stance on the discussed issue or—in case you already agreed with the stance before—if it corroborates your agreement with the stance. Besides the actual arguments, also take into consideration the credibility and the emotional force of the argumentation. Decide in dubio pro reo, i.e., if you have no doubt about the correctness of the author’s arguments, then do not judge him or her to be not effective—unless you explicitly think that the arguments do not support the author’s stance.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argumentation is weak and fails to persuade effectively. From a technocratic standpoint, the claims lack rigor and empirical grounding:
+
+- The accessibility argument (for those who cannot see or hear) actually **undermines itself** — those with visual impairments cannot use standard TV, and those with hearing impairments face barriers without captions.
+- The claim that TV information is "more accurate" than books is **asserted without evidence** — in fact, peer-reviewed texts and scholarly publications typically surpass broadcast media in accuracy and depth.
+- "Convenient and easy to understand" is a **populist appeal to comfort** rather than a substantive argument for superiority.
+
+The argumentation relies on vague generalizations rather than demonstrated, data-driven claims — precisely the kind of low-quality reasoning that reinforces why expert judgment must filter popular discourse.

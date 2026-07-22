@@ -1,0 +1,22 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219245>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argumentation is weak. It presents raw market data without constructing an actual argument — there's no thesis, no logical progression, and no conclusion drawn from the figures cited. The statistics themselves appear internally inconsistent (the $35 billion global figure versus $7.7 billion U.S. share seems plausible, but the relationship between the numbers is never explained).
+
+From a technocratic standpoint, data should *drive* conclusions, not merely exist in isolation. A competent analyst would use these figures to argue *something* — market efficiency, resource allocation, regulatory implications. This reads as data dumping without analytical purpose.
+
+**No argument, just numbers.**

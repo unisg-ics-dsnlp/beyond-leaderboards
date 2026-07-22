@@ -1,0 +1,25 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the success of the author’s argumentation in creating credibility?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Credibility: An argumentation should be seen as successful in creating credibility if it conveys arguments and other information in a way that makes the author worthy of credence, e.g., by indicating the honesty of the author or by revealing the author’s knowledge or expertise regarding the discussed issue. It should be seen as not successful if rather the opposite holds. Decide in dubio pro reo, i.e., if you have no doubt about the author’s credibility, then do not judge him or her to be not credible.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From my perspective, this argument fails on credibility for several reasons:
+
+- **The source cited is a corporate website** (Nestlé Waters) — a transparently self-interested party. Citing a stakeholder who directly profits from the outcome is a fundamental credibility failure.
+- **The economic claims are vague and unsubstantiated** — "hundreds of jobs" and "millions of dollars" are thrown out without data, methodology, or expert backing.
+- **Internal contradiction**: The author simultaneously argues the ban would hurt "millions of Americans" *and* "only hurt big corporations" — these claims undermine each other.
+- **No technical expertise is demonstrated** — from a technocratic standpoint, a credible argument would reference economists, industry analysts, or empirical studies.
+
+The author appears to be advocating emotionally rather than analytically, which is precisely the kind of populist, unrigorous reasoning that produces poor policy outcomes.

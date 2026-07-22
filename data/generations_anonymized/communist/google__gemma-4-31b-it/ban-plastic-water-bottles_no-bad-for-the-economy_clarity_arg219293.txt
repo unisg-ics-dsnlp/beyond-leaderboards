@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the clarity of the style of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Clarity: The style of an argumentation should be seen as clear if it uses gramatically correct and widely unambiguous language as well as if it avoids unnecessary complexity and deviation from the discussed issue. The used language should make it easy for you to understand without doubts what the author argues for and how.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The author's argumentation is incoherent and contradictory. They claim a recycling rate of 86-88%, yet follow it with "That is more than half!", a redundant and simplistic observation. Furthermore, the provided source contradicts the claim, suggesting a far lower rate of participation. 
+
+From a materialist perspective, this is a classic example of bourgeois distraction—using flawed statistics to mask the systemic environmental devastation caused by the capitalist drive for profit and the mass production of plastic waste. The lack of logical rigor reflects a superficial approach to a crisis born of private ownership.

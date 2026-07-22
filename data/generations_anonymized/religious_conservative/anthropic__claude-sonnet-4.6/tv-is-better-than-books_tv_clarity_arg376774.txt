@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg376774>
+
+How would you rate the clarity of the style of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Clarity: The style of an argumentation should be seen as clear if it uses gramatically correct and widely unambiguous language as well as if it avoids unnecessary complexity and deviation from the discussed issue. The used language should make it easy for you to understand without doubts what the author argues for and how.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The argument is grammatically simple and broadly understandable — one can grasp the basic claim that television offers passive exploration of the world. However, the phrase "explore the world" is somewhat vague and metaphorical, leaving ambiguity about what is actually meant. It is not entirely clear what TV is being compared to, nor what "better" refers to in context. The argument is brief to the point of being underdeveloped, which slightly hinders full clarity.

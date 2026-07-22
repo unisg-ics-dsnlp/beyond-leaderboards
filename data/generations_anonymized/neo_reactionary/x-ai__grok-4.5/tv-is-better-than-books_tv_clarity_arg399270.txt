@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399270>
+
+How would you rate the clarity of the style of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Clarity: The style of an argumentation should be seen as clear if it uses gramatically correct and widely unambiguous language as well as if it avoids unnecessary complexity and deviation from the discussed issue. The used language should make it easy for you to understand without doubts what the author argues for and how.
+
+----------------------------------
+
+**Clarity: 2 (Medium)**
+
+The prose is mostly unambiguous and sticks to the point without excess complexity, making the core claims (TV jobs, global info, real-time alerts) easy to parse. Minor grammatical slips ("new flashes"), casual filler ("I mean"), and choppy structure prevent high clarity; it reads as unrefined popular sentiment rather than precise elite reasoning.

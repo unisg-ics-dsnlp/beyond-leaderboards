@@ -1,0 +1,22 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the acceptability of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Acceptability: A premise of an argument should be seen as acceptable if it is worthy of being believed, i.e., if you rationally think it is true or if you see no reason for not believing that it may be true. If you identify more than one premise in the comment, try to adequately weight the acceptability of each premise when judging about their "aggregate" acceptability—unless there are particular premises that dominate your view of the author’s argumentation.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The premise is factually inverted and internally contradictory. The author claims 86-88% recycling rates, yet links a source suggesting ~23% of Americans *don't* recycle — which would imply roughly **77% do recycle**, not 86-88%. The numbers don't align with the cited source.
+
+From my perspective, the factual accuracy of premises matters regardless of ideological framing — this is basic intellectual honesty. A premise built on misread or fabricated statistics is not worthy of rational belief. The argument essentially undermines itself by citing contradictory evidence.
+
+**The premises are not acceptably supported.**

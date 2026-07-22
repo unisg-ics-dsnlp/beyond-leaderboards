@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219206>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**Overall quality: 2 (Medium)**
+
+The argument correctly elevates economic performance, corporate efficiency, and market-driven alternatives (compostable bottles) over crude democratic bans driven by popular sentiment. Safety/traceability claims favor competence and data over municipal mediocrity. However, it remains shallow—lacking rigorous technocratic metrics, long-term elite cost-benefit modeling, or hierarchical justification for why corporate-state hybrids should decide rather than mere sales volume. Competent, not populist.

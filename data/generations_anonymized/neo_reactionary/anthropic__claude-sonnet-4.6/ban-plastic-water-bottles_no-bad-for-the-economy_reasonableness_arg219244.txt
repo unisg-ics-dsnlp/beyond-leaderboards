@@ -1,0 +1,28 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219244>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argumentation is poorly constructed on multiple dimensions:
+
+- **Acceptability**: The causal chain is weak. Attributing 50% bottled water consumption purely to "European culture" shaped by Industrial Revolution pollution is an oversimplification that conflates historical, regulatory, and infrastructural factors.
+
+- **Relevance**: The concluding claim — "the water bottles they buy help us" — is vague, unexplained, and disconnected from the preceding argument. Who is "us"? Help how? This renders the argument's resolution essentially meaningless.
+
+- **Sufficiency**: No evidence is provided linking historical pollution to *current* consumption patterns, especially given that Western European tap water quality today ranks among the world's highest by technical standards.
+
+From a technocratic standpoint, this is precisely the kind of poorly reasoned popular narrative that expert governance would filter out — anecdotal cultural explanations substituting for rigorous data-driven analysis.
+
+**Score: 1 (Low)**

@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399270>
+
+How would you rate the acceptability of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Acceptability: A premise of an argument should be seen as acceptable if it is worthy of being believed, i.e., if you rationally think it is true or if you see no reason for not believing that it may be true. If you identify more than one premise in the comment, try to adequately weight the acceptability of each premise when judging about their "aggregate" acceptability—unless there are particular premises that dominate your view of the author’s argumentation.
+
+----------------------------------
+
+**1 (Low)**
+
+These premises overstate TV's necessity while ignoring class realities: actors' jobs stem from capitalist entertainment industries that exploit labor for profit, not from TV itself—under collective ownership of media means, workers would create and control cultural production without bourgeois intermediaries. Global awareness and emergency alerts arise from material conditions and worker solidarity networks, not private TV monopolies that filter information to serve capital; newspapers, radio, and collective channels already suffice and can be expanded democratically. Such claims prop up private media ownership, which alienates workers and perpetuates bourgeois ideology rather than advancing proletarian control.

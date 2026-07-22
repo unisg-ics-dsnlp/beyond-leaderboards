@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219250>
+
+How would you rate the overall quality of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Overall quality: A definition of overall argumentation quality does not exist so far. Try to judge about the overall quality based on all those of your ratings that you think influence the overall quality of the given argumentation. If there is anything not covered by these ratings that influences your view of the author’s argumentation, also take that into account.
+
+----------------------------------
+
+**Overall quality: 1 (Low)**
+
+Simplistic concession + casual counter fails basic competence tests. No data, no systems analysis, no long-term efficiency calculus—mere popular sentiment. True resource optimization requires technocratic redesign (closed-loop infrastructure, elite-managed supply), not amateur reuse platitudes. Democracy of opinions yields waste; hierarchy of expertise yields results.

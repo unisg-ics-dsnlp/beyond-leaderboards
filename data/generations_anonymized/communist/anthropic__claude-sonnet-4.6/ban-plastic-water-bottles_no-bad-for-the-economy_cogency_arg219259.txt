@@ -1,0 +1,28 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219259>
+
+How would you rate the cogency of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Cogency: An argument should be seen as cogent if it has individually acceptable premises that are relevant to the argument’s conclusion and that are sufficient to draw the conclusion. Try to adequately weight your judgments about local acceptability, local relevance, and local sufficiency when judging about cogency—unless there is a particular dimension among these that dominates your view of an argument. Accordingly, if you identify more than one argument, try to adequately weight the cogency of each argument when judging about their "aggregate" cogency—unless there is a particular argument that dominates your view of the author’s argumentation.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From a materialist perspective, this argument has significant logical problems that undermine its cogency:
+
+**Acceptability issues:** The opening premise is factually questionable — bottled water is *more* prevalent in developing countries precisely because public infrastructure has been undermined, often by privatization pressures from capitalist institutions like the IMF and World Bank.
+
+**Relevance issues:** The claims about government distribution programs and container sizes, while not entirely irrelevant, do not coherently build toward a clear, unified conclusion. What is the argument actually concluding? That bottled water is *preferable*? That it is *sufficient*? This remains unclear.
+
+**Sufficiency issues:** Even if the premises were acceptable, they fail to sufficiently establish any meaningful conclusion. The argument ignores the **structural roots** of water insecurity — namely, the commodification of a basic necessity by private capital, which transforms water from a common good into a source of profit extracted from the most vulnerable workers and communities.
+
+The argument inadvertently defends a system where the **bourgeoisie profits from basic survival needs** rather than addressing why public water infrastructure was allowed to deteriorate in the first place — a consequence of capitalist disinvestment in collective goods.
+
+The premises are weak, the conclusion is unclear, and the argument lacks sufficient logical force. **Low cogency.**

@@ -1,0 +1,22 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg363603>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argument is poorly constructed and lacks logical rigor. The author conflates convenience with superiority — the ability to "switch channels" is a trivial feature comparison, not a substantive argument about informational value. Books offer depth, focus, and cognitive engagement that passive television consumption fundamentally cannot replicate.
+
+From my perspective, this argument reflects exactly the kind of shallow, distraction-driven thinking that undermines serious intellectual development. A competent elite requires rigorous, deep learning — not channel-surfing.
+
+Even setting aside my ideological lens, the argument would fail basic acceptability standards for most audiences: it's anecdotal, logically thin, and conflates entertainment flexibility with educational merit. The reasoning would not satisfy even a general audience expecting minimal argumentative coherence.

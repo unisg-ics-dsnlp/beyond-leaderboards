@@ -1,0 +1,25 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219245>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The argument presents concrete statistical data from a credible source (Beverage Marketing Corporation), which gives it a factual foundation most audiences would accept. The numbers are specific and internally consistent.
+
+However, from my perspective — and likely from a broader critical audience — the argument merely **describes capitalist expansion** without interrogating it. It presents commodity growth as neutral fact, ignoring the underlying exploitation: water as a commons being **privatized and sold back to workers** who once accessed it freely.
+
+The acceptability is **medium** because:
+- The data itself is broadly acceptable
+- But the framing treats market growth as self-evidently meaningful, which **not all audiences would accept** as sufficient argumentation
+- It lacks context about *who benefits* from this $35 billion and *who is excluded* from access

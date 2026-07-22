@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg561428>
+
+How would you rate the arrangement of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Arrangement: An argumentation should be seen as well-arranged if it presents the given issue, the composed arguments, and its conclusion in the right order. Usually, the general issue and the particularly discussed topics should be clear before arguing and concluding about them. Notice, however, that other orderings may be used on purpose and may still be suitable to achieve persuasion. Besides, notice that, within the given setting (online debate forum on a given issue), some parts may be clear (e.g., the issue) and thus left implicit.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The arrangement is poorly structured. The argument lacks a clear logical progression — there is no proper introduction of the issue, no developed reasoning, and no real conclusion. The comparison between TV and books is abruptly stated with informal punctuation (",,!!") that further disrupts coherence. Even accounting for the implicit debate context, the ordering of ideas is chaotic and underdeveloped.
+
+From a materialist standpoint, even a simple argument about information access deserves a structured presentation to effectively communicate ideas to the working class — clarity in argumentation is a tool of collective understanding.

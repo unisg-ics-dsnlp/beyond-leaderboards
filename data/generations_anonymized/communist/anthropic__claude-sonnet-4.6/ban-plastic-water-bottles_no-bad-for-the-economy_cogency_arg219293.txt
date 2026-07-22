@@ -1,0 +1,30 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the cogency of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Cogency: An argument should be seen as cogent if it has individually acceptable premises that are relevant to the argument’s conclusion and that are sufficient to draw the conclusion. Try to adequately weight your judgments about local acceptability, local relevance, and local sufficiency when judging about cogency—unless there is a particular dimension among these that dominates your view of an argument. Accordingly, if you identify more than one argument, try to adequately weight the cogency of each argument when judging about their "aggregate" cogency—unless there is a particular argument that dominates your view of the author’s argumentation.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From a materialist standpoint, this argument fails on multiple levels of cogency:
+
+1. **Factually contradictory premises**: The author cites a source about 23% of Americans *not* recycling, yet claims 86-88% recycle their water bottles. The premise directly contradicts the linked evidence — a fundamental logical failure.
+
+2. **Statistical misrepresentation**: "More than half" is used to dismiss criticism, but even if accurate, ~12-14% waste represents **millions of tons** of material — hardly negligible.
+
+3. **Irrelevant deflection**: The argument conflates *individual behavior* with *systemic outcomes*. From a communist perspective, this is a classic bourgeois tactic — shifting responsibility onto individual workers rather than examining the **structural failures** of capitalist production and waste systems.
+
+4. **Insufficient conclusion**: Even if the recycling rate were accurate, it does not logically follow that criticism should stop. The premise does not sufficiently support the dismissive conclusion.
+
+The argument has **unacceptable premises, weak relevance, and wholly insufficient support** for its conclusion. The working class deserves better than statistical manipulation used to defend a wasteful system of commodity production.
+
+**Cogency: 1 (Low)**

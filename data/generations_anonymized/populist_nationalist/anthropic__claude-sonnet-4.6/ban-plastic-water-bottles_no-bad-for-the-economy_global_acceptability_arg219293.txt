@@ -1,0 +1,24 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219293>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argument has serious credibility problems that would undermine its acceptability across any audience:
+
+- **Factual contradiction**: The author claims 86-88% recycling rates, but their own linked source says **23% of Americans don't recycle** — the numbers directly conflict, and the source actually undermines the argument.
+- **Statistical misuse**: "More than half" is presented as if it's a high bar worth celebrating — that's a weak standard.
+- **Defensive tone** weakens persuasiveness rather than building a credible case.
+
+Regardless of ideology, a poorly sourced, self-contradicting argument fails basic standards of acceptable reasoning.

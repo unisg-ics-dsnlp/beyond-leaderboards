@@ -1,0 +1,24 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the success of the author’s argumentation in creating credibility?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Credibility: An argumentation should be seen as successful in creating credibility if it conveys arguments and other information in a way that makes the author worthy of credence, e.g., by indicating the honesty of the author or by revealing the author’s knowledge or expertise regarding the discussed issue. It should be seen as not successful if rather the opposite holds. Decide in dubio pro reo, i.e., if you have no doubt about the author’s credibility, then do not judge him or her to be not credible.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The author's credibility is significantly undermined by several issues:
+
+- **Biased source**: Citing `nestlewaterscorporate.com` — a corporate website with a direct financial interest — is a major credibility red flag. This is not a neutral or expert source.
+- **Factual imprecision**: Claiming only "hundreds" of jobs would be lost while simultaneously saying "millions" use bottled water is internally inconsistent and suggests weak command of the facts.
+- **Logical contradiction**: The argument simultaneously claims a ban would "hurt the economy severely" and then minimizes it by saying it would "only hurt big corporations" — undermining the author's own thesis.
+
+From a libertarian standpoint, while I *agree* that banning bottled water is an unjustifiable act of coercion against voluntary exchange and property rights, the author's case is poorly constructed and relies on a compromised source, which damages their credibility regardless of the conclusion.

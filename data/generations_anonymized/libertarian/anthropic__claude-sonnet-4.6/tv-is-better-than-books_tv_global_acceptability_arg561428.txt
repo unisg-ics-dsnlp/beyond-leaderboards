@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg561428>
+
+How would you rate the global acceptability of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Acceptability: An argumentation should be seen as globally acceptable if everyone from the expected target audience would accept both the consideration of the stated arguments within the discussion of the given issue and the way they are stated. Notice that you may see an argumentation as globally acceptable even though the stated arguments do not persuade you of the author’s stance.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argument is poorly constructed and lacks logical rigor. The claim that TV delivers information faster than books is stated as a bare assertion without evidence, nuance, or acknowledgment of counterpoints (e.g., depth, accuracy, or reliability of information). The informal writing style (",,!!") further undermines its credibility. Most audiences — regardless of ideology — would find this reasoning too thin to accept as a serious argument.

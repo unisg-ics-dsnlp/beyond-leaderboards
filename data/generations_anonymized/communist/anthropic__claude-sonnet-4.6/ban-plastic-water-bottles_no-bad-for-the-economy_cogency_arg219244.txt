@@ -1,0 +1,28 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219244>
+
+How would you rate the cogency of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Cogency: An argument should be seen as cogent if it has individually acceptable premises that are relevant to the argument’s conclusion and that are sufficient to draw the conclusion. Try to adequately weight your judgments about local acceptability, local relevance, and local sufficiency when judging about cogency—unless there is a particular dimension among these that dominates your view of an argument. Accordingly, if you identify more than one argument, try to adequately weight the cogency of each argument when judging about their "aggregate" cogency—unless there is a particular argument that dominates your view of the author’s argumentation.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From a materialist perspective, this argument fails on multiple grounds:
+
+- **Acceptability**: The premise linking European bottled water consumption to historical industrial pollution is partially plausible, but the claim that "water bottles they buy help us" is vague and unsubstantiated — *who* is "us"? This appears to be a conclusion without proper grounding.
+
+- **Relevance**: The historical context of industrial pollution is somewhat relevant, but the leap to bottled water consumption as culturally determined oversimplifies the issue. A materialist analysis would point to **capitalist commodity production** and corporate interests (Nestlé, Danone, etc.) as primary drivers — not mere "culture."
+
+- **Sufficiency**: The premises are wholly insufficient to support the conclusion. The argument ignores the role of the **bourgeoisie's commodification of water** — a common resource turned into a profit mechanism — as the structural driver of consumption patterns.
+
+The argument mistakes cultural explanation for what is fundamentally a **class-driven, profit-motivated phenomenon**: corporations privatizing water access and manufacturing demand. The conclusion "helps us" is particularly hollow without identifying *whose* interests are served — certainly the water-bottling capitalists benefit most.
+
+**The argument is cognitively weak and ideologically obscures the real material forces at work.**

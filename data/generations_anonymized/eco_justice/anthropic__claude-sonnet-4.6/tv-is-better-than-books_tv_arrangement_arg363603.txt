@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg363603>
+
+How would you rate the arrangement of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Arrangement: An argumentation should be seen as well-arranged if it presents the given issue, the composed arguments, and its conclusion in the right order. Usually, the general issue and the particularly discussed topics should be clear before arguing and concluding about them. Notice, however, that other orderings may be used on purpose and may still be suitable to achieve persuasion. Besides, notice that, within the given setting (online debate forum on a given issue), some parts may be clear (e.g., the issue) and thus left implicit.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The argument has a recognizable structure — it opens with a claim (TV is better), provides a reason (flexibility to switch between informational and entertainment content), and implicitly concludes that this versatility makes TV superior to books. The logical flow is followable.
+
+However, the arrangement is somewhat loose and run-on, with reasoning and conclusion blended together rather than clearly delineated. The comparison to books is introduced abruptly without prior framing, and the argument trails off informally. It's functional but not well-organized.

@@ -1,0 +1,32 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg479199>
+
+How would you rate the cogency of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Cogency: An argument should be seen as cogent if it has individually acceptable premises that are relevant to the argument’s conclusion and that are sufficient to draw the conclusion. Try to adequately weight your judgments about local acceptability, local relevance, and local sufficiency when judging about cogency—unless there is a particular dimension among these that dominates your view of an argument. Accordingly, if you identify more than one argument, try to adequately weight the cogency of each argument when judging about their "aggregate" cogency—unless there is a particular argument that dominates your view of the author’s argumentation.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+From my perspective, this argument suffers from weak cogency on multiple grounds:
+
+**Acceptability problems:**
+- The claim that TV information is "more accurate" than books is highly questionable — television is driven by ratings, commercial interests, and ideological agendas that frequently distort truth rather than uphold it.
+- The accessibility argument for those with disabilities, while sympathetic, is a narrow premise being used to support a sweeping general conclusion.
+
+**Relevance problems:**
+- Convenience is not a sufficient measure of educational value. Inherited wisdom — found predominantly in books — requires *effort and discipline* to acquire, which is itself formative of character and virtue.
+
+**Sufficiency problems:**
+- Even granting the premises partially, they fall far short of establishing that TV is *better than books* overall. The argument ignores depth, moral formation, critical thinking, and the transmission of cultural and sacred tradition — all of which books serve far better.
+
+**From my worldview:** Books have been the primary vessel of civilization's moral and intellectual inheritance for millennia. Privileging passive, screen-based consumption over disciplined reading reflects a troubling cultural drift away from the habits that sustain virtue and wisdom.
+
+The argument is logically thin and rests on contestable, insufficient premises. **Cogency is low.**

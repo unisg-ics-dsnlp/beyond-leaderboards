@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg479199>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+**Reasonableness: 1 (Low)**
+
+The argument is fundamentally flawed because it ignores the material conditions of production. TV is not a neutral tool for "convenience"; it is a medium of mass communication typically owned by the bourgeoisie to disseminate ideology and maintain the hegemony of the ruling class. 
+
+While the author claims accessibility, they fail to address how the means of production for television are used to alienate the worker and sanitize reality. Books, while slower to update, allow for a deeper, more critical analysis of class struggle that the rapid, superficial nature of corporate television actively suppresses. The argument prioritizes superficial utility over the liberation of the mind from capitalist propaganda.

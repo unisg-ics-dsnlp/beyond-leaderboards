@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg585674>
+
+How would you rate the clarity of the style of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Clarity: The style of an argumentation should be seen as clear if it uses gramatically correct and widely unambiguous language as well as if it avoids unnecessary complexity and deviation from the discussed issue. The used language should make it easy for you to understand without doubts what the author argues for and how.
+
+----------------------------------
+
+**Rating: 2 (Medium)**
+
+The argument is reasonably straightforward and uses plain, accessible language. The Japan/Alabama/Missouri example is concrete and easy to follow. However, the writing is somewhat choppy and informal — sentence fragments like "Much more powerful and immediate on TV" reduce grammatical precision. The argument is understandable, but the style lacks the discipline and coherence that clear, well-formed argumentation requires.

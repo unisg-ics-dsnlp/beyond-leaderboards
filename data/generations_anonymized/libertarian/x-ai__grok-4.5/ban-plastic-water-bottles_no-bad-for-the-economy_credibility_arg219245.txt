@@ -1,0 +1,20 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219245>
+
+How would you rate the success of the author’s argumentation in creating credibility?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Credibility: An argumentation should be seen as successful in creating credibility if it conveys arguments and other information in a way that makes the author worthy of credence, e.g., by indicating the honesty of the author or by revealing the author’s knowledge or expertise regarding the discussed issue. It should be seen as not successful if rather the opposite holds. Decide in dubio pro reo, i.e., if you have no doubt about the author’s credibility, then do not judge him or her to be not credible.
+
+----------------------------------
+
+**2 (Medium)**
+
+The author cites a named industry source (Beverage Marketing Corporation) and supplies concrete production/revenue figures, which signals some research effort and basic domain knowledge—enough to avoid low credibility under the “in dubio pro reo” rule.  
+
+Yet the presentation is sloppy (incomplete opening claim, redundant restatement of the same $35 B figure, awkward unit phrasing), so it does not fully establish expertise or meticulous honesty. From a libertarian standpoint the data themselves usefully illustrate voluntary market growth, but that does not raise the argumentative craftsmanship above medium.

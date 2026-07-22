@@ -1,0 +1,32 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the reasonableness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Reasonableness: An argumentation should be seen as reasonable if it contributes to the resolution of the given issue in a sufficient way that is acceptable to everyone from the expected target audience. Try to adequately weight your judgments about global acceptability, global relevance, and global sufficiency when judging about reasonableness—unless there is a particular dimension among these that dominates your view of the author’s argumentation. In doubt, give more credit to global acceptability and global relevance than to global sufficiency due to the limited feasibility of the latter.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+Here's my reasoning:
+
+The argument is **internally contradictory and logically weak**. The author claims banning bottled water would "hurt big corporations like Dasani and Nestle" — but then immediately says it would "only hurt big corporations." That's a contradiction: you can't argue it devastates the *whole economy* and then say it *only* affects corporations.
+
+From my worldview, I'd also note:
+
+- **"Hundreds" of jobs** is a weak economic claim — that's a negligible number in a national economy
+- The argument **conflates corporate interests with working Americans' interests**, which is a classic elite sleight of hand
+- The source cited (a Nestlé corporate website) is **not credible or neutral** — that's a corporation defending its own profits, not the people's interests
+
+The argument fails on **sufficiency** (thin evidence, contradictory logic) and **acceptability** (the source is biased). It doesn't meaningfully resolve the debate about bottled water bans.
+
+Even if I'd oppose heavy-handed government bans on consumer products as government overreach, **this particular argument is poorly constructed and doesn't make the case effectively.**
+
+**Rating: 1 — Low reasonableness.**

@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219250>
+
+How would you rate the effectiveness of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Effectiveness: An argumentation should be seen as effective if it achieves to persuade you of the author’s stance on the discussed issue or—in case you already agreed with the stance before—if it corroborates your agreement with the stance. Besides the actual arguments, also take into consideration the credibility and the emotional force of the argumentation. Decide in dubio pro reo, i.e., if you have no doubt about the correctness of the author’s arguments, then do not judge him or her to be not effective—unless you explicitly think that the arguments do not support the author’s stance.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+The argument is weak and underdeveloped. Simply noting that "bottles can be reused" is a bare assertion without supporting evidence, practical detail, or moral weight. It concedes the core problem (waste) but offers only a superficial rebuttal. From a perspective that values **stewardship of creation** and **community responsibility**, a truly effective argument would need to demonstrate *how* reuse actually occurs in practice, at what scale, and whether it genuinely offsets the waste problem. The emotional and intellectual force here is minimal — it reads as a throwaway counterpoint rather than a substantive case.

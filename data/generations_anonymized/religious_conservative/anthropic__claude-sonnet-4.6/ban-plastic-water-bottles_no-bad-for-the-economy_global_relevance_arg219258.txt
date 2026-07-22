@@ -1,0 +1,25 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219258>
+
+How would you rate the global relevance of the author’s argumentation?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Global Relevance: An argumentation should be seen as globally relevant if it contributes to the resolution of the given issue, i.e., if it provides arguments and/or other information that help to arrive at an ultimate conclusion regarding the discussed issue. You should be open to see an argumentation as relevant even if it does not your match your stance on the issue. Rather, the question is whether the provided arguments and information are worthy of being considered within the discussion of the issue.
+
+----------------------------------
+
+**Rating: 1 (Low)**
+
+While economic considerations are not without merit in any policy discussion, this argument suffers from several weaknesses that limit its global relevance:
+
+- **Narrow scope**: It focuses almost exclusively on corporate profits and jobs, ignoring broader dimensions of the debate (environmental stewardship, public health, community water infrastructure).
+- **Internal contradiction**: The argument simultaneously claims a ban would hurt "hundreds" of workers *and* "big corporations" — these are vastly different scales of concern, and the reasoning is muddled.
+- **No engagement with the core issue**: A truly relevant argument would weigh economic costs *against* the reasons a ban might be proposed in the first place.
+- **Source concern**: The cited source (a corporate website) raises credibility questions.
+
+From a natural law and common good perspective, economic arguments must be weighed against the full flourishing of persons and communities — not merely profit margins. This argument does not meaningfully advance the resolution of the issue.

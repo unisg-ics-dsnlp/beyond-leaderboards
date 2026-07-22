@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg399268>
+
+How would you rate the relevance of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Relevance: A premise of an argument should be seen as relevant if it contributes to the acceptance or rejection of the argument’s conclusion, i.e., if you think it is worthy of being considered as a reason, evidence, or similar regarding the conclusion. If you identify more than one premise in the comment, try to adequately weight the relevance of each premise when judging about their "aggregate" relevance—unless there are particular premises that dominate your view of the author’s argumentation. You should be open to see a premise as relevant even if it does not match your own stance on the issue.
+
+----------------------------------
+
+**Rating: 3 (High)**
+
+The premise is directly and clearly relevant to the conclusion. The claim that the Foxtel Go app is available on iPad **directly supports** the conclusion that one can watch TV anywhere and anytime — it is the precise reason offered for that conclusion. There is a tight logical connection between premise and conclusion, with no extraneous or tangential information. The premise does exactly what a premise should do: it provides a concrete, specific reason that substantiates the claim being made.

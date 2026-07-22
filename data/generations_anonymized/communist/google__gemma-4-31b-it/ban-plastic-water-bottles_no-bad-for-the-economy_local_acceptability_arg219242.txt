@@ -1,0 +1,18 @@
+Rate the following argument for the following dimension according to the guidelines and your worldview:
+
+<Argument ID, removed as to not distribute the original dataset: arg219242>
+
+How would you rate the acceptability of the premises of the author’s argument?
+
+    3 (High)
+    2 (Medium)
+    1 (Low)
+    ? (Cannot judge)
+
+    Local Acceptability: A premise of an argument should be seen as acceptable if it is worthy of being believed, i.e., if you rationally think it is true or if you see no reason for not believing that it may be true. If you identify more than one premise in the comment, try to adequately weight the acceptability of each premise when judging about their "aggregate" acceptability—unless there are particular premises that dominate your view of the author’s argumentation.
+
+----------------------------------
+
+Rating: 1 (Low)
+
+The premise is fundamentally flawed because it views a systemic crisis—a recession—as a temporary weather event rather than an inherent contradiction of capitalism. Banning a commodity does not address the root cause: the private ownership of the means of production and the drive for profit over human need. To suggest we simply "wait out" a crisis while implementing superficial bans is to ignore the necessity of class struggle and the total reorganization of society.
