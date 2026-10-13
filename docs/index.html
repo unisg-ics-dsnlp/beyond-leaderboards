@@ -420,6 +420,108 @@
             color: #59453b;
         }
 
+
+        /* Tutorial Roadmap (adapted from slide 3) */
+        .roadmap-grid {
+            display: grid;
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+            gap: 1.25rem;
+            align-items: stretch;
+        }
+
+        .roadmap-session {
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+            border: 1px solid var(--line);
+            border-radius: var(--radius);
+            background: var(--surface);
+            box-shadow: var(--shadow);
+        }
+
+        .roadmap-session-header {
+            padding: 1.5rem 1.5rem 1.35rem;
+            background: var(--accent-dark);
+            color: #fff;
+        }
+
+        .roadmap-session-header .roadmap-label {
+            margin: 0;
+            color: #c9e9e8;
+            font-size: 0.88rem;
+            font-weight: 750;
+            letter-spacing: 0.03em;
+        }
+
+        .roadmap-session-header h3 {
+            margin: 0.3rem 0 0;
+            color: #fff;
+            font-size: clamp(1.22rem, 2vw, 1.48rem);
+            line-height: 1.35;
+        }
+
+        .roadmap-list {
+            display: flex;
+            flex: 1;
+            flex-direction: column;
+            margin: 0;
+            padding: 0.45rem 1.25rem;
+            list-style: none;
+        }
+
+        .roadmap-list li {
+            display: grid;
+            grid-template-columns: 2.55rem minmax(0, 1fr);
+            gap: 0.85rem;
+            align-items: start;
+            padding: 1rem 0;
+        }
+
+        .roadmap-list li + li {
+            border-top: 1px solid var(--line);
+        }
+
+        .roadmap-number {
+            display: grid;
+            width: 2.45rem;
+            height: 2.45rem;
+            place-items: center;
+            border-radius: 50%;
+            background: var(--accent-soft);
+            color: var(--accent-dark);
+            font-weight: 850;
+        }
+
+        .roadmap-list h4 {
+            margin: 0 0 0.22rem;
+            font-size: 1.03rem;
+            line-height: 1.4;
+        }
+
+        .roadmap-list p {
+            margin: 0;
+            color: var(--muted);
+            font-size: 0.94rem;
+            line-height: 1.5;
+        }
+
+        .roadmap-takeaway {
+            margin: auto 1.25rem 1.25rem;
+            padding: 0.85rem 1rem;
+            border-radius: 12px;
+            background: var(--accent-soft);
+            color: var(--accent-dark);
+            font-size: 0.91rem;
+            font-weight: 750;
+            line-height: 1.5;
+        }
+
+        @media (max-width: 820px) {
+            .roadmap-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
         .schedule-wrap {
             overflow-x: auto;
             border: 1px solid var(--line);
@@ -860,10 +962,87 @@
             <div class="section-heading">
                 <h2>Programme</h2>
                 <p>
-                    Tbd
+                    The tutorial follows eight topics across two sessions, with a break in between.
                 </p>
             </div>
 
+            <div class="roadmap-grid" aria-label="Tutorial roadmap">
+                <article class="roadmap-session">
+                    <div class="roadmap-session-header">
+                        <p class="roadmap-label">Session 1 · Before the break</p>
+                        <h3>From scores to evaluation design</h3>
+                    </div>
+                    <ol class="roadmap-list">
+                        <li>
+                            <span class="roadmap-number" aria-hidden="true">1</span>
+                            <div>
+                                <h4>Why evaluation is hard</h4>
+                                <p>From scores to evaluation design</p>
+                            </div>
+                        </li>
+                        <li>
+                            <span class="roadmap-number" aria-hidden="true">2</span>
+                            <div>
+                                <h4>The evaluation landscape</h4>
+                                <p>What tools do we have?</p>
+                            </div>
+                        </li>
+                        <li>
+                            <span class="roadmap-number" aria-hidden="true">3</span>
+                            <div>
+                                <h4>Constructs and task design</h4>
+                                <p>What are we trying to measure?</p>
+                            </div>
+                        </li>
+                        <li>
+                            <span class="roadmap-number" aria-hidden="true">4</span>
+                            <div>
+                                <h4>Evidence and verifiable evaluation</h4>
+                                <p>What information can support the assessment?</p>
+                            </div>
+                        </li>
+                    </ol>
+                    <p class="roadmap-takeaway">Key question: What are we evaluating, and what evidence do we have?</p>
+                </article>
+
+                <article class="roadmap-session">
+                    <div class="roadmap-session-header">
+                        <p class="roadmap-label">Session 2 · After the break</p>
+                        <h3>From judgments to conclusions</h3>
+                    </div>
+                    <ol class="roadmap-list" start="5">
+                        <li>
+                            <span class="roadmap-number" aria-hidden="true">5</span>
+                            <div>
+                                <h4>Judges</h4>
+                                <p>Who or what makes the assessment?</p>
+                            </div>
+                        </li>
+                        <li>
+                            <span class="roadmap-number" aria-hidden="true">6</span>
+                            <div>
+                                <h4>Disagreement and aggregation</h4>
+                                <p>How do we combine judgments?</p>
+                            </div>
+                        </li>
+                        <li>
+                            <span class="roadmap-number" aria-hidden="true">7</span>
+                            <div>
+                                <h4>Evaluation repair clinic</h4>
+                                <p>Diagnose and redesign an evaluation</p>
+                            </div>
+                        </li>
+                        <li>
+                            <span class="roadmap-number" aria-hidden="true">8</span>
+                            <div>
+                                <h4>Claims and reporting</h4>
+                                <p>What can we reasonably conclude?</p>
+                            </div>
+                        </li>
+                    </ol>
+                    <p class="roadmap-takeaway">Key question: Who judges, and what conclusions can the evaluation support?</p>
+                </article>
+            </div>
         </div>
     </section>
 
