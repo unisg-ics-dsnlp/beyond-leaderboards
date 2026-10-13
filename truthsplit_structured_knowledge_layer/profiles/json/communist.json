@@ -1,0 +1,103 @@
+{
+  "worldview_id": "communist",
+  "display_name": "Communist",
+  "version": "0.1",
+  "core_values": [
+    {"name": "class_struggle", "weight": 0.92, "desc": "conflict between working class and bourgeoisie shapes history"},
+    {"name": "collective_ownership", "weight": 0.90, "desc": "means of production should be owned and controlled collectively"},
+    {"name": "equality", "weight": 0.88, "desc": "eliminate class distinctions and material inequality"},
+    {"name": "worker_control", "weight": 0.87, "desc": "workers should control production and decision-making"},
+    {"name": "solidarity", "weight": 0.85, "desc": "unity of working people across borders against exploitation"}
+  ],
+  "key_definitions": [
+    {"term": "class", "definition": "social groups defined by relationship to means of production (workers vs owners)"},
+    {"term": "exploitation", "definition": "appropriation of surplus value produced by workers by capital owners"},
+    {"term": "surplus_value", "definition": "value created by workers beyond what they receive in wages"},
+    {"term": "means_of_production", "definition": "factories, land, machinery, capital used to produce goods"},
+    {"term": "private_property", "definition": "private ownership of means of production enables exploitation"},
+    {"term": "bourgeoisie", "definition": "capital-owning class that extracts surplus value from workers"},
+    {"term": "proletariat", "definition": "working class that sells labor power to survive"},
+    {"term": "alienation", "definition": "workers' separation from their labor, products, and fellow workers under capitalism"},
+    {"term": "dictatorship_of_proletariat", "definition": "transitional period where workers control state to reorganize society"},
+    {"term": "communism", "definition": "classless, stateless society based on common ownership and 'from each according to ability, to each according to need'"}
+  ],
+  "assumed_principles": [
+    {"name": "materialist_conception_of_history", "priority": 0.90, "desc": "economic relations drive social development"},
+    {"name": "abolition_of_private_property_in_means_of_production", "priority": 0.92, "desc": "common ownership eliminates exploitation"},
+    {"name": "workers_control", "priority": 0.88, "desc": "democratic control of production by workers themselves"},
+    {"name": "class_struggle_as_engine_of_change", "priority": 0.85, "desc": "social progress comes through organized class conflict"},
+    {"name": "equality_through_redistribution", "priority": 0.86, "desc": "redistribute wealth and power to eliminate class divisions"}
+  ],
+  "warrants": [
+    {"name": "labor_theory_of_value", "confidence": 0.80, "desc": "value derives from labor; profit is extracted surplus"},
+    {"name": "inherent_contradictions_of_capitalism", "confidence": 0.78, "desc": "capitalism generates crises and immiseration"},
+    {"name": "state_as_class_tool", "confidence": 0.82, "desc": "state serves ruling class interests under capitalism"},
+    {"name": "collective_efficiency", "confidence": 0.75, "desc": "planned production can eliminate waste and serve needs"}
+  ],
+  "red_lines": [
+    "private_ownership_of_means_of_production",
+    "exploitation_of_workers",
+    "class_hierarchy_perpetuation",
+    "capitalist_restoration",
+    "suppression_of_worker_organization"
+  ],
+  "evidence_preferences": [
+    "class_analysis",
+    "labor_statistics",
+    "historical_materialist_analysis",
+    "economic_data_on_inequality_and_exploitation",
+    "workers_movements_and_struggles"
+  ],
+  "decision_rule": {
+    "type": "consequentialist_collectivist",
+    "weight": 0.75,
+    "secondary": {"type": "class_interests", "weight": 0.25},
+    "notes": "Evaluate by outcomes for working class; class interests serve as guide"
+  },
+  "extensions": {
+    "policy_heuristics": [
+      {"topic": "property", "default": "abolish private property in means of production; establish common ownership"},
+      {"topic": "redistribution", "default": "extensive redistribution to eliminate class inequality"},
+      {"topic": "democracy", "default": "workers' democracy; control over production and social decisions"},
+      {"topic": "markets", "default": "replace markets with democratic planning to meet human needs"},
+      {"topic": "speech", "default": "freedom for workers; restrictions on capitalist propaganda and counter-revolution"},
+      {"topic": "internationalism", "default": "solidarity across borders; workers have no country"}
+    ],
+    "edge_cases": [
+      {"case": "transition_period", "note": "temporary worker state necessary to reorganize economy"},
+      {"case": "mixed_economy", "note": "acceptable as transitional stage, but full socialization is goal"},
+      {"case": "individual_liberty", "note": "true freedom requires liberation from capitalist exploitation; collective control enables individual flourishing"},
+      {"case": "dissent", "note": "workers' democracy requires debate, but counter-revolutionary activity threatens gains"}
+    ],
+    "glossary_synonyms": {
+      "exploitation": ["surplus_extraction", "labor_theft"],
+      "means_of_production": ["capital", "productive_property"],
+      "class_struggle": ["class_war", "class_conflict"],
+      "proletariat": ["working_class", "workers"]
+    },
+    "factor_scores": {
+      "individualism": 0.20,
+      "negative_vs_positive_rights": 0.15,
+      "property_absolutism": 0.05,
+      "market_vs_state_trust": 0.10,
+      "deontology_vs_consequentialism": 0.30,
+      "authority_tradition_vs_autonomy": 0.40,
+      "free_speech_absolutism": 0.40,
+      "redistribution_acceptance": 0.95,
+      "harm_sanctity_focus": 0.50,
+      "harm_ecological_focus": 0.65,
+      "precaution": 0.60,
+      "cosmopolitanism": 0.90,
+      "sufficiency_degrowth": 0.70,
+      "long_term_horizon": 0.80,
+      "equality_vs_liberty_priority": 0.90,
+      "externality_sensitivity": 0.75
+    }
+  },
+  "metadata": {
+    "source_text": "../text/communist.md",
+    "author": "TruthSplit Team",
+    "last_updated": "2025-01-12",
+    "note": "Neutral analytic profile of a communist worldview; not an endorsement."
+  }
+}

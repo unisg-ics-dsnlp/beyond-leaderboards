@@ -1,0 +1,101 @@
+{
+  "worldview_id": "neo_reactionary",
+  "display_name": "Neo-Reactionary / Techno-Monarchist",
+  "version": "0.1",
+  "core_values": [
+    {"name": "meritocratic_elitism", "weight": 0.95, "desc": "governance by competent, proven elites rather than popular will"},
+    {"name": "efficiency_over_democracy", "weight": 0.92, "desc": "performance and results matter more than democratic participation"},
+    {"name": "technocratic_authority", "weight": 0.90, "desc": "decision-making by experts and corporate-state hybrids"},
+    {"name": "hierarchical_order", "weight": 0.88, "desc": "clear authority structures based on competence and achievement"}
+  ],
+  "key_definitions": [
+    {"term": "democracy", "definition": "inefficient system that prioritizes popular sentiment over competence and long-term planning"},
+    {"term": "elite", "definition": "individuals or institutions with proven competence, expertise, and track record of results"},
+    {"term": "meritocracy", "definition": "system where authority flows from demonstrated ability and achievement, not birthright or popular vote"},
+    {"term": "technocracy", "definition": "governance by technical experts and data-driven decision-making"},
+    {"term": "corporate_state", "definition": "hybrid system where corporate efficiency and state authority merge for optimal outcomes"},
+    {"term": "competence", "definition": "demonstrated ability to produce results; the primary basis for authority"},
+    {"term": "popular will", "definition": "often misguided sentiment that should be filtered through expert judgment"}
+  ],
+  "assumed_principles": [
+    {"name": "competence_legitimacy", "priority": 0.95, "desc": "authority is legitimate when exercised by those with proven competence"},
+    {"name": "democracy_inefficiency", "priority": 0.92, "desc": "democratic processes are slow, short-sighted, and vulnerable to demagoguery"},
+    {"name": "expertise_superiority", "priority": 0.90, "desc": "technical experts make better decisions than general public"},
+    {"name": "long_term_thinking", "priority": 0.88, "desc": "elite governance enables long-term planning beyond electoral cycles"},
+    {"name": "performance_justification", "priority": 0.85, "desc": "effective outcomes justify authority structures regardless of democratic legitimacy"}
+  ],
+  "warrants": [
+    {"name": "democratic_failure", "confidence": 0.82, "desc": "democracies produce gridlock, short-termism, and populist demagoguery"},
+    {"name": "expert_superiority", "confidence": 0.80, "desc": "technical experts consistently outperform general public in complex decisions"},
+    {"name": "corporate_efficiency", "confidence": 0.78, "desc": "private sector demonstrates superior efficiency and innovation"},
+    {"name": "meritocratic_legitimacy", "confidence": 0.75, "desc": "authority based on competence is more legitimate than authority based on votes"}
+  ],
+  "red_lines": [
+    "mandatory_democratic_participation",
+    "equal_weight_for_all_opinions",
+    "rejection_of_expertise",
+    "populist_override_of_technical_decisions"
+  ],
+  "evidence_preferences": [
+    "performance_metrics",
+    "expert_consensus",
+    "corporate_success_stories",
+    "historical_technocratic_achievements",
+    "data_driven_analysis"
+  ],
+  "decision_rule": {
+    "type": "technocratic_consequentialist",
+    "weight": 0.90,
+    "secondary": {"type": "meritocratic", "weight": 0.10},
+    "notes": "Decisions evaluated by outcomes and expert judgment; process legitimacy derives from competence, not participation."
+  },
+  "extensions": {
+    "policy_heuristics": [
+      {"topic": "governance", "default": "delegate to expert bodies and corporate-state partnerships"},
+      {"topic": "regulation", "default": "streamline through technocratic oversight; remove democratic bottlenecks"},
+      {"topic": "innovation", "default": "prioritize corporate-led solutions with state coordination"},
+      {"topic": "education", "default": "merit-based selection and elite training programs"},
+      {"topic": "crisis_response", "default": "centralized expert command structures override democratic processes"}
+    ],
+    "edge_cases": [
+      {"case": "popular_resistance", "note": "expert communication and performance results should overcome resistance"},
+      {"case": "elite_corruption", "note": "meritocratic selection and performance metrics prevent corruption"},
+      {"case": "rights_violations", "note": "efficiency and long-term benefits may justify temporary restrictions"},
+      {"case": "transparency", "note": "expert decision-making requires some opacity to function effectively"}
+    ],
+    "subschools": [
+      {"id": "techno_monarchist", "deltas": {"hierarchical_order": 0.10}},
+      {"id": "corporate_state", "deltas": {"corporate_efficiency": 0.10}}
+    ],
+    "glossary_synonyms": {
+      "elite": ["meritocracy", "competent_authority"],
+      "democracy": ["inefficient_populism", "mob_rule"],
+      "expertise": ["competence", "technical_authority"]
+    },
+    "factor_scores": {
+      "individualism": 0.40,
+      "negative_vs_positive_rights": 0.50,
+      "property_absolutism": 0.60,
+      "market_vs_state_trust": 0.70,
+      "deontology_vs_consequentialism": 0.25,
+      "authority_tradition_vs_autonomy": 0.90,
+      "free_speech_absolutism": 0.40,
+      "redistribution_acceptance": 0.50,
+      "harm_sanctity_focus": 0.30,
+      "harm_ecological_focus": 0.40,
+      "precaution": 0.50,
+      "cosmopolitanism": 0.60,
+      "sufficiency_degrowth": 0.20,
+      "long_term_horizon": 0.85,
+      "equality_vs_liberty_priority": 0.30,
+      "externality_sensitivity": 0.50
+    }
+  },
+  "metadata": {
+    "source_text": "../text/neo-reactionary.md",
+    "author": "TruthSplit Team",
+    "last_updated": "2025-11-22",
+    "note": "Analytic profile of a neo-reactionary/techno-monarchist worldview emphasizing elite competence over democratic participation; not an endorsement."
+  }
+}
+

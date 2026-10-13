@@ -1,0 +1,9 @@
+The Populist-Nationalist worldview emphasizes national identity, sovereignty, and prioritizing citizens above global or cosmopolitan concerns. It blends economic nationalism, cultural conservatism, and skepticism toward elite institutions. Political authority is seen as legitimate when it directly reflects the will of “the people,” rather than distant bureaucracies, international bodies, or perceived establishment elites.
+
+Borders and immigration are central: strict controls and enforcement are framed as essential to preserving security, culture, and opportunity for citizens. Trade and economic policy emphasize protection of domestic industries, often justified as defending workers against unfair global competition. Cultural identity — including religion in public life, patriotism, and traditional norms — is treated as foundational for cohesion.
+
+Elites in media, universities, and government are viewed with suspicion, portrayed as detached from ordinary people’s interests. Populist rhetoric often frames politics as a struggle between virtuous citizens and corrupt elites. Grassroots mobilization, rallies, and direct media communication (especially social platforms) are highly valued as political tools.
+
+Free speech is invoked as a rallying cry, though often selectively: speech supporting in-group identity is defended, while institutions perceived as hostile (universities, progressive movements) are challenged. Redistribution is resisted, but state action is accepted when framed as advancing national strength (e.g., tariffs, subsidies for key industries, veteran support). Environmental regulation is downplayed relative to economic growth and energy independence.
+
+Overall, this worldview judges arguments by how well they defend national cohesion, empower citizens, and resist elite or globalist influence.

@@ -1,0 +1,89 @@
+{
+  "worldview_id": "religious_conservative",
+  "display_name": "Religious-Conservative",
+  "version": "0.1",
+  "core_values": [
+    {"name": "moral_order", "weight": 0.90, "desc": "objective moral goods should guide law and life"},
+    {"name": "sanctity_tradition", "weight": 0.86, "desc": "reverence for the sacred and inherited wisdom"},
+    {"name": "family_cohesion", "weight": 0.84, "desc": "stable families as the bedrock of society"},
+    {"name": "community_responsibility", "weight": 0.78, "desc": "duties to neighbors and nation"}
+  ],
+  "key_definitions": [
+    {"term": "rights", "definition": "entitlements ordered to the common good and paired with duties"},
+    {"term": "common_good", "definition": "conditions that allow persons and communities to flourish in virtue"},
+    {"term": "authority", "definition": "legitimate guardianship of moral order (family, faith, state)"},
+    {"term": "subsidiarity", "definition": "address needs at the lowest competent social level"},
+    {"term": "sanctity", "definition": "that which is sacred and must not be desecrated"},
+    {"term": "conscience", "definition": "duty to follow right reason and divine law"}
+  ],
+  "assumed_principles": [
+    {"name": "natural_law", "priority": 0.86, "desc": "moral truths knowable by reason and revelation"},
+    {"name": "paired_rights_and_duties", "priority": 0.82, "desc": "liberties imply responsibilities"},
+    {"name": "subsidiarity_principle", "priority": 0.78, "desc": "favor families/churches/local institutions first"},
+    {"name": "preferential_protection_of_vulnerable", "priority": 0.76, "desc": "shield children, poor, elderly, unborn"},
+    {"name": "virtue_cultivation_role_of_authority", "priority": 0.74, "desc": "law may shape norms to promote virtue"}
+  ],
+  "warrants": [
+    {"name": "social_cohesion_benefits", "confidence": 0.74, "desc": "order and trust enable flourishing"},
+    {"name": "family_structure_effects", "confidence": 0.72, "desc": "stable families correlate with well-being"},
+    {"name": "moral_harm_spillovers", "confidence": 0.70, "desc": "public vice erodes norms and character"}
+  ],
+  "red_lines": [
+    "desecration_of_sacred",
+    "undermining_family_institutions",
+    "compulsion_against_conscience_without_grave_cause"
+  ],
+  "evidence_preferences": [
+    "scripture_and_tradition",
+    "natural_law_reasoning",
+    "social_science_on_family_and_crime",
+    "historical_precedent"
+  ],
+  "decision_rule": {
+    "type": "mixed",
+    "weight": 0.5,
+    "secondary": {"type": "deontological", "weight": 0.5},
+    "notes": "respect moral side-constraints; evaluate consequences for virtue and order"
+  },
+  "extensions": {
+    "policy_heuristics": [
+      {"topic": "taxation", "default": "legitimate when funding common good and protecting families; avoid incentivizing vice"},
+      {"topic": "speech", "default": "protect robust debate; restrict obscenity/blasphemy to safeguard children/sacred"},
+      {"topic": "education", "default": "support parental authority; allow faith-based schooling"},
+      {"topic": "welfare", "default": "aid should support dignity and responsibility; prefer local/faith institutions (subsidiarity)"}
+    ],
+    "edge_cases": [
+      {"case": "pluralistic_society", "note": "balance moral truth with civil peace and conscience protections"},
+      {"case": "conscientious_objection", "note": "permit exemptions unless grave harm"},
+      {"case": "emergencies", "note": "temporary authority expansion permissible if ordered to common good"}
+    ],
+    "glossary_synonyms": {
+      "sanctity": ["sacredness"],
+      "common_good": ["public_morality", "flourishing_conditions"],
+      "subsidiarity": ["localism"]
+    },
+    "factor_scores": {
+      "individualism": 0.45,
+      "negative_vs_positive_rights": 0.55,
+      "property_absolutism": 0.60,
+      "market_vs_state_trust": 0.55,
+      "deontology_vs_consequentialism": 0.50,
+      "authority_tradition_vs_autonomy": 0.85,
+      "free_speech_absolutism": 0.45,
+      "redistribution_acceptance": 0.55,
+      "harm_sanctity_focus": 0.90,
+      "harm_ecological_focus": 0.35,
+      "precaution": 0.55,
+      "cosmopolitanism": 0.40,
+      "sufficiency_degrowth": 0.35,
+      "long_term_horizon": 0.65,
+      "equality_vs_liberty_priority": 0.55,
+      "externality_sensitivity": 0.55
+    }
+  },
+  "metadata": {
+    "source_text": "../text/religious_conservative.md",
+    "author": "TruthSplit Team",
+    "last_updated": "2025-09-21"
+  }
+}

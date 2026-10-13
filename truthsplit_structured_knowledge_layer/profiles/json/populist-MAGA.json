@@ -1,0 +1,84 @@
+{
+  "worldview_id": "populist_nationalist",
+  "display_name": "Populist-Nationalist (MAGA-Style)",
+  "version": "0.1",
+  "core_values": [
+    {"name": "national_sovereignty", "weight": 0.92, "desc": "secure borders and self-determination"},
+    {"name": "cultural_identity", "weight": 0.88, "desc": "preserve national traditions, patriotism, and religion in public life"},
+    {"name": "popular_will", "weight": 0.86, "desc": "legitimacy flows from ordinary citizens, not elites"},
+    {"name": "economic_nationalism", "weight": 0.82, "desc": "prioritize domestic workers and industries"}
+  ],
+  "key_definitions": [
+    {"term": "nation", "definition": "a political community rooted in shared culture, language, history, and citizenship"},
+    {"term": "legitimacy", "definition": "arises from direct representation of the people rather than elite institutions"},
+    {"term": "immigration", "definition": "movement that must be tightly controlled to preserve national security and culture"},
+    {"term": "elite", "definition": "entrenched media, academic, or governmental actors viewed as out of touch or corrupt"},
+    {"term": "freedom", "definition": "ability of citizens to speak and act without elite suppression; balanced by loyalty to nation"}
+  ],
+  "assumed_principles": [
+    {"name": "priority_of_citizens", "priority": 0.9, "desc": "citizens’ interests come before those of foreigners or global bodies"},
+    {"name": "skepticism_of_elites", "priority": 0.88, "desc": "elites act in self-interest, not the public’s"},
+    {"name": "patriotic_duty", "priority": 0.85, "desc": "citizens owe loyalty and defense of their nation"},
+    {"name": "mobilization_legitimacy", "priority": 0.80, "desc": "mass rallies and direct speech are authentic expressions of democracy"}
+  ],
+  "warrants": [
+    {"name": "elite_bias", "confidence": 0.78, "desc": "institutions tilt against national-populist perspectives"},
+    {"name": "globalization_harm", "confidence": 0.76, "desc": "offshoring and open borders weaken workers and culture"},
+    {"name": "media_power", "confidence": 0.74, "desc": "mainstream media shapes narratives hostile to populists"}
+  ],
+  "red_lines": [
+    "loss_of_border_control",
+    "submission_to_global_bodies",
+    "erasure_of_national_culture",
+    "elite_suppression_of_popular_will"
+  ],
+  "evidence_preferences": [
+    "surveys_of_citizens",
+    "examples_of_elite_bias",
+    "economic_data_on_trade_and_jobs",
+    "historical_cases_of_national_renewal"
+  ],
+  "decision_rule": {
+    "type": "pragmatic_populist",
+    "weight": 0.8,
+    "secondary": {"type": "cultural_preservation", "weight": 0.2},
+    "notes": "Arguments judged by how well they defend national identity and resist elite/global pressures."
+  },
+  "extensions": {
+    "policy_heuristics": [
+      {"topic": "immigration", "default": "strict enforcement; prioritize citizens’ opportunities"},
+      {"topic": "trade", "default": "protective tariffs; incentivize domestic manufacturing"},
+      {"topic": "speech", "default": "defend ally speech; confront perceived institutional bias"},
+      {"topic": "energy", "default": "promote fossil fuels and energy independence over climate goals"}
+    ],
+    "edge_cases": [
+      {"case": "national_emergency", "note": "broad state power acceptable if aligned with national defense"},
+      {"case": "alliances", "note": "support allies only if clearly advancing national interest"},
+      {"case": "redistribution", "note": "acceptable when framed as rewarding service (veterans, law enforcement)"}
+    ],
+    "factor_scores": {
+      "individualism": 0.65,
+      "negative_vs_positive_rights": 0.80,
+      "property_absolutism": 0.75,
+      "market_vs_state_trust": 0.70,
+      "deontology_vs_consequentialism": 0.55,
+      "authority_tradition_vs_autonomy": 0.80,
+      "free_speech_absolutism": 0.60,
+      "redistribution_acceptance": 0.25,
+      "harm_sanctity_focus": 0.75,
+      "harm_ecological_focus": 0.20,
+      "precaution": 0.35,
+      "cosmopolitanism": 0.20,
+      "sufficiency_degrowth": 0.15,
+      "long_term_horizon": 0.50,
+      "equality_vs_liberty_priority": 0.30,
+      "externality_sensitivity": 0.25
+    }
+  },
+  "metadata": {
+    "source_text": "../text/populist-MAGA.md",
+    "author": "TruthSplit Team",
+    "last_updated": "2025-09-21",
+    "note": "Neutral analytic profile of a populist-nationalist (MAGA-style) worldview; not an endorsement."
+  }
+}

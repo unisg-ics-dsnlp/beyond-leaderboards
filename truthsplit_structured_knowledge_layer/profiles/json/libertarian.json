@@ -1,0 +1,102 @@
+{
+  "worldview_id": "libertarian",
+  "display_name": "Libertarian",
+  "version": "0.1",
+  "core_values": [
+    {"name": "negative_liberty", "weight": 0.92, "desc": "freedom from coercion"},
+    {"name": "property_rights", "weight": 0.88, "desc": "ownership as control over legitimately acquired holdings"},
+    {"name": "voluntary_exchange", "weight": 0.85, "desc": "consent as the moral basis of transfer"},
+    {"name": "rule_of_law", "weight": 0.70, "desc": "general, predictable, neutral rules"}
+  ],
+  "key_definitions": [
+    {"term": "coercion", "definition": "use or threat of force against person or property"},
+    {"term": "rights", "definition": "primarily negative claims against interference; side-constraints"},
+    {"term": "property", "definition": "control over justly acquired holdings (acquisition, transfer, rectification)"},
+    {"term": "consent", "definition": "voluntary, informed agreement; absence of coercion"},
+    {"term": "taxation", "definition": "compulsory state-imposed transfer of property"},
+    {"term": "theft", "definition": "taking another's property without consent"},
+    {"term": "public_good", "definition": "non-excludable, non-rival good; limited set may justify narrow state provision"},
+    {"term": "externality", "definition": "harm imposed on non-consenting others; warrants targeted remedies"},
+    {"term": "paternalism", "definition": "coercion justified by claiming to benefit the competent adult coerced"}
+  ],
+  "assumed_principles": [
+    {"name": "self_ownership", "priority": 0.92, "desc": "individuals own their bodies and labor"},
+    {"name": "non_aggression_principle", "priority": 0.9, "desc": "initiation of force is impermissible"},
+    {"name": "just_acquisition_transfer_rectification", "priority": 0.82, "desc": "Lockean-style holdings legitimacy rules"},
+    {"name": "minimal_state_legitimacy", "priority": 0.75, "desc": "state justified only to protect rights"},
+    {"name": "contractualism_voluntariness", "priority": 0.78, "desc": "obligations arise chiefly from consent"}
+  ],
+  "warrants": [
+    {"name": "market_efficiency", "confidence": 0.78, "desc": "prices coordinate dispersed knowledge"},
+    {"name": "knowledge_problem_of_planning", "confidence": 0.74, "desc": "central planners lack local knowledge"},
+    {"name": "government_failure_risk", "confidence": 0.72, "desc": "rent-seeking, capture, bureaucracy"},
+    {"name": "rights_as_side_constraints", "confidence": 0.76, "desc": "outcomes cannot override rights"}
+  ],
+  "red_lines": [
+    "initiation_of_force",
+    "expropriation_without_consent",
+    "censorship_of_peaceful_speech",
+    "paternalism_overriding_competent_adults"
+  ],
+  "evidence_preferences": [
+    "microeconomics",
+    "public_choice",
+    "historical_liberalization_cases",
+    "rights_theory",
+    "rational_choice_models"
+  ],
+  "decision_rule": {
+    "type": "deontological",
+    "weight": 0.75,
+    "secondary": {"type": "consequentialist", "weight": 0.25},
+    "notes": "Rights set hard constraints; outcomes matter within rights-respecting options"
+  },
+  "extensions": {
+    "policy_heuristics": [
+      {"topic": "taxation", "default": "minimize; restrict to rights-protecting core functions"},
+      {"topic": "regulation", "default": "target clear externalities; use least-restrictive means"},
+      {"topic": "speech", "default": "broad protection for peaceful expression"},
+      {"topic": "welfare", "default": "prefer voluntary charity and markets over redistribution"},
+      {"topic": "public_goods", "default": "strict criteria; consider private/club alternatives"},
+      {"topic": "pandemics", "default": "narrow, evidence-based constraints tied to rights of others"}
+    ],
+    "edge_cases": [
+      {"case": "diffuse_externalities", "note": "permit narrowly tailored remedies (e.g., liability, Pigouvian pricing)"},
+      {"case": "children_incompetence", "note": "allow guardianship and protective intervention"},
+      {"case": "national_defense", "note": "minimal-state function; funding may be justified with strict oversight"},
+      {"case": "emergencies", "note": "temporary, proportionate measures with sunset and reparation"}
+    ],
+    "subschools": [
+      {"id": "minarchist", "deltas": {"minimal_state_legitimacy": 0.05}},
+      {"id": "anarcho_capitalist", "deltas": {"minimal_state_legitimacy": -0.4}}
+    ],
+    "glossary_synonyms": {
+      "coercion": ["force", "compulsion"],
+      "paternalism": ["soft_despotism"],
+      "expropriation": ["seizure", "confiscation"]
+    },
+    "factor_scores": {
+      "individualism": 0.95,
+      "negative_vs_positive_rights": 0.95,
+      "property_absolutism": 0.90,
+      "market_vs_state_trust": 0.90,
+      "deontology_vs_consequentialism": 0.80,
+      "authority_tradition_vs_autonomy": 0.30,
+      "free_speech_absolutism": 0.90,
+      "redistribution_acceptance": 0.15,
+      "harm_sanctity_focus": 0.10,
+      "harm_ecological_focus": 0.15,
+      "precaution": 0.30,
+      "cosmopolitanism": 0.60,
+      "sufficiency_degrowth": 0.10,
+      "long_term_horizon": 0.60,
+      "equality_vs_liberty_priority": 0.15,
+      "externality_sensitivity": 0.30
+    }
+  },
+  "metadata": {
+    "source_text": "../text/libertarian.md",
+    "author": "TruthSplit Team",
+    "last_updated": "2025-09-21"
+  }
+}

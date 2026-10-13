@@ -1,0 +1,89 @@
+{
+  "worldview_id": "eco_justice",
+  "display_name": "Eco-Justice Environmentalist",
+  "version": "0.1",
+  "core_values": [
+    {"name": "stewardship", "weight": 0.90, "desc": "responsibility to care for the earth and its ecosystems"},
+    {"name": "intergenerational_justice", "weight": 0.88, "desc": "duties extend to future people"},
+    {"name": "ecological_integrity", "weight": 0.88, "desc": "maintaining biodiversity and planetary boundaries"},
+    {"name": "sustainability", "weight": 0.84, "desc": "meeting needs without compromising future capacity"}
+  ],
+  "key_definitions": [
+    {"term": "harm", "definition": "includes ecological degradation, biodiversity loss, and systemic risk"},
+    {"term": "rights", "definition": "extend to future generations and sometimes non-human nature"},
+    {"term": "sustainability", "definition": "meeting present needs without compromising future generations"},
+    {"term": "precautionary_principle", "definition": "avoid serious or irreversible risks under uncertainty"},
+    {"term": "polluter_pays", "definition": "those who cause harm should bear remediation costs"},
+    {"term": "commons", "definition": "resources shared across groups that require stewardship and governance"}
+  ],
+  "assumed_principles": [
+    {"name": "precautionary_principle", "priority": 0.88, "desc": "take action despite uncertainty to avoid catastrophic harm"},
+    {"name": "polluter_pays", "priority": 0.85, "desc": "responsibility tied to harm caused"},
+    {"name": "stewardship_duty", "priority": 0.86, "desc": "humans have a moral duty to care for earth"},
+    {"name": "ecological_limits", "priority": 0.84, "desc": "planetary boundaries constrain legitimate activity"}
+  ],
+  "warrants": [
+    {"name": "planetary_boundaries", "confidence": 0.82, "desc": "breaching limits risks collapse"},
+    {"name": "externality_corrections", "confidence": 0.80, "desc": "markets misprice harms"},
+    {"name": "systemic_risk_awareness", "confidence": 0.78, "desc": "complex systems can cascade"}
+  ],
+  "red_lines": [
+    "irreversible_ecosystem_damage",
+    "shifting_burdens_to_future_generations",
+    "reckless_exploitation_of_commons"
+  ],
+  "evidence_preferences": [
+    "earth_system_science",
+    "climate_models",
+    "lifecycle_assessment",
+    "risk_analysis",
+    "ecological_economics"
+  ],
+  "decision_rule": {
+    "type": "consequentialist",
+    "weight": 0.70,
+    "secondary": {"type": "deontological", "weight": 0.30},
+    "notes": "weigh outcomes for long-term ecological survival; duties serve as side-constraints"
+  },
+  "extensions": {
+    "policy_heuristics": [
+      {"topic": "taxation", "default": "acceptable to fund sustainability and internalize externalities"},
+      {"topic": "regulation", "default": "necessary where markets fail to price ecological harms"},
+      {"topic": "energy", "default": "rapid phase-out of fossil fuels; investment in renewables"},
+      {"topic": "development", "default": "balance poverty reduction with ecological integrity"}
+    ],
+    "edge_cases": [
+      {"case": "geoengineering", "note": "consider under severe climate threat; extreme precaution"},
+      {"case": "climate_refugees", "note": "duty of justice to displaced populations"},
+      {"case": "tradeoffs_short_vs_long_term", "note": "temporary hardship may be justified to ensure planetary viability"}
+    ],
+    "glossary_synonyms": {
+      "stewardship": ["caretaking", "guardianship"],
+      "sustainability": ["durability", "resilience"],
+      "commons": ["shared_resources"]
+    },
+    "factor_scores": {
+      "individualism": 0.55,
+      "negative_vs_positive_rights": 0.40,
+      "property_absolutism": 0.35,
+      "market_vs_state_trust": 0.35,
+      "deontology_vs_consequentialism": 0.30,
+      "authority_tradition_vs_autonomy": 0.55,
+      "free_speech_absolutism": 0.60,
+      "redistribution_acceptance": 0.80,
+      "harm_sanctity_focus": 0.40,
+      "harm_ecological_focus": 0.95,
+      "precaution": 0.90,
+      "cosmopolitanism": 0.75,
+      "sufficiency_degrowth": 0.85,
+      "long_term_horizon": 0.90,
+      "equality_vs_liberty_priority": 0.70,
+      "externality_sensitivity": 0.95
+    }
+  },
+  "metadata": {
+    "source_text": "../text/eco_justice.md",
+    "author": "TruthSplit Team",
+    "last_updated": "2025-09-21"
+  }
+}
