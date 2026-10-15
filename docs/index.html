@@ -624,6 +624,12 @@
             color: rgba(255, 255, 255, 0.8);
         }
 
+        .materials-actions {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.75rem;
+        }
+
         .status-badge {
             display: inline-flex;
             align-items: center;
@@ -1079,11 +1085,17 @@
                 <div>
                     <h2>Tutorial materials</h2>
                     <p>
-                        The materials will be uploaded and made available. We are still finalizing them, hence this is
-                        a placeholder at the moment.
+                        Download the tutorial slides or access the Jupyter notebook for the practical session.
                     </p>
                 </div>
-                <span class="status-badge">In preparation</span>
+                <div class="materials-actions">
+                    <a class="button secondary"
+                       href="https://github.com/unisg-ics-dsnlp/beyond-leaderboards/blob/public/INLG-2026-Tutorial.pdf"
+                       target="_blank" rel="noopener noreferrer">View tutorial slides (PDF)</a>
+                    <a class="button secondary"
+                       href="https://github.com/unisg-ics-dsnlp/beyond-leaderboards/blob/public/INLG_2026_Tutorial_practical_session.ipynb"
+                       target="_blank" rel="noopener noreferrer">Practical session (notebook)</a>
+                </div>
             </div>
         </div>
     </section>
